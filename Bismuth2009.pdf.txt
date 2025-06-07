@@ -1,0 +1,3351 @@
+a) Wolters Kluwer
+
+Document information
+
+Publication
+
+Journal of International
+Arbitration
+
+Topics
+
+Investment Arbitration
+
+Bibliographic reference
+
+Régis Bismuth, ‘Anatomy of
+the Law and Practice of
+Interim Protective Measures
+in International Investment
+Arbitration’, Journal of
+International Arbitration,
+
+(© Kluwer Law International;
+Kluwer Law International
+2009, Volume 26 Issue 6) pp.
+773 - 821
+
+ow
+P 773
+P 774
+
+P 774
+P 775
+vv
+
+KluwerArbitration
+
+Anatomy of the Law and Practice of Interim Protective
+Measures in International Investment Arbitration
+
+Régis Bismuth
+
+(*)
+
+Abstract
+
+This article provides an overall analysis of the law and practice of interim protection in
+international investment arbitration, covering the most commonly used arbitral frameworks
+(International Center for Settlement of Investment Disputes (ICSID) Convention, and the
+Arbitration Rules of the ICSID Additional Facility, United Nations Commission on International
+Trade Law (UNCITRAL), Stockholm Chamber of Commerce (SCC), International Chamber of
+Commerce (ICC) and London Court of International Arbitration (LCIA)). It analyzes the legal
+status of interim protective measures and more specifically their legal basis, their binding
+force, and the procedural aspects of their adoption, highlighting significant dissimilarities
+between ICSID Convention and other arbitral mechanisms when it comes to the role of
+domestic courts in this process. The article also looks into the substantive aspects of interim
+protection, a field where the differences between these frameworks tend to become less
+pronounced. Despite wording differences in arbitration rules, we are witnessing an important
+convergence of the practice of tribunals and a common reliance by arbitrators on the
+jurisprudence of international courts and tribunals.
+
+I Introduction
+
+Where it concerns a dispute before a domestic, an international, or an arbitral tribunal,
+the protection of the parties' rights cannot always await the final resolution of a case. This
+is undoubtedly why the possibility of granting interim measures, as a device to remedy the
+slowness of justice, isa common feature of these very distinct adjudicative bodies. The
+interim protection of rights has even been considered as one of “those general principles
+of law common to all legal systems,” (1) and even more, “an inherent art of the judicial
+function of all courts.” (2) Beyond highlighting the fundamental role of interim measures for
+every dispute settlement mechanism, it is noteworthy that interim relief turns down the
+temporal process of adjudication which consists in a retrospective review of a case. (3) This
+perspective reverses while considering interim relief because, as indicated by the
+International Court of Justice (I.C.J.) in Application of the Convention on the Prevention and
+Punishment of the Crime of Genocide, “the Court, in deciding whether to indicate provisional
+@ measures Is concerned, not so much with the past as with the present and with the
+future.” (4) The judge expresses therefore a part of police powers, highlighting the mixtum
+of imperium and jurisdictio included in any decision granting interim protection measures.
+
+(5)
+
+This question becomes particularly more complex in the case of international arbitration,
+where the authority of the arbitral tribunal to grant interim measures is restricted by its
+lack of coercive powers and potentially interacts with the parallel intervention of domestic
+courts and their usual assistance to the arbitral process. (6) The complexity increases even
+more inthe case of international investment arbitration, as this transnational process may
+not only imply the neutralization of domestic courts' powers in certain contexts, but also
+involve a state or state entity against which the scope of interim relief available may vary
+considerably given their sovereign nature.
+
+Within this framework, this article will conduct an analysis of the law and practice of
+interim protective measures before arbitral tribunals adjudicating international
+investment disputes. For the purpose of this research, the analysis will be limited to
+arbitrations conducted under the International Center for Settlement of Investment
+Disputes (ICSID) Convention and its Arbitration Rules; (7) the ICSID Additional Facility Rules;
+(8) the Arbitration Rules of the United Nations Commission on International Trade Law
+(UNCITRAL); (9) the Stockholm Chamber of Commerce (SCC); (10) the International Chamber
+of Commerce (ICC); (11) and the London Court of International Arbitration (LCIA), (12) all of
+them considered as the most “prominent arbitration rules” (13) in investment disputes.
+However, two caveats must be highlighted regarding the scope of this study. First,
+considering the lesser publicity of non-ICSID Convention arbitration, most of the @
+decisions cited in this study emanate from tribunals constituted under the auspices of the
+ICSID Convention. Secondly, considering that decisions on interim protective measures are
+usually rendered as procedural orders, they do not benefit from the publicity rules for final
+awards under the ICSID Arbitration Rules (14) and, consequently, are not all disclosed to
+the public. Therefore, a few ICSID decisions were not consulted for the purpose of this
+research.
+
+Before dealing with the aforementioned issue, it is necessary to clarify the terminology
+used inthis article. Authors and arbitration rules refer to provisional, interim,
+
+1
+
+© 2019 Kluwer Law International, a Wolters Kluwer Company. All rights reserved.
+conservatory, protective, preliminary, or urgent measures. (15) Within this lax terminology,
+(16) two elements must be taken into consideration: the nature of these measures and their
+purpose. (17) They have the specificity to be adopted by the tribunal before its final
+decision. The term “provisional” suggests that the validity of the measure is temporally
+limited, which is, for instance, not the case of an order to withdraw from proceedings in
+domestic courts. This is why the use of the neutral term “interim,” qualifying the lapse
+between the initiation of the dispute and its final adjudication, is preferable. But the
+adjective “interim” is not sufficient itself as such measures need to be distinguished from
+other procedural incidents, such as ancillary claims on jurisdiction, that might also be
+decided between the initiation of the proceedings and the final award. They are
+fundamentally different, as ancillary claims consist in a jurisdictional decision of the
+tribunal, whereas interim measures will be decided within the exercise of the tribunal's
+administrative powers. (18) However, this subtlety has not been captured in practice and
+the purpose of these measures allows the clarifying of this distinction. The measures at
+issue are often characterized as “conservatory,” but this adjective suffers from the same
+lacuna as the adjective “provisional” to the extent that it suggests a temporal limitation of
+the protection of rights. A direction to withdraw from domestic proceedings or an order to
+avoid the aggravation of the dispute are not best encapsulated inthe adjective
+“conservatory” and the unequivocal term “protective” should be preferred. For these
+reasons, this article will use the expression of “interim protective measures” or “interim
+measures of protection,” the latter expression being used in Article 26 of the UNCITRAL
+
+. Arbitration Rules.
+
+P775
+P 776
+
+” This article is comprised of two parts reflecting two conceptual aspects of interim
+protective measures in the context of international investment arbitration that must be
+distinguished. The first relates to their legal status. While the bulk of this issue relates to
+the power of arbitral tribunals to grant such measures, the residual or auxiliary role of
+domestic courts and its relationship with arbitral tribunals will also be examined. The
+second Part, from a more substantive perspective, deals with the scope of arbitral
+tribunals' interim powers and the conditions under which they may grant such measures,
+showing a great convergence in the practice of international investment arbitral tribunals
+despite different textual bases. The overall analysis demonstrates that, although the
+procedures of international investment arbitration were considered as linked to the
+mechanisms of international commercial arbitration, tribunals have interpreted the lex
+arbitralis (i.e., the procedural law to be applied by the arbitral tribunal) in light of
+international tribunals, and notably the I.C.)., revealing therefore the imperium of an
+international investment arbitrator considering and establishing himself as an
+international judge.
+
+ll Legal Status of Interim Protective Measures
+
+An analysis of the legal status of interim protection in international investment arbitration
+requires, first, an examination of the legal basis recognizing the power (chiefly of arbitral
+tribunals) to grant such measures. This legal status also includes the controversial question
+of their binding force.
+
+A Power to grant interim protective measures
+
+Although interim protective measures in investment disputes are more likely to be sought
+before arbitral tribunals, it is important to stress the double function of domestic courts,
+enforcing arbitral tribunals' decisions on interim measures as well as offering a forum to
+seek interim relief.
+
+1 Arbitral Tribunals' Power to Grant Interim Protective Measures
+
+a Legal basis for granting interim protection
+
+Except for the odd cases where there are no legal bases for such granting (under which the
+arbitral tribunals’ ability to adopt such measures depends on the so-called “inherent
+powers”), (19) the various international investment arbitration frameworks explicitly
+empower arbitral tribunals to grant interim protection. However, a distinction must be
+. made between the ICSID and other arbitration mechanisms.
+P 776
+P777
+~ Legal basis in ICSID Convention arbitration. |CSID's special feature lies in its “self-
+contained” (20) dimension, neutralizing the effect of the lex arbitri, enshrined in Article 44
+of the ICSID Convention. It does not mean that the courts of the seat of arbitration are
+prevented from dealing with such requests (“provided that [the parties] have so stipulated
+inthe agreement recording their consent”), (21) but that the domestic law of the seat of
+arbitration does not interfere with or impose mandatory rules on the ICSID arbitration
+process. (22) It must be stressed that this solution is not applicable in the case of an
+arbitration under the ICSID Additional Facility Rules which are not “insulated from national
+law” (23) given the inapplicability of the Convention in this situation. In this respect, the
+ICSID Additional Facility mechanism is to be treated as any non-ICSID arbitration system.
+Therefore, the legal basis for granting interim protection within the framework of an ICSID
+
+2
+© 2019 Kluwer Law International, a Wolters Kluwer Company. All rights reserved.
+Convention arbitration is usually comprised of the ICSID Convention and Arbitration Rules
+representing the lex arbitralis generalis, and the specific provisions on interim measures
+that may be included in the instrument(s) establishing the consent for the jurisdiction of
+the tribunal. This is generally via a bilateral or a multilateral investment treaty (24) and/or
+a specific agreement between the investor and the host state, representing the lex
+arbitralis specialis. (25) The lex arbitralis specialis can be superseded by the mandatory
+provisions of the ICSID Convention and Arbitration Rules. (26)
+
+Lex arbitralis in ICSID Convention Arbitration includes:
+
+(1) mandatory provisions of the ICSID Convention and Arbitration Rules;
+
+(2) lex arbitralis specialis (instrument containing the consent to ICSID arbitration:
+investment treaty, state investor agreement, state legislation, etc.);
+
+(3) lex arbitralis generalis (ICSID Convention and Arbitration Rules).
+
+This structure should be highlighted in the decisions of arbitral tribunals that have tended
+to indifferently consider these distinct layers of arbitration rules, (27) or to disregard @
+their hierarchy. For instance, in Tanesco v. IPTL, the parties made the unusual choice in
+their agreement to refer disputes to arbitration under the ICSID Convention and Arbitration
+Rules, and decided at the same time that “[t]he Law governing the procedure and
+administration of [t]he arbitration ... shall be the English law.” (28) This choice would not
+have put this arbitration under the auspices of the English lex arbitri and the review of
+English courts given the mandatory neutralization of the lex arbitri, but it should had led
+the arbitrators to apply only the provisions of the English Arbitration Act 1996 related to
+the procedural conduct of the arbitration (as the lex arbitralis specialis) while disregarding
+the provisions on the role of domestic courts in the arbitral process. The arbitral tribunal
+seemed, however, uncomfortable with this choice and attempted to avoid the issue of the
+applicability of the provisions of the English Arbitration Act on the arbitral tribunal's
+power to grant interim protection. Instead, the tribunal balanced the arbitral tribunal's
+power under both mechanisms (English law and ICSID). The tribunal implied that the ICSID
+Arbitration Rules superseded the lex arbitralis generalis, and concluded:
+
+rs
+P 777
+P 778
+vv
+
+that we have jurisdiction to make the recommendations sought, provided that they satisfy
+the requirements of Rule 39, which is all the power the Tribunal would have even if section
+39 of the English Arbitration Act applied (as to which it is unnecessary for us to reach or
+express any conclusion). (29)
+
+In the author's opinion, this is the wrong approach. The general authority for the granting of
+interim protection in an ICSID arbitration is to be found in Article 47 of the ICSID
+Convention providing that “[e]xcept as the parties otherwise agree, the Tribunal may, if it
+considers that the circumstances so require, recommend any provisional measures which
+should be taken to preserve the respective rights of either party,” and is complemented by
+Article 39 of the ICSID Arbitration Rules, the content of which will be examined below. The
+lex arbitralis specialis may modify this general authority. Specific provisions on interim
+measures are, for instance, included in North American Free Trade Agreement (NAFTA) (30)
+or the 2004 U.S. Model Bilateral Investment Treaty (BIT). (31) The existence of specific
+provisions on interim measures in the lex arbitralis specialis does not necessarily mean
+that it covers broader issues than the ICSID Convention and Arbitration Rules, but only that
+the former shall prevail in case of a conflict between the two, (32) on the condition that
+they remain within the limits of party autonomy permitted by the Convention and the
+Arbitration Rules and within the jurisdictional boundaries of Article 25 of the ICSID
+8 Convention. For instance, the ICSID Convention refe rs to measures “to preserve the
+S779 respective rights of either party,” whe reas the wording of NAFTA, @ Article 1134 includes
+~ measures “to preserve the rights of a disputing party, or to ensure that the Tribunal's
+
+jurisdiction is made fully effective.” Thus, in the case of a NAFTA arbitration under the ICSID
+Convention, the tribunal's authority to grant interim measures will be determined under
+the broader scope of NAFTA, Article 1134. (33) In a similar fashion, the ICSID Convention
+indicates that the tribunal may “recommend” such measures, whereas NAFTA provides that
+the tribunal may “order” them. However, these distinctions are of little importance in
+practice.
+
+Legal basis in non-ICSID Convention arbitration. In the case of a non-ICSID Convention
+arbitration, the legal basis for the granting of interim measures by the arbitral tribunal is
+primarily to be found in the arbitration rules chosen by the parties, representing the lex
+arbitralis generalis. Should the arbitration rules be silent on this point, which is not the
+case for the rules considered in this article, the general interim power of the arbitral
+tribunal lies ina potential empowerment by the lex arbitri, such as what is provided in the
+UNCITRAL Model Law. (34) This general power is supplemented by the possible provisions
+on interim measures included in the instrument(s) establishing the consent to the
+jurisdiction of the arbitral tribunal (for instance, an investment treaty or a state contract
+where parties have crafted their own arbitration rules provisions), representing the lex
+arbitralis specialis. These two layers of rules are superseded (35) by the mandatory
+provisions of the lex arbitri of the seat of the arbitration and of the arbitration rules
+chosen by the parties. (36)
+
+Lex arbitralis in non-ICSID Convention arbitration includes:
+
+3
+© 2019 Kluwer Law International, a Wolters Kluwer Company. All rights reserved.
+(1) mandatory provisions of the lex arbitri of the seat of arbitration;
+(2) mandatory rules of the lex arbitralis generalis;
+
+(3) lex arbitralis specialis (in the instrument containing the consent to the arbitration:
+investment treaty, state investor agreement, state legislation, etc.);
+
+(4) lex arbitralis generalis (institutional or ad hoc arbitration rules chosen by the parties:
+Arbitration Rules of ICSID Additional Facility mechanism, UNCITRAL, ICC, SCC, LCIA,
+
+etc.);
+. (5) lex arbitri (seat of arbitration).
+P 779
+P 780
+
+This structure was highlighted in an interim award rendered in Encana v. Ecuador, where
+the arbitral tribunal, although not mentioning the mandatory aspects, stated:
+
+Two different provisions are potentially relevant to an order for interim measures of
+protection in the present case, Article 26 of the UNCITRAL Rules and Article XIII(8) of the
+BIT. As a specific provision applicable to investments by Canadian corporations in
+Ecuador, Article XIII(8) must prevail over the general power in Article 26 of the UNCITRAL
+Rules. (37)
+
+The most frequent set of rules used in non-ICSID Convention arbitration empower arbitral
+tribunals to grant interim measures. (38) These interim measure provisions may be
+supplemented and amended by the lex arbitralis specialis in a similar fashion to the
+aforementioned situations in ICSID arbitration. The mandatory rules included in the lex
+arbitri can affect the ability of arbitral tribunals to grant interim measures, but such
+provisions are rare, and the main role of the lex arbitriin this respect relates to the ability
+given to domestic courts to adopt interim measures in aid of the arbitration. (39) In the
+rest of the article, the unlikely situations of provisions prohibiting (40) arbitral tribunals or
+substantially abridging (41) their authority to grant interim measures in the lex arbitralis
+specialis in the case of an ICSID arbitration and in the lex arbitralis specialis and/or the lex
+arbitri in the case of a non-ICSID arbitration will not be examined.
+
+The legal basis for the granting of interim measures in international investment arbitration
+is therefore well established and shows a distinction of legal regimes between the ICSID
+Convention system and other arbitration mechanisms. Within these disparate frameworks,
+the procedural aspects of interim protection need to be highlighted.
+
+b Procedural aspects of arbitral tribunals' powers to grant interim protection
+
+Ratione temporis aspects (acceleration of the procedure). A few preliminary remarks on
+parties’ possibility of requesting interim measures are important. International arbitration
+is highly praised for its overall speed, but this comparative advantage is reduced in
+relation to interim measures given that the requesting party might wait for the constitution
+» Of anarbitral tribunal, whereas domestic courts are immediately available in international
+
+P 780 litigation. Although international arbitration frameworks do not usually prevent parties @
+
+P781 from requesting interim protection from domestic courts during this critical lapse, (42)
+some efforts have been made to empower arbitration mechanisms to administer interim
+measures requests before the formation of the arbitral tribunal.
+
+Indeed, recent amendments to the ICSID Arbitration Rules in 2006 provide the possibility
+for a party of filing a request for interim measures as soon as a dispute is registered with
+the Centre. Article 39(5) of ICSID Arbitration Rules empowers the ICSID Secretary General to
+administer the request by “fix[ing] time limits for the parties to present observations ... so
+that the request and observations may be considered by the Tribunal promptly upon its
+constitution.” A truly innovative solution would have been to establish a mechanism
+empowering a permanent authority to administer and adjudicate interim measures until
+the constitution of the arbitral tribunal, therefore neutralizing the potential difficulties in
+its formation, but such a solution would have required an amendment to the ICSID
+Convention and therefore the approval of all contracting states. (43)
+
+This possibility has been set up by some arbitral institutions. The ICC established in 1990 a
+“pre-arbitral referee procedure” but its opt-in basis, meaning that parties wishing to have
+recourse to such procedures must make specific reference in their arbitration agreements,
+has rendered this mechanism almost unused. (44) A recent amendment to the American
+Arbitration Association-International Center for Dispute Resolution (AA-ICDR) Arbitration
+Rules (45) in 2006 has established a genuine interim relief procedure before the formation
+of the tribunal by permitting the appointment of an emergency arbitrator. (46) Contrary to
+the ICC pre-arbitral referee procedure, this mechanism is integrated in the standard
+arbitration rules and is applicable unless the parties agreed otherwise. (47) However, given
+that the AAA-ICDR Rules are not commonly used in investment disputes, the only way to
+obtain interim measures before the formation of the ICSID Tribunal still lies in the purview
+of domestic courts.
+
+Beyond this modest corrective intended to accelerate the process, It is usually recognized
+that, depending upon urgency, interim measures requests may be filed by parties. (48)
+Such measures may be adopted, modified, or lifted by the arbitral tribunal (49) @ at any
+time between the appointment of the tribunal and the final award, regardless of whether
+
+7
+P 781
+P 782
+vW
+
+4
+© 2019 Kluwer Law International, a Wolters Kluwer Company. All rights reserved.
+the plain jurisdiction of the tribunal is established. (50) As pointed out by the ICSID arbitral
+tribunal in Casado v. Chile:
+
+It isin the very nature of the institution of provisional measures that they are ... above all
+urgent, that is to say that they must be or be able to be decided quickly ... These measures
+must therefore be capable of being taken, recommended, indicated or commanded ... at
+any stage of the proceedings and in consequence also before the Tribunal has been able to
+rule on all of the objections to its jurisdiction or on the admissibility of the claim on the
+merits. (51)
+
+Likewise, in Railroad v. Guatemala, it was underlined that “the power of the Tribunal to
+grant provisional measures is not limited to any particular phase of a proceeding.” (52) The
+ICSID Arbitration Rules underline that the “Tribunal shall give priority to the consideration
+of a request” for such measures. This feature highlights the specific accelerated procedure
+of interim measures of protection that are dissociated from the usual temporal framework
+of adjudication. (53)
+
+Initiative of the request and proprio motu powers of arbitral tribunals. In ICSID arbitration,
+both parties have the right to request interim measures but the arbitral tribunal may also
+grant them on its own initiative. The situation is different under UNCITRAL, SCC, ICC, and
+LCIA Arbitration Rules, all requiring a special request of the party. (54) It must be noted
+that such requests may be filed by the claimant, the respondent, or both parties. (55)
+
+The specific power of ICSID tribunals to order interim measures proprio mutu does not play
+a great role at the triggering level. (56) Besides, international tribunals have rarely and
+P 789 only in exceptional situations used this power. (57) It may, however, have an impact on the
+—pyaz_ range of measures that may be decided ultra petita by the arbitral tribunal. (58) Indeed, @
+~ although the ICSID Arbitration Rules underline that the tribunal “give priority to the
+
+consideration of a request made [by a party],” (59) it “may also recommend provisional
+measures on its own initiative or recommend measures other than those specified ina
+request.” (60) For instance, in the first dispute under the ICSID Convention, Holiday Inns v.
+Morocco, the tribunal granted other interim measures than those requested by the
+claimant. (61) This authority is notable in enabling the tribunal to grant less restrictive
+measures than those requested but pursuing “the same objective.” (62) Non-ICSID arbitral
+tribunals do not enjoy this ability to decide interim measures ultra petita but the lex
+arbitralis specialis may potentially serves as an extension of arbitral tribunal powers in this
+matter. For instance, the specific sections on interim measures of NAFTA and the 2004 U.S.
+Model BIT both provide that “[a] tribunal may order an interim measure of protection,” but
+a party's request is not a prerequisite. (63)
+
+Due process rights. Both ICSID arbitration mechanisms impose on the arbitral tribunal the
+obligation to respect the due process right of the respondent. Indeed, the Arbitration Rules
+and the Additional Facility Rules provide that the tribunal may adopt, modify, or revoke
+interim measures only “after giving each party an opportunity of presenting Its
+observations.” (64)
+
+Such provisions are curiously absent from non-ICSID arbitration frameworks and, more
+broadly, from arbitration rules and lex arbitri. (65) It may be argued that interim measures’
+specific procedures are covered by general due process rights of the arbitration
+P7 framework. (66) The UNCITRAL Rules provide, for instance, that arbitration is conducted to
+83 ; = . oe ; a
+—pya, ensure that “each party is given a full opportunity of presenting his @ case, (67) similar
+
+y provisions being included in the SCC, ICC, and LCIA Rules. (68) Besides, a tribunalina
+
+recent investment dispute under the UNCITRAL Rules also adopted this stance. (69)
+
+Some authors have nevertheless wondered if the absence of explicit due process rights in
+the provisions on interim measures leaves room for ex parte motions, which are frequent in
+the situation of requests before domestic courts, and sometimes necessary considering the
+risk of fleeing assets if the respondent is given the opportunity to present his case. (70)
+Besides, it could be possible to reach the same result in ICSID arbitration if the lex
+arbitralis specialis is silent on this issue and ICSID Arbitration Rules are deemed voluntary.
+This highly controversial question has been considered cautiously, and even negatively,
+(71) although it is argued that, due to a tribunal's ability to lift such measures at any time
+of the proceedings, ex parte motions are possible in exceptional cases (72) and under
+specific conditions regarding their duration. (73) A similar position has been taken by the
+I.C.J. (74) Such a stance may, however, be undesirable or risky since a “[flailure to give the
+other party an opportunity to be heard will amount to a serious departure from a
+fundamental rule of procedure” (75) and such violations of the principle of adversarial
+proceedings may expose an arbitral award to annulment in the case of an ICSID Convention
+arbitration. (76) Or, under other mechanisms, it may prevent its recognition and
+enforcement for other arbitration frameworks under the New York Convention. (77)
+
+Importantly, the impossibility of obtaining interim relief before the appointment of the
+arbitral tribunal is coupled with the general adversarial framework of interim measures in
+investment arbitration, thereby sometimes diminishing their efficiency. This has made it
+necessary to have recourse to domestic courts, though their role and the interplay with
+. arbitral tribunals need to be clarified.
+P 784
+P 785
+
+5
+© 2019 Kluwer Law International, a Wolters Kluwer Company. All rights reserved.
+2 Double Function of Domestic Courts
+
+Domestic courts sometimes constitute a more convenient forum where a party might,
+under certain limitations, directly seek interim relief. They are also the forum where a
+party will seek to enforce arbitral interim protective measures.
+
+a Potential recourse to domestic courts to seek interim measures
+
+In ICSID Convention arbitration. Seeking interim relief before domestic courts within the
+framework of an arbitration conducted under the ICSID Convention was a problematic
+issue until 1984. The Convention and initial Arbitration Rules were silent on this point, the
+emphasis of ICSID Article 26 on the “[clonsent of the parties to arbitration under this
+Convention ... to the exclusion of any other remedy” provided arguments to opponents as
+well as proponents of the power of domestic courts to grant interim protection, (78) and
+the solutions adopted by domestic courts and arbitral tribunal on this issue were
+inconsistent. (79) In Atlantic Triton Co. v. People's Revolutionary Republic of Guinea, the
+arbitral tribunal suggested that its jurisdiction to recommend interim measures should not
+be regarded as “exclusive and prohibit any recourse to national courts” but underlined at
+the same time that the “question as to whether the Washington Convention and the ICSID
+Rules stand apart as compared with all other arbitral regimes is a very delicate one.” (80)
+In order to dispel doubts, an amendment to the Arbitration Rules was adopted in 1984. (81)
+It is now located in Article 39(6) of the Arbitration Rules and provides:
+
+Nothing in this Rule shall prevent the parties, provided that they have so stipulated in the
+agreement recording their consent, from requesting any judicial or other authority to order
+provisional measures, prior to or after the institution of the proceeding, for the
+preservation of their respective rights and interests.
+
+The power of domestic courts to adopt interim measures under the ICSID Convention is
+therefore subject to the explicit consent of the parties in the lex arbitralis specialis. This
+system tends to reconcile the self-contained nature of investment arbitration under the
+Convention with the consent-based approach of international arbitration. However, @ the
+power of domestic courts is strictly limited given that states “will generally refuse to
+submit expressly to the jurisdiction of the courts of third countries for interim relief.” (82)
+For instance, NAFTA and the 2004 U.S. Model BIT specify the possibility for an investor
+initiating arbitration proceedings to seek interim relief but it is limited to certain
+measures and to domestic courts and tribunals of the defending party, (83) and it is
+unlikely that an agreement between the state and the investor might make a provision for
+interim protection. In addition, this limited power, where present, does raise some
+problematic procedural issues.
+
+a
+P 785
+P 786
+vv
+
+First of all, in the unlikely case where such power has been provided for in the lex arbitralis
+specialis, a request for interim relief before domestic courts prior to the start of ICSID
+proceedings cannot be considered as a choice of dispute settlement mechanism. Under
+the electa una via, non datur recursus ad alteram principle, included in some investment
+treaties and known as the “fork in the road” mechanism, (84) the first choice of a dispute
+settlement mechanism by the investor is considered as irrevocable. Interim measure
+requests before national courts are possible at any time of the proceedings if the parties
+agree, therefore a request filed before the engagement of ICSID arbitration which amounts
+to a choice of domestic courts over the arbitration is an inaccurate solution. Sucha
+position would do violence to the explicit consent of parties and would lead, at the same
+time, to asymmetrical situations where the same request is considered irrevocable before
+the arbitration and as an admissible protection during the arbitration. It does not mean,
+however, that domestic courts may adopt any measures at this stage, since their decisions
+must not overlap with the exclusive jurisdiction and authority of the tribunal. Indeed, a
+domestic interim order in its form equivalent to a decision on the merits in substance
+could possibly be considered asa “fork in the road” choice. (85)
+
+A second, less theoretical procedural issue raises the question of the legal effect ofa
+request for interim relief filed in domestic courts prior to the initiation of arbitral
+proceedings under the ICSID Convention when parties did not previously consent to the
+availability of such measures. It could legitimately be argued in this situation that the
+party claiming interim relief in domestic courts has made a choice incompatible witha
+future ICSID arbitration. Two arguments can be discerned. First, on the issue of the
+
+p 786 availability of the ICSID mechanism, a party's request for interim reliefin a domestic forum
+
+P7387 that would have been inaccessible during the arbitration affects, in our view, @ the
+
+~ jurisdiction of the arbitral tribunal. Secondly, the presence of a “fork in the road” provision
+
+in the lex arbitralis specialis could constitute an implicit choice for a specific dispute
+settlement mechanism that allows interim measures at the pre-arbitral stage, such as the
+UNCITRAL Arbitration Rules. (86) Investors should therefore pro-actively assess the
+opportunity to request interim measures in domestic courts. (87) If they are considered as
+effective devices to put the host state under pressure and force it to settle the dispute,
+they may limit, in the future, dispute settlement options available and direct the claimant
+towards a non-ICSID Convention arbitration system that would be under the control of the
+lex arbitri and the review of the 1958 New York Convention.
+
+In non-ICSID Convention arbitration. Under other investment arbitration systems, the
+availability of interim relief before domestic courts is not limited or subject to the
+restriction encountered in the ICSID Convention mechanism. (88) ICSID Additional Facility
+
+6
+© 2019 Kluwer Law International, a Wolters Kluwer Company. All rights reserved.
+Rules provide indeed that “[t]he parties may apply to any competent judicial authority for
+interim or conservatory measures.” (89) Arbitration Rules of UNCITRAL, (90) SCC, (91) ICC,
+(92) and LCIA (93) also allow for interim protection before all domestic courts, and not only
+those of the seat of arbitration. Although these rules converge on this possibility, they
+differ on their respective application.
+
+UNCITRAL, SCC, and ICSID Additional Facility Rules do not impose ratione temporis
+conditions under which seeking interim relief in domestic courts is possible. This silence
+indicates that parties may have recourse to national courts at any time during the
+proceedings. The situation is different under the ICC Rules, which provide that interim
+protection in domestic courts is available “[b]efore the file is transmitted to the Arbitral
+Tribunal and in appropriate circumstances even thereafter,” (94) and under LCIA Rules
+under which the same relief may be requested “before the formation of the Arbitral
+Tribunal and, in exceptional cases, thereafter.” (95) These provisions establish a “principle
+of @ priority” (96) of arbitral tribunals over domestic courts as soon as the arbitral process
+is launched. It is difficult to interpret accurately the expressions “in appropriate
+circumstances” and “in exceptional cases,” both indicating that the availability of
+domestic courts is to be determined ona case-by-case basis. (97) Authors have, however,
+attempted to draw guidelines from practice, which indicate that domestic courts are
+appropriate forums: in situations of urgency, when the arbitral tribunal has no power to
+grant the measure sought, or in situations of paralysis or inability of the arbitral tribunal.
+(98) Actually, the latter conditions suggest more a ratione materiae than a ratione temporis
+allocation of power to grant interim relief between domestic courts and arbitral tribunals.
+These ratione materiae aspects will be analyzed below with the conditions for the granting
+of interim measures.
+
+P 787
+P 788
+vv
+
+Although the interplay between courts and arbitral tribunals might be conflicting, it should
+not overshadow the fact that the action of domestic courts is usually taken to assist the
+arbitration and that domestic courts are also a forum where interim relief granted by an
+arbitral tribunal will be enforced.
+
+b Enforcement of arbitral interim measures in domestic courts
+
+Interim protective measures granted by arbitral tribunals are not self-executing, unlike
+those adopted by national courts. Given this circumstance and the ratione materiae
+allocation of interim measures between domestic courts and arbitral tribunals, arbitrators
+“generally refrain from ordering measures that intrinsically require the use of coercive
+powers.” (99) Moreover, considering an arbitrator's ability to draw negative inferences from
+non-compliance, (100) parties toward whom those measures are directed generally
+spontaneously comply with them, (101) and thus their enforcement before domestic courts
+is not the most common problem. The fundamental mechanisms of enforcement, however,
+deserve to be analyzed. Again, a significant difference exists between ICSID Convention
+arbitration and other frameworks.
+
+Unenforceability of ICSID Convention arbitral interim protective measures. Article 47 of the
+ICSID Convention provides that the arbitral tribunal may “recommend any provisional
+
+*~ measures.” The term “recommend” is also laid down in Article 39 of the ICSID Arbitration
+
+P 788 : . . : . ops
+—pyaq Rules. Given this terminology, the question of their enforceability should @ be posed. (102)
+
+~ Rather, as discussed below, ICSID tribunals have often interpreted this terminology very
+broadly so as to consider that measures granted under Article 47 may not just bea
+“recommendation,” but also an “order.” (103) However, regardless of the debate on their
+legal nature, it appears that interim protective measures cannot benefit from the
+advantageous legal regime of enforcement of ICSID awards.
+
+The only mechanism for the enforcement of ICSID decisions before domestic courts lies in
+Article 54 of the ICSID Convention providing that “[e]ach Contracting State shall recognize
+an award rendered pursuant to this Convention as binding and enforce the pecuniary
+obligations imposed by that award as if it were a final judgment of a court in that state.” If
+no definition of the term “award” is provided by the Convention, (104) it is possible to infer
+from other provisions of the Convention (105) that only final awards are covered by Article
+54. Other decisions made by the arbitral tribunal during the proceedings, such as decisions
+on jurisdiction, recommending or ordering interim measures, or other procedural orders,
+are consequently outside the scope of the automatic recognition and enforcement
+mechanism of the Convention. (106) It must also be stressed that the lex arbitralis specialis
+cannot, in our opinion, transform an arbitral decision on provisional measures into an
+award benefiting from the enforcement mechanism of the ICSID Convention. (107) The only
+way for interim measures granted by an ICSID tribunal to be enforced before domestic
+courts lies, therefore, in their incorporation in the final award, as for instance in Tanesco v.
+IPTL. (108) However, without being in the realm of enforcement, it is certain that arbitral
+interim measures in the form of anti suit injunctions recommending or ordering parties to
+abstain from domestic legal proceedings may have a significant persuasive role over
+domestic courts decisions. (109)
+
+Controversial enforceability of non-ICSID Convention arbitral interim measures. There are
+two ways of envisaging the enforcement of arbitral interim measures in domestic courts. @
+They can be enforced abroad or before the courts of the seat of arbitration. Given that
+there is commonly little connection between the state of the seat of arbitration, which is
+deemed to be neutral for parties in international investment arbitration, (110) the matter
+
+7
+P 789
+P 790
+vW
+
+7
+© 2019 Kluwer Law International, a Wolters Kluwer Company. All rights reserved.
+of the enforcement of interim measures before the courts of the seat of arbitration
+(therefore under the lex arbitri) will not be considered. (111) The analysis will focus on the
+enforcement abroad through the 1958 New York Convention. (112)
+
+Assessing the enforceability of arbitral interim measures under the New York Convention
+requires a prior determination of their legal nature. Non-ICSID Convention arbitration rules
+commonly used in investment arbitration do not all define precisely the nature of arbitral
+decisions granting interim measures. The aforementioned ICSID Additional Facility, SCC,
+and LCIA Rules simply indicate that the arbitral tribunal may or shall have the power to
+“order” interim measures. (113) ICC Rules are more precise and provide that “[a]ny such
+measure shall take the form of an order, giving reasons, or of an Award, as the Arbitral
+Tribunal considers appropriate.” (114) Lastly, the UNCITRAL Rules leave no doubt by
+specifying that “[s]uch interim measures may be established in the form of an interim
+award.” (115) This diversity has implied a diverse terminology, where interim measures
+have been issued as “interim award,” “partial award,” “decision,” or “procedural order.” The
+distinction between “award” and “order” or “decision” is, however, significant within the
+framework of international arbitration. In contrast to an “order” or a “decision,” an “award”
+must be motivated and its content must follow certain rules, (116) it has res judicata effect
+and it cannot be issued ex parte. (117)
+
+The recognition and enforcement mechanism established by the New York Convention is
+applicable to “arbitral awards,” (118) but no precise definition of this expression is given
+by this convention. Ona strictly formal plan, orders, procedural orders, or decisions
+adopted by arbitral tribunals are not “awards” and cannot intuitively benefit from the New
+York Convention. The situation in practice is, however, more complicated, and domestic
+
+p 790 courts, in the few cases involving this issue, have tended to assess the “finality of the
+
+579, decision” (119) for which enforcement is sought more than the terminology used by the @
+
+y arbitrators. (120) French, U.S., and English courts have, for instance, considered the form of
+the decision as an irrelevant element in deciding on its enforceability. (121) In this
+“substance over form” (122) analysis, some domestic courts have enforced arbitral
+decisions granting interim protective measures to the extent that the measures in question
+were both final and severable from the rest of the dispute. (123) This highlights the
+terminological laxity mentioned above. It is, indeed, necessary to draw a distinction within
+the category of interim measures between those that are final on an issue and those of a
+provisional character, reversible in nature, that may be lifted at any time by the arbitral
+tribunal.
+
+These trends do not, of course, overshadow the disparities between domestic courts. (124)
+Besides, this issue was on the agenda of UNCITRAL which included in its recent amendment
+of the Model Law specific provisions for the enforcement of arbitral interim measures. (125)
+This possibility offered by some domestic courts to assist the arbitral process highlights,
+however, a significant difference with investment arbitrations carried out under the regime
+of the ICSID Convention, where arbitral interim measures cannot be enforced and are
+locked up until the final award in the self-contained regime established by the Convention.
+For this reason, the scope and legal implications of the duty to comply with provisional
+measures is of great importance in the ICSID system.
+
+B Compliance with interim protective measures within the arbitral framework
+
+While arbitral tribunals have the power to grant interim protective measures that might be
+enforced in domestic courts in certain situations, the core issue of compliance @ goes
+beyond the question of their enforceability and lies mainly in the power to ensure
+compliance within the arbitral framework. It is therefore necessary to determine exactly
+the binding force of arbitral interim measures, before highlighting the legal consequences
+of non-compliance.
+
+ts,
+P791
+P 792
+vW
+
+1 Binding Force of Interim Protective Measures
+
+A peculiar distinction is to be mentioned between ICSID Convention arbitration and the
+other arbitration mechanisms. Whereas Article 47 of the ICSID Convention provides that the
+tribunal may only “recommend” interim relief, other arbitration rules recognize the power
+of tribunals to “order,” (126) “order or recommend,” (127) or “take” (128) interim measures.
+While it seems intuitively that such measures adopted under the ICSID Convention are not
+binding, the practice of arbitral tribunals has weakened this textual distinction and
+admitted their binding force. Some insights into the underlying theoretical debate on the
+justification of their binding force provide a useful avenue to understand the nature of
+arbitral interim protective measures.
+
+a Source of the binding force
+
+Textual source for non-ICSID Convention arbitration. As mentioned above, non-ICSID
+Convention frameworks empower arbitral tribunals to “order” or “take” interim measures.
+The wording of Article 26 of the UNCITRAL Rules referring to the term “take” should be
+clarified. This rule specifies that the tribunal has, among others, the power to take
+“measures for the conservation of the goods forming the subject-matter in dispute, such as
+ordering their deposit.” (129) There is consequently no doubt that a tribunal conducting an
+arbitration under the UNCITRAL Rules has the power to “order” interim relief.
+
+Considering the consensual nature of international arbitration, there is no doubt that
+
+8
+© 2019 Kluwer Law International, a Wolters Kluwer Company. All rights reserved.
+interim measures granted as “orders” by tribunals in non-ICSID Convention arbitrations are
+binding on parties.
+
+Praetorian source for ICSID Convention Arbitration. Putting aside the specific cases
+empowering an arbitral tribunal to “order” interim measures through the lex arbitralis
+p 799 specialis, or the possibility for arbitral tri bunals to seek the bindi ng agreement of parties
+D793 tO implement them, (130) the ICSID Convention and Arbitration Rules both refer to the @
+~ authority of the arbitral tribunal to “recommend” interim measures. The French and the
+Spanish versions use the verbs “recommander” and “recomendar” and the terms
+“recommandation” and “recomendacion.” A simple textual analysis indicates clearly that
+ICSID tribunals lack the power to order interim measures binding on parties. This is also
+corroborated by the Convention's travaux préparatoires showing “a conscious decision...
+not to grant the Tribunal the power to order binding provisional measures.” (131) Despite
+clear wording which leaves little room for even a far-fetched and extensive interpretation,
+some arbitral tribunals have understood these provisions to establish the compulsory
+nature of such measures. ICSID tribunals dealing with Article 47 of the Convention have
+always used the term “recommend” and never mention the potential mandatory
+dimension of interim measures. (132) Besides, in Atlantic Triton v. Guinea, the arbitral
+tribunal opposed its “jurisdiction to recommend conservatory measures” with the one of
+national courts “traditionally and virtually universally recognized as having sole
+jurisdiction to order such measures.” (133)
+
+The positions of the arbitral tribunals in Maffezini v. Spain and in Casado v. Chile overturned
+this well-established interpretation and determined that such measures should not be
+viewed as recommendations but as binding arbitral decisions. The tribunals’ legal
+arguments in both cases were, however, highly questionable.
+
+In Maffezini v. Spain, the tribunal considered the “semantic difference between the word
+‘recommend’ as used in Rule 39 and the word ‘order’ as used elsewhere in the Rules to
+describe the Tribunal's ability to require a party to take a certain action [as] more
+apparent than real” and deemed “the word ‘recommend’ to be of equivalent value to the
+word ‘order,’ ” concluding that “[t]he Tribunal's authority to rule on provisional measures is
+no less binding than that of a final award.” (134) The tribunal justified its interpretation by
+a reference to the Spanish version of the Arbitration Rules using the word “dictaci6n.” (135)
+The tribunal does not specify where this term is located in the Arbitration Rules. The
+closest word to be found in Article 39 is part of the expression referring to “las
+circunstancias que hacen necesario el dictado de tales medidas,” understood in the
+p 793 English version as “the circumstances that require such measures.” In our view, this tribunal
+Py, @ mixed up two distinct aspects. The term “recommend” is used to define the tribunal's
+~ procedural power and therefore the legal nature and value of its decision adopting interim
+measures. The term “require” (of course more directive than “recommend”) relates to the
+substantive conditions under which the measures may be adopted. The latter expression
+should therefore be read as “the circumstances that require such measures to be
+recommended.” (136)
+
+The arbitral tribunal's reasoning in Casado v. Chile is far more elaborate and is based on
+different grounds. Although mentioning the Maffezini decision in passing, the tribunal
+deemed that “this question can today be considered closed, in the light of the general
+jurisprudence and a recent decision of the International Court of Justice.” (137) Indeed,
+relying on the then recent judgment of the I.C.J. in LaGrand, (138) where the Court “reached
+the conclusion that orders on provisional measures under Article 41 [of the I.C.J. Statute]
+have binding effect,” (139) the arbitrators upheld the binding legal value of interim
+measures. This holding stems from the conclusion of the tribunal that:
+
+It is clear from the preceding that provisional measures are principally aimed at
+preserving or protecting the efficiency of the decision that is given on the merits; they are
+intended to avoid prejudicing the execution of judgment, or prevent a party, by unilateral
+act or omission infringing the rights of the opposing party. (140)
+
+The pertinence of some arbitrators’ arguments justifying this binding nature can be called
+into question. To begin to justify its position the tribunal relied on Article 41 of the I.C.J.
+Statute and its interpretation in LaGrand. Such “analogies” (a terminology used twice by
+the tribunal to comprehend the interplay between the ICSID and I.C.J. systems) (141) are
+highly questionable considering the principle of party autonomy in international
+arbitration. Differences exist indeed between the terms “recommend” of the ICSID
+Convention and Arbitration Rules, and the term “indicate” embedded in the I.C.J. Statute.
+The same comments apply to the references made to the jurisprudence of the Iran-United
+States Claims Tribunal where proceedings were conducted under the UNCITRAL Arbitration
+Rules. (142)
+
+On another note, the tribunal seems to consider with variable intensity the relevance of
+the legislative history of these distinct procedural rules. The fact that the |.C.J. took the
+travaux préparatoires of its Statute into account seemed to be a relevant element for the
+tribunal. (143) Likewise, the tribunal mentioned the first draft of the former rules of ICSID,
+p 794 stating in an explanatory note that Article 47 of the Convention is “based on the principle
+Syo5 @ that... the parties should not take steps that might aggravate or extend their dispute.”
+~ (144) However, when considering the opinions expressed by various commentators, the
+tribunal mentioned “the questionable method of interpretation which consists of referring
+
+9
+© 2019 Kluwer Law International, a Wolters Kluwer Company. All rights reserved.
+to the travaux préparatoires where the term ‘prescribes’ was eventually replaced by
+‘recommend.’ ” (145)
+
+Regardless of its solution, the arbitrators' interpretation should have stressed the public
+international law nature of the ICSID Convention from which the Arbitration Rules stem.
+According to the 1969 Vienna Convention on the Law of Treaties, a treaty must be
+interpreted “in good faith in accordance with the ordinary meaning to be given to the
+terms of the treaty.” (146) The ordinary meaning of the terms “recommend” (understood as
+“to praise or commend to another as being desirable or worthy”) (147) leaves little room for
+any binding dimension of provisional measures within the ICSID Convention framework. The
+term “indicate” laid down in the I.C.J. Statute (and defined as “to show or to point out” (148)
+) is more directive than “recommend.” The parallel between the two terms attempted by
+the arbitrators in Casado not only violated the principle of party autonomy in international
+commercial arbitration, but was also not in conformity with the basic rules of
+interpretation of treaties in international law, expressing the junction between the two
+legal spheres in which ICSID Convention arbitration occurs.
+
+There are no reasonable (strictly legal) bases to support the tribunal's interpretation of the
+ICSID Convention and Arbitration Rules in Casado. We might consider that the presence of
+the |.C.J. judge Momahed Bedjaoui, who sat on the I.C.J. in LaGrand only three months
+before this arbitral decision, greatly influenced the arbitral tribunal's position. Besides
+this speculative argument, the justification of the appropriation of the power to order
+interim measures by ICSID tribunals, if any, is to be found elsewhere.
+
+b Justification of the binding force
+
+Although Casado should have constituted a very persuasive ruling for future tribunals for
+ICSID Convention disputes, subsequent arbitral tribunals have not systematically
+
+p 795 emphasized the binding nature of the interim measures granted. In SGS v. Pakistan, (149)
+
+D796 Zhinvali v. Georgia, (150) Plama v. Bulgaria, (151) Biwater v. Tanzania (152) and @ Saipem v.
+
+~ Bangladesh, (153) the arbitral tribunals only mentioned the terminology related to
+
+“recommendation” and avoided the issue of their binding nature. It is, of course, delicate
+to determine whether these tribunals comprehended the interim measures they granted
+as mandatory or not, and it is certainly unlikely that arbitrators would stress the non-
+binding nature of such measures in their decisions. In Tokios Tokelés, the arbitral tribunal
+followed the Casado ruling and suggested that even labeled as “recommendations,” such
+measures would be deemed binding on the parties:
+
+It is to be recalled that, according to a well-established principle laid down by the
+jurisprudence of the ICSID tribunals, provisional measures “recommended” by an ICSID
+tribunal are legally compulsory; they are in effect “ordered” by the tribunal, and the
+parties are under a legal obligation to comply with them. (154)
+
+This position, adopted again more recently in OPC v. Ecuador, (155) was more specifically
+reaffirmed in City Oriente v. Ecuador, where the tribunal underlined that the question of the
+binding nature of interim measures is less an issue of textual interpretation (i.e., the
+meaning of the term “recommendation”), than a functional dimension. The tribunal stated
+that:
+
+Even disregarding such semantic discussion, a teleological interpretation of both
+provisions leads to the conclusion that the provisional measures recommended are
+necessarily binding. The Tribunal may only order such measures if their adoption is
+necessary to preserve the rights of the parties and guarantee that the award will fulfill its
+purpose of providing effective judicial protection. Such goals may only be reached if the
+measures are binding, and they share the exact same binding nature as the final arbitral
+award. Therefore, it is the Tribunal's conclusion that the word ‘recommend’ is equal in
+value to the word ‘order’. (156)
+
+It is necessary to replace the tribunal's functional argumentation in City Oriente in the
+more global discussion on the power of international tribunals and courts to adopt binding
+interim measures. Indeed, these ICSID decisions were given in the wake of the I.C.J.'s
+LaGrand ruling, which is considered as the starting point of a “new judicial customary rule.”
+(157) Although the I.C.J. in LaGrand has drawn its conclusion from, inter alia, an
+p 796 interpretation of Article 41 of its Statute, this decision has served asa global authoritative
+5797 Precedent not only for ICSID tribunals but also for other international courts such as the @
+~ European Court of Human Rights. (158) Several arguments have been put forward to justify
+the existence of this power regardless of its textual basis. (159) Indeed, the existence of an
+overarching rule or principle of public international law must be determined in order to
+give a rationale for the circumvention of a treaty provision such as that carried out by
+ICSID arbitral tribunals.
+
+It is first possible to comprehend this power under the notion of “the general principles of
+law recognized by civilized nations” as a source of international law by Article 38(1)(c) of
+the Statute of the I.C.J. Inthe LaGrand case, the I.C.). relied on the ruling of the former
+Permanent Court of International Justice (PCIJ) in Electricity Company of Sofia and Bulgaria,
+recognizing the provisions related to interim measures in its Statute, which:
+
+[Alpplies the principle universally accepted by international tribunals ... to the effect that
+the parties to a case must abstain from any measure capable of exercising a prejudicial
+
+10
+© 2019 Kluwer Law International, a Wolters Kluwer Company. All rights reserved.
+effect in regard to the execution of the decision to be given and, in general, not allow any
+step of any kind to be taken which might aggravate or extend the dispute. (160)
+
+Considering the widespread embedding of this principle in domestic legal orders (161) and
+its recognition by international courts, the binding nature of interim measures in public
+international law may be viewed as stemming from this general principle, orasa
+subcategory of the principle of good faith. (162) Although the PCIJ decision was mentioned
+in Casado (163) and in City Oriente, (164) both arbitral tribunals did so only to determine
+the circumstances under which interim measures may be granted, but not to justify their
+binding nature. In Casado, the tribunal, citing excerpts of explanatory notes of the first
+draft of former ICSID Rules, noted that “Article 47 of the ICSID Convention is ‘based on the
+principle that once a dispute is submitted to arbitration the parties should not take steps
+that might aggravate or extend their dispute or prejudice the execution of the award,’ a
+principle which has a certain ‘generality,’ ” (165) but used those notes as a persuasive
+«4 argument and did not specify how this principle overarches the ICSID Convention.
+P 797
+P 798
+~ Another argument put forward lies in the so-called theory of the “inherent powers” of
+courts and tribunals stemming from the essence of the judicial function itself. (166) This
+theory was explicitly referred to by the I.C.J.in the Nuclear Tests cases, where it
+emphasized that:
+
+[T]he Court possesses an inherent jurisdiction enabling it to take such action as may be
+required, on the one hand, to ensure that the exercise of its jurisdiction over the merits, if
+and when established, shall not be frustrated, and on the other, to provide for the orderly
+settlement of all matters in dispute, to ensure the observance of the “inherent limitations
+on the exercise of the judicial function” of the Court, and to “maintain its judicial
+character” ... Such inherent jurisdiction, on the basis of which the Court is fully empowered
+to make whatever findings may be necessary for the purposes just indicated, derives from
+the mere existence of the Court as a judicial organ established by the consent of States,
+and is conferred upon it in order that its basic judicial functions may be safeguarded. (167)
+
+The theory of “inherent powers” of courts and tribunals is a very powerful device, as such
+powers are deemed to exist regardless of their textual basis, and therefore it isto be
+distinguished from the theory of “implied powers,” (168) while relying on the same
+functional approach. Considering their inherent nature, these powers are frequently
+expressly stated in the constitutive charter of the tribunal or court, which is also a method
+for controlling their application in practice. (169) However, the main advantage of this
+theory lies in its potential neutralization of the rules under which the tribunal or court
+proceeds. Although “inherent powers” may not contradict the powers expressed in the
+constitutive instruments, it has been argued that they may not only complete the legal
+instruments governing the procedure of the tribunal or court, but also extensively interpret
+them in order for the tribunal to enjoy the maximum of latitude while exercising its
+functions. (170) An illustration of this interplay between “inherent powers” and procedural
+instruments may be found in the practice of the Iran-United States Claims Tribunal, which
+functions under the UNCITRAL Rules. Indeed, several of its decisions underline the
+“inherent power” of the tribunal to order interim measures (171) regardless of the explicit
+provisions of Article 26. (172) This had no impact on the binding nature of such measures,
+
+« but permitted the expansion ratione materiae of the scope of the tribunal's interim
+
+oe measure powers @ beyond those in Article 26, textually limited to the su bject matter of
+
+~ the dispute, in order to protect the effectiveness of the tribunal's jurisdiction and its
+
+authority. (173)
+
+It is difficult, however, to determine to what extent a court or tribunal may implement the
+“inherent powers” theory so as to act contra legem and blatantly contradict its constituent
+instruments. For some scholars, one of the limits of the theory lies in the explicit
+limitations included in the constituent instruments of the court or tribunal, the so-called
+“clause contraire.” (174) For another minority view, some of these judicial powers “are
+intrinsic in the nature of the tribunal and may not be denied ... even through an express
+provision.” (175) While it is seems excessive to follow the latter view, a distinction must be
+drawn, in our opinion, between an explicit restrictive limitation to the tribunal's power
+and a simple provision stating how the tribunal or court is deemed to proceed while
+dealing with a certain issue.
+
+To illustrate the first category, it is possible to mention Article 1134 of NAFTA providing that
+“[a] Tribunal may not order attachment or enjoin the application of the measure alleged to
+constitute a breach referred to in Article 1116 or 1117.” The arbitral tribunal in Pope &
+Talbot stated that Article 1134 “does not confer jurisdiction on the Tribunal to enjoin the
+application of a measure ... the Tribunal takes the view that it lacks power to grant such
+relief.” (176)
+
+It is our view that the legal framework for the granting of interim measures in the ICSID
+Convention system falls within the second category. Article 47 of the Convention provides
+that “[e]xcept as the parties otherwise agree, the Tribunal may, if it considers that the
+circumstances so require, recommend any provisional measures which should be taken to
+preserve the respective rights of either party.” Three arguments can be advanced to
+demonstrate that Article 47 cannot constitute a clause contraire. First, the presence of the
+expression “[e]xcept as the parties otherwise agree” leaves room for binding provisional
+
+11
+© 2019 Kluwer Law International, a Wolters Kluwer Company. All rights reserved.
+measures through the lex arbitralis specialis, thereby meaning that Article 47 does not
+impose a mandatory limitation regarding the binding character of provisional measures.
+Secondly, and relying also on the latter statement, Article 47 does not prohibit explicitly
+the tribunal's power to “order” interim measures. Thirdly, and completing these two
+arguments, the legislative history of the Convention shows that if there is strong evidence
+that the term “recommend” was chosen over “prescribe,” the travaux préparatoires also
+highlight that negotiating states made this choice for practical reasons in order to avoid
+the question of the enforceability of interim measures before domestic courts, (177) and
+therefore did not prevent consideration of the binding nature of such measures within the
+
+. sole sphere of arbitral proceedings.
+
+P 799
+P 800
+
+~ There are therefore strong arguments that the theory of “inherent powers” of courts and
+tribunals can potentially justify the binding nature of interim protective measures
+adopted by ICSID arbitral tribunals. (178) The same conclusion applies for the principle not
+to “aggravate or extend the dispute.” An explicit reference to this principle or theory in
+ICSID decisions, and an explanation as to how they may overarch the provisions of Article
+47, would have beena preferable argument and legal basis compared with the conclusions
+referred to above underlying the similarities between the I.C.J. Statute and the ICSID
+Convention and concluding that “recommend” means “order.” Besides, and considering
+that the legal basis for the recognition of the binding nature is to be found outside the
+scope of the Convention, ICSID tribunals have to expressly specify the mandatory nature of
+such measures. In our view, the recent decisions only “recommending” interim measures on
+the basis of Article 47 (179) cannot be interpreted de plano as “orders.” (180)
+
+2 Consequences of Non-Compliance with Interim Measures
+
+Carrying out a judicial function, arbitrators have therefore the authority to adopt binding
+interim measures. Although, most of the time, parties spontaneously comply with them,
+(181) the question of the consequences of non-compliance are not of a purely theoretical
+nature. Considering that arbitrators lack coercive powers, (182) the issue of their
+implementation stays mainly within the sole framework of the arbitration and it is
+therefore necessary to highlight the procedural and substantive consequences of non-
+compliance with binding interim measures.
+
+a Procedural consequence: Drawing adverse inferences
+
+The drafting history of the ICSID Convention suggests that, although there was a lack of
+consensus as to mentioning the effect or the possibility of damages or penalties for non-
+compliance, negotiating parties considered that “naturally the Tribunal would normally
+have to take account of this fact [non-compliance] when it came to make its award.” (183)
+@ Therefore, and absent “the power to penalize parties,” (184) arbitral tribunals
+nevertheless have the possibility to draw adverse inferences from non-compliance,
+notably on the issues involving the production of evidence. (185)
+
+rs
+P 800
+P 801
+vW
+
+In Agip v. Congo, the arbitral tribunal explicitly indicated that it drew such inferences from
+the uncooperative behavior of the Government of Congo. While examining the “grievances
+invoked] by Agip and ... the assessment of, and provision of reparation for the damage
+caused to it,” the tribunal noted that it did not “lose sight of the facts ... (c) that the
+Government did not comply with the decision of the Tribunal ... as to the measures of
+preservation and as a consequence Agip was unable to have access to a certain number of
+documents which could have assisted it in presenting its case.” (186)
+
+The possibility to draw adverse inferences from non-production of evidence is not limited
+to decisions of arbitral tribunals in the form of interim measures, but exists more explicitly
+as part of the arbitral tribunal's decisions based on its general power to summon evidence.
+Also, Article 34(3) of the ICSID Arbitration Rules provides that “[t]he parties shall cooperate
+with the Tribunal in the production of the evidence” and adds that the tribunal “shall take
+formal note of the failure of a party to comply with its obligations under this paragraph
+and of any reasons given for such failure.” As a power not specifically provided for non-
+compliance with interim measures, the drawing of adverse inferences can be considered
+one of the tribunal's “inherent powers” in relation to its judicial functions of the
+administration of evidence and determination of the truth. Such a power exists, therefore,
+inthe context of arbitrations other than those conducted under the ICSID Convention. (187)
+
+It is worth mentioning that arbitral practice has defined some criteria and procedural
+principles circumscribing the ability of tribunals to draw adverse inferences in the context
+of the production of evidentiary documents: the party requesting adverse inferences must
+establish that the evidence sought is accessible for the requested party; it must produce
+all evidence in its possession permitting the corroboration of the inference sought and, at
+least, prima facie evidence of its claim or defense; there should be a reasonable and
+consistent link between the evidence sought and the facts in dispute; and the arbitral
+tribunal should afford the requested party sufficient due process considerations. (188)
+
+The ability of arbitral tribunals to draw adverse inferences constitutes a powerful device
+for arbitral tribunals to ensure a high level of compliance with their interim protective
+* measures. Arbitrators also have the possibility to indicate to parties what inferences they
+
+P 801 . . . .
+a may draw from a failure to comply, (189) thereby implementing a sort of psychological @
+
+12
+© 2019 Kluwer Law International, a Wolters Kluwer Company. All rights reserved.
+penalty. (190) Drawing adverse inferences is, however, mainly restricted to matters related
+to production and preservation of evidence.
+
+b Substantive consequence: Compensation for the aggravation of harm
+
+There are a few examples of non-compliance with interim measures in investment
+arbitration having substantive consequences. Some theoretical, although essential,
+considerations must be pointed out.
+
+It has been suggested in the context of international commercial arbitration that
+arbitrators have the authority to grant damages for non-compliance with interim measures
+implied from their power to order them. (191) Likewise, some commentators found in the
+jurisprudence of the I.C.J., notably in the Fisheries Jurisdiction case, (192) that “a violation of
+an interim measure would carry with it the responsibility of reparation.” (193) Although
+international tribunals such as the I.C.J. usually make a note of non-compliance with
+interim measures in decisions on the merits, and even suggest that a non-compliance
+amounts per se to the violation of the international obligation, (194) binding interim
+measures do not create, in our view, new and specific subjective rights to their beneficiary
+that are distinct from those resulting from its cause of action. (195) The only power of
+tribunals in this respect is therefore to grant compensation for the aggravation of the harm
+suffered, if any, resulting from non-compliance with these measures. For instance, in the
+practice of the Iran-United States Claims Tribunal, non-compliance with an interim
+measure granted by the arbitral tribunal to stay parallel litigation in domestic courts
+resulted in the tribunal's final award declaring “without legal effect” the final decision
+adopted by domestic courts. (196) No additional responsibility was recognized above the
+legal neutralization of negative consequences resulting from non-compliance.
+
+p 802 Of course, considering the restrictive and exceptional substantive conditions under which
+—peo2 arbitral tribunals are entitled to adopt interim protective measures, non-compliance @
+~ with such measures is likely to result in the aggravation of the harm suffered by the
+
+requesting party. However, non-compliance does not imply ipso jure the responsibility of
+the recalcitrant party. Given the cautious but anticipatory and prospective assessment of
+one of the parties’ behavior in which the granting of provisional measures lies, as well as
+the potential doubts on the jurisdiction of the tribunal, (197) arbitrators' determinations
+are based on hypotheses and it would seem excessive to attach a responsibility to non-
+compliance regardless of whether or not it has resulted in an additional prejudice.
+
+Having established the extent to which arbitral tribunals adjudicating investment disputes
+have the power to grant interim measures, it is now necessary to determine the
+substantive aspects of their implementation.
+
+lll Substantive Aspects of Interim Protective Measures
+
+In practice, a large range of different interim measures have so far been granted by
+arbitral tribunals. They are related to procedural issues such as the production (198) and
+preservation (199) of evidence; the confidentiality of proceedings; (200) the interruption of
+parallel proceedings in domestic courts (201) orin another arbitral tribunal; (202) to
+P 803 specific performance such as a suspension of payments, (203) a ban on the transfer of funds
+pao, outside the host state (204) or on @ the termination of contracts; (205) to an interdiction of
+~ the seizing or the obtaining of a lien on assets; (206) the maintenance of ordinary business
+operations; (207) or, more broadly, a direction not to aggravate the dispute; (208) financial
+guarantees regarding the costs of arbitration; or to the satisfaction of the award. (209) This
+diversity calls, however, for a more precise analysis of the scope of arbitral tribunals’
+interim powers and the distinct types of interim measures which should be available
+under this label, before dealing with the very restrictive substantive conditions under
+which interim measures may be granted.
+
+A Scope of arbitral tribunals’ interim protection power
+
+As highlighted above, the power to grant interim measures is, in certain cases, shared
+between arbitral tribunals and domestic courts. While procedural considerations have
+shown a ratione temporis dimension, (210) it should not obscure the potential ratione
+materiae allocation of measures between the two, particularly in ICSID Convention
+arbitration. This is a necessary preliminary step to distinguish the place of interim
+protective power among the range of measures arbitral tribunals have the authority to
+adopt.
+
+1 Ratione Materiae Allocation of Interim Protective Measures between Arbitral Tribunals
+and Domestic Courts
+
+a De facto ratione materiae allocation in non-ICSID Convention arbitration
+
+As mentioned above, the main institutional and ad hoc arbitration rules used in
+international investment arbitration empower both arbitrators and domestic courts to
+adopt interim measures. Considering the still modest mechanisms for the early granting of
+interim relief before the appointment of the tribunal, (211) domestic courts play a greater
+role at the pre-arbitral stage, while arbitral tribunals regain the upper hand at the
+beginning of their proceedings. (212)
+
+Danh
+
+13
+© 2019 Kluwer Law International, a Wolters Kluwer Company. All rights reserved.
+rout
+
+P 805
+vv
+
+Besides this ratione temporis distribution, there is no explicit ratione materiae allocation of
+interim measures in arbitration rules between arbitral tribunals and domestic courts. One
+may point to the distinction in the UNCITRAL Rules between the power of an arbitral
+tribunal to take “any interim measures... in respect of the subject-matter of the dispute”
+(213) and the broader reference to “[a] request for interim measures. ... to a judicial
+authority,” (214) but these textual differences are too minor to infer a de jure allocation.
+Such allocation, if any, lies therefore in the practical application of interim measures in
+arbitration, and may be highlighted by interim measures seeking guarantee in the
+expectation of the future enforcement of the award.
+
+Apart from the specific situation that “arbitrators do not have power ... [to] grant
+attachments or freezing orders that intrinsically require the use of the court's coercive
+powers,” (215) the granting of a pre-award security is not prohibited by any of the
+arbitration rules mentioned, and it is sometimes explicitly permitted. (216) The relevant
+question is as to the overall efficiency of requesting such security before the arbitral
+tribunal. It is obvious that such measures, which are expected to be granted spontaneously
+in order to prevent the dispersion of assets, are not likely to fulfill this objective if they are
+granted by an arbitrator, because their enforcement before domestic courts will still be
+needed if a party is reluctant to provide security. This is, of course, with all the uncertainty
+weighing on the enforceability of interim protective measures already mentioned.
+
+This suggests a form of natural allocation between arbitral tribunal and domestic courts,
+the former being entitled to order interim measures in relation to the dispute, the latter
+being the more efficient forum to provide a guarantee of the enforcement of the future
+award. This de facto “subsidiarity” governing in practice the relationship between these
+two forums highlights a distinction, which inherently exists in ICSID Convention arbitration,
+between interim measures in relation to the dispute, and protecting the “rights” of parties
+and those in relation to the execution of the award, and protecting the “interests” of
+parties.
+
+b Inherent ratione materiae allocation in ICSID Convention arbitration
+
+Asa “self-contained” regime, ICSID arbitration is disconnected from domestic courts and,
+unless provided in the lex arbitralis specialis, ICSID tribunals have a monopoly in the
+adoption of interim measures. In addition, instruments governing the arbitration do not
+impose ratione materiae limitations on a tribunal's interim relief powers. Indeed,
+according to Article 47 of ICSID Convention, the tribunal may adopt “any provisional
+measures.” In Casado, the tribunal pointed out that “the drafters ... decided not to delimit
+@ the range of possible measures, given the infinite variety of situations in which such
+measures Can justifiably be invoked.” (217)
+
+P 805
+P 806
+vv
+
+This wide power can, however, be restricted by the lex arbitralis specialis. Article 39(6) of
+the ICSID Arbitration Rules allows the parties to request “judicial or other authority to
+order provisional measures, prior to or after the institution of the proceeding,” provided
+sucha possibility is included within their agreement. This is notably the case of NAFTA
+which, when applied in connection with the ICSID Convention, breaches arbitral tribunals’
+monopoly to adopt interim measures (218) and, more importantly, removes their authority
+to “order attachment or enjoin the application of the measure alleged to constitute a
+breach.” (219) Notably, this restriction was taken into account in Pope & Talbot where the
+arbitral tribunal stated that “it lacks power to grant such relief.” (220)
+
+It is unclear whether or not ICSID tribunals and domestic courts enjoy exactly the same
+interim powers when recourse to courts has been planned by parties. Whereas Article 39(1)
+of the ICSID Arbitration Rules refers to “provisional measures for the preservation of its
+rights,” Article 39(6) delimiting domestic courts' authority speaks of “provisional measures
+... for the preservation of their respective rights and interests.” This additional reference to
+“interests” seems to indicate a distinction between measures related to the dispute and
+deemed to preserve the “rights” of parties, and measures related to the execution of the
+award and deemed to preserve the “interests” of parties. Does it mean that, in any case,
+with or without specific agreement of parties, ICSID tribunals lack the authority to order
+
+interim measures for the protection of parties’ “interests”?
+
+Some commentators have indeed suggested that a fundamental distinction exists within
+the category of interim measures between conservatory measures directly in relation to
+the execution of the award, and other interim measures, such as orders of production or
+preservation of evidence, or for specific performance. (221) It has been argued that “in the
+spirit of the Convention,” the latter are the exclusive realm of arbitral tribunals whereas
+the former should be the province of domestic courts. (222) Inthe wake of this discussion,
+an arguably appealing, but somehow questionable, argument could be made.
+
+First, while Article 39(1) of the ICSID Arbitration Rules recognizes the possibility to request
+interim measures before arbitral tribunals for the protection of “rights,” and Article 39(6)
+allows the request of interim measures for the protection of “rights and interests” provided
+there is an agreement, these provisions could be interpreted as implicitly recognizing the
+power of domestic courts to permanently protect “interests” regardless of an agreement of
+the parties to do so. In addition, if domestic courts have under the @ ICSID Convention the
+obligation, and therefore the power, to enforce ICSID awards, they should consequently
+
+rs
+P 806
+P 807
+vv
+
+14
+© 2019 Kluwer Law International, a Wolters Kluwer Company. All rights reserved.
+have the parallel power to secure the enforcement of a future award. Such an
+interpretation (223) would reflect a kind of inherent and natural allocation of interim
+measures between the arbitral tribunal and domestic courts, distinguishing two distinct
+legal spheres: the dispute and the award.
+
+In practice, ICSID tribunals have always abstained from granting pre-award security, such
+as, for instance, cautio judicatum solvi. (224) The justification of arbitral tribunals on this
+issue seems, however, inconsistent. In Atlantic Triton v. Guinea, the arbitral tribunal refused
+the parties' request but admitted that “such measures would clearly be within its mandate
+under Article 47 of the ICSID Convention.” (225) On the contrary, while recognizing “the very
+broad and varied nature of the possible provisional measures available within the ICSID
+regime,” (226) the tribunal in Casado v. Chile pointed out that “the absence of any text on
+the guaranteeing of the payment of costs ... seems to entail a certain presumption that
+such a measure is not authorized or included.” (227) If the Casado tribunal attempted to
+reconcile this position with the Atlantic Triton ruling considering this measure admissible
+“in certain circumstances” (228) but not as “an ordinary and general measure,” (229) this
+case demonstrated how uncomfortable ICSID tribunals are in dealing with such requests,
+preferring to leave the unrewarding work to domestic courts. In Tanesco v. IPTL, the
+tribunal considered ina much more clear-cut opinion that “there is some precedent for
+the view that conservatory or provisional measures under Rule 39 should not be
+recommended in order, in effect, to give security for the claim.” (230) The de facto
+unavailability of pre-award security tends to confirm the unstated aforementioned
+
+. allocation of interim powers between arbitral tribunals and domestic courts. (231)
+
+P 807
+P 808
+~ The question as to whether such allocation is deeply rooted in the ICSID Convention and
+
+therefore permits pre-award security before domestic courts, absent explicit choice of
+parties in accordance with Article 39(6), is somehow much more debatable. This, of course,
+would depend on the attitude of domestic courts regarding such requests and arbitral
+tribunals’ inclination potentially to request parties to stay domestic proceedings. The
+latter parameter is, however, theoretical as pre-award securities are typically sought
+before the appointment of the arbitral tribunal. The former may be illustrated in the
+recent and still pending ICSID case, ETI v. Bolivia. (232)
+
+ETI, a Dutch corporation holding shares in Entel since the privatization of this Bolivian
+telecommunications company in 1995, initiated arbitral proceedings against Bolivia
+following the renationalization of this entity by filing a request with the ICSID Secretary
+General in October 2007. The arbitral tribunal was then constituted in October 2008. Just
+after the Bolivian police took control of Entel's offices on May 1, 2008, ETI obtained an ex
+parte order on May 5, 2008 ina New York federal district court denying its motion to attach
+Bolivia's property. However, its application with respect to Entel's property located in New
+York resulted eventually in a U.S.$36 million attachment. (233) On July 30, 2008, ETI's
+motion to confirm the attachment was denied and the former ex parte order was vacated.
+(234) At the same time, ETI, on May 7, 2008, brought a similar action before the English
+courts in order to prevent the risk of dissipation of Bolivia's and Entel's assets located in
+London. Likewise, freezing orders that were sought by ETI were eventually set aside by the
+Court of Appeal on July 28, 2008. (235)
+
+If the New York proceedings are not very instructive as to the aforementioned issue, (236)
+the British decision contains several developments on the impact of Article 39(6) of the
+ICSID Arbitration Rules in domestic courts. (237) Although “[p]rovisional relief by a national
+court pending any decision by the tribunal once constituted ... supports rather than
+undermines an ICSID arbitration,” (238) the Court of Appeal underlined “the effect of Rule
+39(6) ... that provisional measures may be sought only from the ICSID tribunal itself, and
+not from national courts, unless the parties agree otherwise.” (239) The Court circumvented
+the argument that the ICSID Convention is not incorporated in U.K. lawand @ relied onthe
+consent of parties to the arbitration under the ICSID Convention and Arbitration Rules,
+concluding that:
+
+P 808
+P 809
+vv
+
+Although there may be exceptional circumstances which might justify a national court in
+disregarding the agreement of the parties, in my judgment that agreement pursuant to the
+Convention and the Rules would of itself normally make an interim order... inexpedient,
+and also make it unnecessary to consider all the other circumstances. (240)
+
+English courts have therefore, admittedly indirectly, implemented the provisions of Article
+39(6) and recognized their unavailability for pre-award security absent agreement of the
+parties. In addition, it would be an interesting question for the ICSID arbitral tribunal to
+consider if such a request for interim measures limits its jurisdiction in the future. This
+decision has also highlighted how interim measures sought in domestic courts can be
+exploited to force the most advantageous settlement of the case. As such, the English Court
+of Appeal introduced its decision by pointing out that “[i]t concerns an attempt by ETI to
+use national courts to secure its position in an international arbitration arising out of the
+nationalisation of its interests in Bolivia.” (241)
+
+Such exploitation has also been underlined in the case involving Exxon Mobil against
+Petroleos de Venezuela, a Venezuelan state-owned oil company. Within the framework of
+the initiation of an ICC arbitration, Mobil sought and obtained from the English courts a
+“freezing injunction” with an unprecedented value up to U.S.$12 billion in support of a
+
+15
+© 2019 Kluwer Law International, a Wolters Kluwer Company. All rights reserved.
+potential arbitral award. (242) The order was eventually lifted more than one month later.
+(243) Such requests may have harmful effects for those under the injunctions. Indeed, these
+corporations lose the free disposal of their assets, thereby significantly disturbing their
+economic activity. Admittedly, those interim measures are in practice less requested to
+secure the execution of the award than to increase the bargaining power of the claimant
+seeking the most favorable settlement of its case. It has been argued that what may
+constitute “the nuclear weapon in the litigation armoury ... had fallen into the wrong
+hands.” (244) Such excessive requests enhance the risk of escalation of the dispute and
+undermine, more than assist, the arbitration. Venezuelan officials described Mobil's
+initiatives as a form of “judicial” and “legal terrorism.” (245)
+
+Such measures are all the more difficult to control when they originate from domestic
+courts that may have different standards in dealing with interim measures in aid of
+arbitration. They may not only undermine the dispute itself, they can also more broadly
+compromise or even endanger the sustainability of, and the confidence in, international
+investment dispute resolution mechanisms. It is not a coincidence that we have witnessed
+@ in recent years a growing mistrust, manifesting itself in the withdrawal of some countries
+from international investment arbitration mechanisms, notably from ICSID. (246) Ironically,
+it appears that the ICSID system is certainly more protective of sovereign interests, since
+domestic courts' interim measures such as pre-award guarantees may only be ordered if
+the state expressly consented, whereas judicial interim power is the default rule in other
+arbitration mechanisms.
+
+P 809
+P 810
+vv
+
+Beyond these risks weighing on arbitration mechanisms, it has been shown that, when
+granting interim relief, arbitral tribunals focus mainly on the preservation of parties' rights
+and either tend to evade the issue of the award's future enforcement, or are not
+considered as a natural forum to seek such relief. This leads us to try to determine if,
+among all measures taken by arbitral tribunals and regardless of their label, there isa
+genuine category of arbitral interim protective measures.
+
+2 Allocation of Interim Protective Measures within Arbitral Tribunals' Powers
+
+Before considering whether a category of genuine interim protective measures exists, it
+seems necessary to minimize the differences in the wording of arbitration rules. For
+instance, both the ICSID Arbitration Rules and Additional Facility Rules refer to the
+“measures for the preservation of its [a party's] rights,” (247) whereas the UNCITRAL Rules
+mention “measures... in respect of the subject-matter of the dispute.” (248) In Sergei
+Paushok v. Mongolia, the tribunal considered that the UNCITRAL Rules applicable in this
+arbitration left “wider discretion to the Tribunal in the awarding of provisional measures.”
+(249) In our view, these dissimilarities are ultimately insignificant.
+
+Indeed, none of these arbitration rules contains an explicit clause contraire suggesting that
+certain arbitral interim measures are expressly prohibited. Taking into account the
+inherent powers of every tribunal, arbitrators enjoy a great discretion in practice. In
+Casado v. Chile, taking into account the fact that “[t]he drafters of the ICSID Convention in
+effect decided not to delimit the range of possible measures, given the infinite variety of
+situations in which such measures can justifiably be invoked” (250) and that the provisions
+of Article 47 of the Convention and 39 of the Arbitration Rules “contain no indication or
+exact statement,” (251) the arbitral tribunal @ recognized that interim measures “can be
+extremely diverse and are left to the appreciation of each Arbitral Tribunal.” (252)
+
+P 810
+P 811
+vv
+
+Considering this broad discretion, arbitral tribunals usually granted, or stated they had the
+power to grant, the same kinds of interim measures (subject to the conditions mentioned
+below and to the extent they have a connection with the dispute), (253) such as the
+preservation of evidence, (254) order of specific performance (255) or a stay of proceedings
+in domestic courts. (256) Within this framework, a specific issue as to the scope of arbitral
+interim powers deserves to be mentioned.
+
+It is noteworthy that arbitral tribunals have clearly mentioned that the scope of interim
+measures is distinct from the general scope of the tribunals' administrative powers. This
+has been highlighted in Biwater v. Tanzania, where the claimant's request for production of
+documents was labeled as “interim” under Article 47 although it fell within the scope of
+Article 43 of the ICSID Convention which provides that “the Tribunal may, if it deems it
+necessary at any stage of the proceedings, call upon the parties to produce documents or
+other evidence.” The arbitral tribunal refused this request based on Article 47 since
+“production is not usually considered within the ambit of such interim relief,” (257) and
+made it clear that “Article 47 is designed to ensure that the Arbitral Tribunal can properly
+discharge its mandate, whilst Article 43 is one element ina range of provisions that
+structures how the mandate is to be discharged.” (258)
+
+Interim protective measures therefore belong to a category that cannot overlap other
+general administrative powers of the tribunal to conduct the proceedings. Their main
+specificity lies in the very restrictive conditions under which they are granted.
+
+B Conditions for the granting of interim protective measures
+
+Arbitration rules are usually very broadly drafted and do not provide strong guidance to
+the arbitrators as to when interim measures may be granted. For instance, the ICSID Rules
+
+P 811 . . . .
+refer both to the “preservation” of a party's rights and the “circumstances” that @ require
+
+P 812
+
+16
+© 2019 Kluwer Law International, a Wolters Kluwer Company. All rights reserved.
+such measures, (259) whereas the UNCITRAL Rules simply mention measures that the
+arbitral tribunal “deems necessary in respect of the subject-matter of the dispute.” (260) In
+practice, arbitral tribunals relying on the jurisprudence of other tribunals have construed
+and developed a common set of requirements that need to be met in order to grant an
+interim protective measure. This is true regardless of their textual bases in arbitration
+rules. In Sergei Paushok v. Mongolia, the arbitral tribunal deciding on the interim measures
+(substantially relying on the previous work of an author (261) ) pointed out that:
+
+It is internationally recognized that five standards have to be met before a tribunal will
+issue an order in support of interim measures. ... (1) prima facie jurisdiction, (2) prima facie
+establishment of the case, (3) urgency, (4) imminent danger of serious prejudice (necessity)
+and (5) proportionality. (262)
+
+These sometimes overlapping conditions may, however, be considered separately as two
+layers of conditions distinct in nature. First, because the fundamental function of interim
+measures is to protect the rights of parties pending arbitration, the tribunal needs to
+assess the “protectability” of these rights, that is to say it needs to carry out an overall
+assessment of the claim, inevitably conducted prima facie considering the necessity to
+decide promptly. Secondly, tribunals must assess how the circumstances may affect a
+party's right and determine whether or not such circumstances require an appropriate
+interim protection pending the arbitration.
+
+1 Prima Facie Assessment of the Claim: The “Protectability” of Rights
+
+Requests for interim measures can be filed at any stage of the proceedings, therefore
+“before the Tribunal has been able to rule on all the objections to its jurisdiction or on the
+admissibility of the claim on the merits.” (263) In this situation, arbitrators need to find a
+right balance between two opposite risks: imposing a measure on a party and eventually
+finding that they lack the jurisdiction to do so, or waiting for a preliminary ruling on
+jurisdiction but taking the risk of jeopardizing the final decision. (264) Tribunals have
+therefore construed a two-prong test assessing the prima facie jurisdiction of the tribunal
+. to hear the claim and the prima facie admissibility of the case.
+
+P 812
+
+P 813
+
+a Prima facie Jurisdiction
+
+The necessity of prima facie jurisdiction to order interim measures has been firmly
+established by the I.C.J. since the Icelandic Fisheries cases, where it found sufficient a
+“provision in an instrument emanating from both Parties to the dispute [appearing], prima
+facie, to afford a possible basis on which the jurisdiction of the Court might be founded.”
+(265) This requirement, reaffirmed by the I.C.J. in Military and Paramilitary Activities in and
+Against Nicaragua, (266) has since been adopted by the Iran-United States Claims Tribunal,
+(267) ICSID, (268) and UNCITRAL (269) tribunals, and more broadly in the context of
+international commercial arbitration. (270)
+
+This prima facie requirement is not difficult to meet in investment arbitrations, as a clear
+basis for jurisdiction is likely to be found in investment treaties or arbitration agreements.
+(271) The sole presence of one of these instruments apparently applicable between the
+claimant and the respondent, and referring to the arbitration mechanism in question,
+constitutes a sufficient prima facie basis. The arbitral tribunal disregards at this stage
+more complex issues, such as the requirement of a prior negotiation period, (272) that will
+be considered exhaustively at the jurisdictional phase of the proceedings. It must be
+stressed that the recognition of prima facie jurisdiction by the arbitral tribunal will not
+4 prejudge the final determination of the tribunal on its jurisdiction. (273)
+P 813
+P 814
+~ Inthe ICSID system, the establishment of this prima facie jurisdiction can be facilitated by
+the Secretary-General's screening test at the registration of the request. Indeed, the ICSID
+Convention provides that the Secretary-General may refuse to register the request if “he
+finds, on the basis of the information contained in the request, that the dispute is
+manifestly outside the jurisdiction of the Centre.” (274) This purely administrative
+Secretary-General's decision cannot bind ipso jure the future determination of the tribunal
+on its prima facie jurisdiction (275) but, in practice, “it provides a useful basis for its power
+to recommend provisional measures.” (276)
+
+b Prima facie case (fumus boni juris)
+
+According to one author, the “basic requirement” of a prima facie establishment of the
+case “is to satisfy the tribunal that the moving party has, with reasonable probability a
+case or, alternatively, to determine that the claim is not frivolous or vexatious.” (277) This
+criterion, also known as fumus boni juris, is one of the few where international arbitral
+tribunals have departed from the case law of the I.C.)., which does not take this condition
+into consideration. (278)
+
+Arbitral decisions do not contain much guidance on this principle. (279) The recent
+decision in Sergei Paushok v. Mongolia seems to establish no more than an obviousness
+test by considering that “[a]t this stage, the Tribunal need not go beyond whether a
+reasonable case has been made which, if the facts alleged are proven, might possibly lead
+
+17
+© 2019 Kluwer Law International, a Wolters Kluwer Company. All rights reserved.
+the Tribunal to the conclusion that an award could be made in favor of Claimants.” (280)
+Therefore, and contrary to domestic courts, the tribunal does not have to assess the
+possibility of success on the underlying merits when it grants interim measures. (281)
+Besides, it underlines that implementing a stricter test “would require the Tribunal to
+proceed to a determination of the facts and, in practice, to a hearing on the merits of the
+case, a lengthy and complicated process which would defeat the very purpose of interim
+measures.” (282)
+
+p B14 Actually, this type of judicial review is of the same slight intensity as the one required to
+—peis_ Pass the filter of preliminary objections in the ICSID arbitration mechanism. Indeed, @
+~ according to Article 41(6) of the ICSID Arbitration Rules, the arbitral tribunal may render an
+
+award even if it considers “claims are manifestly without legal merit.” (283) At this specific
+stage, the tribunal must indeed decide the issue of jurisdiction but has only to consider
+prima facie the mere acceptability of the claim (albeit the intensity of conclusiveness
+required may vary in practice depending on common law and civil law approaches) (284)
+so as to refer to fumus boni juris as well as fumus non mali juris. (285) Consequently,
+because this prima facie test is implemented at the preliminary objections or interim
+measures stages the tribunal should not prejudge the decision on the merits. (286)
+
+Having found a potential basis for jurisdiction and a reasonable substantive claim, the
+arbitral tribunal finishes this prima facie assessment of the claim conducted regardless of
+the contents of the request for interim measures, and switches its focus to the substantive
+conditions under which such measures may be granted.
+
+2 Substantive Conditions as to Interim Protection
+
+Several ICSID and UNCITRAL tribunals pointed out that interim measures are
+“extraordinary” and should not be granted “lightly.” (287) Despite a certain convergence
+regarding the functions these measures pursue, the tribunals' arguments sometimes lack
+clarity and consistency as to the substantive conditions under which interim protection
+may be granted. A distinction is to be made between the exceptional conditions
+determining the necessity for the arbitral tribunal to protect the parties' rights pending
+arbitration and the conditions that the measures sought must satisfy in relation to the
+. necessity of protection.
+P 815
+P 817
+
+a Necessity to protect the parties' rights pending arbitration
+
+Arbitration rules do not provide much guidance as to the assessment of the necessity to
+protect parties' rights during the course of arbitration. (288) In our view, such assessment
+should follow three logical steps: (i) it is first necessary to underline the characteristics of
+the rights to be protected, then (ii) to determine the circumstances endangering the
+protection of these rights, and, finally, (iii) to identify the circumstances justifying an early
+protection. These three conditions are, of course, cumulative. (289)
+
+(i) Conditions as to the rights to be protected (rights entitled to protection). As pointed out by
+one author, the ICSID Convention and Arbitration Rules “do not specify which of the parties'
+rights might deserve protection by way of provisional measures.” (290) Other arbitration
+rules are equally silent on this issue. A study of arbitral precedents and commentaries
+suggest that two conditions must be fulfilled: first, rights to be protected must reasonably
+exist and, secondly, they must be connected to the main claim.
+
+It is not clear if the test related to the parties' rights to be protected overlaps the
+condition of the prima facie establishment of the case. In Maffezini v. Spain, the tribunal
+laconically stated “that such rights must exist at the time of the request, must not be
+hypothetical, nor are ones to be created in the future.” (291) This position has been
+moderated by subsequent decisions, and notably in Casado v. Chile which considered that
+the aforementioned Maffezini decision “contains ... some statements that may be
+susceptible to misunderstanding.” (292) Underlining that “[i]t is clearly not a question for
+the Tribunal of prejudging in any way ... its eventual decision on the substance,” (293) the
+decision pointed out that:
+
+It [the tribunal] must therefore reason, at this preliminary stage of the arbitration process,
+on the basis not of “assumptions” but of “hypotheses,” in particular that by which it may
+come to recognize its own jurisdiction on the substance of the case, and in such a case, the
+hypothesis whereby the rights that the decision may recognize for one or the other of the
+parties in question could be placed in danger or compromised by the absence of
+provisional measures. (294)
+
+This view has been confirmed and clarified in OPC v. Ecuador, where the arbitral tribunal
+stressed that “the right to be preserved only has to be asserted asa theoretically existing
+right, as opposed to proven to exist in fact” (295) and that the claimant “need only @ show
+that they allege the kind of claims that—if ultimately proven—would entitle claimants to
+substantial relief.” (296) The prima facie test seems therefore to be sufficient in order to
+recognize the possibility to protect rights that are included in the claim, a situation that is
+involved in most of the requests for interim measures.
+
+P 817
+P 818
+vv
+
+It is nonetheless necessary to consider the protection of rights other than those raised by
+the claimant in its substantive claim. The standard adopted by the I.C.J. lies in the
+
+18
+© 2019 Kluwer Law International, a Wolters Kluwer Company. All rights reserved.
+existence of a strict relationship between the rights to be protected and the main claim.
+(297) Arbitral tribunals have relied on this standard, such as in Plama v. Bulgaria, where
+arbitrators considered that “the rights to be preserved by provisional measures are
+circumscribed by the requesting party's claims and requests for relief ... [and] must be
+related to the specific disputes in arbitration.” (298) This standard enables tribunals to
+extend their interim power and thereby take into consideration substantive as well
+procedural rights having a connection with the rights at stake, such as, for the latter
+category, the preservation of evidence, (299) but interim protection cannot be granted so
+as to protect the rights of third parties such as subsidiaries. (300) To corroborate the
+previous analysis on the allocation of interim power between arbitral tribunals and
+domestic courts, the lack of relationship between the frustration of the award and the
+main claim could be viewed as one of the reasons why arbitral tribunals have been
+reluctant to grant pre-award security. This is particularly so considering that the protection
+request focuses mainly on the outcome of the merits rather than the rights eventually to be
+recognized by the tribunal. (301)
+
+(ii) Circumstances justifying protection (causality and necessity). The tribunal must not only
+recognize that a certain party's right included in or related to the main claim is at stake,
+but must also demonstrate that circumstances are likely to cause a violation or an
+aggravation of the violation of rights entitled to protection. The tribunal must therefore
+carry out a prospective analysis, requiring “a degree of speculation,” (302) in order to
+determine if certain circumstances are, first, likely to occur in the future and, secondly,
+likely to affect the rights deserving protection. If the first part of the test is purely factual,
+the second is subject to debate.
+
+International courts and arbitral tribunals have often underlined the necessity to
+demonstrate an “irreparable harm” or “irreparable prejudice.” (303) However, as pointed
+out by one author, “the terms of ‘grave’ or ‘substantive’ might be more appropriate than
+‘irreparable.’” (304) Indeed, the idea underlying the term “irreparable” suggests that the
+rights deserving protection would not even be compensable in case of violation. It is
+P 818 certain that some kinds of reparations are more adequate than others, but all harm could
+—pajg @ be considered as compensable eventually. Additionally, the tribunal pointed out in
+~ Sergei Paushok v. Mongolia that “[t]he possibility of monetary compensation does not
+
+necessarily eliminate the possible need for interim measures.” (305) Therefore, as
+underlined in Biwater v. Tanzania, the standard is met when there “exists a sufficient risk of
+harm or prejudice, as well as aggravation, in this case to warrant some form of control.”
+(306)
+
+Some tribunals have applied a stricter test when the Claimants' posture consisted
+essentially in monetary damages. In Plama v. Bulgaria, the tribunal pointed out that “harm
+is not irreparable if it can be compensated for by damages, which is the case in the
+present arbitration and which, moreover, is the only remedy claimant seeks.” (307)
+Likewise, in OPC v. Ecuador, the arbitral tribunal considered that interim relief was not
+available, as the claimant's request “is not to avoid aggravation of the dispute per se, but
+rather aggravation of the monetary damages resulting from an already existing dispute.”
+(308)
+
+In our view, these positions are questionable. While it seems inappropriate to grant
+monetary damages reflecting the anticipated aggravation of the dispute as an interim
+protection, reparation in international investment disputes often results in monetary
+compensation, and it should not prevent the granting of measures, such as specific
+performance, deemed to lessen the final amount of damages. The arguments of the
+tribunals in Plama and OPC should have been placed on the ground of the availability of
+the measure rather than denying that the circumstances were likely to cause an
+aggravation of the prejudice.
+
+(iii) Circumstances justifying the interim protection (urgency). The risk of prejudice to parties’
+rights deserving protection has not only to be substantive, grave, or sufficient, it has also to
+be imminent. (309) Urgency is indeed the decisive factor justifying an upheaval of the
+arbitration process and “acceleration of these requests” (310) in order to decide them
+promptly. (311)
+
+Urgency is, of course, a factual determination and arbitral tribunals enjoy great latitude
+and “broad discretion” (312) while considering these criterion. Arbitral decisions tend to
+converge toward an objective factual analysis and one tribunal stated “the standard to be
+applied is one of reasonableness.” (313) The test is therefore similar to the one applied by
+the |.C.J. according to which “there is urgency in the sense that action prejudicial to @ the
+rights of either party is likely to be taken before such final decision is given.” (314) A certain
+degree of certainty or likelihood is therefore expected by arbitrators, such as in OPC v.
+Ecuador, where the tribunal rejected the request since in its view “the claimants are
+seeking a provisional measure in order to prevent an action which they are not even sure is
+being planned.” (315)
+
+ro
+P 818
+P 819
+vv
+
+b Appropriateness of the protective measure sought
+
+Since it has been established that an imminent danger is likely to substantially prejudice
+parties’ rights, arbitral tribunals are entitled to adopt an interim measure of protection.
+However, their leeway in this field is limited in two ways: the measure planned must be
+available and then proportional, reflecting the principles of limitations guiding the
+
+19
+© 2019 Kluwer Law International, a Wolters Kluwer Company. All rights reserved.
+restitution of state responsibility in international law.
+
+(i) Availability of the measure. Except in the very specific cases where the measure sought is
+expressly prohibited by the lex arbitralis specialis, (316) the scope of measures available
+for arbitrators is limited by the scope of measures they have the authority to grant on the
+merits. This element plays a significant role in international investment arbitration since
+the remedies that could be granted against a sovereign state are limited in nature.
+
+This question has been dealt with at length in OPC v. Ecuador, where the issue at stake was
+the possibility to grant specific performance against a state by way of interim relief.
+Relying on a long-standing jurisprudence on expropriation, the tribunal considered that
+“[i]t is well established that where a State has, in the exercise of its sovereign powers, put
+anend to a contract ora license, or any other foreign investor's entitlement, specific
+performance must be deemed legally impossible.” (317) Hence, interim measures
+consisting of a restitutio in integrum are deemed to infringe rights of host states stemming
+from their permanent sovereignty over their natural resources. Considering that there is no
+arguable “right to specific performance where a natural resources concession agreement
+has been terminated or cancelled by a sovereign state,” (318) the arbitral tribunal refused
+to grant a measure that would not have been available on the merits. The solution would
+be identical if the measure sought would compel the state to modify its regulatory
+framework. (319)
+
+(ii) Proportionality of the measure. According to the arbitrators in Sergei Paushok v.
+Mongolia, the tribunal “is called upon to weigh the balance of inconvenience inthe
+P 819 imposition of interim measures upon the parties.” (320) Interestingly, some arbitrators
+—pen9 Nave already relied @ on the principles of state responsibility in public international law
+~ to justify the recourse to the principle of proportionality while considering interim relief.
+
+In OPC v. Ecuador, (321) mention was made of Article 35 of the ILC Articles on State
+Responsibility (322) providing that “[a] State responsible for an internationally wrongful act
+is under an obligation to make restitution ... provided and to the extent that restitution ...
+(b) [dloes not involve a burden out of proportion to the benefits deriving from restitution
+instead of compensation.” This parallel seems perfectly logical, as interim relief and
+reparation both seek the same objective of protection of rights, and it would be
+inconsistent to grant an interim measure that would have been disproportionate, therefore
+breaching the principles of reparation in state responsibility.
+
+This limitation justifies the possibility for the arbitrator to decide interim relief not only
+proprio mutu, but also ultra petita. (323) Indeed, parties may have a penchant for
+exaggerating the relief sought, file too general interim requests, (324) and tribunals have
+the authority to adapt these requests to what is strictly necessary to “prevent the erosion
+of rights pending final resolution of the dispute.” (325) An example can be found in Sergei
+Paushok v. Mongolia, where the arbitral tribunal, considering that “different measures with
+equivalent results can also be considered,” rejected the specific measure sought by the
+requesting party and retained another one “having the same effect.” (326) Likewise, it is
+obvious that interim measures “are not deemed to give to the party requesting them more
+rights than it ever possessed and has title to claim.” (327)
+
+IV Conclusion
+
+Putting aside the contingent shortcomings in the legal reasoning and the lack of clarity of
+some arbitral interim decisions, an analysis of interim protection in international
+investment arbitration has demonstrated a great convergence in the practice of arbitral
+tribunals. This is true despite textual differences in rules governing the conduct of
+proceedings, mostly between the ICSID Convention and other arbitral mechanisms. While
+this could suggest the emergence of a distinct regime, the recurrent reliance by arbitrators
+on the jurisprudence of international courts and tribunals suggests a penchant and a
+tendency to bind themselves more to the public international law sphere than toa
+transnational regime of international commercial arbitration. Apart from this, interim
+protection is an essential function of adjudication that actually goes beyond the written @
+rules deemed to govern the arbitration process and highlights the inherent part of
+imperium every tribunal enjoys, be it a domestic, interstate, or arbitral body.
+
+ro
+P 820
+P 821
+vv
+
+However, the imperium of arbitral tribunals is far from being identical to that of national
+courts. Lacking the coercive powers of the latter, arbitrators should exclusively focus on
+their mission of adjudication, and the scope of their interim powers should reflect this
+genuine jurisdictio function. In practice, tribunals arbitrating investment disputes have
+been reluctant to grant interim measures which guarantee the execution of the award,
+highlighting the profound discontinuity between arbitration and litigation. The recourse to
+domestic courts remains a core issue in international investment arbitration, where a
+significant distinction between ICSID and non-ICSID arbitration appears. Indeed, while the
+possibility to request interim relief before domestic courts is the default rule for the latter,
+it requires an opt-in process for the former, therefore, non-ICSID arbitral frameworks leave
+greater room for the adoption of interim measures by domestic courts, not to mention that
+arbitral interim measures are more likely to be enforced in the same forums when they
+emanate from non-ICSID tribunals. Consequently, investors and states, when negotiating
+arbitration agreements or investment treaties, should be aware of this crucial distinction
+between the two kinds of arbitral mechanisms.
+
+20
+© 2019 Kluwer Law International, a Wolters Kluwer Company. All rights reserved.
+However, recourse to such measures in domestic courts has also shown a potentially
+dangerous exploitation of interim protection as a weapon serving the bargaining power of
+the requesting party to settle the dispute, rather than the efficiency of the entire
+arbitration process. Such strategies can be counterproductive in the long run and the risks
+of growing mistrust in international investment arbitration frameworks should not be
+underestimated. International investment arbitration is a dispute resolution mechanism
+exclusively depending on consent, and it should not be forgotten that the major declines in
+international justice, as well as withdrawals of unilateral declarations recognizing the
+compulsory jurisdiction of the I.C.J., often occurred after decisions that states felt
+assaulted their sovereignty or misinterpreted their consent. (328) While the development
+of interim protection of rights consolidates and strengthens the place of international
+judges or arbitrators and, more broadly, the progress of the “judicialization” of
+international law, the overall growing tendency towards (not to say sometimes abuses of)
+requests for interim measures in investor-state or interstate disputes (329) contributes also
+to this rising skepticism, and certainly weakens and possibly jeopardizes the overall
+
+ro
+P 821 yas . :
+———_ sustainability of these dispute settlement mechanisms.@
+
+References
+
+*) Ph.D. (Université Paris 1 Panthéon-Sorbonne), LL.M. (Columbia Law School, Harlan
+Fiske Stone Scholar), Research and Teaching Fellow in Public International Law at
+Université Paris 1 Panthéon-Sorbonne (since 2004). The author is grateful to Prof.
+Pieter Bekker, Christopher Boog, Eugenia Levine, and Matthew Jasilli for their useful
+comments on previous drafts of this article and wishes to thank Prof. Franco Ferrari
+for stimulating discussions on this topic. The views expressed in this article are those
+of the author only and any errors or omissions are his sole responsibility.
+
+1) Lawrence Collins, Provisional and Protective Measures in International Litigation, 234
+Recueil des Cours 9, 23 (1993).
+
+2) Jerome B. Elkind, Interim Protection: A Functional Approach 162 (1981).
+
+3) Guillaume Le Floch, L'Urgence devant les juridictions internationales 422 (2008)
+(pointing out that the executive function corresponds to the present, and the
+legislative function to the future).
+
+4) Application of the Convention on the Prevention and Punishment of the Crime of
+Genocide (Bosnia and Herzegovina v. Yugoslavia (Serbia and Montenegro)), 1993 I.C.J.
+3, 16, para. 25 (Order of April 8) (request for the indication of provisional measures).
+
+5) Le Floch, supra note 3, at 422. The scope of the arbitrator's imperium is to be
+distinguished from that of the domestic judge. See Charle Jarrosson, Réflexions sur
+L'imperium, in Etudes offertes a Pierre Bellet 245, 260 et seq. (1991) (according to
+whom the imperium is comprised of the imperium merum, reflecting the coercive
+powers of public authorities, and the imperium mixtum, corresponding to the powers
+permitting the fulfillment of the jurisdictio function, including, e.g., the measures of
+judicial administration such as ordering the production of evidence. The arbitrator is
+endowed with the imperium mixtum but lacks the imperium merum of the domestic
+judge.)
+
+6) Fora recent and comprehensive study, see Ali Yesilirmak, Provisional Measures in
+International Commercial Arbitration (2005).
+
+7) Convention on the Settlement of Investment Disputes Between States and Nationals
+of Other States, March 18, 1965, 575 U.N.T.S. 159 [hereinafter “ICSID Convention”]; Rules
+of Procedure for Arbitration Proceedings (2006), available at
+<http://icsid.world bank.org/ICSID/StaticFiles/basicdoc/CRR_English-final.pdf>
+[hereinafter “ICSID Arbitration Rules”].
+
+8) Rules Governing the Additional Facility for the Administration of Proceedings by the
+Secretariat of the International Centre for Settlement of Investment Disputes (2006),
+available at <http://icsid.worldbank.org/ICSID/StaticFiles/facility/AFR_English-
+final.pdf> [hereinafter “ICSID Additional Facility Rules”.
+
+9) United Nations Commission on International Trade Law Arbitration Rules, U.N. G.A.
+Res. 31/98, U.N. Doc. A/31/17 (December 15, 1976) [hereinafter “UNCITRAL Rules”].
+
+10) Arbitration Rules of the Arbitration Institute of the Stockholm Chamber of Commerce
+(2007), available at
+<www.sccinstitute.se /filearchive /2/21686/2007_arbitration_rules_eng.pdf>
+[hereinafter “SCC Rules”].
+
+11) Rules of Arbitration of the International Chamber of Commerce (1998), available at
+<www.iccwbo.org/uploadedFiles/Court/Arbitration/other/rules_arb_english.pdf>
+[hereinafter “ICC Rules”].
+
+12) Arbitration Rules of the London Court of International Arbitration (1998), available at
+<www.lcia.org/ARB_folder/arb_english_main.htm> [hereinafter “LCIA Rules”].
+
+13) Noah D. Rubins & Norman Stephan Kinsella, International Investment, Political Risk
+and Dispute Resolution: A Practitioner's Guide 311 (2005).
+
+14) ICSID Arbitration Rules, art. 48(4), provides that “[t]he Centre shall not publish the
+award without the consent of the parties. The Centre shall, however, promptly include
+in its publications excerpts of the legal reasoning of the Tribunal.”
+
+21
+© 2019 Kluwer Law International, a Wolters Kluwer Company. All rights reserved.
+15)
+
+16)
+
+17)
+18)
+19)
+
+20)
+
+21)
+22)
+23)
+24)
+
+25)
+
+26)
+27)
+
+28)
+
+29)
+
+30)
+
+31)
+
+32)
+33)
+
+34)
+
+35)
+
+See, e.g., Yesilirmak, supra note 6, at 9. For instance, in an ICSID case, the arbitral
+tribunal noted the difference of terminology between the ICSID Convention and the
+Central America Free Trade Agreement (CAFTA) and stated that “[t]he ICSID
+Convention uses the term ‘provisional measures,’ CAFTA uses ‘interim measures.’ Both
+terms are used in this decision without any attempt to distinguish between them.”
+See also Railroad Development Corp. v. Republic of Guatemala, ICSID Case No.
+ARB/07/23, Decision on Provisional Measures, October 15, 2008, para. 1 n.1, available
+at <http://ita.law.uvic.ca/documents/RDC-ProvisionalMeasures.pdf>.
+
+Emmanuel Gaillard, La jurisprudence du CIRDI 226-27 (2004). This author underlines
+the necessary distinction between the conservatory measures prior to the
+enforcement of the award, such as attachments, and other provisional measures such
+as the preservation of evidence, the latter being the exclusive province of the arbitral
+tribunal, whereas the former could potentially be granted by domestic courts. See
+also infra notes 217-246 and accompanying text.
+
+Yesilirmak, supra note 6, at 9.
+
+Carlo Santulli, Droit du contentieux international 456 (2005).
+
+Yesilirmak, supra note 6, at 56-58. See also infra notes 166-180 and accompanying
+text.
+
+Andrea Giardina, ICSID: A Self-Contained, Non-National Review System, in International
+Arbitration in the 21st Century: Towards “Judicialization” and Uniformity? 199 et seq.
+(Richard B. Lillich & Charles N. Brower eds., 1994); Yesilirmak, supra note 6, at 62;
+Christoph H. Schreuer, The ICSID Convention: A Commentary 666 (2001).
+
+ICSID Arbitration Rules, art. 39(6). See also infra notes 78-87 and accompanying text.
+Schreuer, supra note 20, at 672, 683.
+
+Id. at 1078.
+
+The arrangement Is subject to the possibility of attracting a more favorable interim
+protection regime through the most-favored-nation clause mechanism. See Alejandro
+Faya Rodriguez, The Most-Favored-Nation Clause in International Investment
+Agreements: A Tool for Treaty Shopping? 25 J. Int'l Arb. 89 (2008); Bruno Poulain,
+Clauses de la nation la plus favorisée et clauses d'arbitrage investisseur-état: est-ce la
+fin de la jurisprudence Maffezini? 25 A.S.A. Bull. 279 (2007).
+
+An odd situation might arise if the consent for an ICSID arbitration lies in the host
+state legislation. We could indeed wonder if it implies the application of the lex
+arbitri. To our knowledge, no dispute has dealt with this issue so far. However, art. 44
+of the ICSID Convention indicates that the provisions of the Convention and the
+Arbitration Rules shall govern the arbitration “except as the parties otherwise agree.”
+Although the unilateral character of the host state legislation renders the lex arbitri
+not agreed upon between parties, it could be argued that the investor's consent to
+ICSID jurisdiction through host state legislation implies an acceptance of the
+conditions under which the host state has consented to offer jurisdiction to an ICSID
+tribunal.
+
+Schreuer, supra note 20, at 672-73.
+
+Railroad Development Corp. v. Republic of Guatemala, supra note 15, paras. 27-30
+(the arbitral tribunal reproduced the relevant provisions on interim measures
+included inthe ICSID Convention, ICSID Arbitration Rules, and the CAFTA without
+discussing the interplay between them).
+
+Art. 18(c) of the agreement mentioned in the arbitral tribunal's decision, see infra
+note 29, para. 7.
+
+Tanzania Electricity Supply Co. Ltd. v. Independent Power Tanzania Ltd., ICSID Case
+No. ARB/98/8, Decision on Request for Provisional Measures, December 20, 1999, 8
+ICSID Rep. 239, para. 11.
+
+North American Free Trade Agreement (NAFTA), U.S.-Canada-Mexico, December 17,
+1992, 32 |.L.M. 289; 32 I.L.M. 605.
+
+Model Bilateral Investment Treaty (2004), art. 28(8), available at
+<www.ustr.gov/assets/Trade_Sectors/Investment/Model_BIT/asset_upload_file847_6
+897.pdf> [hereinafter “2004 U.S. Model BIT”).
+
+NAFTA, supra note 30, except for the situation where the provisions of the ICSID
+Convention and Arbitration Rules are mandatory.
+
+Meg N. Kinnear et al., Investment Disputes Under NAFTA: An Annotated Guide to NAFTA
+Chapter 11, 1134-35 (2006).
+
+See the recent amendments (U.N. Doc. A/RES/61/33 (2006)) resulting in the
+modification of art. 17 (“Interim Measures and Preliminary Orders”) of the UNCITRAL
+Model Law on International Commercial Arbitration, available at
+<www.uncitral.org/pdf/english/texts/arbitration/ml-arb/07-86998_Ebook.pdf>
+[hereinafter “UNCITRAL Model Law’”].
+
+Yesilirmak, supra note 6, at 60.
+
+22
+
+© 2019 Kluwer Law International, a Wolters Kluwer Company. All rights reserved.
+36)
+
+37)
+
+38)
+
+39)
+
+40)
+
+41)
+
+42)
+
+43)
+
+44)
+
+45)
+
+46)
+47)
+
+48)
+49)
+
+50)
+
+51)
+
+52)
+53)
+
+The fact that the consent for arbitration lies ina public international law instrument
+such asa bilateral investment treaty does not preclude the application of the
+mandatory rules included in the lex arbitri if the seat of arbitration is neither located
+inthe country of citizenship of the investor, nor the host state of the investment. In
+the latter case, the lex arbitri is superseded by an international agreement binding on
+the two states, but this is unlikely to happen considering that the seat of arbitration
+is rarely chosen outside one of these two states. Otherwise the lex arbitri of a third
+state is not superseded by the investment treaty, considering that “a treaty does not
+create either obligations or rights for a third State without its consent,” according to
+the res inter alios acta principle embedded in art. 34 of the Vienna Convention on the
+Law of Treaties, May 23, 1969, 1165 U.N.T.S. 331.
+
+EnCana Corp. v. Republic of Ecuador, UNCITRAL, LCIA Case No. U.N.3481, Interim
+Award: Request for Interim Measures of Protection, January 31, 2004, para. 10,
+available at <http://ita.law.uvic.ca/documents/Encana-InterimAward.pdf>. See also
+Metalclad Corp. v. United Mexican States, ICSID Case No. ARB(AF)/97/1, Procedural
+Order No. 1, October 27, 1997, para. 7, available at
+<http://naftaclaims.com/Disputes/Mexico/Metalclad /MetalcladProceduralOrder1.p
+df> (noting that the request “does not invoke article 47 of the Additional Facility Rules
+which deals with provisional measures of protection. Even so, the reference to article
+1134 of NAFTA is sufficient to oblige the Tribunal to consider whether the situation is
+One requiring an order for provisional measures of protection”).
+
+ICSID Additional Facility Rules, art. 46; UNCITRAL Rules, art. 26; SCC Rules, art. 31; ICC
+Rules, art. 23; LCIA Rules, art. 25.
+
+The lex arbitri can also empower the arbitral tribunal itself to adopt interim
+measures. See Guy Robin, Conservatory and Provisional Measures in International
+Arbitration: The Role of State Courts, Int'l Bus. L. J. 319, 320 et seq. (2008).
+
+For some examples of leges arbitri empowering exclusively domestic courts to grant
+provisional measures, see Yesilirmak, supra note 6, at 64.
+
+See, e.g., art. 1696(1) of the Belgian Judicial Code forbidding an arbitral tribunal
+seated in Belgium ordering of seizure of goods; Eric Schafer, Herman Verbist, &
+Christophe Imhoos, ICC Arbitration in Practice 115 (2005).
+
+See, e.g., the hypothetical cases highlighting the crucial importance of this lapse,
+cited in Ben H. Sheppard, Jr. & John M. Townsend, Holding the Fort Until the Arbitrators
+are Appointed: The New ICDR International Emergency Rule, 61 Disp. Resol. J. 75, 76-77
+(No. 2, 2006).
+
+ICSID Convention, art. 66(1). Indeed, an amendment to the ICSID Convention would
+have been necessary considering that, under art. 47 of the Convention, it is the sole
+authority for the arbitral tribunal to adopt interim protective measures.
+
+Yves Derains & Eric A. Schwartz, A Guide to ICC Rules of Arbitration 297-98 (2d ed.
+2005). For some recent applications, see Jean-Paul Beraudo, Recognition and
+Enforcement of Interim Measures of Protection Ordered by Arbitral Tribunals, 22 J. Int'l
+Arb. 245, 250 (2005); Emmanuel Gaillard, ICC Pre-Arbitral Referee: A Procedure into its
+Stride, N.Y.L.J., October 5, 2006, at 3.
+
+International Arbitration Rules of the International Centre for Dispute Resolution of
+the American Arbitration Association (2008), available at <www.adr.org/sp.asp?
+id=33994#I nternational%20Arbitration> [hereinafter “AAA-ICDR Rules” ].
+
+See AAA-ICDR Rules, art. 37.
+
+Sheppard & Townsend, supra note 42, at 77-78. See also Guillaume Lemenez & Paul
+Quigley, Emergency Arbitrator: The ICDR's Procedure in Action, Part I: Look at the
+Empirical Data, Disp. Resol. J. 1 (2008).
+
+ICSID Arbitration Rules, art. 39(1); ICSID Additional Facility Rules, art. 46(1); SCC Rules,
+art. 31(1); ICC Rules, art. 23(1).
+
+ICSID Arbitration Rules, art. 39(3); ICSID Additional Facility Rules, art. 46(2). See also
+Yesilirmak, supra note 6, at 200-01.
+
+The possibility for an arbitral tribunal to adopt interim measures will, however,
+depend on certain conditions, such as the requirement of a prima facie jurisdiction.
+See infra notes 265-276 and accompanying text. Moreover, we should note that the
+waiting period before initiating arbitration “need not have lapsed ... if negotiation
+attempts were clearly futile.” See Sergei Paushok, CJSC Golden East Co. and CJSC
+Vostokneftegaz Co. v. Mongolia, UNCITRAL, Order on Interim Measures, September 2,
+2008, para. 52, available at <http://ita.law.uvic.ca/documents/Paushok-Interim.pdf>.
+Victor Pey Casado and President Allende Foundation v. Republic of Chile, ICSID Case
+No. ARB/98/2, Decision on the Request for Provisional Measures, September 25, 2001,
+6 ICSID Rep. 375, 378, para. 5.
+
+Railroad Development Corp. v. Republic of Guatemala, supra note 15, para. 31.
+Santulli, supra note 18, at 440-41.
+
+23
+
+© 2019 Kluwer Law International, a Wolters Kluwer Company. All rights reserved.
+54)
+
+55)
+56)
+57)
+
+58)
+
+59)
+60)
+61)
+
+62)
+
+63)
+
+64)
+
+65)
+66)
+67)
+68)
+69)
+
+70)
+71)
+72)
+73)
+
+74)
+
+75)
+76)
+
+77)
+
+UNCITRAL Rules, art. 26(1) (“[a]t the request of either party”); SCC Rules, art. 26(1) (“at
+the request of a party”); ICC Rules, art. 23(1) (“at the request of a party”); LCIA Rules,
+art. 25(1) (“on the application of any party”). Albeit art. 26(1) of the UNCITRAL Rules
+clearly indicates that the arbitral tribunal may take any interim measures “at the
+request of the party,” the Iran-United States Claims Tribunal has already considered
+that its power to order interim relief proprio mutu “is in no way restricted by the
+language in Article 26 of the Tribunal Rules.” See also Rockwell Int'l Systems, Inc. v.
+Islamic Republic of Iran, Ministry of Defence, Award No. ITM 20-430-1, June 6, 1983, 2
+lran-U.S. C.T.R. 369, 371.
+
+For some examples, see Schreuer, supra note 20, at 749-50.
+
+Schreuer, supra note 20, at 749.
+
+The I.C.J. indicated interim measures proprio mutu only once in its history; Karin
+Oellers-Frahm, Article 41, in The Statute of the International Court of Justice: A
+Commentary 923, 945 (A. Zimmermann, C. Tomuschat, & K. Oellers-Frahm eds., 2005).
+
+Julian D.M. Lew, Loukas A. Mistelis, & Stefan Michael Kroll, Comparative International
+Commercial Arbitration 789 (2003).
+
+ICSID Arbitration Rules, art. 39(2); ICSID Additional Facility Rules, art. 46(1).
+
+ICSID Arbitration Rules, art. 39(3); ICSID Additional Facility Rules, art. 46(2).
+
+For more details, see Pierre Lalive, The First “World Bank” Arbitration (Holiday Inns v.
+Morocco): Some Legal Problems, 51 British Y.B. Int'l L. 123, 136 (1980).
+
+Azurix Corp. v. Argentine Republic, ICSID Case No. ARB/01/12, Decision on Jurisdiction,
+December 8, 2003, para. 14; the tribunal held that “in the circumstances of the case
+and at that stage of proceedings, it was not ina position to recommend the specific
+measure requested or to propose others with the same objective.” Available at
+<http://ita.law.uvic.ca/documents/Azurix-Jurisdiction.pdf>. See also infra notes 320-
+327 and accompanying text.
+
+NAFTA, art. 1134; 2004 U.S. Model BIT, art. 28(8). NAFTA's commentators, doubting the
+obviousness of this solution, pointed out that “Article 1134 is silent on whether a
+tribunal can issue an order for interim measures on its own initiative ... A tribunal
+operating under Article 26 of the UNCITRAL Arbitration Rules cannot issue an order for
+interim measures sua sponte. It will be interesting to see how a tribunal addresses
+this difference in applicable arbitration rules if it arises in Chapter 11 Context.”
+Kinnear et al., supra note 33, at 1134-211.
+
+ICSID Arbitration Rules, art. 39(4); ICSID Additional Facility Rules, art. 46(3). In City
+Oriente Ltd. v. Republic of Ecuador and Empresa Estatal Petroleos del Ecuador
+(Petroecuador), ICSID Case No. ARB/06/21, Decision on Provisional Measures,
+November 19, 2007, para. 70, the tribunal considered that this provision “does not
+require that each party has actually submitted its observations, but that it has been
+afforded an opportunity to do so—where, provided that such opportunity has been
+afforded, a party has failed to do so or has partially done so, the tribunal will have
+met the regulatory requirement and there is no obstacle to the ordering of
+provisional measures.” Available at <http://ita.law.uvic.ca/documents/CityOrient-
+ProvisionalMeasures-EN.pdf>. See also Perenco Ecuador Ltd. v. Republic of Ecuador
+and Empresa Estatal Petroleos del Ecuador (Petroecuador), ICSID Case No. ARB/08/6,
+Decision on Provisional Measures, May 8, 2009, para. 68, available at
+<http://ita.law.uvic.ca/documents/PerencoEcuadorDecision.pdf>.
+
+Lew, Mistelis, & Kroll, supra note 58, at 607.
+
+Kinnear et al., supra note 33, at 1134-44.
+
+UNCITRAL Rules, art. 15(1).
+
+SCC Rules, art. 20(3); ICC Rules, art. 15(2); LCIA Rules, art. 14(1).
+
+According to the arbitral tribunal in that case, “[t]he powers of the tribunal relating to
+interim (or provisional) measures are set in Articles 15(1), 26(1) and 26(2) of [UNCITRAL]
+rules,” see Sergei Paushok, CJSC Golden East Co. and CJSC Vostokneftegaz Co. v.
+Mongolia, supra note 50, para. 34 (art. 15(1) relates to the general due process rights of
+the parties).
+
+Lew, Mistelis, & Kroll, supra note 58, at 606-07.
+
+Kinnear et al., supra note 33, at 1134-213 et seq.
+
+Yesilirmak, supra note 6, at 223-24; Lew, Mistelis, & Kroll, supra note 58, at 607-08.
+Andrew Tweedale & Keren Tweedale, Arbitration of Commercial Disputes:
+International and English Law and Practice 304-05 (2005).
+
+Pieter H.F. Bekker, Provisional Measures in the Recent Practice of the International
+Court of Justice, 7 Int'l L. Forum 24, 31 (2005) (citing LaGrand (Germany v. United States
+of America), infra note 138, and pointing out that “in case of extreme urgency” such as
+“the possibility of a death sentence being carried out by the Respondent in the days
+following the submission of the request,” the I.C.J. is “likely to dispense with
+hearings”).
+
+Schreuer, supra note 20, at 750.
+
+According to art. 52(1)(d) of the ICSID Convention, a party may request annulment of
+the award if “there has been a serious departure from a fundamental rule of
+procedure.”
+
+According to art. V(1)(b) of the 1958 New York Convention on the Recognition and
+Enforcement of Foreign Arbitral Awards, June 10, 1958, 330 U.N.T.S. 38 [hereinafter
+“New York Convention” ], the recognition or enforcement of a foreign arbitral award
+may be refused if “the party against whom the award is invoked was... unable to
+present his case.”
+
+24
+
+© 2019 Kluwer Law International, a Wolters Kluwer Company. All rights reserved.
+78)
+79)
+
+80)
+81)
+
+82)
+83)
+
+84)
+85)
+
+86)
+
+87)
+
+88)
+
+89)
+90)
+91)
+92)
+93)
+94)
+95)
+96)
+97)
+98)
+99)
+100)
+
+Fora summary of the arguments on both sides, see Schreuer, supra note 20, at 382-83.
+For instance, in Atlantic Triton Co. v. People's Revolutionary Republic of Guinea, ICSID
+Case No. ARB/84/1, Award, April 21, 1986, 3 ICSID Rep. 17, 35, the claimant sought
+attachment of property before French courts before starting ICSID arbitration. His
+request was first accepted by the Commercial Court of Quimper (October 12, 1983),
+then refused by a judgment of the Cour d'appel of Rennes which pointed out (October
+26, 1984) that “the clear purpose and spirit of the Convention, as revealed by the
+Arbitration Rules, implies that the arbitral tribunal has the general and exclusive
+power to rule not only on the merits of the dispute but also on all provisional
+measures.” The Cour de Cassation quashed this judgment (November 18, 1986),
+considering that art. 26 of the ICSID Convention “was not intended to prohibit parties
+from applying to a national court to seek conservatory measures in order to
+guarantee the execution of an award which might subsequently be given” (3 ICSID
+Rep. 5-12). Between the two latter decisions, the arbitral tribunal decided that ICSID
+jurisdiction to recommend such measures “should be exclusive and prohibit any
+recourse to national courts, traditionally and universally recognized as having sole
+jurisdiction to order such measures.” For an overview of the relevant ICSID cases, see
+Collins, supra note 1, at 101-5.
+
+Atlantic Triton Co. v. People's Revolutionary Republic of Guinea, supra note 79, at 35.
+Charles N. Brower & Ronald E.M. Goodman, Provisional Measures and the Protection of
+ICSID Jurisdictional Exclusivity Against Municipal Proceedings, 6 ICSID Rev. 431, 435 (No.
+2, 1991).
+
+Lew, Mistelis & Kroll, supra note 58, at 788.
+
+NAFTA, art. 1121(1)(b) and (2)(b), specify that the investor “waive[s] their right to
+initiate or continue before any administrative tribunal or court under the law of any
+Party ... except for proceedings for injunctive, declaratory or other extraordinary
+relief, not involving the payment of damages, before an administrative tribunal or
+court under the law of the disputing Party.” Kinnear et al., supra note 33, at 1134-212.
+2004 U.S. Model BIT, art. 25(3), provides that “the claimant ... may initiate or continue
+an action that seeks interim injunctive relief and does not involve the payment of
+monetary damages before a judicial or administrative tribunal of the respondent,
+provided that the action is brought for the sole purpose of preserving the claimant's
+or the enterprise's rights and interests during the pendency of the arbitration.”
+Rubins & Kinsella, supra note 13, at 275.
+
+It is therefore important for domestic courts to deal very carefully with the condition
+of likelihood of success on the merits which is a frequent prerequisite for the granting
+of provisional measures in domestic law.
+
+Contra Katia Yannaca-Small, Parallel Proceedings, in The Oxford Handbook of
+International Investment 1008, 1027 (Peter Muchlinski, Federico Ortino, & Christoph H.
+Schreuer eds., 2008) (author sees in art. 47 of the ICSID Convention or art. 1134 of
+NAFTA an “exception to the ‘fork-in-the road’ rule [that] would allow the investor to
+seek interim or injunctive relief under domestic procedures without foreclosing his
+rights to initiate international arbitration”). In our view, this opinion misinterprets
+those two articles referring to the “tribunal” as the arbitral tribunal and not any
+domestic court.
+
+Some guidance may be found in Enron Corp. and Ponderosa Assets, L.P. v. Argentine
+Republic, ICSID Case No. ARB/01/3, Decision on Jurisdiction, January 14, 2004, para.
+98, where the tribunal held that a strictly defensive measure may not trigger the “fork
+inthe road” mechanism, available at <http://ita.law.uvic.ca/documents/Enron-
+Jurisdiction.pdf>.
+
+The existence of the arbitration agreement, as well as the possibility of state court
+intervention, embedded inthe arbitration rules will be considered as a waiver of
+immunity from jurisdiction, thereby empowering domestic courts for the taking of
+interim protective measures. However, their implementation may be restricted in
+practice by the rules of sovereign immunity regarding the assets that are available in
+the case of a pre-award security. For some examples, see infra notes 232-246 and
+accompanying text.
+
+ICSID Additional Facility Rules, art. 46(4).
+
+UNCITRAL Rules, art. 26(3).
+
+SCC Rules, art. 31(2).
+
+ICC Rules, art. 23(2).
+
+LCIA Rules, art. 25(3).
+
+ICC Rules, art. 23(2).
+
+LCIA Rules, art. 25(3).
+
+Yesilirmak, supra note 6, at 93.
+
+Lew, Mistelis, & Kroll, supra note 58, at 618.
+
+Yesilirmak, supra note 6, at 95.
+
+Id. at 71.
+
+Notably in ICSID Convention arbitration; Lew, Mistelis, & Kroll, supra note 58, at 593.
+This issue will be developed infra notes 183-190 and accompanying text.
+
+25
+
+© 2019 Kluwer Law International, a Wolters Kluwer Company. All rights reserved.
+101) Andrea Carlevaris, The Enforcement of Interim Measures Ordered by International
+Arbitrators: Different Legislative Approaches and Recent Developments in the
+Amendment of the UNCITRAL Model Law, in Interim Measures in International
+Commercial Arbitration 13 (Association for International Arbitration ed., 2007);
+Yesilirmak, supra note 6, at 238.
+
+102) To our knowledge, the only reference suggesting that a recommendation of an ICSID
+tribunal may be enforced by a domestic court is the decision of the Cour d'appel of
+Rennes related to Atlantic Triton, see supra note 79, where the French court pointed
+out that “[t]he necessity for the parties to have recourse to national courts for the
+implementation of conservatory measures recommended by the arbitral tribunal
+cannot constitute a valid argument for depriving the arbitrators of all jurisdiction in
+the matter” (3 ICSID Rep. 9).
+
+103) See, e.g., Victor Pey Casado and President Allende Foundation v. Republic of Chile,
+supra note 51, para. 17 et seq.; City Oriente Ltd. v. Republic of Ecuador and Empresa
+Estatal Petroleos del Ecuador, supra note 64, para. 92; Emilio Agustin Maffezini v.
+Kingdom of Spain, ICSID Case No. ARB/97/7, Procedural Order No. 2, October 28, 1999,
+para. 9, available at <http://ita.law.uvic.ca/documents/Maffezini-
+ProvisionalMeasure-English_000.pdf>.
+
+104) See ICSID Convention, art. 48.
+
+105) Id. art. 53(2) provides that “[flor the purpose of this Section, ‘award’ shall include any
+decision interpreting, revising or annulling such award pursuant to Article 50, 51 or
+52.”
+
+106) Schreuer, supra note 20, at 1110 et seq.
+
+107) For instance, provisions of NAFTA, art. 1136, related to the “finality and enforcement of
+the award” have been considered by certain authors as potentially covering decisions
+on interim measures. Kinnear et al., supra note 33, at 1134-215.
+
+108) Tanzania Electricity Supply Co. Ltd. v. Independent Power Tanzania Ltd., supra note
+29, para. 32 (“The conclusions of the Tribunal in relation to the Request for Provisional
+Measures... were published in the form of ‘Decisions’ to be incorporated into our
+Final Award by reference in due course”).
+
+109) For instance, in Mine v. Guinea, a Swiss court relied heavily on the decision of the
+ICSID arbitral tribunal recommending the cessation of proceedings in domestic
+courts and lifted the attachment that was previously granted (see 4 ICSID Rep. 45-53).
+In CSOB v. Slovakia, however, the Slovak Supreme Court did not follow the
+recommendations of the ICSID tribunal to suspend domestic bankruptcy proceedings;
+see Schreuer, supra note 20, at 760-61.
+
+110) As pointed out by an UNCITRAL working group, “arbitrations are often conducted ina
+State that has little or nothing to do with the subject-matter in dispute,” see U.N. Doc.
+A/CN.9/WG.I|/WP.108, para. 76, and the courts of the place of arbitration may not
+have effective jurisdiction over the parties or the assets,” see U.N. Doc. A/CN.9/460,
+para. 119.
+
+111) For some useful insights, see Tijana Kojovic, Court Enforcement of Arbitral Decisions on
+Provisional Relief: How Final is Provisional, 18 J. Int'l Arb. 513, 513-20 (2001); Yesilirmak,
+supra note 6, at 247-54.
+
+112) Yesilirmak, supra note 6, at 258-59, “neither will be considered the rare situations
+where domestic laws provide a special regime for the recognition and enforcement of
+foreign arbitral interim measures,” and the specific situations of transposition of
+arbitral interim measures into court orders, therefore “portable” as domestic court
+orders (at 255-57).
+
+113) ICSID Additional Facility Rules, art. 46(3); SCC Rules, art. 31(1); LCIA Rules, art. 25(1).
+114) ICC Rules, art. 23(1). It is worth mentioning that art. 23(2) refers to “[t]he application of
+a party to a judicial authority for such measures or for the implementation of any
+
+such measures ordered by an Arbitral Tribunal.”
+
+115) UNCITRAL Rules, art. 26(2).
+
+116) Notably that the award must state the reasons on which it is based; see UNCITRAL
+Rules, art. 32; ICC Rules, art. 25; SCC Rules, art. 32; LCIA Rules, art. 26; ICSID Additional
+Facility Rules, art. 52.
+
+117) Tweedale & Tweedale, supra note 73, at 328-32; Yesilirmak, supra note 6, at 192-93.
+
+118) New York Convention, art. 1(1).
+
+119) Tweedale & Tweedale, supra note 73, at 328.
+
+120) Derains & Schwartz, supra note 44, at 275 (“Albeit it has a psychological dimension for
+arbitrators.”). As underlined by authors, under the ICC Rules, arbitrators have the
+power to tag their interim measures as an award with “the hope that it will enhance
+the possible enforcement of the arbitrator's decision.”
+
+26
+© 2019 Kluwer Law International, a Wolters Kluwer Company. All rights reserved.
+121) Tweedale & Tweedale, supra note 73, at 331-32. See also Marc J. Goldstein, Are
+Interlocutory Orders Arbitral Awards? Interpreting the New York Convention: When
+Should an Interlocutory Arbitral “Order” be Treated as an “Award”?, in American
+Arbitration Association Handbook on International Arbitration and ADR 178 (Thomas E.
+Carbonneau ed., 2006) (discussing the decision in Publicis Communication v. True
+North Communications Inc., 206 F.3d 725 (7th Cir. 2000). The U.S. Court of Appeals for
+the Seventh Circuit rejected the argument according to which an arbitral decision not
+labeled as “award” but “order” cannot be enforceable, as “extreme and untenable
+formalism” and that the “consistent use of the label ‘award’ when discussing final
+arbitral decisions does not bestow transcendental significance on the term. Their
+treatment of ‘award’ as interchangeable with final does not necessarily mean that
+synonyms such as decision, opinion, order, or ruling could not also be final. The
+content of a decision—not its nomenclature—determines finality” (at 728)). Contra, for
+example, the different position of the Australian courts in Resort Condominiums Inc.
+v. Ray Bowell and Resort Condominiums Pty. Ltd., October 29, 1993 (Sup. Ct.
+Queensland) 20 Y.B. Comm. Arb. 628) considering that “the reference to ‘arbitral
+award’ in the Convention does not include an interlocutory order made by an
+arbitrator but only an award which finally determines the rights of the parties.” /d. at
+640.
+
+122) Tweedale & Tweedale, supra note 73, at 332.
+
+123) For an overview of the case law on this issue, see Kojovic, supra note 111, at 522-27;
+Yesilirmak, supra note 6, at 261-62. However, it must be stressed that such a position
+is not shared by all domestic courts, nor commentators. Id. at 262-65.
+
+124) Supra note 121.
+
+125) Art. 17(h)(1) of the UNCITRAL Model Law, supra note 34, provides that “[a]n interim
+measure issued by an arbitral tribunal shall be recognized as binding and, unless
+otherwise provided by the arbitral tribunal, enforced upon application to the
+competent court, irrespective of the country in which it was issued.” On the work of
+UNCITRAL on this issue, see Kojovic, supra note 111, at 529-31; Yesilirmak, supra note 6,
+at 265-69.
+
+126) ICC Rules, art. 23(1); SCC Rules, art. 31(1); LCIA Rules, art. 25(1), (2).
+
+127) ICSID Additional Facility Rules, art. 46(3).
+
+128) UNCITRAL Rules, art. 26(1).
+
+129) Emphasis added.
+
+130) See, e.g., Vacuum Salt Products Ltd. v. Government of the Republic of Ghana, ICSID
+Case No. ARB/92/1, Decision No. 1 on Request for Recommendation of Provisional
+Measures, December 3, 1992 (cited in Award, February 16, 1994, 9 ICSID Rev. 72, 79,
+para. 16 (1994), where Ghana assured the tribunal “that it will not deny Vacuum Salt
+Products Limited ... access to its records, including any which are required for its
+compensation claim in this proceeding.” The arbitral tribunal also took note “of the
+fact that Vacuum Salt Products Limited acknowledged and accepted these
+undertakings as satisfying the concerns expressed in its Request for Provisional
+Measures.”
+
+131) Schreuer, supra note 20, at 757-58 (showing evidence that the term “recommend” was
+preferred to “prescribe” and that the availability of interim awards on provisional
+measures was not held established). See also Brower & Goodman, supra note 81, at
+440.
+
+132) Agip S.p.A. v. Government of the People's Republic of Congo, ICSID Case No. ARB/77/1,
+Award of November 30, 1979, 1 ICSID Rep. 306, 311, para. 9 (citing the decision of the
+arbitral tribunal of January 18, 1979 addressing recommendations to the Government
+of Congo); Amco Asia Corp. & others v. Republic of Indonesia, ICSID Case No. ARB/81/1,
+Decision on Request for Provisional Measures, December 9, 1983, 1 |CSID Rep. 410, 412
+(underlining that “the Tribunal does not deem it appropriate to issue a
+recommendation to the parties”); Ceskoslovenska Obchondi Banka, A.S. v. Slovak
+Republic, ICSID Case No. ARB/97/4, Procedural Order No. 4, January 11, 1999, available
+at <http://icsid.worldbank.org/ICSID/FrontServlet?
+requestType=CasesRH&actionVal=showDoc&docld=DC561_En&caseld=C160>, where
+the tribunal “[rlecommends that the above-mentioned bankruptcy proceedings be
+suspended.”
+
+133) Atlantic Triton Co. v. People's Revolutionary Republic of Guinea, supra note 79, at 35
+(original emphasis).
+
+134) Emilio Agustin Maffezini v. Kingdom of Spain, supra note 103, para. 9.
+
+135) Id. This argument was also used in City Oriente Ltd. v. Republic of Ecuador and
+Empresa Estatal Petroleos del Ecuador, supra note 64, para. 52, where the tribunal
+referred specifically to rule 39(1).
+
+136) Interpreting art. 47 of the ICSID Convention, in Tokios Tokelés v. Ukraine, ICSID Case
+No. ARB/02/18, Procedural Order No. 1, Claimant's Request for Provisional Measures,
+July 1, 2003, para. 3, the tribunal mentioned “the circumstances require that
+provisional measures be taken to preserve the respective rights of either party,”
+available at <http://ita.law.uvic.ca/documents/tokios-order1.pdf>. It must be
+stressed, however, that the tribunal upheld the binding force of provisional measures;
+see infra note 154.
+
+137) Victor Pey Casado and President Allende Foundation v. Republic of Chile, supra note
+51, para. 17.
+
+27
+© 2019 Kluwer Law International, a Wolters Kluwer Company. All rights reserved.
+138)
+139)
+140)
+141)
+142)
+143)
+144)
+145)
+146)
+147)
+148)
+149)
+150)
+
+151)
+
+152)
+
+153)
+
+154)
+155)
+
+156)
+
+157)
+158)
+159)
+
+160)
+
+161)
+162)
+163)
+
+164)
+
+165)
+
+166)
+
+167)
+
+168)
+
+LaGrand (Germany v. United States of America), 2001 I.C.J. 466 (Judgment of June 27).
+Id. para. 109.
+
+Victor Pey Casado and President Allende Foundation v. Republic of Chile, supra note
+51, para. 26.
+
+Id. paras. 18-20.
+
+Id. paras. 22-23.
+
+Id. para. 20.
+
+Id. para. 25.
+
+Id. para. 18.
+
+Vienna Convention on the Law of Treaties, art. 31(1).
+
+Webster's Il New College Dictionary 926 (1995).
+
+Id. at 564.
+
+SGS Société Générale de Surveillance S.A. v. Islamic Republic of Pakistan, ICSID Case
+No. ARB/01/13, Procedural Order No. 2, October 16, 2002, 8 ICSID Rep. 388, 397.
+Zhinvali Development Ltd. v. Republic of Georgia, ICSID Case No. ARB/00/1, Order,
+January 24, 2002, cited in Award, January 24, 2003, 10 ICSID Rep. 6, 18, para. 44.
+
+Plama Consortium Ltd. v. Republic of Bulgaria, ICSID Case No. ARB/03/24, Order on
+Provisional Measures, September 6, 2005, para. 38, available at
+<http://ita.law.uvic.ca/documents/PlamaOrderonProvisionalMeasures.pdf>.
+
+Biwater Gauff (Tanzania) Ltd. v. United Republic of Tanzania, ICSID Case No.
+ARB/05/22, Procedural Order No. 1, Request for Provisional Measures, September 31,
+2006, paras. 88-98, available at
+<http://ita.law.uvic.ca/documents/BiwaterTanzaniaProvisionalMeasures31March2006
+.pdf>; Biwater Gauff (Tanzania) Ltd. v. United Republic of Tanzania, ICSID Case No.
+ARB/05/22, Procedural Order No. 3, September 29, 2006, para. 163, available at
+<http://ita.law.uvic.ca/documents/Biwater-PONo.3.pdf>.
+
+Saipem S.p.A. v. People's Republic of Bangladesh, ICSID Case No. ARB/05/07, Decision
+on Jurisdiction and Recommendation on Provisional Measures, March 21, 2007, para.
+173, available at <http://ita.law.uvic.ca/documents/Saipem-Bangladesh-
+Jurisdiction.pdf>.
+
+Tokios Tokelés v. Ukraine (No. 1), supra note 136, para. 4.
+
+Occidental Petroleum Corp. and Occidental Exploration & Production Co. v. Ecuador,
+ICSID Case No. ARB/06/11, Decision on Provisional Measures, August 17, 2007, para. 58,
+available at <http://ita.law.uvic.ca/documents/Oxy_001.pdf>.
+
+City Oriente Ltd. v. Republic of Ecuador and Empresa Estatal Petroleos del Ecuador,
+supra note 64, para. 52. See also Perenco Ecuador Ltd. v. Republic of Ecuador and
+Empresa Estatal Petroleos del Ecuador, supra note 64, paras. 66-77 (relying on the
+case law of the I.C.)., of the European Court of Human Rights, and of the Iran-United
+States Claims Tribunal, and stating that “[i]t is now generally accepted that
+provisional measures are tantamount to orders, and are binding on the party to which
+they are directed.”).
+
+Robert Kolb, Note on the New International Case-Law Concerning the Binding Character
+of Provisional Measures, 74 Nordic J. Int'l L. 117, 129 (2005).
+
+Lucius Caflisch, Provisional Measures in the International Protection of Human Rights:
+The Mamatkulov Case, in Volkerrecht als Wertordnung [Common Values in
+International Law] Festschrift fiir [Essays in Honour of] Christian Tomuschat 493 (2006).
+Le Floch, supra note 3, at 401-14.
+
+Electricity Company of Sofia and Bulgaria (Belgium v. Bulgaria), 1939 P.C.I.J. (ser. A/B)
+No. 79, at 199 (Order of December 5) (Request for the Indication of Interim Measures of
+Protection). See also Paolo Palchetti, The Power of the International Court of Justice to
+Indicate Provisional Measures to Prevent the Aggravation of a Dispute, 21 Leiden J. Int'l
+L. 623, 624 et seq. (2008).
+
+Elkind, supra note 2, at 23 et seq.
+
+Kolb, supra note 157, at 612.
+
+Victor Pey Casado and President Allende Foundation v. Republic of Chile, supra note
+51, para. 69.
+
+City Oriente Ltd. v. Republic of Ecuador and Empresa Estatal Petroleos del Ecuador,
+supra note 64, para. 88 (while mentioning this decision, the arbitral tribunal
+surprisingly referred to an “early decision of the International Court of Justice”).
+Victor Pey Casado and President Allende Foundation v. Republic of Chile, supra note
+51, para. 65.
+
+Gerald Fitzmaurice, The Law and Procedure of the International Court of Justice, vol.
+Il, 542-43 (1986); Chester Brown, The Inherent Powers of International Courts and
+Tribunals, 76 British Y.B. Int'l L. 195, 211-22 (2005); David D. Caron, Interim Measures of
+Protection: Theory and Practice in Light of the Iran-United States Claims Tribunal, 46
+Zeitschrift fiir auslandisches Offentliches Recht und Vélkerrecht 465, 476 (1986); Paola
+Gaeta, Inherent Powers of International Courts and Tribunals, in Man's Inhumanity to
+Man, Essays on International Law in Honour of Antonio Cassese 353 (2003).
+
+Nuclear Tests (Australia v. France), 1974 I.C.J. 253, 259-60, para. 23 judgment of
+December 20); Nuclear Tests (New-Zealand v. France), 1974 I.C.J. 457, 463, para. 23
+(Judgment of December 20).
+
+The theory of “implied powers” had been used in the context of international
+organizations but it had only tentatively been mentioned in relation to the
+justification of the binding nature of interim measures; Le Floch, supra note 3, at 404.
+See also Gaeta, supra note 166, at 362-64.
+
+28
+
+© 2019 Kluwer Law International, a Wolters Kluwer Company. All rights reserved.
+169) Le Floch, supra note 3, at 410.
+
+170) Id. at 410-11.
+
+171) E-Systems, Inc. v. Islamic Republic of Iran, Interim Award No. ITM 13-388-FT, February
+4, 1983, 2 lran-U.S. C.T.R. 51, 52; RCA Global Communications, Inc. v. IsLamic Republic
+of Iran., Interim Award No. ITM 29-160-1, October 31, 1983, 4 Iran-U.S. C.T.R. 5, 7.
+
+172) Rockwell International Systems, Inc. v. Islamic Republic of Iran, supra note 54, at 369.
+
+173) Charles N. Brower & Jason D. Brueschke, The Iran-United States Claims Tribunal 217
+(1998).
+
+174) Brown, supra note 166, at 239-42.
+
+175) Caron, supra note 166, at 476. The author defines the stance of this minority view but
+does not share its views.
+
+176) Pope & Talbot, Inc. v. Canada, UNCITRAL (NAFTA), Ruling by Tribunal on Claimant's
+Motion for Interim Measures, January 7, 2000, available at
+<www.naftaclaims.com/Disputes/Canada/Pope/PopeAwardOnInterimMeasuresMotio
+n.pdf>.
+
+177) Schreuer, supra note 20, at 759.
+
+178) Contra Brown, supra note 166, at 236 (commenting on the decisions in Casado and
+Maffezini, this author states that “these decisions should be regarded as incorrect.
+Whilst international courts arguably possess an inherent power to grant provisional
+measures that have binding force, this can be displaced by the clear terms of clause
+contraire, such as that found in Article 47 of the ICSID Convention.”).
+
+179) Cases cited supra notes 149-153.
+
+180) Art. 1134 of NAFTA provides that “[a] Tribunal may order an interim measure of
+protection” but also adds that “[flor the purposes of this paragraph, an order includes
+a recommendation.” This suggests the possibility for arbitral tribunal to choose
+between binding and non-binding interim measures. See also Oellers-Frahm, supra
+note 57, at 958.
+
+181) See supra note 101; Yesilirmak, supra note 6, at 241.
+
+182) See, e.g., the aforementioned ruling of the arbitral tribunal in Pope & Talbot, Inc. v.
+Canada, supra note 176.
+
+183) Cited in Schreuer, supra note 20, at 761. This element was recalled by the arbitral
+tribunal in Victor Pey Casado and President Allende Foundation v. Republic of Chile,
+supra note 51, para. 24. The first draft of the article of the ICSID Convention on interim
+measures provided that “[t]he Tribunal may fix a penalty for failure to comply with
+provisional measures” but this provision was withdrawn by “nearly unanimous vote”
+of negotiating parties (cited in Caron, supra note 166, at 511).
+
+184) Caron, supra note 166, at 511. Contra Laurent Levy, Les Astreintes et L'Arbitrage
+International en Suisse, 19 A.S.A. Bull. 21 (2001) (suggesting that arbitrators have sucha
+power).
+
+185) Lew, Mistelis, & Kroll, supra note 58, at 788.
+
+186) Agip S.p.A. v. Government of the People's Republic of Congo, supra note 132, para. 42.
+
+187) Yesilirmak, supra note 6, at 242-43.
+
+188) Jeremy K. Sharpe, Drawing Adverse Inferences from the Non-Production of Evidence, 22
+Arb. Int'l 549, 554-70 (2006).
+
+189) Yesilirmak, supra note 6, at 242, n. 20.
+
+190) This was suggested in Mine v. Guinea, Decisions of December 4, 1985 (unreported),
+where the arbitral tribunal noted in its decision on provisional measures that it “will
+take into account in its award the effects of non-compliance by Mine with its
+recommendations,” cited in the decision of the Tribunal de Premiére Instance of
+Geneva, March 13, 1986, 4 ICSID Rep. 41. See also Schreuer, supra note 20, at 41.
+
+191) Yesilirmak, supra note 6, at 243-44.
+
+192) Fisheries Jurisdiction (Federal Republic of Germany v. Iceland), 1974 I.C.J. Rep. 175
+(Judgment of July 25).
+
+193) C.H. Crockett, The Effects of Interim Measures of Protection in the International Court of
+Justice, 7 Cal. W. Int'l J. 348, 372 (1977). See also Caron, supra note 166, at 411-12.
+
+194) For instance, in LaGrand (Germany v. United States of America), supra note 138, para.
+111, while considering the question “whether the United States has complied with the
+obligation incumbent upon it as a result of the Order of March 3, 1999,” the Court
+found “that the United States did not discharge this obligation” (para. 115) and
+“violated its international legal obligation to comply with the Order” (para. 116). See
+also para. 5 of the dispositif of the same judgment. In the case concerning Armed
+Activities on the Territory of Congo, the I.C.J. found in the dispositif that “the Republic
+of Uganda did not comply with the Order of the Court on provisional measures of July
+1, 2000,” but no mention of the violation of an international obligation was made;
+Armed Activities on the Territory of Congo (Democratic Republic of Congo v. Uganda),
+dispositif para. 7 (Judgment of December 19, 2005), available at <www.icj-
+cij.org/docket/files/116/10455.pdf>.
+
+195) Santulli, supra note 18, at 443.
+
+196) Watkins-Johnson Co., et al. v. Islamic Republic of Iran, et al., Award No. 429-370-1, July
+28, 1989, 22 lran-U.S. C.T.R. 218, 253; Touche Ross and Co. v. Islamic Republic of Iran,
+Award No. 197-480-1, October 30, 1985, 9 Iran-U.S. C.T.R. 284, 301. See also Brower &
+Brueschke, supra note 173, at 240.
+
+197) Oellers-Frahm, supra note 57, at 953.
+
+29
+© 2019 Kluwer Law International, a Wolters Kluwer Company. All rights reserved.
+198) Agip S.p.A. v. Government of the People's Republic of Congo, supra note 132, cited in 1
+ICSID Rep. 311 (production of books, cards and registers); Tokios Tokelés v. Ukraine,
+ICSID Case No. ARB/02/18, Procedural Order No. 3, January 18, 2005, 11 ICSID Rep. 352,
+358-60, paras. 24-36 (order to produce several kinds of documents).
+
+199) Biwater Gauff (Tanzania) Ltd. v. United Republic of Tanzania (No. 1), supra note 152,
+para. 88 (preservation and no adverse step in relation to documents).
+
+200) Biwater Gauff (Tanzania) Ltd. v. United Republic of Tanzania (No. 3), supra note 152,
+dispositif (recommendation that all parties refrain from disclosing to third parties the
+documents related to the proceedings).
+
+201) Ceskoslovenska Obchondi Banka, A.S. v. Slovak Republic, supra note 132 (suspension
+of bankruptcy proceedings in domestic courts); Zhinvali Development Ltd. v. Republic
+of Georgia, supra note 150, at 18, para. 45) (stay and suspension of proceedings ina
+Georgia court and to bring the arbitral tribunal's recommendation to the attention of
+the Georgia court to inform it about the exclusive jurisdiction of ICSID); SGS Société
+Générale de Surveillance S.A. v. Islamic Republic of Pakistan, supra note 149, at 397
+(recommendation that the Government of Pakistan do not “take any step to initiate a
+complaint for contempt”); Tokios Tokelés v. Ukraine (No. 1), supra note 136, para. 7
+(“both parties shall refrain from, suspend and discontinue, any domestic proceedings,
+judicial or other”); City Oriente Ltd. v. Republic of Ecuador and Empresa Estatal
+Petroleos del Ecuador, supra note 64, para. 92 (decision that Ecuador and
+Petroecuador should refrain from instituting or prosecuting “any judicial proceeding
+or action of any nature whatsoever against or involving City Oriente Limited.”).
+
+202) SGS Société Générale de Surveillance S.A. v. Islamic Republic of Pakistan, supra note
+149, at 397 (“the Tribunal recommends that the IsLamabad-based arbitration pending
+between the Government of Pakistan and SGS be stayed until such time, if any, as this
+Tribunal has issued an award declining jurisdiction over the present dispute, and the
+award is no longer capable of being interpreted, revised or annulled pursuant to the
+ICSID Convention.”).
+
+203) Saipem S.p.A. v. People's Republic of Bangladesh, supra note 153, para. 183
+(recommendation that Bangladesh “take the steps necessary to ensure that
+Petrobangla refrain from encashing the Warranty Bond ... issued by Banque
+Indosuez”); City Oriente Ltd. v. Republic of Ecuador and Empresa Estatal Petroleos
+del Ecuador, supra note 64, para. 92 (deciding that Ecuador and Petroecuador should
+refrain from “demanding that City Oriente Limited pay any amounts as a result of the
+application of the Law... Amending the Hydrocarbon Law”), Sergei Paushok, CJSC
+Golden East Co. and CJSC Vostokneftegaz Co. v. Mongolia, supra note 50, dispositif
+para. 1 (suspension of payment of certain taxes); Perenco Ecuador Ltd. v. Republic of
+Ecuador and Empresa Estatal Petroleos del Ecuador, supra note 64, para. 79
+(provisional measures restraining the respondent from demanding that the investor
+“pay any amounts due pursuant to Law 42”).
+
+204) Sergei Paushok, CJSC Golden East Co. and CJSC Vostokneftegaz Company v. Mongolia,
+supra note 50, dispositif para. 3.
+
+205) Perenco Ecuador Ltd. v. Republic of Ecuador and Empresa Estatal Petroleos del
+Ecuador, supra note 64, para. 79 (provisional measures restraining the Respondent
+from “unilaterally amending, rescinding, terminating, or repudiating the Participation
+Contracts or engaging in any other conduct which may directly or indirectly affect or
+alter the legal situation under the Participation Contracts, as agreed upon by the
+parties”).
+
+206) Id. para. 2.
+
+207) Id. para. 2.
+
+208) City Oriente Ltd. v. Republic of Ecuador and Empresa Estatal Petroleos del Ecuador,
+supra note 64, para. 92 (deciding that Ecuador and Petroecuador should refrain from
+“engaging in, starting or persisting in any other conduct that may directly affect or
+alter the legal situation”); Sergei Paushok, CJSC Golden East Co. and CJSC
+Vostokneftegaz Co. v. Mongolia, supra note 50, dispositif para. 11 (deciding that “the
+parties shall refrain ... from any action which could lead to further injury and
+aggravation of the dispute between the parties”).
+
+209) Sergei Paushok, CJSC Golden East Co. and CJSC Vostokneftegaz Co. v. Mongolia, supra
+note 50, dispositif para. 4 (possibility for the claimant and the respondent to use
+either an escrow account “in an internationally recognized financial or other
+institution” or the “provision of a bank guarantee”).
+
+210) Supra notes 88-98 and accompanying text.
+
+211) Yesilirmak, supra note 6, at 118 et seq.
+
+212) This principle of priority is inserted in the ICC Rules according to which “the parties
+may apply to any competent judicial authority” for interim measures “[blefore the file
+is transmitted to the Arbitral Tribunal, and in appropriate circumstances even
+thereafter” (art. 23(2)). See also LCIA Rules, art. 25(3).
+
+213) UNCITRAL Rules, art. 26(1).
+
+214) Id. art. 26(3).
+
+215) Yesilirmak, supra note 6, at 96. ICC Final Award 7589 of 1994, cited in Yesilirmak, supra
+note 6, at 97 (“the opinion of the author relies on an ICC award decided under the
+former 1988 ICC Arbitration Rules where the tribunal stated that an attachment ‘is
+one [measure] that the Arbitral Tribunal does not have the power to grant.’ ”).
+
+216) See, e.g., LCIA Rules, art. 25(1), (2).
+
+30
+© 2019 Kluwer Law International, a Wolters Kluwer Company. All rights reserved.
+217) Victor Pey Casado and President Allende Foundation v. Republic of Chile, supra note
+51, para. 15.
+
+218) NAFTA, art. 1121(1)(b) and (2)(b), see supra note 83.
+
+219) NAFTA, art. 1134. The 2004 U.S. Model BIT also provides that an arbitral tribunal “may
+not order attachment” (art. 28(8)).
+
+220) Pope & Talbot, Inc. v. Canada, supra note 176. See also Brown, supra note 166, at 239
+(considering this provision of NAFTA, art. 1134 as a clause contraire).
+
+221) Gaillard, supra note 16, at 226.
+
+222) Id. at 226-27 (“dans la logique de la Convention, le principe d'exclusivité qui vaut
+pour les mesures d'administration de la prevue par exemple, qui relevant de la seule
+competence du tribunal arbitral, ne s'étend pas aux mesures d'assistance a
+L'exécution qui demeurent le monopole des juridictions étatiques.”).
+
+223) Which would necessarily constitute a qualification in the view of our previous
+discussion on the effect of a combination of a “fork-in-the-road” clause with a request
+for interim measures before domestic courts, see supra notes 84-87 and
+accompanying text; to the extent, of course, that the request deals only with the
+protection of the parties' “interests” and does not infringe the arbitral tribunal's
+exclusivity as to the protection of parties' “rights.”
+
+224) Similar measures are, however, possible at the post-award stage when an ad hoc
+committee considers a stay of enforcement of the award in case of an annulment
+procedure. The legal grounds are different from those on interim measures. A recent
+example may be found inthe recent decision in Sempra Energy Int'l v. Argentine
+Republic, ICSID Case No. ARB/02/16, Annulment Proceeding, Decision on the
+Argentine Republic's Request for a Continued Stay of Enforcement of the Award,
+March 5, 2009, para. 117, where the ad hoc committee granted Argentina the
+continuation of the stay of enforcement of the award if it placed in escrow an amount
+of U.S.$75 million; available at <http://ita.law.uvic.ca/documents/Sempra-Stay.pdf>).
+
+225) Quoted in Victor Pey Casado and President Allende Foundation v. Republic of Chile,
+supra note 51, para. 88.
+
+226) Id. para. 83.
+
+227) Id. para. 86.
+
+228) Id. para. 88.
+
+229) Id. para. 86.
+
+230) Tanzania Electricity Supply Co. Ltd. v. Independent Power Tanzania Ltd., supra note
+29, para. 14.
+
+231) Paul D. Friedland, Provisional Measures and ICSID Arbitration, 2 Arb. Int'l 335, 348
+(1986) (commenting on the decision in Atlantic Triton where the tribunal refused to
+grant pre-award security, the author considers that “[t]his result is undoubtedly
+appropriate; indeed, it is difficult to imagine a standard for the award of pre-
+judgment security that would be workable in ICSID arbitration. Attachments to secure
+ultimate recovery are typically ordered by municipal courts only when the moving
+party demonstrates (i) a true risk that the award may prove unenforceable, and (ii) a
+likelihood of success on the merits of the dispute. In the ICSID context, the first
+consideration would rarely be applicable where a government was the respondent,
+and the second requirement would be impracticable regardless of which party was
+the respondent because the international character and complexity of ICSID
+arbitrations usually prevent any reasonable snap judgment as to which party will
+prevail”).
+
+232) ETI Euro Telecom Int'l N.V. v. Republic of Bolivia, ICSID Case No. ARB/07/28.
+
+233) The facts are in the decision referred to infra note 234.
+
+234) ETI Euro Telecom Int'l N.V. v. Republic of Bolivia and Empresa Nacional de
+Telecommunicaciones Entel S.A., United States District Court SDNY, No. 08 Civ. 4247
+(LTS)(FM), July 30, 2008, available at <www.asil.org/pdfs/ilib080814.pdf>.
+
+235) ETI Euro Telecom Int'l N.V. v. Republic of Bolivia & another, [2008] EWCA (Civ) 880.
+
+236) The district court indeed stated that “it is not necessary to address parties’
+arguments as to whether the ICSID Convention prevents the Court from ordering the
+prejudgment attachment of Entel's New York bank accounts,” supra note 234.
+
+237) All the more precious in that it was authored by Lawrence Collins, L.J., an
+authoritative scholar in the field of interim measures in international litigation, see
+supra note 1.
+
+238) ETI Euro Telecom Int'l N.V. v. Republic of Bolivia & another, supra note 235, para. 58.
+
+239) Id. para. 108.
+
+240) Id. para. 109.
+
+241) Id. para. 1.
+
+242) John Fordham, Disarming Litigation Terrorists, May 9, 2008, at 2, available at
+<www.venezlon.co.uk/pdf/disarming_litigation.pdf>.
+
+243) Mobil Cerro Negro Ltd. v. Petroleos De Venezuela S.A., Court of Appeal, Commercial
+Court, March 18, 2008, [2008] EWHC (Comm) 532.
+
+244) Fordham, supra note 242, at 1.
+
+245) Venezuela Rails at Exoon Asset Freeze “Terrorism,” February 8, 2008, available at
+<www.reuters.com/article/world News/idUSN0848021720080208>.
+
+246) For instance, Bolivia's withdrawal from the ICSID Convention in 2007.
+
+247) ICSID Rules, art. 39(1); ICSID Additional Facility Rules, art. 46(1). The ICSID Convention,
+from which the ICSID Arbitration Rules derives, mentions the “measures which should
+be taken to preserve the respective rights of either party” (art. 47).
+
+31
+© 2019 Kluwer Law International, a Wolters Kluwer Company. All rights reserved.
+248) UNCITRAL Rules, art. 26(1). ICC Rules are even broader and refer to “interim or
+conservatory measures it [the tribunal] deems appropriate” (art. 23(1)). SCC Rules
+simply refer to “a specific performance by the opposing party for the purpose of
+securing the claim” (art. 31(1)).
+
+249) “The Tribunal notes that the wording of Article 26(1) of the UNCITRAL Rules is not the
+same as under the ICSID Convention; it leaves wider discretion to the Tribunal in the
+awarding of provisional measures (‘any interim measures it deems necessary in
+respect of the subject-matter of the dispute’) than under Article 47 of the ICSID Rules
+(‘provisional measures for the preservation of its rights’).” Sergei Paushok, CJSC
+Golden East Co. and CJSC Vostokneftegaz Co. v. Mongolia, supra note 50, para. 36.
+
+250) Victor Pey Casado and President Allende Foundation v. Republic of Chile, supra note
+51, para. 15.
+
+251) Id.
+
+252) Id. See also id. para. 83, where the tribunal underlined the “very broad and varied
+nature of the possible provisional measures available within the ICSID regime and ...
+the willingness of the framers of the applicable texts to forswear a precise list of the
+measures available to the Tribunal.”
+
+253) For an overview of these measures, see Yesilirmak, supra note 6, at 204-319.
+
+254) Biwater Gauff (Tanzania) Ltd. v. United Republic of Tanzania (No. 1), supra note 152,
+para. 84 (“It is uncontroversial that the Arbitral Tribunal's powers under Article 47
+include the power to recommend the preservation of evidence, including documents.
+This is one of the most common forms of interim relief.”).
+
+255) Tanzania Electricity Supply Co. Ltd. v. Independent Power Tanzania Ltd., supra note
+29, para. 16 (“We do not go so far as to conclude that ‘provisional measures’ under
+Rule 39 can never include recommending the performance of a contract in whole orin
+part.”).
+
+256) Zhinvali Development Ltd. v. Republic of Georgia, supra note 150, at 18, para. 45,
+where the arbitral tribunal recommended “that the Georgia court stay and suspend
+its proceedings insofar as any issues pending before the Tribunal were concerned.”
+
+257) Biwater Gauff (Tanzania) Ltd. v. United Republic of Tanzania (No. 1), supra note 152,
+para. 100.
+
+258) Id. See also Phoenix Action, Ltd. v. Czech Republic, ICSID Case No. ARB/06/5, Decision
+on Provisional Measures, April 6, 2007, para. 45, available at
+<http://ita.law.uvic.ca/documents/Phoenix-ProvisionalMeasures.pdf>.
+
+259) ICSID Rules, art. 39(1): “a party may request ... provisional measures for the
+preservation of its rights ... The request shall specify ... the circumstances that require
+such measures.” See also ICSID Convention, art. 4, referring to both “rights” and
+“circumstances.” The ICSID Additional Facility Rules refer only to the “preservation of
+rights” (art. 46(1)).
+
+260) UNCITRAL Rules, art. 26(1). In identical terms, the ICC Rules only mention measures
+that the tribunal “deems appropriate” (art. 23(1)).
+
+261) Yesilirmak, supra note 6, at 175 (“the collective requirements to grant provisional
+measures are: (1) prima facie establishment of jurisdiction; (2) prima facie
+establishment of case; (3) urgency; (4) imminent danger, serious or substantial
+prejudice ifthe measure requested is not granted; and (5) proportionality.”). The
+tribunal in Sergei Paushok v. Mongolia did not quote this previous work.
+
+262) Sergei Paushok, CJSC Golden East Co. and CJSC Vostokneftegaz Co. v. Mongolia, supra
+note 50, para. 45.
+
+263) Victor Pey Casado and President Allende Foundation v. Republic of Chile, supra note
+51, para. 5 (original emphasis).
+
+264) Oellers-Frahm, supra note 57, at 953. See also Victor Pey Casado and President Allende
+Foundation v. Republic of Chile, supra note 51, para. 6.
+
+265) Fisheries Jurisdiction (United Kingdom v. Iceland), 1972 I.C.J. 12, 16 (Order of August 17)
+(Request for the Indication of Interim Measures of Protection); Fisheries Jurisdiction
+(Republic of Germany v. Iceland), 1972 |.C.J. 30, 34 (Order of August 17) (Request for the
+Indication of Interim Measures of Protection).
+
+266) Military and Paramilitary Activities in and Against Nicaragua (Nicaragua v. United
+States of America), 1984 I.C.J. 169, 179, para. 24 (Order of May 10) (Request for the
+Indication of Provisional Measures) (“Whereas on a request for provisional measures
+the Court need not, before deciding whether or not to indicate them, finally satisfy
+itself that it has jurisdiction on the merits of the case, or, as the case may be, that an
+objection taken to jurisdiction is well-founded, yet it ought not to indicate such
+measures unless the provisions invoked by the Applicant appear, prima facie, to
+afford a basis on which the jurisdiction of the Court might be founded.”). See also J.G.
+Merrills, Interim Measures of Protection in the Recent Jurisprudence of the International
+Court of Justice, 44 Int'l & Comp. L.Q. 90, 91 et seq. (1995).
+
+267) Brower & Brueschke, supra note 173, at 218-22; Caron, note 166, at 535-36.
+
+268) Victor Pey Casado and President Allende Foundation v. Republic of Chile, supra note
+51, paras. 8-10 (relying on the Fisheries case); Occidental Petroleum Corp. and
+Occidental Exploration & Production Co. v. Ecuador, supra note 155, para 55; City
+Oriente Ltd. v. Republic of Ecuador and Empresa Estatal Petroleos del Ecuador, supra
+note 64, para. 50. See also Yaung Chi Oo Trading Ltd. v. Government of the Union of
+Myanmar, ASEAN I.D. Case No. ARB/01/1, Procedural Order No. 2, Request for
+Provisional Measures, February 27, 2002, 8 ICSID Rep. 456, 459, para. 12 (relying on the
+I.C.J. case on the Legality of Use of Force).
+
+32
+© 2019 Kluwer Law International, a Wolters Kluwer Company. All rights reserved.
+269) Sergei Paushok, CJSC Golden East Co. and CJSC Vostokneftegaz Co. v. Mongolia, supra
+note 50, paras. 47-54 (relying on the Nicaragua case).
+
+270) Yesilirmak, supra note 6, at 175-76.
+
+271) David D. Caron et al., The UNCITRAL Arbitration Rules: ACommentary 536 (2006)
+(pointing out about UNCITRAL arbitration that, “with respect to interim measures, the
+jurisdictional issue is not likely to be as important for ad hoc arbitration, which
+typically deals with tailor-made arbitration clauses or agreements, as for the World
+Court or for a large treaty-based settlement process.”).
+
+272) Sergei Paushok, CJSC Golden East Co. and CJSC Vostokneftegaz Co. v. Mongolia, supra
+note 50, para. 52.
+
+273) Inthe Anglo-lranian Oil Co. (United Kingdom v. Iran), 1951 I.C.J. 89, 93 (Order of July 5)
+(Request for the Indication of Interim Measures of Protection), the I.C.J. recognized
+that “the indication of such measures in no way prejudges the question of the
+jurisdiction of the Court to deal with the merits of the case and leaves unaffected the
+right of the Respondent to submit arguments against such jurisdiction.” See also
+Tokios Tokelés v. Ukraine (No. 1), supra note 136, para. 6 (“the ‘recommendation’ of
+provisional measures does not in any way prejudge the question of jurisdiction. It is,
+therefore, independently of the present Order on provisional measures that this
+Tribunal will have to rule on the jurisdictional objections raised by the Respondent.”).
+
+274) ICSID Convention, art. 36(3).
+
+275) Victor Pey Casado and President Allende Foundation v. Republic of Chile supra note
+51, para. 11. See also Perenco Ecuador Ltd. v. Republic of Ecuador and Empresa
+Estatal Petroleos del Ecuador, supra note 64, para. 39 (“It is not enough for the
+Tribunal that the Secretary-General has found that the dispute is not manifestly
+outside the jurisdiction of the Centre and has therefore registered the Request for
+Arbitration under Article 36(3) of the ICSID Convention and Rule 6(1)(b) of the
+Institution Rules.”).
+
+276) Schreuer, supra note 20, at 765. See also Brower & Goodman, supra note 81, at 431,
+452-56 (and noting further that “the fact that the Secretary-General, in registering the
+Request for Arbitration, has found the dispute not to be ‘manifestly outside the
+jurisdiction of the Centre,’ although not ipso jure determinative of the tribunal's
+jurisdictional entitlement to act under Convention Article 47, must give rise toa
+presumption, theoretically rebuttable but in practical terms virtually immune to
+rebuttal that its jurisdiction exists prima facie.”).
+
+277) Yesilirmak, supra note 6, at 177.
+
+278) Oellers-Frahm, supra note 57, at 938; Le Floch, supra note 3, at 101-03.
+
+279) It is unclear whether both the decisions in Maffezini and Casado implement this test.
+See infra notes 291-294 and accompanying text.
+
+280) Sergei Paushok, CJSC Golden East Co. and CJSC Vostokneftegaz Co. v. Mongolia, supra
+note 50, para. 55.
+
+281) See also Caron, supra note 166, at 490.
+
+282) Sergei Paushok, CJSC Golden East Co. and CJSC Vostokneftegaz Co. v. Mongolia, supra
+note 50, para. 55.
+
+283) Asimilar test has been inserted in the 2004 U.S. Model BIT, see art. 28(4)(c).
+
+284) See discussions in Veijo Heiskanen, Frivolous’ Claims, 2 Transnat'l Disp. Mgmt 1, 1-10
+(No. 5, 2005).
+
+285) This variable intensity has also been highlighted in the separate opinion of Judge
+Abraham to the I.C.J. order in the Pulp Mills on the River Uruguay case, where Judge
+Abraham underlined that: “[l]'on peut exiger du demandeur qu'il établisse prima
+facie le bien-fondé de ses prétentions sur le fond du différend ... C'est une approche
+plutot exigeante ... On peut aussi se satisfaire du constat que le droit revendiqué
+n'est pas manifestement inexistant, et qu'il n'est pas manifestement exclu... Le
+critere du fumus boni juris céde alors la place a celui du fumus non mali juris. Mais ce
+sont la, a vrai dire, des nuances, et il existe toute une variété de degrés
+intermédiaires ... L'essentiel, a mes yeux, est que le juge soit convaincu d'étre en
+présence d'une argumentation qui, sur le fond, présente un caractére suffisamment
+sérieux” (Pulp Mills on the River Uruguay (Argentina v. Uruguay) (Order of July 13,
+2006) (Requests for the Indication of Provisional Measures), para. 10 (Separate
+Opinion of Judge Abraham), available at <www.icj-
+cij.org/docket/files/135/11240.pdf>). See also CDC Group plc v. Republic of Seychelles,
+ICSID Case No. ARB/02/14, Decision on Whether to Continue Stay and Order, July 14,
+2004, 11 ICSID Rep. 225, 228, para. 13 (“While some national jurisdictions require asa
+basis for injunctive orders, conservatory measures or stay that the underlying
+substantive application meet some standard of probability of success, until now this
+has not been required in international proceedings.”).
+
+33
+© 2019 Kluwer Law International, a Wolters Kluwer Company. All rights reserved.
+286) Sergei Paushok, CJSC Golden East Co. and CJSC Vostokneftegaz Co. v. Mongolia, supra
+note 50, para. 56 (“[T]he Tribunal wishes to stress that in no way does that ruling imply
+that the Tribunal would reach a similar conclusion on the merits of the case.”);
+Biwater Gauff (No. 3), supra note 152, para. 165 (“The Arbitral Tribunal is obviously not
+yet ina position to form any views whatsoever on the merits of the parties' cases, and
+it has been careful not to prejudge any issues of fact or law in the formulation of this
+procedural order.”); Tanzania Electricity Supply Co. Ltd. v. Independent Power
+Tanzania Ltd., supra note 29, para. 6 (“[W]e observe that both Parties concentrated a
+great deal of attention in their written and oral submissions on the ‘merits’ of the
+dispute. ... we think it neither appropriate nor indeed possible for us at this stage to
+form or express any concluded view on the merits.”).
+
+287) Maffezini v. Spain, supra note 103, para. 10; Plama Consortium Ltd. v. Republic of
+Bulgaria, supra note 151, para. 38; OPC v. Ecuador, supra note 155, para. 59; Sergel
+Paushok, CJSC Golden East Co. and CJSC Vostokneftegaz Co. v. Mongolia, supra note 50,
+para. 39; Phoenix v. Czech Republic, supra note 258, para. 33.
+
+288) Railroad Development Corp. v. Republic of Guatemala, supra note 15, para. 64.
+(pointing out that “Article 47 of the ICSID Convention does not specify any particular
+circumstances”).
+
+289) The cumulative character of the conditions should be underlined. For instance, in OPC
+v. Ecuador, supra note 155, para. 87, the arbitral tribunal pointed out first that “an
+order for provisional measures will only be made where such measures are found to
+be necessary and urgent” and further considered that “[t]here is no necessity or
+urgency” (emphasis added).
+
+290) Schreuer, supra note 20, at 773.
+
+291) Maffezini v. Spain, supra note 103, para. 13. The tribunal stated (para. 14) that “[a]n
+example of an existing right would be an interest in a piece of property, the
+ownership of which isin dispute. A provisional measure could be ordered to require
+that the property not be sold or alienated before the final award of the arbitral
+tribunal. Such an order would preserve the status quo of the property, thus preserving
+the rights of the party in the property.”
+
+292) Victor Pey Casado and President Allende Foundation v. Republic of Chile, supra note
+51, para. 45.
+
+293) Id. para. 45.
+
+294) Id. para. 46. This passage was quoted in OPC v. Ecuador, supra note 155, para. 64.
+
+295) OPC v. Ecuador, supra note 155, para. 64.
+
+296) Id. para. 63.
+
+297) For an overview of the I.C.J. case law on this issue, see Oellers-Frahm, supra note 57, at
+938-39; Merrills, supra note 266, at 100.
+
+298) Plama Consortium Ltd. v. Republic of Bulgaria, supra note 151, para. 40.
+
+299) Biwater Gauff v. Tanzania, Procedural Order No. 1, supra note 152, paras. 84-88.
+
+300) EnCana Corp. v. Republic of Ecuador, supra note 37, para. 17.
+
+301) Schreuer, supra note 20, at 776-77.
+
+302) Tanzania Electricity Supply Co. Ltd. v. Independent Power Tanzania Ltd., supra note
+29, para. 14.
+
+303) For the |.C.J., see Oellers-Frahm, supra note 57, at 939-40.
+
+304) Caron etal., supra note 271, at 537.
+
+305) Sergei Paushok, CJSC Golden East Co. and CJSC Vostokneftegaz Co. v. Mongolia, supra
+note 50, para. 68.
+
+306) Biwater Gauff v. Tanzania, Procedural Order No. 3, supra note 152, paras. 146.
+
+307) Plama Consortium Ltd. v. Republic of Bulgaria, supra note 151, para. 46.
+
+308) OPC v. Ecuador, supra note 155, para. 98.
+
+309) Although it has no effect de plano on investment arbitration frameworks, it is
+noteworthy to mention that urgency is no longer a separate condition under the new
+UNCITRAL Model Law (supra note 34). Art. 17(a)(1) indeed provides that “[t]he party
+requesting an interim measure ... shall satisfy the arbitral tribunal that (a) [hlarm not
+adequately reparable by an award of damages is likely to result if the measure is not
+ordered, and such harm substantially outweighs the harm that is likely to result to the
+party against whom the measure Is directed if the measure is granted.”
+
+310) Biwater Gauff v. Tanzania (No. 1), supra note 152, para. 109.
+
+311) Victor Pey Casado and President Allende Foundation v. Republic of Chile, supra note
+51, para. 5.
+
+312) Saipem S.p.A. v. People's Republic of Bangladesh, supra note 153, para. 175.
+
+313) Railroad Development Corp. v. Republic of Guatemala, supra note 15, para. 34.
+
+314) Passage through the Great Belt (Finland v. Denmark), 1991 |.C.J. 12, 17, para. 23 (Order
+of July 29) (Request for the Indication of Provisional Measures).
+
+315) OPC v. Ecuador, supra note 155, para. 89.
+
+316) Suchas, e.g., in NAFTA, Pope & Talbot v. Canada, supra note 176; Marvin Roy Feldman
+Karpa v. United Mexican States, ICSID Case No. ARB(AF)/99/1, Procedural Order No. 2
+Concerning a Request for Provisional Measures and the Schedule of the Proceeding,
+May 3, 2000, para. 5, available at
+<http://naftaclaims.com/Disputes/Mexico/Feldman/FeldmanProceduralOrder2.pdf>.
+
+317) OPC v. Ecuador, supra note 155, para. 179.
+
+318) Id. para. 86.
+
+319) Id. para. 81.
+
+34
+© 2019 Kluwer Law International, a Wolters Kluwer Company. All rights reserved.
+320) Sergei Paushok, CJSC Golden East Co. and CJSC Vostokneftegaz Co. v. Mongolia, supra
+note 50, para. 79.
+
+321) OPC v. Ecuador, supra note 155, para. 82.
+
+322) See James Crawford, The International Law Commission's Articles on State
+Responsibility: Introduction, Text and Commentaries (2002).
+
+323) Supra notes 58-62.
+
+324) Phoenix v. Czech Republic, supra note 258, para. 43 (“The Tribunal does not see what
+right of the Claimant such a vague and general request is deemed to protect. It
+should be emphasized that this last request is an application for disclosure of
+unspecified evidence rather than a proper request for provisional measures. This
+seems to be analogous to what is sometimes called a ‘fishing expedition.””).
+
+325) Tanzania Electricity Supply Co. Ltd. v. Independent Power Tanzania Ltd., supra note
+29, para. 12.
+
+326) Sergei Paushok, CJSC Golden East Co. and CJSC Vostokneftegaz Co. v. Mongolia, supra
+note 50, para. 90.
+
+327) Phoenix v. Czech Republic, supra note 258, para. 37.
+
+328) Le Floch, supra note 3, at 452.
+
+329) For the |.C.J., see Bekker, supra note 74, at 32 (referring to the statement of the I.C.J.
+pointing out “the increasing tendency of parties to request the indication of
+provisional measures”).
+
+35
+© 2019 Kluwer Law International, a Wolters Kluwer Company. All rights reserved.
+© 2019 Kluwer Law International, a Wolters Kluwer Company. All rights reserved.
+
+Kluwer Arbitration is made available for personal use only. All content is protected by copyright and other intellectual property
+laws. No part of this service or the information contained herein may be reproduced or transmitted in any form or by any means, or
+used for advertising or promotional purposes, general distribution, creating new collective works, or for resale, without prior
+written permission of the publisher.
+
+If you would like to know more about this service, visit www.kluwerarbitration.com or contact our Sales staff at
+sales@kluwerlaw.com or call +31 (0)172 64 1562.
+
+@ Wolters Kluwer KluwerArbitration
+
+36
+© 2019 Kluwer Law International, a Wolters Kluwer Company. All rights reserved.

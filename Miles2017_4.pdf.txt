@@ -1,0 +1,2292 @@
+Power to Order Provisional Measures
+
+I Introduction
+
+When presented with an application for interim relief, an international
+court or tribunal may take into account a number of factors in decid-
+ing whether such relief should be granted. These may be divided into
+three broad categories. The first concerns antecedent questions that must
+be answered affirmatively before further inquiries can be entered into:
+questions of the authority to award provisional measures, of consent
+to jurisdiction, and of admissibility. The second concerns the purpose
+of provisional measures, and the existence and relevance of the rights
+sought to be protected. The third addresses a set of circumstances slightly
+more open-ended and fact-sensitive in character, namely whether a fail-
+ure to award interim relief would result in consequences too dire to be
+tolerated — the criteria of ‘irreparable’ prejudice and urgency. The present
+chapter addresses the first of these categories; the second (the purpose of
+provisional measures) is discussed in Chapter 5, the third (questions of
+urgency and ‘irreparability’) in Chapter 6.
+
+Questions of jurisdiction — and to a lesser extent, admissibility — have
+preoccupied provisional measures jurisprudence since the inauguration
+of the International Court of Justice. As was noted by the dissenting Judges
+Winiarski and Badawi Pasha in Anglo-Iranian Oil, provisional measures
+in international law ‘are exceptional in character to an even greater extent
+then they are in municipal law and as such ‘may easily be considered
+a scarcely tolerable interference in the affairs of a sovereign state’! To
+combat any perception of institutional overreach, the international courts
+and tribunals considered in this book—led toa great extent by the PCY and
+ICJ —have developed a series of preconditions to the award of interim relief
+that are intrinsically connected to the consensual character of jurisdiction
+
+' Anglo-Iranian Oil (Iran v UR), Provisional Measures, ICJ Reports 1951 p 89, 97 (Judges
+Winiarski and Badawi Pasha, diss).
+
+133
+
+https://doi.org/10.1017/9781316410813.006 Published online by Cambridge University Press
+eae tN wok at
+via ae fF ie ;
+TOS VO OLOr ras #
+
+134 POWER TO ORDER PROVISIONAL MEASURES
+
+in international law. At the same time, however, these factors have been
+balanced against the fact that a request for provisional measures often
+precludes any searching inquiry as to either the jurisdiction of the tribunal
+or the merits of the dispute.
+
+II Provisional Measures as Incidental Proceedings
+
+Provisional measures proceedings are inherently incidental — “engrafted
+onto a substantive case’ — and share this characteristic with preliminary
+objections, third party applications for intervention and counterclaims.°
+As a Chamber of the ICJ has said:
+
+Incidental proceedings by definition must be those which are incidental
+to a case which is already before the Court or Chamber. An incidental
+proceeding cannot be one which transforms the case into a different case
+with different parties.’
+
+Incidental proceedings share a number of common features.? With the
+exception of decisions on jurisdiction and admissibility (which take the
+form of judgments or awards) incidental proceedings are concluded
+by way of procedural order or, unusually, by way of interim award.°
+
+2 Robert Kolb, The International Court of Justice (Oxford: Hart, 2013) 621-2.
+> See Questions Relating to the Seizure and Detention of Certain Documents and Data (Timor-
+Leste v Australia), ICJ, Order of 3 March 2014, $6 (Judge Greenwood, diss). Further:
+V S Mani, International Adjudication: Procedural Aspects (The Hague: Martinus Nijhoff,
+1980) 283; Shabtai Rosenne, 2 The Law and Practice of the International Court 1920-
+2005 (The Hague: Martinus Nijhoff, 4th edn, 2006) 578-9; Hugh Thirlway, 1 The Law
+and Procedure of the International Court of Justice: Fifty Years of Jurisprudence (Oxford:
+Oxford University Press, 2013) 928. Some early commentators argued that the category
+also concerned proceedings for interpretation or revision, although the modern practice
+of the ICJ has been formally to treat such actions as entirely new proceedings: Manley O
+Hudson, The Permanent Court of International Justice, 1920-1942 (New York: MacMillan,
+1943) 408.
+Land, Island and Maritime Frontier Dispute (El Salvador/Honduras), Application to Inter-
+vene, ICJ Reports 1990 p 92, 134.
+Bernard H Oxman, ‘Jurisdiction and the Power to Indicate Provisional Measures, in L F
+Damrosch, The International Court of Justice at a Crossroads (Dobbs Ferry, NY: Transna-
+tional Publishers, 1987) 323, 333-4; Shabtai Rosenne, Provisional Measures in International
+Law: The International Court of Justice and the International Tribunal for the Law of the Sea
+(Oxford: Oxford University Press, 2005) 9-10; Rosenne, 2 Law and Practice, 578-84; ICSID
+Commentary, 774—5.
+© See e.g. 1976 UNCITRAL Rules, Rule 26(2). Interim awards are usually utilized in
+the investor-state arbitration context so as to render a provisional measure enforceable
+under the New York Convention, Art ITI: Caline Mouawad and Elizabeth Silbert, ‘A Guide to
+
+a
+
+wi
+
+SOFETST64T 9S 7 5.006 Published online by Cambridge University Press
+eae rt eN wnat
+via ae fF ie ;
+TOS VO OLOr ras #
+
+PROVISIONAL MEASURES AS INCIDENTAL PROCEEDINGS 135
+
+Furthermore, the exercise of incidental powers by the court or tribunal
+does not formally require the consent of the parties — such consent, rather,
+is implicit in a state’s overall accession to the existence and functioning
+of the relevant court and tribunal, as well as its consent to the capacity of
+that court or tribunal to decide the dispute on the merits. When issued in
+this way, provisional measures do not constitute the final disposition of a
+case and indeed are often expressed to be without prejudice to either the
+parties’ submissions or the court or tribunal’s conclusions on the merits.’
+Accordingly, they are without res judicata effect.
+
+As such, the basal requirement for the grant of a request for provisional
+measures is that the court or tribunal in question be seised of a case with
+respect to which judgment is pending.® This assertion is confirmed by
+the wording of Article 41(2) of the ICJ Statute, which makes reference
+to actions taken ‘[p]ending resolution of the final decision’? Similarly,
+UNCLOS Article 290(1) frames the question in conditional terms, open-
+ing with the words ‘[i]f a dispute has been duly submitted to a court or
+tribunal’! Other international courts and tribunals have adopted word-
+ing that contemplates the existence of a primary dispute separate from
+a request for interim relief.'! In all cases, the language deployed is only
+
+Interim Measures in Investor-State Arbitration’ (2013) 29 Arb Inf1381, 417-23. Where a
+court or tribunal has a discretion to issue relief as either an order or interim award, it may
+be subsequent to issuing relief convert the former into the latter so as to maximize the
+enforcement options available to the beneficiary: see e.g. Chevron Corporation and Texaco
+Petroleum Corporation v Ecuador, PCA Case No 2009-23 (First Interim Award on Interim
+Measures, 25 January 2012) 16-17.
+
+7 Mani, International Adjudication, 285-6. See e.g. Fisheries Jurisdiction (UK v Iceland),
+Provisional Measures, ICJ Reports 1972 p 12, 16; Fisheries Jurisdiction (Germany v Iceland),
+Provisional Measures, ICJ Reports 1972 p 31, 34:
+
+Whereas the decision given in the course of the present proceedings in no way pre-
+judges the question of the jurisdiction of the Court to deal with the merits of the case
+or any questions relating to the merits themselves and leaves unaffected the right of
+the Respondent to submit arguments against such jurisdiction or in respect of such
+merits [... ]
+
+Cf. the various separate opinions of Judge Cancado Trindade, who has argued for a
+‘conceptually [... ] autonomous legal regime of provisional measures of protection’: see
+e.g. Certain Documents and Data, ICJ, Order of 3 March 2014, $59-62 (Judge Cangado
+Trindade).
+
+Further: ICJ Rules, Art 73(1). ‘© Further: ITLOS Rules, Art 89(1).
+
+See e.g. ICSID Rules, Rule 39 (‘At any time after the institution of the proceeding’); ICSID
+(AF) Rules, Art 46 (‘either party may at any time during the proceeding’); 1976 UNCITRAL
+Rules, Art 26(1) (‘the arbitral tribunal may take any interim measures it deems necessary
+in respect of the subject matter of the dispute’); 2010 UNCITRAL Rules Art 26(2) (‘An
+interim measure is any temporary measure by which, at any time prior to the issuance
+
+a
+PrP wO
+
+AOVETSTEdT Get s.c06 Published online by Cambridge University Press
+eae rt eN wnat
+via ae fF ie ;
+TOS VO OLOr ras #
+
+136 POWER TO ORDER PROVISIONAL MEASURES
+
+capable of being given meaning if interim relief is dependent on the court
+or tribunal already being seised.”
+
+This point has not been the subject of an express judicial
+pronouncement,’* but parties tend automatically to ensure that any
+request for interim relief is at the very least made alongside an appli-
+cation for final relief — even where the raison d’étre of that application
+is the request for provisional measures itself.‘ The alternative would
+be to convert a court or tribunal’s capacity to award interim relief into
+an unlimited grant of jurisdiction inconsistent with the consent-based
+character of international dispute settlement.'”
+
+III Legal Source of the Power to Order Provisional Measures
+A Provisional Measures as a General Principle of International Law
+
+The character of provisional measures proceedings as incidental to a
+primary action is relatively uncontroversial. Less certain is the source
+of the capacity to award provisional measures and, more particularly,
+whether it is possible for an international court or tribunal to issue
+interim relief without the express authorization of the parties. However,
+given its widespread use in international law and the plethora of domes-
+tic law analogies readily identifiable,!° it may be argued that the power
+to order provisional measures constitutes a general principle of interna-
+tional law within the meaning of Article 38(1)(c) of the ICJ Statute,'” and
+is therefore generally available to adjudicators even in the absence of an
+express power — an argument made at length by Cheng.'* A number of
+
+of the award by which the dispute is finally decided’); 2012 PCA Rules, Art 26(2) (‘An
+interim measure is any temporary measure by which, at any time prior to the issuance of
+the award by which the dispute is finally decided’).
+
+2 Kolb, International Court, 622.
+
+5 Cf. Legal Status of South-Eastern Greenland (Denmark v Norway) (1932) PCIJ Ser A/B
+No 48, 283-4; Aegean Sea Continental Shelf (Greece v Turkey), Provisional Measures, ICJ
+Reports 1976 p 3, 15 (President Jimenez de Aréchaga).
+
+4 See Chapter 9, §II. Kolb, International Court, 622. ‘© See Chapter 2, SII.B.
+
+7 Generally: Rudiger Wolfrum ‘Sources of International Law, MPEPIL (2011) §§33-9; Alain
+
+Pellet, ‘Article 38, ICJ Commentary, 731, 832-41.
+
+Bin Cheng, General Principles of Law as Applied by International Courts and Tribunals
+
+(Cambridge: Cambridge University Press, 1953) 267-74. See also Mani, International
+
+Adjudication, 277; Lawrence Collins, ‘Provisional and Protective Measures in Interna-
+
+tional Litigation’ (1992) 234 Hague Recueil 9, 23-4, 214-15; “Discussion, in R Bernhardt
+
+(ed), Interim Measures Indicated by International Courts and Tribunals (Berlin: Springer-
+
+Verlag, 1994) 117, 127-9 (Mosler), 137-9 (Jacobs), 140 (Bernhardt); Chester Brown, A
+
+Common Law of International Adjudication (Oxford: Oxford University Press, 2007) 126-7.
+
+Dumbauld earlier identified provisional measures as a general principle but stopped short
+
+AOVETSTEdT Get s.c06 Published online by Cambridge University Press
+eae rt eN wnat
+via ae fF ie ;
+LIDS VOL ora randa s
+
+LEGAL SOURCE OF THE POWER TO ORDER PROVISIONAL MEASURES 137
+
+factors support this assertion. In the first place, in the modern era of
+dispute settlement, it is widely accepted that international courts and
+tribunals require a broad power to regulate their proceedings. For this
+reason, it is common for the constituent instruments of such courts
+or tribunals to include the authority to award interim relief. The most
+prominent example of this is Article 41 of the ICJ Statute, and amongst
+the judicial bodies under consideration here, one may also point to UNC-
+LOS Article 290, Article 47 of the ICSID Convention and NAFTA Article
+1134 as exemplifying this paradigm, as do a number of other stand-alone
+agreements that exist to confer jurisdiction on another dispute resolu-
+tion body.'? Another approach is for the power to grant interim relief
+to be included in a preexisting set of procedural rules to be drafted or
+nominated by the parties, as is the case with Article 26 of the 1976 and
+2010 UNCITRAL Rules, as well as Article 26 of the PCA Arbitration
+Rules. A related case is where the parties agree to base the procedure of
+a dispute settlement body on an existing set of rules containing a pro-
+visional measures procedure, and then leave final settlement of the rules
+to the tribunal itself, as was the case with both the Iran—US Claims Tri-
+bunal (based on the 1976 UNCITRAL Rules”’) and the Ethiopia—Eritrea
+Claims Commission (based on the PCA Optional Rules).”' In all cases,
+the court or tribunal’s capacity to award interim relief has been gener-
+ated by the express (or at least strongly implied) consent of the parties,
+but may be said more broadly to reflect an extant general principle of
+law.
+
+More complicated is the situation in which a court or tribunal is given
+a general competence to define its own proceedings, and then arrogates
+unto itself the power to award interim relief. The most prominent example
+is the European Court of Human Rights, which has used its general
+power under ECHR Article 25(d) to supplement its procedural framework
+
+of arguing for an automatic competence of international courts and tribunals to order
+them: Edward Dumbauld, Interim Measures of Protection in International Controversies
+(The Hague: Martinus Nijhoff, 1932) 180.
+
+See e.g. the General Act for the Pacific Settlement of International Disputes, 26 September
+1928, 93 UNTS 343, Art 33; American Treaty of Pacific Settlement (Pact of Bogata), 30
+April 1948, 30 UNTS 55, Art XVI; European Convention for the Peaceful Settlement of
+Disputes, 29 April 1957, 320 UNTS 243, Art 21.
+
+Declaration of the Government of the Democratic and Popular Government of Algeria
+Concerning the Settlement of Claims by the Government of the United States of America
+and the Government of the Islamic Republic of Iran (Claims Settlement Declaration), 19
+January 1981, 20 ILM 1981, Art III(2).
+
+Agreement between the Government of the Federal Democratic Republic of Ethiopia and
+the Government of the State of Eritrea, 12 December 2000, 40 ILM 260, Art 5(7).
+
+20
+
+2
+
+rae
+
+AOVETSTEdT Get s.c06 Published online by Cambridge University Press
+eae tN wok at
+via ae fF ie ;
+LIDS VOL ora randa s
+
+138 POWER TO ORDER PROVISIONAL MEASURES
+
+sua sponte to introduce the capacity to order provisional measures.”
+An older example arises in the context of the inter-war mixed arbitral
+tribunals,**> many of which undertook a similar exercise pursuant to a
+general grant of procedural creativity in the 1919 Treaty of Versailles**
+and other postwar agreements. Again, these examples may be said to
+reflect the tribunal in question giving form to a general principle of
+international law through its power to develop its own procedure — though
+naturally it cannot go beyond the scope of its constituent instrument in so
+doing.
+
+A third variation is where an international court or tribunal orders
+interim relief without reference to any provision in its constitutive instru-
+ment or its procedural rules. An early example of this occurred in the
+order issued by the tribunal assembled according to the terms of the 1906
+Treaty of Corinto, which purported to derive its authority from ‘its prin-
+cipal duty is to see that the judgment it is going to deliver should become
+effective.”? Reference might also be made in this respect to the early
+practice of the UN Administrative Tribunals and the International Labor
+Organization.”° A further example was the Trail Smelter arbitration, in
+which the Tribunal established a “temporary regime’ that safeguarded the
+rights subject to litigation notwithstanding the absence of such a power
+in the Tribunal’s constitutive instrument.””
+
+Certain aspects of the power to order provisional measures have been
+identified as a general principle of international law in the decisions of
+international courts and tribunals. The PCIJ in Electricity Company made
+reference to ‘the principle universally accepted by international tribunals
+[...] to the effect that the parties to the case must abstain from any
+measure capable of exercising a prejudicial effect in regard to the execu-
+
+tion of the decision to be given;”* thereby identifying measures for the
+
+2 See 2014 Rules of the European Court of Human Rights, Rule 39. On the introduction
+of the power, see Rudolph Bernhard, ‘Interim Measures of Protection under the Euro-
+pean Convention on Human Rights’, in R Bernhard (ed), Interim Measures Indicated by
+International Courts (Berlin: Springer-Verlag, 1994) 95, 97-100.
+
+°3 See Chapter 2, SIIB. 74: 28 June 1919, 225 CTS 188, Art 304(d).
+
+?5 See Chapter 2, SITI.A.1. Further: Dumbauld, Interim Measures, 92-5.
+
+6 Karin Oellers-Frahm, Die einstweilige Anordnung in der internationalen Gerichtsbarkeit
+
+(Berlin: Springer-Verlag, 1975) 127ff.
+
+Trail Smelter (US/Canada) (1938) 3 RIAA 1911, 1934-7.
+
+Electricity Company of Sofia and Bulgaria (Belgium v Bulgaria) (1939) PCIJ Ser A/B No
+
+79, 199. See also LaGrand (Germany v US), ICJ Reports 2001 p 466, 503. In the ICSID
+
+context, the Tribunal in Amco Asia Corporation v Indonesia, Provisional Measures (1983) 1
+
+ICSID Reports 410, 412 made reference to the ‘good, practical rule’ of non-aggravation of
+
+the dispute. See also the similar decision of the Rennes Cour d’Appel in Guinea v Atlantic
+
+Triton Company (1984) 3 ICSID Reports 3, 5-6.
+
+2
+2
+
+Co ss)
+
+SOFETST64T 9S 7 5.006 Published online by Cambridge University Press
+eae rt eN wnat
+via ae fF ie ;
+TOS VO OLOr ras #
+
+LEGAL SOURCE OF THE POWER TO ORDER PROVISIONAL MEASURES 139
+
+non-escalation of a dispute as reflecting a general principle of interna-
+tional law. As for the power to issue provisional measures protecting rights
+pendente lite, individual opinions within the IC] have identified a similar
+general principle,”” and furthermore, the Court’s finding in Pulp Mills
+that the capacity to order measures for non-escalation is dependent on
+the power to award measures for the protection of litigated rights tends
+to indicate that it at least considers the two species of measure to derive
+from the same source.*”
+
+B_ Provisional Measures as an Inherent Power of International Courts
+and Tribunals
+
+Another argument for the source of the power to award interim relief
+is that it is but one facet of an international court or tribunal’s inher-
+ent power to regulate its jurisdiction. This view was expressed by Judge
+Fitzmaurice in Northern Cameroons:
+
+Although much of this [ ... ] incidental jurisdiction is specifically provided
+for in the Court’s Statute, or in the Rules of Court which the Statute
+empowers the Court to make, it is really an inherent jurisdiction, the
+power to exercise which is a necessary condition of the Court — or of any
+court of law — being able to function at all.*!
+
+On this view, the inherent powers of international courts and tribunals
+arise from their judicial character, with parties who accede to the juris-
+diction of such a body assumed also to accede to the potential exercise of
+certain implied powers deployed in order to guarantee the integrity of the
+judicial process.** As such, the ICJ’s activity under Article 41 of its Statute
+
+29
+30
+
+See e.g. Aegean Sea, ICJ Reports 1976 p 3, 15-16 (President Jiménez de Arechaga).
+
+Pulp Mills on the River Uruguay (Argentina v Uruguay), Provisional Measures, ICJ Reports
+2007 p 3, 16; cf. ibid, 21 (Judge Buergenthal). Further: Paolo Palchetti, “The Power of the
+International Court of Justice to Indicate Provisional Measures to Prevent the Aggravation
+of a Dispute’ (2008) 21 LJIL 623; Chapter 5.
+
+Northern Cameroons (Cameroon v UK), Preliminary Objections, ICJ Reports 1963 p 15,
+103 (Judge Fitzmaurice); See also: Nuclear Tests (Australia v France), IC] Reports 1974
+p 253, 259-60; Nuclear Tests (New Zealand v France), ICJ Reports 1974 p 457, 463; Legality
+of the Use of Force (Serbia and Montenegro v UK), Preliminary Objections, ICJ Reports
+2004 p 1307, 1361-2 (Judge Higgins). Further: Dinah Shelton, ‘Form, Function and the
+Powers of International Courts’ (2009) 9 CJIL 537, 548-50.
+
+Gerald Fitzmaurice, 2 The Law and Procedure of the International Court of Justice (Cam-
+bridge: Cambridge University Press, 1986) 533, 770-1; Elihu Lauterpacht, “Partial” Judg-
+ments and the Inherent Jurisdiction of the International Court of Justice’, in V Lowe and
+M Fitzmaurice (eds), Fifty Years of the International Court of Justice: Essays in Honour of
+Sir Robert Jennings (Cambridge: Cambridge University Press, 1996) 465, 476-83; Paola
+Gaeta, ‘Inherent Powers of International Courts and Tribunals, in L C Vohrah et al. (eds),
+
+3
+
+aa
+
+32
+
+AOVETSTEdT Get s.c06 Published online by Cambridge University Press
+eae rt eN wnat
+via ae fF ie ;
+TOS VO OLOr ras #
+
+140 POWER TO ORDER PROVISIONAL MEASURES
+
+does no more than ‘in effect give life and blood to a rule that already exists
+in principle.*’ Fitzmaurice extended this proposition further still arguing
+‘if there is ever a case at all for conferring this faculty expressly on an
+international tribunal (be it the [ICJ] or another), there is automatically
+a case for regarding all international tribunals as inherently invested with
+it.
+
+The ILC had the opportunity to deal with this question in the course
+of its early work on arbitral procedure.*? Discussing Draft Article 26
+(concerning provisional measures) of the Commission’s proposed code
+of arbitral procedural, Jaroslav Zourek (Czechoslovakia) put forward the
+argument that as the powers of an international arbitral tribunal were
+dependent on the will of the parties, a tribunal could neither (a) award
+provisional measures absent an express power to do so, or (b) award
+provisional measures proprio motu. He secured the agreement of F I
+Kozhevnikov (USSR), but did not carry the remainder of the Commission,
+which rejected his proposal to insert wording supporting his views into
+the draft by a margin of 10 to 2.*°
+
+Reasoning such as that propounded by Fitzmaurice has been adopted
+by, inter alia, the Inter-American Court of Human Rights, which in
+Velasquez Rodriguez awarded interim relief on the basis of ‘Articles 63(2),
+33 and 62(3) of the American Convention on Human Rights, Articles
+1 and 2 of the Statute of the Court and Article 23 of the Rules of
+
+Man’s Inhumanity to Man: Essays on International Law in Honour of Antonio Cassese(The
+Hague: Kluwer Law International, 2003) 353; Rosenne, 2 Law and Practice, 579-84; Brown,
+Common Law, 55-81; Shelton, “Form, Function and the Powers, 548-50; Brown, ‘Inherent
+Powers in International Adjudication, in C P R Romano, K J Alter and Y Shany (eds), The
+Oxford Handbook of International Adjudication (Oxford: Oxford University Press, 2014)
+828.
+Edvard Hambro, “The Binding Character of the Provisional Measures of Protection Indi-
+cated by the International Court of Justice’, in W Schatzel and H J Schlochauer (eds),
+Rechtsfragen der Internationalen Organisation — Festschrift fiir Hans Wehberg zu seinem
+70 Geburtstag (Frankfurt am Main: Vittorio Klostermann, 1956) 152, 167. The ICJ has
+made a similar pronouncement with respect to its ability to determine its own jurisdiction
+(kompetenz-kompetenz): Nottebohm (Liechtenstein v Guatemala), Preliminary Objections,
+ICJ Reports 1953 p 111, 119.
+Fitzmaurice, 2 Law and Procedure, 542. See also Hudson, Permanent Court, 426; Jerome
+B Elkind, Interim Protection: A Functional Approach (The Hague: Martinus Nijhoff, 1981)
+162-3. The argument appears to have been advanced first by Hans Gerd Niemeyer,
+Einstweilige Verfiigungen des Weltgerichtshofs, ihr Wesen und ihre Grenzen (Leipzig: R
+Noske, 1932) 11-16, 23-4.
+°° Further: United Nations, 1 The Work of the International Law Commission (New York:
+United Nations, 8th edn, 2012) 134-7.
+°° ILC Ybk 1952/1, 65-6.
+
+33
+
+34
+
+AOVETSTEdT Get s.c06 Published online by Cambridge University Press
+eae rt eN wnat
+via ae fF ie ;
+TOS VO OLOr ras #
+
+LEGAL SOURCE OF THE POWER TO ORDER PROVISIONAL MEASURES 141
+
+Procedure and its character as a judicial body and the powers which
+derive therefrom’.*” In the context of ICSID, the Tribunal in Biwater Gauff
+v Tanzania observed that:
+
+It is now settled in both treaty and international commercial arbitration
+that an arbitral tribunal is entitled to direct the parties not to take any
+step that might (1) harm or prejudice the integrity of proceedings, or (2)
+aggravate or extend the dispute. Both may be seen as a particular type
+of provisional measure [...] or simply as a facet of the tribunal’s overall
+procedural powers and its responsibility for its own process.*®
+
+Although it may be agreed that such inherent powers exist within the law
+and practice of international courts and tribunals, commentators have
+lamented the failure of these bodies to identify their legal source with
+consistency and precision.*? In the case of provisional measures, this is
+exacerbated by the fact that most international courts and tribunals are
+expressly granted the power to award interim relief, and naturally pre-
+fer to rely on that power so as to avoid controversy. One hypothesis is
+that inherent powers are again merely a reflection of general principles
+of international law,*° and certainly the power to order provisional mea-
+sures would appear to fit within this model. Other theories take a more
+elemental stance, and argue that the power emerges from the need of
+international courts and tribunals to fulfill the mandate granted in their
+constitutive instruments*! — an expression of the need for ‘effectiveness’
+in international jurisdiction.”
+
+>” Velasquez Rodriguez (1988) 95 ILR 259, 268.
+
+38 Biwater Gauff (Tanzania) Ltd v Tanzania, ICSID Case No ARB/05/22 (Procedural Order
+No 3, 29 September 2006) $135 (emphasis added). See also and earlier E-Systems Inc v
+Tran (1983) 2 Iran—US CTR 51, 57.
+
+°° Gaeta, ‘Inherent Powers’ 354—5, 358-61; Brown, Common Law, 66-71.
+
+4° Gaeta, ‘Inherent Powers’, 355; Brown, Common Law, 67-9. As such, scholars tend to
+
+conflate the two without feeling the need to discuss any potential distinction: see e.g.
+
+Collins, ‘Provisional and Protective Measures’ 214-16; Chittharanjan F Amerasinghe,
+
+Jurisdiction of International Courts and Tribunals (The Hague: Kluwer, 2003) 347-8; Karin
+
+Oellers-Frahm, ‘Expanding the Competence to Issue Provisional Measures — Strengthening
+
+the International Judicial Function’ (2011) 12 German LJ 1279, 12824.
+
+Alexander Orakhelashvili, ‘Questions of International Judicial Jurisdiction in the LaGrand
+
+Case’ (2002) 15 LJIL 105, 107-8, 113-14; Gaeta, ‘Inherent Powers, 364—8; Brown, Common
+
+Law, 71; Rudiger Wolfrum, ‘Interim (Provisional) Measures of Protection’, in R Wolfrum
+
+(gen ed), Max Planck Encyclopedia of Public International Law (Oxford: Oxford University
+
+Press, online edn, 2006) $5; Oellers-Frahm, ‘Expanding the Competence’, 1283.
+
+® Hersch Lauterpacht, The Development of International Law by the International Court
+(Cambridge: Cambridge University Press, 1958) 243-56.
+
+4
+
+aan
+
+AOVETSTEdT Get s.c06 Published online by Cambridge University Press
+eae TaN eat
+via ae fF ie ;
+TOS VO OLOr ras #
+
+142 POWER TO ORDER PROVISIONAL MEASURES
+
+C Provisional Measures as an Express Mandate
+
+In a purely functional sense, a conceptualization of the power
+to order provisional measures as either a general principle of
+international law or an inherent power of an international court or tri-
+bunal leads to the same result — the capacity to grant interim relief even
+in the absence of the parties’ express consent. Other scholars, however,
+argue that provisional measures can only ever be awarded pursuant to
+the express mandate of the parties. Insofar as general principles of law
+are concerned, the argument runs, a court or tribunal cannot obtain a
+jurisdictional power from a general principle, but only from the consent
+of the parties.** Similar objections have been made with respect to the
+view that international courts and tribunals possess an inherent power to
+award provisional measures. If some powers are included and others not,
+then this is suggestive of an intention to omit: expressio unius est exclusio
+alterius.““
+
+As Brown points out, however, such concerns are misplaced — courts
+and tribunals have never considered general principles of law arising
+from Article 38(3) of the ICJ Statute to exclude procedural powers and
+indeed the PCIJ’s pronouncement in Electricity Company would appear
+to directly contradict such a narrow reading in the case of provisional
+measures.*° With respect to inherent powers, if these are to be considered
+reflective of general principles of international law, then the argument
+against also collapses for reasons connected to the procedural character
+of such principles. If, however, inherent powers are linked to a criterion of
+‘effectiveness, then they may be justified through the capacity of an inter-
+national court to protect the integrity of its final award, as supported by a
+considerable corpus of judicial authority*® — though one must be careful
+to draw a distinction between what is truly necessary for a tribunal to
+function effectively, and an act of judicial overreach that disparages party
+
+8 See e.g. Dumbauld, Interim Measures, 180-1; Bernhardt (ed), ‘Discussion’, 126—7 (Herde-
+gen); Rosenne, Provisional Measures, 11; Thirlway, 1 Law and Procedure, 966-7. Cf.
+Rosenne, 2 Law and Practice, 578-9. That being said, Thirlway is not completely hos-
+tile to the concept of inherent powers of international courts and tribunals. See Hugh
+Thirlway, ‘Dilemma or Chimera? Admissibility of Illegally Obtained Evidence in Interna-
+tional Adjudication’ (1984) 78 AJIL 622, 626:
+
+If states in setting up an international body classify it as a court or tribunal, then
+there is no need for them to spell out in its constitutive instrument that it is under
+an obligation to hear both sides before deciding; by calling it a court they are already
+implicitly giving it that instruction.
+
+“4 Bernhardt (ed), ‘Discussion, 123-4 (Golsong), 133 (Sinclair); Thirlway, 1 Law and Proce-
+dure, 704—5.
+45 Brown, Common Law, 67-9, 127. 46 Ibid, 127-33.
+
+SOFETST64T 9S 7 5.006 Published online by Cambridge University Press
+eae paw quate
+via ae fF ie ;
+TOS VO OLOr ras #
+
+LEGAL SOURCE OF THE POWER TO ORDER PROVISIONAL MEASURES 143
+
+consent, e.g. the use of incidental jurisdiction to stray beyond the prima
+facie jurisdiction of the court or tribunal or to otherwise fundamentally
+alter the proceedings.”
+
+D_ Contours and Preconditions: Provisional Measures as Lex Specialis
+
+1 Fixed Minimum Features of the Power
+
+If there arises in international law a general power to award provisional
+measures, what are the features of this power? As Brown has pointed out,
+a measure of uniformity may be detected as between international courts
+and tribunals when considering the preconditions for interim relief.*® This
+prompts the question: which of these preconditions must be adopted by
+international courts and tribunals as compulsory features of the power to
+award provisional measures?
+
+If it is presumed that the source of the power is a general principle of
+international law, then the preconditions inherent in the exercise of the
+power would appear to be minimal. As Pellet points out, the roots of such
+principles lie in the municipal law of states,*? and a certain commonality
+of practice must be observed if a coherent norm is to be identified. As
+seen in Chapter 2, however, although most legal systems acknowledge
+the capacity of a domestic tribunal to award interim relief, the conditions
+according to which such relief is awarded vary considerably. Furthermore,
+it is not sufficient for an international court or tribunal to simply apply
+municipal concepts under the rubric of general principles — a measure of
+transposition is required.°® As noted by Judge McNair in the South West
+Africa advisory opinion:
+
+The way in which international law borrows from [general principles of
+law] is not be means of importing private law institutions ‘lock, stock and
+barrel’, ready-made and fully equipped with a set of rules [...] [T]he true
+view of the duty of international tribunals in this matter is to regard any
+features or terminology which are reminiscent of the rules and institutions
+of private law as an indication of policy and principles rather than directly
+importing these rules and institutions.”!
+
+47
+48
+
+Wolfrum, “Interim (Provisional) Measures’, §5.
+
+Brown, Common Law, 135-51. Further: Cameron A Miles, “The Influence of the Inter-
+national Court of Justice on the Law of Provisional Measures, in M Andenas and E
+Bjorge (eds), A Farewell to Fragmentation: Reassertion and Convergence of International
+Law (Cambridge: Cambridge University Press, 2015) 218.
+
+” Pellet, ‘Article 38, 834. *° Ibid, 840-1.
+
+>! International Status of South West Africa, ICJ Reports 1950 p 128, 148 (Judge McNair).
+See also Barcelona Traction, Light and Power Company Ltd (Belgium v Spain), ICJ Reports
+1970 p 3, 66 (Judge Fitzmaurice).
+
+nay
+
+AOVETSTEdT Get s.c06 Published online by Cambridge University Press
+144 POWER TO ORDER PROVISIONAL MEASURES
+
+Accordingly — aside from the fact of the power itself — only the broadest
+contours of the capacity to award interim relief may be said to exist
+as a general principle within the meaning of Article 38(1)(c). Based on
+the pronouncements of courts and tribunals, these may be identified as
+(a) the character of provisional measures proceedings as incidental; and
+(b) the purpose for which provisional measures may be granted, i.e. to
+protect rights pendente lite or to ensure non-escalation of the dispute.>?
+A third factor may also be adduced which arises from the need to render
+municipal concepts of interim relief useable on the international plane,
+namely the need for some form of jurisdictional review by the court or
+tribunal prior to the granting of provisional measures, though the precise
+threshold of such a review is not necessarily fixed.°* Finally, the character
+of provisional measures as binding on the parties would now appear to be
+a minimum feature of the power to award interim relief, though this facet’s
+emergence as such was attended by significant controversy, discussed at
+length in Chapter 7.
+
+Similar conclusions may be drawn if we conceive of provisional mea-
+sures as arising from the need for international courts and tribunals to
+protect the ‘effectiveness’ of their jurisdiction. The power, such as it is, is
+to be realized realised by each individual court and tribunal, in accordance
+with the provisions of its constituent instrument. Lauterpacht, in setting
+out the parameters of the power as an expression of effectiveness in the
+context of the ICJ, made note of the need for the Court to be seised and
+jurisdiction tentatively established prior to the granting of relief, as well
+as the need to ensure that provisional measures are only awarded in the
+service of a particular purpose.**
+
+2 Constitutive Instruments and Lex Specialis
+
+Beyond the minimum requirements specified above, there is no formal
+uniform law of provisional measures that exists generally between interna-
+tional courts and tribunals. To the extent that a uniform law has developed,
+its spread is attributable to the underlying logic ofits constituent elements.
+Courts and tribunals are free to adopt or discard these elements as they see
+
+°2 Although measures to prevent non-escalation may be said to arise from early international
+practice, rather than domestic notions of interim relief: Chapter 2, §V.B.
+
+3 Anglo-Iranian Oil, ICJ Reports 1951 p 89, 96-7 (Judges Winiarski and Badawi Pasha, diss).
+
+4 Given Lauterpacht’s well-known championing of the prima facie jurisdiction test (below
+SIV.A.2) his analysis sets the standard of review at this level: Lauterpacht, Development of
+International Law, 252-6.
+
+AOVETSTEdT Get s.c06 Published online by Cambridge University Press
+eae rt eN wnat
+via ae fF ie ;
+TOS VO OLOr ras #
+
+LEGAL SOURCE OF THE POWER TO ORDER PROVISIONAL MEASURES 145
+
+fit, although it should be noted that the existence of a jurisprudence con-
+stante with respect to the preconditions of provisional measures carries
+considerable weight. Additionally, when addressing the IC)’s influential
+corpus of case law the argument that the Court’s jurisprudence should
+be applied by another body is somewhat stronger where Article 41 of the
+ICJ Statute has been used as a basis for that body’s authorization to award
+interim relief — though again this is not definitive.
+
+An example of the independence of different adjudicatory bodies in
+this respect may be seen in the emergence of a possible divide between
+the ICJ on the one hand and certain ICSID tribunals on the other on
+the question of prejudice to rights pendente lite.’ Historically, the for-
+mer has required the possibility of ‘irreparable; prejudice in order for
+interim relief to be awarded.*° Recent instances of the latter, however,
+have moved away from such a standard to require a putatively lower
+threshold of ‘significant’ prejudice.°’ Similar arguments have been made
+with respect to the provisional measures jurisprudence under UNCLOS,
+although the tribunals there have been less willing to strike out from the
+ICJ;°> indeed, the Annex VII tribunal in MOX Plant adopted the ICJ’s
+standard of irreparability on the basis of ‘international judicial practice’
+alone.”
+
+°° Dan Sarooshi, ‘Provisional Measures and Investment Treaty Arbitration’ (2013) 29 Arb
+
+Int’] 361, 377-9.
+
+Denunciation of the Treaty of November 2nd, 1865 between China and Belgium (Belgium v
+
+China) (1927) PCIJ Ser A No 8, 7; South-Eastern Greenland (1932) PCIJ Ser A/B No 48,
+
+284; Fisheries Jurisdiction (UK v Iceland), IC) Reports 1972 p 12, 16; Land and Maritime
+
+Boundary between Cameroon and Nigeria (Cameroon v Nigeria), Provisional Measures,
+
+ICJ Reports 1996 p 13, 23.
+
+°? City Oriente Ltd v Ecuador and Empesa Estatal Petréleos Del Ecuador, ICSID Case No
+ARB/06/21 (Decision on Revocation of Provisional Measures, 13 May 2008) $$70-2;
+Perence Ecuador Ltd v Ecuador and Empesa Estatal Petréleos Del Ecuador, ICSID Case No
+ARB/08/6 (Decision on Provisional Measures, 8 May 2009) $43; Burlington Resources Inc
+and Ors v Ecuador and Empesa Estatal Petréleos Del Ecuador, ICSID Case No ARB/08/5
+(Procedural Order No 1, 29 June 2009) $51.
+
+8 -M/V Saiga (No 2) (St Vincent and the Grenadines v Guinea), Provisional Measures (1998)
+117 ILR 111, 143 (Judge Liang); Southern Bluefin Tuna (Australia v Japan; New Zealand v
+Japan) (1999) 117 ILR 148, 170 (Judge Laing). Further: Edward A Laing, ‘A Perspective
+on Provisional Measures under UNCLOS’ (1998) 29 NYIL 45.
+
+>? MOX Plant (Ireland v UK), Procedural Order No 3 (2003) 123 ILR 310, 328 (Annex
+VII). See also Sergei Paushok, CJSC Golden East Company, CJSC Vostokneftegaz Company v
+Mongolia, UNCITRAL (Interim Measures, 2 September 2008) $45 (making reference to the
+five ‘internationally recognized’ preconditions of interim relief). Cf. Sarooshi, ‘Provisional
+Measures, 370-1, arguing that no ‘international jurisprudence’ of provisional measures
+can be said to exist.
+
+56
+
+AOVETSTEdT Get s.c06 Published online by Cambridge University Press
+eae tN wok at
+via ae fF ie ;
+LIDS VOL ora randa s
+
+146 POWER TO ORDER PROVISIONAL MEASURES
+
+Given the amorphous nature of the power, states can modify its scope
+through the constitutive instrument of the court or tribunal in ques-
+tion. For example, whilst Article 41 of the ICJ Statute and Article 47
+of the ICSID Convention are phased in terms so general as to do little
+more than confirm the existence of the power, UNCLOS Article 290(1)
+simultaneously broadens and narrows its parameters, requiring that juris-
+diction be established prima facie prior to the award of interim relief but
+exceptionally permitting provisional measures for the prevention of seri-
+ous harm to the marine environment. Such embellishments, when they
+occur, constitute a lex specialis that may supplement or displace the gen-
+eral power.°° The implications of this are seen in the order by the Court
+of Arbitration in Kishenganga.®' There, the constitutive instrument of
+the Court of Arbitration, the Indus Waters Treaty, contained a spe-
+cific power to grant interim relief in Paragraph 28 of Annexure G. This
+provided:
+
+Either Party may request the Court at its first meeting to lay down, pending
+its Award, such interim measures as, in the opinion of that Party, are
+necessary to safeguard its interests under the Treaty with respect to the
+matter in dispute, or to avoid prejudice to the final solution or aggravation
+or extension of the dispute. The Court shall, thereupon, after having
+afforded an adequate hearing to each Party, decide by a majority consisting
+of at least four members of the Court, whether any interim measures are
+necessary for the reasons herein before stated and, if so, shall specify such
+measures: Provided that
+
+(a) the Court shall lay down such interim measures only for such specified
+period as, in its opinion, will be necessary to render the Award: this
+period may, if necessary, be extended unless the delay in rendering the
+Award is due to any delay on the part of the Party which requested the
+interim measures in supplying such information as may be required
+by the other Party or by the Court in connection with the dispute; and
+
+(b) the specification of such interim measures shall not be construed as
+an indication of any view of the Court on the merits of the dispute.
+
+Faced with an application for provisional measures by Pakistan, India
+responded by referring the Court to ICJ authorities concerning questions
+of urgency and necessity, neither of which were the subject of express
+
+6° ARSIWA Art 55. Further: James Crawford, State Responsibility: The General Part (Cam-
+bridge: Cambridge University Press, 2013) 103-5.
+
+6! Indus Waters Kishenganga Arbitration (Pakistan v India), Interim Measures (2011) 150 ILR
+311.
+
+6 19 September 1960, 419 UNTS 215.
+
+SOFETST64T 9S 7 5.006 Published online by Cambridge University Press
+PRIMA FACIE JURISDICTION 147
+
+mention in Paragraph 28. Pakistan, in reply, asserted that the provision
+furnished a self-contained set of rules and that the Court was barred from
+even considering sources of law external thereto. Had the parties to the
+Indus Waters Treaty wished to incorporate the ICJ’s view on the matter,
+it was argued, they would have adopted Article 41 of the ICJ Statute as
+a model.® India, for its part, argued that the jurisprudence of the ICJ
+and other institutions was available to the Court of Arbitration so as to
+aid in the interpretation of the ‘spare’ wording of Paragraph 28. The
+Court adopted a nuanced view, holding that the provision ‘functions
+as a kind of lex specialis prescribed by the framers of the provision that
+makes unnecessary the imposition of further requirements’. Despite this
+stance, however, the Court took note of the jurisprudence of other courts
+and tribunals, including the ICJ, when discussing its capacity to award
+interim relief ‘to avoid prejudice to the final solution’. It then referred
+to ‘the general practice of international courts and tribunals, but was
+careful to note that its motivation in invoking such practice was not blind
+adherence, but policy concerns related to the extraordinary character of
+interim relief awarded in an international context.°’
+
+IV Prima Facie Jurisdiction
+
+As stated, one of the most significant international elaborations to interim
+relief arises from its interaction with consensual jurisdiction. The sine
+qua non of provisional measures is to prevent damage to rights subject to
+litigation or to otherwise forestall modification of the status quo between
+the parties. Given the cumbersome nature of the international legal pro-
+cess, the need to institute effective protection may preclude a full exami-
+nation of the legal issues involved. However, the fundamental premise of
+the jurisdiction of international courts and tribunals is consent.®? How
+then, can an international court — which may lack jurisdiction — make
+
+°° Kishenganga (2011) 150 ILR 311, 333-4. 4 Ibid, 334-5.
+
+® Tbid, 350. °° Ibid, 351. ©” Ibid, 351-2.
+
+68 Dumbauld, Interim Measures, 2-7; Elkind, Functional Approach, 167-8; Rosenne, Provi-
+sional Measures, 85-91; John Collier and Vaughan Lowe, The Settlement of Disputes in
+International Law: Institutions and Procedures (Oxford: Oxford University Press, 1999)
+169. Also: Interhandel (Switzerland v US), Provisional Measures, ICJ Reports 1957 p 105,
+118-19 (Judge Lauterpacht).
+
+6 See e.g. Monetary Gold Removed from Rome in 1943 (Italy v France, UK and US), Pre-
+liminary Objections, ICJ Reports 1954 p 19, 32; East Timor (Portugal v Australia), ICJ
+Reports 1995 p 90, 101; Fisheries Jurisdiction (Spain v Canada), Preliminary Objections,
+ICJ Reports 1998 p 432, 435. Further: Amerasinghe, Jurisdiction, 69-77.
+
+AOVETSTEdT Get s.c06 Published online by Cambridge University Press
+eae tN wok at
+via ae fF ie ;
+TOS VO OLOr ras #
+
+148 POWER TO ORDER PROVISIONAL MEASURES
+
+an order touching on rights subject to litigation before it has finally
+determined whether jurisdiction exists? The problem is only heightened
+further in the postwar era of dispute settlement, where jurisdictional chal-
+lenges are relatively common. Clearly, some form of jurisdictional review
+is required prior to the awarding of interim relief — the question is one of
+threshold.
+
+Questions relating to the appropriate standard of jurisdictional review
+did not arise before the PCIJ.”” However, the problem attained consider-
+able prominence before the ICJ, and whilst it was effectively resolved by
+the 1970s, dissent still lingered within the Court and was the subject of
+continued academic commentary.’' The threshold that emerged from the
+practice of the Court — prima facie jurisdiction — has been reliably adopted
+by the other international courts and tribunals that emerged following
+the brokering of the consensus.
+
+Given its status as one of the basic features of the power to award
+provisional measures in international law, the question of jurisdiction
+must be addressed if relief is to be granted. Whilst international courts
+and tribunals are able to dismiss applications for reasons unconnected
+to the absence of jurisdiction,” if it is minded to award provisional
+measures, jurisdiction must be established to the required level.” As noted
+
+© See Chapter 2, §IV.C. Further: Jerzy Sztucki, Interim Measures in the Hague Court: An
+Attempt at a Scrutiny (Deventer: Kluwer, 1983) 225-31.
+
+7. See e.g. M H Mendelson, ‘Interim Measures of Protection in Cases of Contested Juris-
+diction (1972-1973) 46 BYIL 259; V S Mani, ‘On Interim Measures of Protection: ICJ
+Practice’ (1973) 13 [JIL 262, 268-71; Peter J Goldsworthy, “Interim Measures of Protection
+in the International Court of Justice’ (1974) 68 AJIL 258, 262-8; J G Merrills, ‘Interim
+Measures of Protection and the Substantive Jurisdiction of the International Court’ (1977)
+36 CL] 86; Elkind, Functional Approach, ch 7; Sztucki, Interim Measures, 221-60; D W
+Greig, “The Balancing of Interests and the Granting of Interim Protection by the Interna-
+tional Court’ (1987) 11 AYIL 109, 110-19; J G Merrills, ‘Interim Measures of Protection in
+the Recent Jurisprudence of the International Court of Justice’ (1995) 44 ICLQ 90, 91-101;
+Collier and Lowe, Settlement of Disputes, 169-71.
+
+See e.g. Aegean Sea, ICJ Reports 1973 p 3, 13. That said, the practice of the Court, even if
+minded to dismiss applications, has been to address jurisdiction regardless: Interhandel,
+ICJ Reports 1957 p 105, 110; Passage through the Great Belt (Denmark v Norway), Provi-
+sional Measures, IC] Reports 1991 p 12, 15; Pulp Mills, Provisional Measure, ICJ Reports
+2006 p 113, 128-9; Pulp Mills, ICJ Reports 2007 p 3, 10-11; Obligation to Prosecute or
+Extradite (Belgium v Senegal), Provisional Measures, IC] Reports 2009 p 139, 147-50. Cf.
+Trial of Pakistani Prisoners of War (Pakistan v India), Provisional Measures, ICJ Reports
+1973 p 328, 328-31.
+
+Shigeru Oda, ‘Provisional Measures: The Practice of the International Court, in V Lowe
+and M Fitzmaurice (eds), Fifty Years of the International Court of Justice: Essays in Honour of
+
+72
+
+73
+
+SOFETST64T 9S 7 5.006 Published online by Cambridge University Press
+eae rt eN wnat
+via ae fF ie ;
+LIDS VOL ora randa s
+
+PRIMA FACIE JURISDICTION 149
+
+by Judge Mosler in Aegean Sea, ‘provisional affirmation of jurisdiction is
+[...] not “a circumstance” contributing to the necessity of provisional
+measures [...] but a precondition of the examination whether such
+“circumstances” exist’.”*
+
+A The International Court of Justice
+
+1 Early Debates and Discarded Alternatives
+
+The problem was instantiated in Anglo-Iranian Oil, a politically complex
+case which concerned a claim brought by the UK against Iran with respect
+to the latter’s treatment of a British company following nationalization
+of the Iranian oil industry.”” The jurisdiction of the Court was putatively
+founded on an optional clause declaration made pursuant to Article 36(2)
+of the ICJ Statute. Iran objected to the Court’s jurisdiction on the basis
+that its declaration was limited to the application of agreements entered
+into after the declaration was ratified, and that any agreement on which
+the UK might substantively rely pre-dated that ratification. Faced with a
+British application for provisional measures, Iran refused to participate
+in this phase of proceedings, depriving the Court of the benefit of further
+argument. The Court awarded provisional measures nonetheless, noting
+that despite the reservations contained in Iran’s optional clause declara-
+tion, ‘it cannot be accepted a priori that a claim based on such a complaint
+falls outside the scope of international jurisdiction’.”°
+
+Judges Winiarski and Badawi Pasha’s dissent captured the character
+of the problem faced by the Court, and in this connection advocated a
+higher standard of jurisdictional review, indeed reaching the tentative
+conclusion that the Court lacked jurisdiction.”” In terms:
+
+Sir Robert Jennings (Cambridge: Cambridge University Press, 1996) 541, 548-51; Oellers-
+Frahm, ‘Article 41; in ICJ Commentary, 1039. Cf. Thirlway, 1 Law and Procedure, 931; 2
+Law and Procedure, 1772-7.
+
+74 Aegean Sea, ICJ Reports 1976 p 3, 25 (Judge Mosler). See also Interhandel, ICJ Reports
+1957 p 105, 113 Judge Wellington Koo); Request for Interpretation of the Judgment of
+15 June 1962 in the case concerning the Temple of Preah Vihear (Cambodia v Thailand)
+(Cambodia v Thailand), Provisional Measures, IC] Reports 2011 p 537, 542 (‘whereas the
+Court may indicate provisional measures in the context of proceedings for interpretation
+of a judgment only if it is satisfied that there appears prima facie to exist a ‘dispute’ within
+the meaning of Article 60 of the Statute’).
+
+> Further: William W Bishop Jr, ‘The Anglo-Iranian Oil Company Case’ (1951) 45 AJIL
+749,
+
+’© Anglo-Iranian Oil, ICJ Reports 1951 p 89,92. 7” Ibid, 93.
+
+AOVETSTEdT Get s.c06 Published online by Cambridge University Press
+eae paw quate
+via ae fF ie ;
+TOS VO OLOr ras #
+
+150 POWER TO ORDER PROVISIONAL MEASURES
+
+[T]he Court ought not to indicate interim measures of protection unless
+its competence, in the event of this being challenged, appears to the Court
+to be nevertheless reasonably probable. Its opinion in this point should
+be reached after a summary consideration: it can only be provisional and
+cannot prejudge its final decision after the detailed consideration to which
+the Court will proceed in the course of adjudicating on the question in
+conformity with all the Rules laid down for its procedure.”
+
+The following year, the Court concurred with the dissenters and held that
+it lacked jurisdiction over the dispute. In explaining its reversal, the Court
+stated:
+
+While the Court derived its power to indicate these provisional measures
+from the special provisions contained in Article 41 of the Statute, it must
+now derive its jurisdiction to deal with the merits from the general rules
+laid down in Article 36 of the Statute. These general rules, which are
+entirely different from the special provisions of Article 41, are based on
+the principle that the jurisdiction of the Court to deal with and decide a
+case on the merits depends on the will of the Parties. Unless the Parties
+have conferred jurisdiction on the Court in accordance with Article 36,
+the Court lacks such jurisdiction.”
+
+The Court therefore acknowledged that the application of the ‘special
+provisions’ of Article 41 required a standard of jurisdictional review apart
+from that ordinarily required by Article 36. Anglo-Iranian Oilin this sense
+generated two potential standards for jurisdictional review vis-d-vis pro-
+visional measures: the majority’s negative test that the matter was a priori
+not outside the scope of international (i.e. the Court’s) jurisdiction, and
+the dissenters’ positive test that jurisdiction was reasonably probable.*”
+In the following years, multiple tests ranging across a spectrum of juris-
+dictional certainty would be proposed.*! Certain individual judges in
+
+8 Ibid, 97.” Anglo-Iranian Oil, Preliminary Objection, ICJ Reports 1952 p 93, 102.
+
+8° See also Fisheries Jurisdiction (UK v Iceland), ICJ Reports 1972 p 12, 22 (Judge Padilla
+Nervo, diss); Fisheries Jurisdiction (FRG v Iceland), ICJ Reports 1972 p 30, 38-9 (Judge
+Padilla Nervo, diss); Nuclear Tests (Australia v France), 1CJ Reports p 99, 126 (Judge Pétren,
+diss); Nuclear Tests (New Zealand v France), ICJ Reports 1973 p 135, 161 (Judge Pétren,
+diss); Aegean Sea, ICJ Reports 1976 p 3, 18 (Vice-President Singh).
+
+81 A variety of taxonomies have been proposed to describe the spectrum of views. Collier and
+Lowe identify five views within the early jurisprudence of the ICJ: Settlement of Disputes,
+169-71. Mendelson identifies 11 possible standards, not necessarily by reference to any
+case then extant: ‘Contested Jurisdiction’, 262—4. Thirlway identifies three: 1 Law and
+Procedure, 930. Most usefully, Oellers-Frahm summarizes the spectrum as encompassing
+‘certain jurisdiction, quasi-certain jurisdiction, prima facie existing jurisdiction to prima
+facie lacking jurisdiction, doubtful jurisdiction, manifestly lacking jurisdiction, impossible
+jurisdiction etc’: ‘Article 41, 1039.
+
+AOVETSTEdT Get s.c06 Published online by Cambridge University Press
+eae paw quate
+via ae fF ie ;
+TOS VO OLOr ras #
+
+PRIMA FACIE JURISDICTION 151
+
+the Nuclear Tests and Aegean Sea cases advocated for near-certainty of
+jurisdiction®? — an implausible standard that undermined entirely the
+need for urgent action in awarding provisional measures. A further possi-
+bility was raised by President Jimenez de Aréchaga in the same cases, who
+argued that the question of jurisdiction was but one factor to be taken into
+account when determining whether to award interim relief,®’ a position
+which was clearly at odds with the essential character of jurisdictional
+review as described above.
+
+2 Settled Practice of the International Court of Justice
+
+These alternatives notwithstanding, the Court eventually settled on a
+consensus position. This arose in Interhandel, not from the opinion of
+the majority — which merely acknowledged the formal possibility of its
+jurisdiction before rejecting the request on other grounds* — but from
+the dissent of Judge Lauterpacht, who, relying on a principle ‘uniformly
+adopted in international arbitral and judicial practice’®° proposed the
+following test:
+
+The Court may properly act under the terms of Article 41 provided that
+there is in existence an instrument such as a Declaration of Acceptance
+of the Optional Clause, emanating from the Parties to the dispute, which
+prima facie confers jurisdiction upon the Court and which incorporates
+no reservations obviously excluding its jurisdiction.*°
+
+Beginning with the Fisheries Jurisdiction cases,°’ the substance of this
+statement has been deployed by majorities in, inter alia, the Nuclear
+
+82 Nuclear Tests (Australia v France), ICJ Reports 1973 p 99, 111 (Judge Forster, diss); Nuclear
+Tests (New Zealand v France), ICJ Reports p 135, 148 (Judge Forster); Aegean Sea, ICJ
+Reports 1976 p 3, 21 (Judge Morozov).
+
+83 Nuclear Tests (Australia v France), ICJ Reports 1973 p 99, 107 (President Jimenez de
+Aréchaga); Nuclear Tests (New Zealand v France), IC] Reports 1973 p 135, 143 (President
+Jimenez de Aréchaga); Aegean Sea, ICJ Reports 1976 p 3. See also Great Belt, ICJ Reports
+1991 p 3, 30 Judge Shahabuddeen).
+
+84 Interhandel, ICJ Reports 1957 p 105, 110.
+
+85 Lauterpacht gave no hint as to which ‘arbitral and judicial practice’ he was referring to in
+Interhandel. However, in elaborating his thoughts extracurially, he made reference to the
+jurisprudence of the MATs: Development of International Law, 254.
+
+8° Interhandel, ICJ Reports 1957 p 105, 118-19 (Judge Lauterpacht). Judge Klaestad proposed
+a reversal of the position eventually accepted, requiring examination ‘in a summary and
+provisional manner whether it appears prima facie that the Court lacks jurisdiction to take
+action’: ibid, 115 (emphasis added).
+
+8? Fisheries Jurisdiction (UK v Iceland), ICJ Reports 1972 p 12, 16; Fisheries Jurisdiction (FRG
+v Iceland), ICJ Reports 1972 p 30, 34.
+
+AOVETSTEdT Get s.c06 Published online by Cambridge University Press
+eae rt eN wnat
+via ae fF ie ;
+LIDS VOL ora randa s
+
+152 POWER TO ORDER PROVISIONAL MEASURES
+
+Tests cases,®* Nicaragua, Pulp Mills,° Georgia v Russia,’! and Obligation
+to Prosecute or Extradite,’” and forms the basis for a jurisprudence con-
+stante within the ICJ, effectively resolving the question of the threshold of
+review within that body once and for all. Early cases, however, raised the
+question of what exactly might constitute prima facie jurisdiction, with
+the apparent position being that the requirement would be satisfied if an
+applicant could point to an instrument on which the formal possibility of
+jurisdiction might be founded.” Thus, in Interhandel, the majority was
+concerned only with the fact that the US had made an optional clause
+declaration under Article 36(2) of the Statute — it paid no attention to the
+issues surrounding the legality of the so-called Connally Reservation that
+purported to exclude the dispute.
+
+More recent decisions, however, have indicated that surmounting the
+threshold is not automatic, and that the Court is willing to involve itself
+to a greater extent in the legal issues that might surround jurisdiction
+in a particular case.”* In the Use of Force cases, for example, the Court
+was confronted with a Yugoslav claim against the NATO membership
+in which the principal basis of claim was Article XI of the Genocide
+Convention.”? The Court, acknowledging that Article XI could serve as a
+basis for those states who had not made any reservation thereto,” went
+one step further in its analysis and determined that NATO’s bombing of
+Yugoslav territory did not constitute genocide within the meaning of the
+Convention. Consequently Article XI could not be used to found prima
+facie jurisdiction.”’
+
+Accordingly, the modern test of prima facie jurisdiction involves an
+examination of the ICJ’s jurisdiction in toto, taking into account not
+
+88 Nuclear Tests (Australia v France), ICJ Reports 1973 p 99, 101; Nuclear Tests (New Zealand
+
+v France), IC) Reports 1973 p 135, 137.
+
+Military and Paramilitary Activities in and against Nicaragua (Nicaragua v US), Provisional
+
+Measures, IC] Reports 1984 p 169, 179.
+
+° Pulp Mills, ICJ Report 2006 p 113, 128-9.
+
+°! Application of the International Convention on the Elimination of All Forms of Racial
+Discrimination (Georgia v Russian Federation), Provisional Measures, ICJ Reports 2008
+p 353, 377.
+
+* Obligation to Prosecute or Extradite, ICJ Reports 2009 p 139, 151.
+
+°° Goldsworthy, ‘Interim Measures, 265-6.  *4 Thirlway, 1 Law and Procedure, 933-5.
+
+°° Convention on the Prevention and Punishment of the Crime of Genocide, 9 December
+
+1948, 78 UNTS 277.
+
+See e.g. Legality of Use of Force (Yugoslavia v Belgium), Provisional Measures, ICJ Reports
+
+1999 p 124, 137.
+
+7 Tbid, 138.
+
+89
+
+nary
+
+96
+
+AOVETSTEdT Get s.c06 Published online by Cambridge University Press
+eae paw quate
+via ae fF ie ;
+TOS VO OLOr ras #
+
+PRIMA FACIE JURISDICTION 153
+
+only the putative foundation of the jurisdiction (i.e. an optional clause
+declaration or compromissory clause) and the existence of a dispute, but
+also any legal complications that may arise, as specified by the respondent.
+That said, it should still be emphasized, as Judge Greenwood did in Georgia
+v Russia, that the ‘jurisdictional threshold which the applicant has to cross
+[at the provisional measures stage] is [...] set quite low and any ruling —
+whether as to fact or law — which the Court makes [...] is necessarily
+provisional’”® For this reason, the benefit of the doubt when assessing
+jurisdiction vis-a-vis provisional measures is given to the claimant, a
+reversal of the Court’s usual position when ascertaining its jurisdiction
+finally.’ Naturally, where the respondent concedes jurisdiction or fails to
+challenge it provisionally, the need for such an analysis disappears, such
+that the Court may simply take note of the concession before considering
+the other elements of the application.!°
+
+It need hardly be added that a failure to prove prima facie jurisdic-
+tion does not bode well for a subsequent full examination of the issue.
+Notwithstanding the formal declaration that a determination of prima
+facie jurisdiction (vel non) is without prejudice as to a determination of
+jurisdiction proper, the Court may reluctantly order a case be removed
+from its General List when a request for provisional measures fails for a
+manifest lack of jurisdiction such as to make a fuller examination of the
+question pointless. Such a fate befell the applications against the US and
+Spain in the Use of Force cases.'°!
+
+°8 Georgia v Russia, ICJ Reports 2011 p 70, 323 (Judge Greenwood).
+
+°° Nicaragua, ICJ Reports 1984 p 169, 207 (Judge Schwebel, diss).
+
+100 See e.g. Armed Activities in the Territory of the Congo (DRC v Uganda), Provisional
+Measures, ICJ Reports 2000 p 111, 123; Certain Criminal Proceedings in France (Congo
+v France), Provisional Measures, ICJ Reports 2003 p 102, 106-7; Pulp Mills, IC] Reports
+2006 p 113, 129; Certain Activities carried out by Nicaragua in the Border Area (Costa Rica
+v Nicaragua), Provisional Measures, IC] Reports 2011 p 6, 17-18; Certain Documents and
+Data, ICJ, Order of 3 March 2014, §20. Further: Thirlway, 2 Law and Procedure, 1778.
+Legality of Use of Force (Yugoslavia v Spain), Provisional Measures, IC] Reports 1999
+p 761, 769; Legality of Use of Force (Yugoslavia v US), Provisional Measures, ICJ Reports
+1999 p 916, 925. Cf. Armed Activities on the Territory of the Congo (New Application:
+2002) (DRC v Rwanda), Provisional Measures, ICJ Reports 2002 p 219, 249; Request for
+Interpretation of the Judgment of 15 June 1962 in the Case concerning the Temple of Preah
+Vihear (Cambodia v Thailand) (Cambodia v Thailand), Provisional Measures, ICJ Reports
+2011 p 537, 544. Further: Rosenne, Provisional Measures, 132-4. An interesting question
+arises as to what might have happened in the Use of Force cases if the provisional measures
+application had not been made, and whether the respondents in those cases could have
+relied on some other procedural technique to establish a manifest lack of jurisdiction.
+
+10
+
+paar
+
+AOVETSTEdT Get s.c06 Published online by Cambridge University Press
+eae paw quate
+via ae fF ie ;
+TOS VO OLOr ras #
+
+154 POWER TO ORDER PROVISIONAL MEASURES
+
+However, the ICJ’s internal practice may indicate that — efforts to dissect
+the Court’s pronouncements aside — prima facie jurisdiction is in most
+cases little more than a convenient rubric, with the Court already having
+determined whether jurisdiction exists. Speaking extracurially on the
+plethora of review standards then hypothesized, President Jimenez de
+Aréchaga remarked:
+
+No individual judge is in my experience satisfied with a mere possibility or
+even a probability of jurisdiction and does not follow a positive or negative
+test as to the likelihood of jurisdiction. In each subjective view, jurisdic-
+tion over the merits must exist before a vote for provisional measures is
+given. It follows that interim measures will not be granted unless a major-
+ity of judges believes at the time that there will be jurisdiction over the
+merits. !
+
+Although this pronouncement only holds sway with respect to the period
+1970-1979, when Jimenez de Aréchaga was a judge of the Court, it remains
+disquieting nonetheless, revealing as it does a practice of concealing from
+the parties the fact that the Court in addressing interim measures has
+already reached a conclusion as to jurisdiction.'”° The virtue of the prima
+facie approach at that point in time was thus to enable the expression
+of that consensus without the need to engage in the kind of forensic
+reasoning that would characterize a decision on jurisdiction proper. It is
+perhaps for this reason that it is relatively rare for the Court to find that
+it lacks jurisdiction once a determination of prima facie jurisdiction has
+been made.!"* But whether this reflects the modern position of the Court
+is doubtful, with its more recent decisions being attended by a far greater
+degree of reasoning as to the existence of prima facie jurisdiction where
+preliminary objections have been raised.'°°
+
+In the event that they could not, this raises some disturbing thoughts about the role of
+provisional measures, whereby the determination of the principle of the respondent’s
+consent at an early stage becomes dependent on the taking of a procedural step by the
+claimant that is formally supposed to be without prejudice to later determinations as to
+jurisdiction or the merits. This does not sit well with the ordinary conception of what
+provisional measures are supposed to do, and how they are supposed to operate: Alina
+Miron, “Working Methods of the Court’ (2016) 7 JIDS 371, 381.
+
+102 F Jimenez de Aréchaga, ‘International Law in the Past Third of a Century’ (1978) 159
+
+Hague Recueil 9, 161.
+
+Greig, “Balancing of Interests’, 116-17.
+
+A total reversal of this sort has only occurred in two cases: Anglo-Iranian Oil, ICJ Reports
+
+1952 p 93, 102; Georgia v Russia, Preliminary Objections, ICJ Reports 2011 p 70, 140.
+
+105 See e.g. Georgia v Russia, ICJ Reports 2008 p 353, 378-88.
+
+103
+104
+
+AOVETSTEdT Get s.c06 Published online by Cambridge University Press
+eae rt eN wnat
+via ae fF ie ;
+LIDS VOL ora randa s
+
+PRIMA FACIE JURISDICTION 155
+
+B_ Dispute Settlement Under UNCLOS
+
+1 UNCLOS Article 290(1)
+
+The prima facie standard of jurisdictional review developed by the ICJ has
+proved extremely influential within the wider network of international
+courts and tribunals. ITLOS and Annex VII tribunals have to an extent led
+this adoption,!”° but this is hardly surprising — the standard is incorpo-
+rated directly into UNCLOS Articles 290(1) and (5), effectively removing
+any choice of alternative. However, ITLOS has nonetheless turned to the
+ICJ when interpreting the bare words of the provision. In M/V Saiga (No
+2), the Tribunal expressed the test in a form of words identical to that
+characteristically used by the ICJ, noting that:
+
+Considering that before prescribing provisional measures the Tribunal need
+not finally satisfy itself that it has jurisdiction on the merits and yet it
+may not prescribed such measures unless the provisions invoked by the
+applicant appear prima facie to afford a basis on which the jurisdiction of
+the tribunal might be founded [... ]!°
+
+This formula was also invoked — though it was credited to M/V Saiga
+(No 2) —in M/V Louisa, the only other case (so far) in which provisional
+measures have been requested of ITLOS directly under UNCLOS Article
+290(1).1°8 A broadly similar form of words was utilized by the Annex VII
+tribunal in MOX Plant, which noted that jurisdiction to order provisional
+
+measures exists under paragraph 1 of the provision where ‘there is nothing
+
+which manifestly and in terms excludes the Tribunal’s jurisdiction’!
+
+106 Riidiger Wolfrum, ‘Provisional Measures of the International Tribunal for the Law of
+the Sea’, in P C Rao and R Khan (eds), The International Tribunal for the Law of the Sea
+(The Hague: Kluwer, 2001) 173, 178-90; Thomas A Mensah, ‘Provisional Measures in
+the International Tribunal for the Law of the Sea’ (2002) 62 ZadRV 43, 50; Natalie Klein,
+Dispute Settlement in the UN Convention on the Law of the Sea (Cambridge: Cambridge
+University Press, 2005) 61-9; Rosenne, Provisional Measures, 126; Brown, Common Law,
+137,
+
+107 M/V Saiga (No 2) (St Vincent and the Grenadines v Guinea), Provisional Measures (1998)
+117 ILR 111, 126. See further ibid, 133 (Judge Laing), drawing an express parallel with
+the jurisprudence of the ICJ.
+
+108 -M/V Louisa (St Vincent and the Grenadines v Spain), Provisional Measures (2010) 148
+ILR 459, 471.
+
+109 MOX Plant (Annex VII) (2003) 126 ILR 310, 317. Cf. the extracurial writings of Judge
+Ndiaye, who argues that the jurisdiction to award provisional measures only arises where
+‘jt is reasonably probable that the arbitral tribunal would have jurisdiction on the merits’:
+Tafsir Malick Ndiaye, ‘Provisional Measures Before the International Tribunal for the
+Law of the Sea’, in M H Nordquist and J N Moore (eds), Current Marine Environmental
+Issues and the International Tribunal for the Law of the Sea (The Hague: Martinus Nijhoff,
+2001) 97.
+
+AOVETSTEdT Get s.c06 Published online by Cambridge University Press
+156 POWER TO ORDER PROVISIONAL MEASURES
+
+Operating as it does within the confines of UNCLOS, the prima facie
+jurisdiction requirement of Article 290 throws up certain common issues,
+including the obligation of the parties to exchange views under Article
+283(1), the presence of alternative dispute settlement procedures under
+Article 281, and exceptions to the UNCLOS regime of compulsory dispute
+resolution arising out of Part XV, Section 3 thereof.''°
+
+2 UNCLOS Article 290(5)
+
+The referred jurisdiction of ITLOS to award interim relief on behalf of
+another adjudicatory body has certain implications for the determination
+of prima facie jurisdiction. Express reference to the jurisprudence of the
+ICJ concerning prima facie jurisdiction has generally not been raised in
+cases in which ITLOS has considered provisional measures under UNC-
+LOS Article 290(5), with the Tribunal usually content with citing para-
+graph 5 at length or otherwise alluding to its content.'!’ A determination
+by ITLOS of prima facie jurisdiction under Article 290(5) will not affect
+the capacity of an Annex VII tribunal or other designated body to deter-
+mine its own jurisdiction prima facie under Article 290(1), though its
+findings will naturally carry some weight.!”
+
+Notwithstanding the formal equality of the prima facie jurisdiction
+test as between Articles 290(1) and (5), there is the perception on the
+part of some members of ITLOS that there is a difference between provi-
+sional measures ordered in the name of the Tribunal proper and measures
+ordered on behalf of an Annex VII tribunal or some other nominated
+body. In ARA Libertad, Judges Wolfrum and Cot noted that:
+
+Whereas under article 290, paragraph 1, of the Convention, the Tribunal
+is called upon to decide prima facie on its own jurisdiction, under article
+290, paragraph 5 of the Convention it must decide on the prima facie
+jurisdiction of some other court or tribunal. Out of respect for the other
+court or tribunal, the Tribunal has to exercise some restraint in questioning
+prima facie the jurisdiction of such other court or tribunal [...] It is
+equally unsatisfactory if the arbitral tribunal under Annex VII denies
+
+110 Klein, Dispute Settlement in UNCLOS, 62-9.
+
+M1 Southern Bluefin Tuna (1999) 117 ILR 148, 160; MOX Plant (Ireland v UR), Provisional
+Measures (2001) 126 ILR 257, 271; Land Reclamation by Singapore in and around the Straits
+of Johor (Singapore v Malaysia), Provisional Measures (2003) 126 ILR 487, 497; Arctic
+Sunrise (Netherlands v Russia), ITLOS Case No 22 (Provisional Measures, 22 November
+2013) $58; Enrica Lexie Incident (Italy v India), ITLOS Case No 24 (Provisional Measures,
+24 August 2015) §35. Cf. ARA Libertad (Argentina v Ghana), Provisional Measures (2012)
+156 ILR 186, 199.
+
+112 MOX Plant (Annex VII) (2003) 126 ILR 310, 317.
+
+PSTS4T 8S 72.006 Published online by Cambridge University Press
+PRIMA FACIE JURISDICTION 157
+
+its jurisdiction which the Tribunal has established prima facie as it is
+for the settlement of the said dispute if the Tribunal denies prima facie
+jurisdiction in a situation where the arbitral tribunal would have voted
+otherwise.''”
+
+This passage would tend to highlight, if not a reduced threshold of prima
+facie jurisdiction, then at least the notion of giving the benefit of a fur-
+ther doubt to the applicant in UNCLOS Article 290(5) cases.'!* But at
+the same time, the Judges noted, greater jurisdictional rigour was gener-
+ally required of dispute settlement bodies convened under UNCLOS as,
+unlike the ICJ, these operate under a narrow grant of competence ratione
+materiae covering only those disputes concerning the interpretation and
+application of UNCLOS. Thus:
+
+Any attempt to broaden the jurisdictional power of the Tribunal and that
+of arbitral tribunals under Annex VII going beyond what is prescribed
+in [A]rticle 288 of the Convention is not in keeping with the basic phi-
+losophy governing the dispute settlement system of the Convention [and
+undermines] the understanding reached at [UNCLOS II].!!°
+
+It would appear in ARA Libertad that ITLOS was minded to adopt a very
+liberal interpretation of prima facie jurisdiction. In that case, the reason-
+ing of the Tribunal did not consist of addressing the basis of jurisdiction
+identified by Argentina and any legal complications arising,''® but was
+tantamount to prying apart the wording of the Convention in search of a
+mandate. The case concerned the seizure of an Argentine warship in the
+Ghanaian port of Tema, classified as internal waters for the purposes of
+UNCLOS. The seizure was in clear violation of the universally recognized
+immunity of warships under customary international law,!'” but UNC-
+LOS only expressly incorporated this immunity with respect to the high
+
+113 ARA Libertad (2012) 156 ILR 186, 215 (Judges Wolfrum and Cot). See also Francisco
+Orrego Vicufia, “The International Tribunal for the Law of the Sea and Provisional
+Measures: Settled Issues and Pending Problems’ (2007) 22 IJMCL 451, 459-61.
+
+44° Cf. Southern Bluefin Tuna (2001) 117 ILR 148, 181-5 (Judge ad hoc Shearer), arguing
+that the majority’s inquiry into its provisional jurisdiction went far beyond a prima facie
+inquiry.
+
+1S ARA Libertad (2012) 156 ILR 186, 215-16.
+
+116 Cf, the approach adopted in Arctic Sunrise, ITLOS Case No 22, §$36—45.
+
+117 UN Convention on Jurisdictional Immunities of the State, annexed to GA Res 59/49, 2
+December 2004, Art 21(1)(b). Further: Chester Brown and Roger O'Keefe, ‘Article 213, in
+R O'Keefe and C Tams (eds), The United Nations Convention on Jurisdictional Immunities
+of States and Their Property: A Commentary (Oxford: Oxford University Press, 2013) 334,
+342.
+
+AOVETSTEdT Get s.c06 Published online by Cambridge University Press
+158 POWER TO ORDER PROVISIONAL MEASURES
+
+seas per Article 95. The Tribunal found, however, that UNCLOS Arti-
+cle 32, providing relevantly that ‘nothing in this Convention affects the
+immunities and other government ships operating for non-commercial
+purposes, could form the basis of prima facie jurisdiction, as it could be
+interpreted as extending warship immunity under the Convention into
+internal waters.'!® Such a reading is patently absurd, as is made clear by
+the subsequent analysis of Judges Wolfrum and Cot, which was argued
+by reference to the case law of the ICJ.'!? Firstly, the provision is clearly a
+savings clause, providing only that the customary immunity is not under-
+mined by the Convention, as opposed to establishing a positive treaty
+right that could be the subject of jurisdiction. Secondly, had the drafters
+of the provision intended that it have the effect contended, then a perfectly
+good model was available in the form of UNCLOS Article 95 concerning
+high seas immunity. Thirdly, if Article 32 was (as contended) intended
+to incorporate warship immunity wholesale into the Convention, then
+Article 95 would be superfluous.
+
+It is too early to tell whether ARA Libertad signals the beginning of
+a move by ITLOS to reduce the threshold of prima facie jurisdiction in
+UNCLOS Article 290(5) cases. What is clear, however, is that a greater
+effort on the part of the Tribunal is required to define the jurisdictional
+requirements in such cases, as well as the differences (if any) with the
+approach taken under Article 290(1) and by the IC].
+
+C_ Inter-State Arbitration
+
+The limited modern examples of ad hoc inter-state arbitration tribunals
+have not yet been required as yet to rule on a request for provisional mea-
+sures in a situation in which jurisdiction is contested. As seen in Kishen-
+ganga, the question is heavily conditioned on the constitutive instrument
+and procedural rules of the tribunal, but absent a lex specialis excluding
+a review of this kind, some jurisdictional threshold must be met. The
+prima facie test advocated by other international courts and tribunals
+
+118 ARA Libertad (2012) 156 ILR 186, 196-200.
+
+119 Tbid, 224-8. The judges still found that prima facie jurisdiction existed, but did so on
+the basis that Ghana’s acknowledgement of the Libertad’s immunity prior to its visit to
+Tema estopped it from opposing a judicial procedure intended to resolve the dispute
+arising from Argentina’s reliance on said acknowledgement: ibid, 231—2. This is similarly
+specious, as an acceptance of state immunity obviously does not translate ipso facto into
+an acceptance of the jurisdiction of an international court or tribunal.
+
+PSTS4T 8S 72.006 Published online by Cambridge University Press
+PRIMA FACIE JURISDICTION 159
+
+would appear to be a natural candidate in this respect although, as stated,
+the body in question should not feel constrained to adopt it.
+
+D_Investor-State Arbitration
+
+Assessment of prima facie jurisdiction under the ICSID Convention is
+complicated slightly by the express provision for a form of jurisdic-
+tional triage prior to the composition of a tribunal. Article 36(3) of the
+ICSID Convention provides that on receiving a request for arbitration,
+the Secretary-General of ICSID must register the request “unless he finds,
+on the basis of the information contained in that request, that the dispute
+is manifestly outside the jurisdiction of the Centre’ This threshold is less
+that required of a prima facie review, being designed to exclude frivolous
+actions and to ‘avoid a situation where a tribunal, once established would
+almost certainly find itself without jurisdiction’ ”° An investigation of the
+drafting history of the provision indicates that the Secretary-General’s
+screening power was intended to be administrative in character, not to
+function as an extension of the kompetenz-kompetenz of any tribunal later
+empanelled.!?! As such, although an ICSID tribunal is in no sense bound
+by the determination of Secretary-General in permitting the listing of a
+claim, registration is a factor that may be taken into account — though it
+is not on its own sufficient to establish prima facie jurisdiction.”
+
+As might be expected, the practice of ICSID tribunals has been to
+importa standard of jurisdictional review very similar to that of the ICJ.'7°
+Early decisions did not set out the threshold in this respect, although it
+
+120 ICSID Commentary, 468.
+
+1 T]-2 ICSID History, 722 (Broches), 774 (Ghachem), 775 (Tsai). See also the Report of the
+Executive Directors on the Convention on the Settlement of Investment Disputes between
+States and Nationals of Other States, 18 March 1965, I ICSID Reports 23, 27. Further:
+ICSID Commentary, 469-70; S D Sutton, ‘Emilio Augustin Maffezini v Kingdom of Spain
+and the ICSID Secretary-General’s Screening Power’ (2005) 21 Arb Int'l 113, 121. Cf.
+Charles N Brower and Ronald E M Goodman, ‘Provisional Measures and the Protection
+of ICSID Jurisdictional Exclusivity Against Municipal Proceedings’ (1991) 6 ICSID Rev —
+FIL] 431, 452-6, arguing that the screening threshold is broadly commensurate to a prima
+facie review.
+
+122" Victor Pey Casado and President Allende Foundation v Chile, Provisional Measures (2001)
+6 ICSID Reports 373, 377; Millicom International Operations BV and Sentel GSM SA v
+Senegal, ICSID Case No ARB/08/20 (Decision on the Application of Provisional Measures,
+9 December 2009) $42; PNG Sustainable Development Program Ltd v Papua New Guinea,
+ICSID Case No ARB/33/13 (Provisional Measures, 19 January 2015) $119.
+
+23 ICSID Commentary, 771-4; Sam Luttrell, ‘ICSID provisional measures “in the round”
+(2015) 31 Arb Int'l 393, 398-400.
+
+AOVETSTEdT Get s.c06 Published online by Cambridge University Press
+eae paw quate
+via ae fF ie ;
+TOS VO OLOr ras #
+
+160 POWER TO ORDER PROVISIONAL MEASURES
+
+was recognized in the first ICSID order on provisional measures in 1974,
+Holiday Inns v Morocco, that any determination on jurisdiction vis-a-vis
+interim relief was without prejudice to any later finding on jurisdiction
+proper, or the merits themselves.'** Over time, however, ICSID tribunals
+have come to embrace the prima facie standard set by the ICJ, making
+particular note of the debt owed by Article 47 of the ICSID Convention
+to Article 41 of the ICJ Statute. In Casado v Chile, for example, the
+Tribunal relief on the case law of the ICJ in determining that it was under
+an obligation to determine ‘in cases where jurisdiction is contested, the
+prima facie existence of jurisdiction, or, to couch this in negative terms,
+the absence of a clear lack of jurisdiction.'*? A more express formulation
+of the same may be seen in Occidental v Ecuador, where the Tribunal
+said:
+
+Whilst the Tribunal need not satisfy itself that it has jurisdiction in respect
+of the merits of the case at issue for purposes of ruling upon the requested
+provisional measures, it will not order such measures unless there is, prima
+facie, a basis upon which the Tribunal’s jurisdiction might be established.!”°
+
+Jurisdiction under the ICSID Convention is established via the “dou-
+ble keyhole’ of Article 25 of the Convention and the requirements of
+the relevant bilateral or multilateral investment treaty.!?” The same dual
+requirement applies in relation to jurisdictional review regarding interim
+relief.'?8 Common objections may include that the claimant has not made
+a qualifying investment within the meaning of either the Convention or
+the BIT for the purposes of jurisdiction ratione materiae, that it is not
+a national of a contracting state for the purposes of jurisdiction ratione
+
+24 Pierre Lalive, ‘The First “World Bank” Arbitration (Holiday Inns v Morocco) — Some Legal
+Problems’ (1980) 51 BYIL 123, 132-7.
+
+25 Casado v Chile (2001) 6 ICSID Reports 373, 379.
+
+6 Occidental Petroleum Corporation and Occidental Exploration and Production Company
+v Ecuador, ICSID Case No ARB/06/11 (Provisional Measures, 17 August 2007) $55. See
+also Churchill Mining PLC v Indonesia, ICSID Case No ARB/12/13 (Procedural Order
+No 3, 4 March 2013) $36:
+
+It is undisputed that the Tribunal has the power to recommend provisional measures
+prior to ruling on its jurisdiction. However, the Tribunal will not exercise such power
+unless it has prima facie jurisdiction.
+
+27 Ceskoslovenska Obchodni Banka AS v Slovak Republic, ICSID Case No ARB/97/4 (Decision
+on Jurisdiction, 24 May 1999) $68. Further: ICSID Commentary, 82-3.
+
+28 Tethyan Copper Company Pty Ltd v Pakistan, ICSID Case No ARB/12/1 (Provisional
+Measures, 13 December 2012) $§123-33.
+
+AOVETSTEdT Get s.c06 Published online by Cambridge University Press
+eae paw quate
+via ae fF ie ;
+TOS VO OLOr ras #
+
+PRIMA FACIE JURISDICTION 161
+
+personae, or a lack of effective consent to arbitration on the part of the
+respondent.!”? In this, it is sufficient that facts alleged by the applicant
+establish this jurisdiction, it being presumably unnecessary or impos-
+sible to verify them and analyze them in depth at this phase of the
+proceedings.'*° It should be noted, moreover, that where a respondent
+state requests interim relief, it does not need to demonstrate prima facie
+
+jurisdiction, as this would require the respondent to ‘establish the negative
+
+against its own interest’.'>!
+
+A similar predilection has been displayed by investor-state arbitra-
+tion tribunals operating under the 1976 UNCITRAL Rules and variants
+thereof. Although Article 26 does not specify that jurisdiction must be
+assessed prior to the award of provisional measures, the Iran—US Claims
+Tribunal nonetheless introduced a prima facie standard of review with
+reference to the jurisprudence of the ICJ,'°? and further held that a find-
+ing of prima facie jurisdiction was without prejudice to any fuller inquiry
+as to jurisdiction or the merits.'°> The same instinct may be seen in more
+modern forms of ad hoc investor-state arbitration. In Paushok v Mongolia,
+the Tribunal established the need for a prima facie review of jurisdiction
+
+29 Zachary Douglas, The International Law of Investment Claims (Cambridge: Cambridge
+University Press, 2009) chs 4, 7, 8; Rudolph Dolzer and Christoph Schreuer, Principles of
+International Investment Law (Oxford: Oxford University Press 2nd edn, 2012) 245-64.
+
+130 Millicom v Senegal, ICSID Case No ARB/08/20, $43.
+
+151 RSM Production Corporation v St Lucia, ICSID Case No ARB/12/10 (Security for Costs,
+
+13 August 2014) $5 (Arbitrator Griffin).
+
+See e.g. Bendone-Derossi International v Iran, Provisional Measures (1984) 6 Iran—US
+
+CTR 130, 131; Ford Aerospace and Communications Corp v Iran, Provisional Measures
+
+(1984) 6 Iran—US CTR 104, 108; Aeronutronic Overseas Services Inc v Iran, Provisional
+
+Measures (1985) 8 Iran—US CTR 75, 77; Component Builders Inc, Wood Components Co
+
+and Moshovsky Enterprises Inc v Iran, Provisional Measures (1985) 8 Iran—US CTR 216,
+
+220. Earlier decisions demonstrated a certain coyness as to jurisdiction, simply stating
+
+that ‘it would appear’ that the Tribunal had jurisdiction: Rockwell International Systems v
+
+Tran, Provisional Measures (1983) 2 Iran—US CTR 369, 370; RCA Global Communications
+
+Disc Inc v Iran, Provisional Measures (1983) 4 Iran—US CTR 5, 7. On the practice of the
+
+Tribunal, see further David D Caron, ‘Interim Measures of Protection: Theory and
+
+Practice in Light of the Iran—United States Claims Tribunal’ (1986) 46 ZadRV 465, 488-
+
+90; Stuart Abercrombie Baker and Mark David Davis, The UNCITRAL Arbitration Rules
+
+in Practice: The Experience of the Iran—United States Claims Tribunal (Deventer: Kluwer,
+
+1992) 139; Charles N Brower and Jason D Brueschke, The Iran—United States Claims
+
+Tribunal (The Hague: Martinus Nijhoff, 1998) 218-21; David D Caron, Lee M Caplan
+
+and Matti Pellonpaéa, The UNCITRAL Arbitration Rules: A Commentary (Oxford: Oxford
+
+University Press, 2006) 535-6.
+
+153 See e.g. Tadjer-Cohen Associates v Iran (1985) 9 Iran—US CTR 302, 304.
+
+me
+
+132
+
+AOVETSTEdT Get s.c06 Published online by Cambridge University Press
+eae paw quate
+via ae fF ie ;
+TOS VO OLOr ras #
+
+162 POWER TO ORDER PROVISIONAL MEASURES
+
+by reference to the ICJ’s pronouncement in Nicaragua.'** Despite the
+added procedural complexity of Article 26 of the 2010 UNCITRAL Rules,
+there is no reason to suggest that they would operate any differently as
+a matter of practice, with the requirement in paragraph 3(b) that the
+application have a reasonable chance of success on the merits deemed to
+include a prima facie examination of jurisdiction.'*°
+
+Acommon feature of all forms of investment arbitration is the potential
+for detailed questions of jurisdiction to be placed to one side at the time
+of objection and heard alongside the merits of the claim on the basis that
+such questions are closely related to the merits of the dispute they are
+not yet ripe for decision or a fuller examination of the factual evidence
+is required.'°° Where this occurs in the context of provisional measures,
+the Tribunal will generally give the applicant the benefit of the doubt and
+deem the prima facie requirement to be satisfied.!%”
+
+V_ Prima Facie Admissibility
+A Jurisdiction and Admissibility Distinguished
+
+Jurisdiction is not the only class of preliminary objection that may condi-
+tion a state’s consent to international dispute settlement. A separate but
+related objection pertains to the admissibility of the claim in question.
+The two concepts are not always easily separated,'°® but the essence of the
+
+54 Paushok v Mongolia, UNCITRAL, $47, citing Nicaragua, ICJ Reports 1984 p 169, 179.
+Cf. Chevron v Ecuador, PCA Case No 2009-23 (Interim Measures, 9 February 2011) $10,
+referring only to ‘a sufficient case for the existence of such jurisdiction’
+
+85 David D Caron and Lee M Caplan, The UNCITRAL Arbitration Rules: A Commentary
+(Oxford: Oxford University Press, 2nd edn, 2012) 522-3. Further: Guaracachi America
+Inc and Rurelec PLC v Bolivia, PCA Case No 2011-17 (Procedural Order No 14, 11 March
+2013) $4.
+
+136 ICSID Commentary, 538—A0.
+
+157 See e.g. Paushok v Mongolia, UNCITRAL, §$50-53.
+
+‘88 To the extent that remains debate as to whether admissibility can be said to have an exis-
+tence separate from jurisdiction, particularly in the investment arbitration context: see
+e.g. CMS Gas Transmission Company v Argentina, ICSID Case No ARB/01/8 (Decision on
+Jurisdiction, 18 July 2003) $41; Enron Corporation and Ponderosa Assets LP v Argentina,
+ICSID Case No ARB/95/3 (Decision on Jurisdiction, 14 January 2004) $33; cf. SGS Société
+Générale de Surveillance SA v Philippines, ICSID Case No ARB/02/6 (Decision on Juris-
+diction, 24 January 2004) §169ff. Further: Shabtai Rosenne, ‘International Courts and
+Tribunals, Jurisdiction and Admissibility of Inter-State Applications, MPEPIL (2006);
+Gerold Zeiler, Jurisdiction, Competence and Admissibility of Claims in ICSID Arbitra-
+tion Proceedings, in C Binder et al. (eds), International Investment Arbitration for the
+21st Century: Essays in Honour of Christoph Schreuer (Oxford: Oxford University Press,
+
+AOVETSTEdT Get s.c06 Published online by Cambridge University Press
+eae paw quate
+via ae fF ie ;
+TOS VO OLOr ras #
+
+PRIMA FACIE ADMISSIBILITY 163
+
+distinction was captured by Fitzmaurice, who stated that jurisdiction ‘is a
+plea that the tribunal itself is incompetent to give any ruling at all whether
+as to the merits or as to the admissibility of the claim’, whilst admissibility
+refers to ‘a plea that the tribunal should rule the claim on some ground
+other than its ultimate merits.'°? Similarly, Arbitrator Highet’s dissent
+from the ruling of the NAFTA tribunal in Waste Management v Mexico
+provided that ‘[j]urisdiction is the power of the tribunal to hear the case;
+admissibility is whether the case itself is defective — whether it is appro-
+priate for the tribunal to hear it.'*° A more instrumentalist summation
+is that of Shany, who remarks that rules on admissibility authorize courts
+‘to decline to exercise judicial power [and] allow the translation of gen-
+
+eral judicial policies relating to justice, fairness, legality, legitimacy, and
+
+effectiveness to specific cases’.*!
+
+Challenges to admissibility cover a wide range of potential objections
+and may include delay in presenting the claim, failure to exhaust local
+remedies (where applicable), mootness, or failure to join a necessary
+third party.'*? Moreover, obstacles to admissibility may be removed by
+events occurring post-seisen.'** A useful example in this respect arose in
+SGS v Philippines, where the claimant and respondent entered into an
+
+2009) 76; Cameron A Miles, ‘Corruption, Jurisdiction and Admissibility in International
+Investment Claims’ (2012) 3 JIDS 329, 333-9; Yuval Shany, ‘Jurisdiction and Admissi-
+bility, in C P R Romano, K J Alter and Y Shany (eds), Oxford Handbook of International
+Adjudication (Oxford: Oxford University Press, 2014) 781.
+
+139 Fitzmaurice, 2 Law and Procedure, 438-9. Further: Oil Platforms (Iran v US), ICJ Reports
+2003 p 161, 177.
+
+M0 Waste Management Inc v Mexico, ICSID Case No ARB(AF)/98/2 (Award, 2000) $58
+(Arbitrator Highet, diss).
+
+Ml Shany, Jurisdiction and Admissibility, 804.
+
+42" Nuclear Tests (Australia v France), ICJ Reports 1974 p 253, 423 (Judge ad hoc Barwick,
+diss). Further: Brownlie’s Principles, 693, 697-701. In the particular context of investment
+claims, objections to admissibility may further include the contractual choice of forum,
+shareholder claims, dispositions related to the legal or beneficial ownership of the invest-
+ment, and the effect of a denial of benefits clause in the relevant investment agreement:
+Douglas, Investment Claims, 146-8.
+
+M3" Toan Micula, Viorel Micula, SC European Food SA, SC Starmill SRL and SC Multipack SRL
+v Romania, ICSID Case No ARB/05/20 (Decision on Jurisdiction and Admissibility, 24
+September 2008) $64. Cf. Kilic Insaat Ithalat Thracat Sanayi ve Ticaret Anonim Sirketi v
+Turkmenistan, ICSID Case No ARB/10/1 (Award, 2 July 2013) §27 (Arbitrator Park):
+
+Procedural flaws that may be cured during the arbitration are often characterized by
+reference to notions such as ripeness, recevabilité or admissibility. Such terms derive
+not from technical treaty definition, but from usage as convenient labels to describe
+steps to be taken either before or after constitution of a tribunal, even if they must be
+met prior to merits being addressed.
+
+AOVETSTEdT Get s.c06 Published online by Cambridge University Press
+eae rt eN wnat
+via ae fF ie ;
+TOS VO OLOr ras #
+
+164 POWER TO ORDER PROVISIONAL MEASURES
+
+investment contract. The contract contained a dispute resolution clause
+requiring litigation before the ‘Regional Trial Courts of Makati or Manila’
+in the event of a disagreement. When a putative breach of the contract
+later gave rise to a claim under Article VUI of the Switzerland—Philippines
+BIT, an ICSID tribunal held that although the clause could not abrogate
+its jurisdiction, the presence of an exclusive jurisdiction agreement within
+the contract that formed the basis of the claim posed a legal impediment
+to the admissibility of the dispute. As such, the Tribunal determined that
+the claim was premature, and could not proceed until the contractually
+agreed process (i.e. litigation before the Filipino courts) had taken place,
+at which time the arbitration could resume.'**
+
+B Prima Facie Admissibility and the International Court of Justice
+
+As its jurisprudence on admissibility has evolved, ICJ has taken to assessing
+the prima facie admissibility of a claim when considering a request for
+provisional measures.'*? Early hints of this development came where
+the Court rejected a request for provisional measures for lack of prima
+facie admissibility occurred in the attempted revisiting of Nuclear Tests
+by New Zealand in Examination of the Situation. There, an attempt to
+secure provisional measures on the basis of the famous paragraph 63 of
+the ICJ’s 1974 decision™® failed on the basis that the paragraph could
+only be invoked as a basis for a claim in the presence of atmospheric
+nuclear testing, whereas France only persisted in conducting underground
+nuclear testing.'*” However, the Court made no reference to admissibility
+
+M4" SGS v Philippines, ICSID Case No ARB/95/3, §§92-4, 154, 170.
+
+M5" Thirlway, 1 Law and Procedure, 935-6; 2 Law and Procedure, 1179. For an earlier example,
+see the Order made by the CAC] in Honduras v El Salvador and Guatemala (1909) 3 AJIL
+729, 730, where an objection based on admissibility was dismissed on the basis of the
+‘humanitarian and unquestionably utilitarian purpose’ for which the Court’s ability to
+grant interim relief was included. Further: Chapter 2, $II.B.2(a).
+
+M6 Nuclear Tests (New Zealand v France), ICJ Reports 1974 p 457, 477:
+
+Once the Court has found that a State has entered into a commitment concerning its
+future conduct it is not the Court’s function to contemplate that it will not comply with
+it. However, the Court observes that if the basis of this Judgment were to be affected,
+the Applicant could request an examination of the situation in accordance with the
+provisions of the Statute; the denunciation by France, by letter dated 2 January 1974,
+of the General Act for the Pacific Settlement of International disputes, which is relied
+on as a basis of jurisdiction in the present case, cannot constitute by itself an obstacle
+to the presentation of such a request.
+
+47" Request for the Examination of the Situation in Accordance with Paragraph 63 of the Court’s
+Judgment of 20 December 1974 in the Nuclear Tests (New Zealand v France) case (New
+
+AOVETSTEdT Get s.c06 Published online by Cambridge University Press
+eae rt eN wnat
+via ae fF ie ;
+TOS VO OLOr ras #
+
+PRIMA FACIE ADMISSIBILITY 165
+
+in rejecting the request, leaving the relevant identification to be made by
+Vice-President Schwebel.!48 At no point was reference made to a prima
+facie standard of review.
+
+An express acknowledgment of the standard came in Cameroon v Nige-
+ria, where Nigeria argued that the presence of duty incumbent on the par-
+ties to settle all boundary disputes via an alternative bilateral mechanism
+rendered Cameroon’s claim prima facie inadmissible and thus frustrated
+its request for interim relief. Although the Court did not agree with this
+assessment, it acknowledged the need to address Nigeria’s concerns before
+deciding whether to grant the measures requested.'” Similar acknowledg-
+ments occurred in Armed Activities (DRC v Uganda)'°® and Obligation to
+Prosecute or Extradite.'°! Reflecting the incorporation of this new element
+into the Court’s practice, the ICJ has modified its customary incantation
+as to the inability of conclusions drawn during the provisional measures
+phase to prejudice further enquiries as to jurisdiction or the merits to
+include considerations of admissibility.!*
+
+Although the prima facie standard adopted vis-a-vis admissibility is
+clearly based on the standard of review developed by the IC] with respect
+to jurisdiction, it is difficult for further conclusions to be drawn from
+the Court’s practice to date. In particular, it is uncertain whether the
+Court considers prima facie admissibility to be an essential condition for
+the award of interim relief, and thus whether it is to be considered one
+
+Zealand v France), Provisional Measures, ICJ Reports 1995 p 288, 306 (ironically also in
+$63).
+
+48 Ibid, 309 (Vice-President Schwebel).
+
+49 Cameroon v Nigeria, ICJ Reports 1996 p 13, 21. See further Ibid, 29 (Judge Ranjeva)
+making reference to ‘a possible additional condition for the indication of provisional
+measures, that is, the prima facie admissibility of the principal Application’. Further:
+Jerzy Stucki, “Case Analysis: Case Concerning Land and Maritime Boundary (Cameroon v
+Nigeria): Provisional Measures, Order of 15 March 1996 (1992) 2 LJIL 341, 346-7.
+
+150 Armed Activities (DRC v Uganda), ICJ Reports 2000 p 111, 126. Cf. ibid, 131 (Judge Oda).
+
+‘5! Obligation to Prosecute or Extradite, IC] Reports 2009 p 139, 144. Prima facie admissibility
+may also have been a subject of consideration in LaGrand, had the extreme urgency of that
+application not prevented the US from giving complete submissions on the point at the
+provisional measures phase: ICJ Reports 1999 p 9, 22 (President Schwebel). Admissibility
+was considered at length when the Court addressed the merits in full: LaGrand, ICJ
+Reports 2001 p 466, 485-9, 548-57 (Judge Buergenthal, diss).
+
+152 See e.g. Avena, ICJ Reports 2003 p 77, 91; Border Area, ICJ Reports 2011 p 6, 27:
+
+nay
+
+Whereas the decision given in the present proceedings in no way prejudges the question
+of the jurisdiction of the Court to deal with the merits of the case or any questions
+relating to the admissibility of the Application, or relating to the merits themselves;
+and whereas it leaves unaffected the right of the [parties] to submit arguments in
+respect of those questions [... ]
+
+AOVETSTEdT Get s.c06 Published online by Cambridge University Press
+166 POWER TO ORDER PROVISIONAL MEASURES
+
+of the minimum features of the power to grant provisional measures in
+international law. Although the Court stated in Cameroon v Nigeria that
+it ‘must, before deciding whether to indicate such measures, ensure that
+the application of which it is seised is admissible prima facie’,'*° it has not
+acknowledged the prima facie admissibility of the application even in the
+absence of a relevant preliminary objection, a position at odds with its
+practice on prima facie jurisdiction.'™*
+
+However, when considering the overall character of objections to
+admissibility, it may be argued that a review of the concept is not an
+essential feature of the power to award provisional measures in every
+case. Unlike jurisdictional hurdles, preconditions to admissibility are not
+ordinarily built into the framework that contextualizes state consent, ie.
+the court or tribunal’s constituent instrument. As such, the court or tri-
+bunal has a far greater level of discretion (to be exercised strictly) in
+defining the scope of admissibility — as Rosenne has put it, the question
+is not whether the court or tribunal may hear the dispute, but whether it
+should hear the dispute.'°? But that is not to say that a review of admis-
+sibility is not necessary where an objection is raised by the respondent; a
+failure to examine such an objection prior to the granting of interim relief
+would undoubtedly give rise to serious questions of legitimacy. What is
+claimed here is only that a court or tribunal need not go out of its way to
+review admissibility in the absence of a relevant objection.
+
+C Prima Facie Admissibility in Other International
+Courts and Tribunals
+
+1 Dispute Settlement Under UNCLOS
+
+Perhaps because it has been introduced to the jurisprudence of the ICJ rel-
+atively recently, other international courts or tribunals have been slow to
+incorporate considerations of prima facie admissibility into their practice
+on provisional measures. In the UNCLOS context, this reluctance may
+follow from problems of terminology. UNCLOS Article 283(1) provides
+that, in the event of a dispute concerning the interpretation or application
+of the Convention, the parties must ‘proceed expeditiously to an exchange
+of views regarding its settlement by negotiation or other peaceful means’.
+
+53 Cameroon v Nigeria, ICJ Reports 1996 p 13, 21.
+
+154 See e.g. Border Area, ICJ Reports 2011 p 6, 18.
+
+55 Rosenne, Jurisdiction and Admissibility, $2. See also Marion Unglaube and Reinhard
+Unglaube v Costa Rica, ICSID Case Nos ARB/08/1 and ARB/09/20 (Award, 16 May 2012)
+§281.
+
+PSTS4T 8S 72.006 Published online by Cambridge University Press
+PRIMA FACIE ADMISSIBILITY 167
+
+Non-fulfillment of this requirement has been regularly invoked as a pre-
+liminary objection before ITLOS and Annex VII tribunals in relation to
+jurisdiction, and has been considered as such in the context of interim
+relief.!°° However, the fact that any deficiency in the requirement can
+be corrected post-seisen indicates that, notwithstanding its presence in
+UNCLOS, it might better be characterized as going to admissibility. As
+such, Judge Paik in M/V Louisa considered Spain’s objection under Article
+283(1) to be relevant to admissibility, but subsumed this discussion within
+prima facie jurisdiction, remarking that “‘[a]nother procedural condition
+that the Tribunal must examine in order to determine its prima facie
+jurisdiction is whether the Applicant’s claim is admissible’.!°’ Conversely,
+Judge Treves considered the requirements of Article 283(1) to be formally
+separate from the Tribunal’s assessment of prima facie jurisdiction.’
+Additional recent decisions may indicate that Judge Treves’ taxonomy
+is gaining traction within ITLOS. In M/V Louisa, the Tribunal adopted
+the ICJ’s expanded formula on the lack of prejudice to later inquiries
+to include ‘questions related to the admissibility of the Application’'°?
+In each of ARA Libertad, Arctic Sunrise and Enrica Lexie, the Tribunal
+turned its attention to Article 283(1) only after it had reached the con-
+clusion that it possessed prima facie jurisdiction, impliedly separating the
+two.1©
+
+Interestingly, however, to the extent that questions of admissibility are
+asked and answered by ITLOS as part of the provisional measures calculus,
+the Tribunal has not employed a reduced standard of review, but has rather
+examined the requirements of Article 283(1) in full. It may be argued that
+this is due to the ability of the Tribunal to establish that Article 283(1) has
+been met with relative ease,!°! permitting a complete examination of the
+point without risking further damage to rights pendente lite.
+
+156 Southern Bluefin Tuna (1999) 117 ILR 148, 162; MOX Plant (2001) 126 ILR 260, 274-5;
+Land Reclamation (2003) 126 ILR 487, 497-99; M/V Louisa (2010) 148 ILR 459, 469-70;
+Arctic Sunrise, ITLOS Case No 22, §§$73-7. Further: Igor V Karaman, Dispute Resolution
+in the Law of the Sea (Leiden: Martinus Nijhoff, 2012) 126-30. Annex VII tribunals have
+characterized UNCLOS Art 283 as a ‘procedural’ objection to jurisdiction: Guyana v
+Suriname (2007) 139 ILR 566, 683; Mauritius v UK, UNCLOS Annex VII (Award, 18
+March 2015) $160.
+
+57 M/V Louisa (2010) 148 ILR 459, 475 (Judge Paik). —'°* Ibid, 488-91 (Judge Treves).
+
+159 Thid, 472. Cf. ARA Libertad (2012) 156 ILR 186, 205; Arctic Sunrise, ITLOS Case 22, $100,
+where admissibility was again absent — however, both cases considered applications for
+relief under UNCLOS Art 290(5).
+
+160 ARA Libertad (2012) 156 ILR 186, 201; Arctic Sunrise, ITLOS Case No 22, §§72-7; Enrica
+Lexie, ITLOS Case No 24, §$55-60.
+
+16! Klein, Dispute Settlement in UNCLOS, 62-4.
+
+ma
+
+AOVETSTEdT Get s.c06 Published online by Cambridge University Press
+168 POWER TO ORDER PROVISIONAL MEASURES
+
+2 Inter-State Arbitration
+
+As with considerations of jurisdiction, no ad hoc inter-state arbitration
+tribunal in the modern era has been faced with an application for pro-
+visional measures in circumstances where the respondent has challenged
+the admissibility of the main claim. Depending on the wording of the tri-
+bunal’s power to award interim relief, however, it would not be untoward
+for such a requirement to be introduced of the tribunal’s own motion.
+
+3  Investor-State Arbitration
+
+Despite the fact that the jurisprudence on admissibility is well developed,
+no ICSID tribunal has as yet considered the concept as forming part of the
+calculus on provisional measures. To an extent, the problem may simply
+not yet have arisen, with no tribunal having been called upon to award
+interim relief in the face of an unresolved objection to admissibility.‘
+However, to the extent that a tribunal was minded to acknowledge the
+validity of objections to admissibility as a category independent of juris-
+diction, then it would be difficult to conceive of a situation in which such
+an objection could be ignored in the context of provisional measures,
+especially given the influence wielded over ICSID jurisprudence by the
+ICJ. In such a case, the likely outcome would be the adoption of the ICJ’s
+prima facie admissibility standard. It follows from this that if the ICSID
+tribunal decides to hear an objection to jurisdiction alongside the merits,
+the prima facie requirement will be deemed satisfied for the purpose of
+provisional measures.
+
+A different outcome might occur with respect to an investor-state arbi-
+tration conducted under the UNCITRAL Rules. As noted by the Tribunal
+in Chevron v Ecuador, the 1976 UNCITRAL Rules contain no equivalent
+to Rule 41(5) of the ICSID Rules, which permits the raising of a general
+objection that a claim is manifestly without legal merit, which covers
+considerations of admissibility. As such, objections to admissibility — to
+the extent that they cannot be considered to overlap with objections to
+jurisdiction — must be seen as relating to the merits.!* As this omission
+has not been remedied in the 2010 Rules, the same conclusion presumably
+follows. A similar outcome would likely arise before an ICSID tribunal
+
+162 Cf. Abaclat and Ors v Argentina, ICSID Case No ARB/07/5 (Procedural Order No 11, 27
+June 2012), where questions ofjurisdiction and admissibility had already been determined
+finally via the Tribunal’s Decision on Jurisdiction and Admissibility of 4 August 2011.
+
+‘63 Chevron v Ecuador, PCA Case No 2009-23 (Third Interim Award on Jurisdiction and
+Admissibility, 27 February 2012) $4.91, referring to Arts 15 and 21 of the 1976 Rules.
+
+PSTS4T 8S 72.006 Published online by Cambridge University Press
+ADMISSIBILITY OF THE APPLICATION PROPER 169
+
+that refused to acknowledge admissibility as a separate category of prelim-
+inary objection — though these are increasingly rare. Accordingly, insofar
+as provisional measures are concerned, what might otherwise be consid-
+ered an objection to admissibility is either subsumed within the Tribunal’s
+prima facie analysis of its jurisdiction or the merits.'°4
+
+VI Admissibility of the Application for Provisional Measures Proper
+
+A separate but related consideration is the admissibility for the application
+for interim relief itself. Whilst, provided the court or tribunal has been
+separately seised with a primary proceeding, its jurisdiction to award
+interim relief arises more or less automatically as a general principle or
+inherent power, the same does not automatically follow with respect to
+admissibility.
+
+In most cases, inadmissibility with respect to a provisional measures
+application will arise due to the failure by the party seeking relief to comply
+with the court or tribunal’s requirements of form regarding interim relief
+in its application, e.g. a failure to state the reasons that provisional mea-
+sures are required, or the consequences if they are not granted per Article
+73(2) of the ICJ Statute. But such procedural defects are easily remedied
+through the amendment of the request for relief and in any event most
+courts are reluctant to attribute significance to formal matters.‘
+
+A more significant basis for inadmissibility in cases of provisional mea-
+sures arises where another tribunal, separately seized, has the capacity to
+award interim relief with respect to the primary claim. This occurred in
+the Certain Documents and Data case between Timor-Leste and Australia.
+Stated briefly, a dispute arose between the parties concerning hydrocarbon
+entitlements in the Timor Strait. Timor-Leste then commenced confiden-
+tial arbitration under the auspices of the PCA pursuant to Article 23(b)
+and Annex B of the Timor Sea Treaty (TST).!®° The parties based their
+procedure on the PCA Optional Rules, and included a provision based on
+Article 26 thereof. Shortly after the rules were agreed, Australian intelli-
+gence officers raided the office of the Canberra solicitor who was acting
+for Timor-Leste, and seized certain documents and data relating to the
+
+‘64 Paushok v Mongolia, UNCITRAL, $45, referring to prima facie jurisdiction (but not
+
+admissibility) and the prima facie establishment of the case as two of the ‘internationally
+recognized’ prerequisites for the grant of provisional measures.
+
+165 See e.g. Northern Cameroons, ICJ Reports 1963 p 15, 27-8, 42—3 (Judge Wellington Koo),
+172-4 (Judge Bustamante, diss). Further: Brownlie’s Principles, 701.
+
+166 Timor Sea Treaty, 20 May 2002, [2003] ATS 13.
+
+PSTS4T 8S 72.006 Published online by Cambridge University Press
+eae Yaalars fin i
+LOS VO OLOTA TA To
+
+170 POWER TO ORDER PROVISIONAL MEASURES
+
+arbitration, including legal advice. Australia, for its part, claimed that the
+raid was underpinned by national security concerns.
+
+Given the risk that the material could be turned over to Australia’s
+lawyers, the seizure clearly prejudiced Timor-Leste’s ability to successfully
+prosecute the TST proceedings. Rather than seek provisional measures
+from the TST tribunal for the return or sequestration of the documents,
+however, Timor-Leste commenced proceedings under the optional clause
+jurisdiction of the ICJ, claiming that the raid violated rights connected
+with state property and legal privilege arising under customary interna-
+tional law and ‘any relevant domestic law.!®” Due to the lack of a formal
+overlap ratione materiae between the TST and IC] proceedings, no protest
+on the basis of lis pedens could be made,'** but Australia raised broader
+concerns as to the probity of the Court ordering interim relief in the
+following terms:
+
+[E]ven if [the ICJ] prima facie retains concurrent jurisdiction, notwith-
+standing the agreement of the parties to specific modalities of dispute
+settlement under the [TST], [...] jurisdiction should not be exercised
+at that stage, having regard to the pending proceedings elsewhere. A
+rigid adherence to the parallelism of jurisdictions will only encourage
+forum shopping, conflict and fragmentation, unduly favouring successive
+claimants. [...] [T]his is just the sort of jurisdictional jockeying which
+would discredit the international dispute settlement system and which this
+Court would not want to see other tribunals engage in, or to engage in
+itself.'
+
+The principle relied on by Australia in this respect was that of
+comity between international courts and tribunals. Drawn from private
+international law,'’° comity broadly relates to ‘the recognition which one
+nation allows within its territory to the legislative, executive or judicial
+acts of another nation, having due regard both to international duty and
+convenience, and to the rights of its own citizens or other persons who
+are under the protection of its law.'”' As for an international precedent,
+
+167
+168
+
+Certain Documents and Data, Timor-Leste: Application, 17 December 2013, $10.
+
+And at any rate, no firm doctrine of lis pedens may be said to exist in international law
+at the present time: Certain German Interests in Polish Upper Silesia (Germany v Poland)
+(1925) PCIJ Ser A No 6, 18-20, 26-7. Further: Yuval Shany, The Competing Jurisdictions
+of International Courts and Tribunals (Cambridge: Cambridge University Press, 2003)
+239-45,
+
+169 CR 2014/2, §24 (Crawford).
+
+70 See e.g. Richard Fentiman, International Commercial Litigation (Oxford: Oxford Univer-
+sity Press, 2010) 579-86.
+
+“1 Morguard v De Savoye [1990] 3 SCR 1077, 1096, citing Hilton v Cuyot, 159 US 113 (1895).
+
+ny
+
+VPISYETSTSAT 7 5.006 Published online by Cambridge University Press
+CONCLUSIONS 171
+
+the Annex VII tribunal in MOX Plant stayed its jurisdiction in favour
+of the European Court of Justice, firstly out of respect to the Court, but
+also because ‘a procedure that might result in two conflicting decisions
+on the same issue would not be helpful to the resolution of the dispute
+between the Parties.'”? In a similar vein, Australia argued, it would be
+inappropriate for the ICJ to award interim relief in a matter that was
+properly within the competence of another, better informed tribunal and
+with respect to which the ICJ possessed no express power to act on that
+tribunal’s behalf.'”°? As such, Timor-Leste’s request for provisional mea-
+sures was inadmissible and the proceedings should be stayed until such a
+time as the TST tribunal had concluded its deliberations.
+
+The Court did not agree with this submission, but nonetheless acknowl-
+edged the validity of the underlying argument, holding that, notwith-
+standing the operation of the TST tribunal, the Court considered ‘that
+the dispute [in Certain Documents and Data] is sufficiently distinct from
+the dispute being adjudicated upon by the Arbitral Tribunal’.!”*4 Exactly
+what might have been considered insufficiently distinct was not elabo-
+rated upon, but the threshold may be thought to fall somewhere between
+the total subject matter overlap that confronted the Annex VII tribunal in
+MOX Plant and the situation in Certain Documents and Data, which con-
+sidered only issues arising from a dispute that was within the competence
+of another tribunal.
+
+VII Conclusions
+
+This chapter has endeavoured to deal with some of the less controversial
+elements of the uniform approach to provisional measures as between
+international courts and tribunals. Within the adjudicatory bodies under
+consideration, there appears to be agreement that an international court
+or tribunal has the inherent power to award provisional measures, and
+that this power underpins and may be displaced by an express provision
+
+"72 MOX Plant (Annex VII) (2002) 126 ILR 314, 318-20. Further: Shany, Competing Jurisdic-
+tions, 200-6; Caroline Henckels, ‘Overcoming Jurisdictional Isolationism at the WTO-
+FTA Nexus: A Potential Approach for the WTO’ (2008) 19 EJIL 571; James Crawford,
+“Chance, Order, Change: The Course of International Law (2013) 365 Hague Recueil 9,
+221-4.
+
+3 CR 2014/2, §§25-33 (Crawford).
+
+“4 Certain Documents and Data, ICJ, Order of 28 January 2014, 2, reaffirmed in the Order
+of 3 March 2014, $17. For a rejection of the underlying premise of the submission, see
+ibid, §$6-12 (Judge Cancado Trindade).
+
+PSTS4T 8S 72.006 Published online by Cambridge University Press
+172 POWER TO ORDER PROVISIONAL MEASURES
+
+in the relevant body’s constituent instrument (lex specialis). The precise
+character of the inherent power is less certain: does it arise from the court
+or tribunal’s need to ensure the effectiveness of its jurisdiction, or does
+it reflect a general (procedural) principle of international law, within the
+meaning of Article 38(1)(c) of the ICJ Statute? In the author’s view, the
+better position is the latter, rooted as it is within the cognizable sources
+of international law. As a practical matter, however, the question takes on
+a lesser degree of relevance: the important point is that the power exists
+and is widely recognized as such.
+
+Insofar as more specific aspects of the uniform approach are concerned,
+despite some initial debate within the ICJ it has now been universally
+accepted — not only within the Court, but before other international bod-
+ies — that an essential prerequisite of interim relief is the establishment
+of jurisdiction vis-a-vis the main dispute on a prima facie basis. There
+is no particular reason, as a matter of logic or principle, why this needs
+to be precise threshold, but it is adopted nonetheless more or less auto-
+matically, the sheer weight of the jurisprudence constante being such that
+the contemplation of any alternative would require a very good reason
+indeed (i.e. a lex specialis). For now, however, the need for prima facie
+jurisdiction is the most uniform element of the uniform approach.
+
+International courts and tribunals have been generally less enthusiastic
+when adopting a newer innovation of the ICJ, being prima facie admis-
+sibility. The fact that objections to admissibility do not usually go to the
+consent-based root of an international court or tribunal’s adjudicative
+power — along with the fact that most defects of this kind can be cured
+post-seisen (i.e. after the application for interim relief but before the hear-
+ing on the merits) — may play a role in this reluctance. At the same time,
+however, the problem may be party-led: if, for example, a submission
+were put to an UNCLOS Part XV body or investor-state arbitration tri-
+bunal that an application for interim relief was barred by reason of a lack
+prima facie admissibility, the body or tribunal in question would need to
+consider the issue on those terms, and determine whether it was a valid
+obstruction to provisional measures.
+
+A final consideration is the admissibility of the application for interim
+relief itself. The IC] in Certain Documents and Data was willing to consider
+the issue a live one — even if it ultimately decided that it did not apply in the
+circumstances before it. Given the somewhat unique situation in which
+the Court found itself in that case, one might wonder whether that was
+the only opportunity that this particular watchdog had to bark — though
+
+PSTS4T 8S 72.006 Published online by Cambridge University Press
+CONCLUSIONS 173
+
+nothing can be excluded in a world of increasingly fragmented interna-
+tional courts and tribunals. All that can be said is that these episodes
+demonstrate the ways in which provisional measures might interact with
+wider questions of international procedure,'”? and the need for parties
+and adjudicators to keep in mind the broader implications of interim
+relief as a common procedural device.
+
+“5 Cf. Chapter 8, SII.
+
+VPISYETSTSAT 7 5.006 Published online by Cambridge University Press

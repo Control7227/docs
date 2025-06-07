@@ -1,0 +1,1261 @@
+Time to Evaluate the Standards for
+Issuance of Interim Measures of Protection
+
+in International Investment Arbitration
+
+by JOE MATTHEWS and KAREN STEWART*
+
+ABSTRACT
+
+The pressure on international arbitral tribunals to decide on requests for interim measures in high
+stakes international arbitration is likely to grow rapidly as the global economy continues to
+weaken and the number of investment disputes, both before the International Centre for Settlement
+of Investment Disputes (ICSID) tribunals and ad hoc tribunal proceedings under United Nations
+Commission on International Trade Law (UNCITRAL) Rules, increases. Although the
+individual decisions of the tribunals are not binding on one another, it 1s generally accepted that
+from these decisions there 1s the development of a special jurisprudence in investment arbitration.
+The danger inherent in this sttuation 1s that all decisions of all tribunals ‘have in principle
+equal status as concerns the potential for normative influence’. This influence will only increase
+as more awards are available for review. Recently, in Sergei Paushok, CJSC Golden
+East Company and CJSC Vostokneftegaz Company, Claimants v. Government of
+Mongolia (‘Paushok v. Mongolia’), a 2008 ad hoc investment arbitration conducted under
+UNCITRAL Rules, the tribunal entered an interim award without reference to any specific
+authority but nonetheless applied a list of criteria taken from international investment arbitration
+junsprudence as a guide to its decision-making. Using Paushok v. Mongolia as a framework,
+the authors have critically evaluated tribunals’ relance on what they deem ‘leading authority’ and
+the reasoning process used. From this analysis, the authors propose standards for tribunals to
+consider in the application for issuance of interim measures in international investment
+arbitration under both ICSID and UNCITRAL Rules and discuss how each factor should be
+analysed, as well as the quantum of proof required for each. At a minimum, the authors hope
+that their proposed standards provoke discussion on whether there is in actuality a set of
+
+* Joe Matthews is a US. based international advocate and arbitrator. He is of counsel with the Law Firm of
+Colson Hicks Eidson, P.A. and principal of Joseph M. Matthews, P.A., in Miami, Florida and Washington,
+D.C. He is a member of the board of directors of the American Arbitration Association. Karen Stewart is a
+former Colson Scholar at the University of Miami School of Law and a lawyer with the Law Firm of Colson
+Hicks Eidson, PA. She is a former law clerk for the Honorable Donald Graham, U.S. District Court Judge,
+Southern District of Florida.
+
+ARBITRATION INTERNATIONAL, Vol. 25, No. 4
+© LCIA, 2009
+
+529
+
+6L0Z YEW ZO UO JEsn OWT / Ayissaalun Uaple Aq GgZ790Z/6ZS/P/ST/OBNSqe-9|oINe/UONeujIqJe/LUoo "dno‘olwepese//:sdyy Wo papeojumog
+530 Arbitration International, Volume 25 Issue 4
+
+internationally recognised standards to be met before a tribunal will issue an order in support of
+interim measures, and if so what should provide the basis for that standard.
+
+I. INTRODUCTION
+
+IN SEPTEMBER 2008, a distinguished panel of arbitrators entered an order on
+interim measures in an ad hoc investment arbitration conducted under the
+United Nations Commission on International Trade Law (UNCITRAL) Rules in
+Serget Paushok, CPSC Golden East Company and CPSC Vostoknefiegaz Company, Claimants
+v. Government of Mongolia (‘Paushok v. Mongolia’). In Paushok v. Mongolia, the claimants,
+the Russian owners of gold mining and oil and gas companies KOO Golden
+East-Mongolia (GEM’) and KOO Vostokneftegaz-Mongolia, brought a claim
+against the Republic of Mongolia to challenge application of Mongolia’s 2006
+Windfall Profits Tax Law and its 2006 Minerals Law, both of which were
+legislative acts duly adopted by the State Great Hural, the democratically elected!
+legislative branch of government for Mongolia. The claimants alleged that the
+laws were in violation of the Agreement on Encouragement and Reciprocal
+Protection of Investments between the Government of the Russian Federation
+and the Government of Mongolia (‘the BIT”).
+
+The tribunal, Dr Horacio Grigera Naon, nominated by the claimants, Prof:
+Brigitte Stern, nominated by Mongolia, and Marc Lalonde, serving as President,
+unanimously entered its order on interim measures (‘Interim Order’) which
+included the following extraordinary provisions (at para.16):
+
+Claimants’ application for interim measures of protection under Article 26 of the UNCITRAL
+rules is granted in accordance with the terms and subject to the conditions below:
+
+1. Payment to Respondent of the Windfall Profit Tax owing by GEM (including interest and
+penalties) is suspended until the Tribunal has ruled on the merits of Claimants’ request for
+relief.
+
+2. Taking note of the undertaking previously made by Respondent on March 19, 2008 and
+confirmed at the Hearing, Respondent shall refrain from seizing or obtaining a lien on the
+assets of GEM and other assets of Claimants in connection with the Windfall Profit Tax
+owing to Respondent or from directly or indirectly taking any other action leading to the
+same or similar effect, except in accordance with the Tribunal’s Orders, and shall allow
+GEM and Claimants to maintain their ordinary business operations in Mongolia.
+
+3. Following their previous undertaking in that regard on March 26, 2008, Claimants shall
+not move assets out of Mongolia, nor take any action which would alter in any way the
+ownership and/or financial interests of Claimants with respect to their assets in Mongolia,
+without prior notice to and agreement of Respondent. Sale and pledges of gold are
+authorized provided the funds thus obtained are used for the ordinary business operations
+of GEM. Under no circumstances should such funds be used for other purposes; in
+
+1 The modern country of Mongolia represents only part of the Mongols’ historical homeland; more Mongols
+live in the Inner Mongolia Autonomous Region in the People’s Republic of China than in the Republic of
+Mongolia, which was a former satellite of the Soviet Union.
+
+6L0Z YEW ZO UO JEsn OWT / Ayissaalun Uaple Aq GgZ790Z/6ZS/P/ST/OBNSqe-9|oINe/UONeujIqJe/LUoo "dno‘olwepese//:sdyy Wo papeojumog
+Time to Evaluate the Standards for Issuance 531
+
+particular, no transfer of funds or assets of any kind should be made outside of Mongolia
+(except for deposit into the escrow account under the conditions described below) or to
+any of the Claimants or any person, corporation or business related to them, without
+Respondent’s agreement.
+
+4. Claimants shall provide gradually increasing security as described below. The Tribunal
+may increase or decrease the security for good cause shown premised on the evolution of
+
+GEM’s business.
+
+The tribunal then ordered the creation of an escrow account in a financial
+institution outside of Russia and Mongolia and established a very detailed set of
+procedures for the claimants to pay taxes into the escrow account, beginning at
+a rate of US$2 million per month, with extensive provisions for disclosure of
+financial information and opportunities for both parties to seek modifications to
+the procedures (Interim Order, paras. 16-17).
+
+Effectively, the tribunal inserted itself between a sovereign democratic republic
+and a corporation created and existing under the laws of that republic but owned
+100 per cent by nationals of another sovereign, suspending the obligation to pay
+millions of dollars of taxes each month, but creating a fund under the control of
+the tribunal in an amount designed to ensure that the sovereign would be able to
+collect the taxes should it prevail in the arbitration. The tribunal thus made itself
+not only the tax court, but the tax collector as well, and ensured the ability to
+collect the tax on behalf of the Republic should it prevail.
+
+Whether correct or incorrect as a matter of law, wise or unwise as a matter of
+policy, just or unjust as to the parties before it, the existence of this Interim Order?
+in the public domain, and the fact that it purports to be based on numerous other
+international arbitration precedents, requires that the international arbitration
+community evaluate the legal standards upon which it was based and whether
+those standards are appropriate. The pressure on international arbitral tribunals
+to decide on requests for interim measures in high stakes international arbitration
+is likely to grow rapidly as the global economy continues to weaken and the
+number of investment disputes, both before International Centre for Settlement
+of Investment Disputes (ICSID) tribunals and ad hoc tribunal proceedings under
+UNCITRAL Rules, increases. Recent high profile Mareva injunctions? issued by
+lower courts and then reversed by appellate courtst make it seem likely that
+
+2 It is not clear to the authors precisely how this award entered the public domain. It was referenced on the
+OGEMID listserv in a post by Prof. Andrew Newcombe on 3 November 2008 and is posted there at
+www.transnational-dispute-management.com/members/ogemid/2008/ 1 1/msg00002.asp?highlight=mongolia.
+Attempts to inquire of counsel for the parties to obtain the parties’ submissions have thus far been
+unenlightening and unsuccessful.
+
+3 So named from the case which first upheld its use, Mareva Compania Naviera, SA v. International Bulkcarriers, SA
+[1975] 2 Lloyd’s Rep. 509.
+
++ In the most publicised recent case, Mobil Cerro Negro obtained a Mareva injunction from a UK court
+freezing bank accounts and assets belonging to Venezuela’s state-owned oil company Petroleas de Venezuela
+worldwide in February 2008. On appeal, the UK High Court reversed the injunction and ordered Mobil to
+pay PDVSA‘s attorneys fees and costs. Mobil Cerro Negro, Lid v. Petroleos de Venezuela, SA [2008] EWHC
+(Comm.) 532.
+
+6L0Z YEW ZO UO JEsn OWT / Ayissaalun Uaple Aq GgZ790Z/6ZS/P/ST/OBNSqe-9|oINe/UONeujIqJe/LUoo "dno‘olwepese//:sdyy Wo papeojumog
+532 Arbitration International, Volume 25 Issue 4
+
+arbitrators rather than courts will be asked to enter emergency interim relief with
+increasing frequency.>
+
+After a brief description of the recent history of Mongolia, including its
+relations with giant neighbours Russia to the north and China to the south and
+the importance of its mineral wealth, this article will (1) analyse the Interim
+Order in Paushok v. Mongolia, critically examining the standards employed by that
+tribunal; (2) provide a brief summary of the standards for issuance of preliminary
+injunctive relief in the United States and a few other jurisdictions; (3) propose
+a revised set of standards to be applied by arbitrators sitting in international
+investment disputes when presented with requests for interim measures; and
+(4) provide argument and authority for the proposed standards.
+
+Il. MONGOLIA’S RECENT HISTORY®
+
+(a) Relationship with China and the Former Soviet Union
+
+From its independence in the 1920s after several centuries of dominance by its
+neighbour to the south, the People’s Republic of China, the independent republic
+of Mongolia was a loyal ally of the Soviet Union until its demise in 1989. Russia
+helped Mongolians living north and west of the Gobi Desert and the great
+steppes to fight for their independence, and after its independence from China,
+Mongolia fought alongside Russian troops in the Second World War and
+remained a loyal client state of the Soviet Union to the bitter end, while the
+residents of what is now the autonomous region of Inner Mongolia remained a
+minority population within China. It is unique among the ‘divided nations’ of the
+twentieth century in that the division was not along Cold War lines but rather
+between the two giants of the world communist movement. Russian influence,
+including architecture, a modified version of the Cyrillic alphabet and overlapping
+culture, remains omnipresent in the capital city of Ulaanbaatar (Ulan Bator).
+However, the Chinese have begun to make quiet inroads, particularly in the
+construction and coal extraction industries.
+
+When the Soviet Union collapsed in 1989, Mongolia’ went through economic
+‘shock therapy’ transition from a centrally controlled ‘command’ economy with
+
+5 A just released article by J.A. Rueda-Garcia, ‘Provisional Measures in Investment Arbitration: Recent Experiences
+in Oil Arbitrations Against the Republic of Ecuador’ in (2009) 6(1) Transnational Dispute Management (March),
+provides a somewhat similar analysis of provisional measures through examination of three ICSID cases
+brought against the Republic of Ecuador. All three cases involved the oil industry and one of the cases, Occidental
+Petroleum Corp. v. Ecuador, 1CSYD Case no. ARB/06/11, [2007] TIC 305, Decision on Provisional Measures,
+17 August 2007, is discussed at length in the Interim Order in Paushok v. Mongolia and is discussed infra.
+
+6 This history was developed largely from the experience of one of the authors in teaching at the National
+University of Mongolia School of Law in 2006 and incorporated into a lecture delivered at the University of
+Dundee in September 2006. It is extracted and reprinted with some updating from J.M. Matthews, “The
+Case for Arbitration Rules that Presumptively Grant Public Access to All Arbitration Proceedings’ in (2006)
+3(5) Transnational Dispute Management (December).
+
+7 Inner Mongolia, as an autonomous region of the People’s Republic of China, has travelled a very different
+transitional path. It remains a part of the PRC.
+
+6L0Z YEW ZO UO JEsn OWT / Ayissaalun Uaple Aq GgZ790Z/6ZS/P/ST/OBNSqe-9|oINe/UONeujIqJe/LUoo "dno‘olwepese//:sdyy Wo papeojumog
+Time to Evaluate the Standards for Issuance 533
+
+government ownership of virtually all assets, to a liberal free market economy
+based on recognition of property rights, enforcement of contract rights and
+respect for the rule of law. Unfortunately, like most other former Soviet satellites,
+based on the ‘Washington Consensus’® Mongolia’s shock therapy resulted in
+uneven and unfair privatization of government assets that inevitably favoured
+those who had been in positions of power just prior to the transition, ze. the
+former Communist Party leadership.
+
+(6) A Legacy of Corruption Within a Functioning Democracy
+
+In Mongolia, as in Russia, Eastern Europe and the other former Soviet satellites,
+the result of the transition was the creation of a culture of corruption.? Equally
+important and perhaps even more troubling were one of the primary side-effects
+and the handmaiden of corruption — the explosion of black markets and their
+self-fulfilling prophecy of bad government. Black markets are in some ways more
+troubling than corruption because there are international conventions and near
+uniform condemnation of corruption, but black markets are in many ways
+understandable. It is hard to be critical of those who are willing to work at several
+jobs in an economy that is not providing adequate wages to survive, but not
+willing to declare income and pay taxes to a corrupt and incompetent
+government.
+
+The Chairman of the Mongolian National Chamber of Commerce and
+Industry (MCCI), Mr 8. Demberel, has estimated that the ‘informal economy’
+(ze. black market) was near 25 per cent of the total Gross Domestic Product. The
+World Bank estimates that the official GDP was US$1.6 billion in 2004. With a
+total population of 2.5 million, 36 per cent of whom live below the officially
+defined poverty line, the official Gross National Income per person (calculated
+pursuant to the Atlas method) was US$600 in 2004. Most troubling 1s the fact
+that 23 per cent of the population lives in extreme poverty on an income of less
+than US$0.40 per day. Walking the streets of Ulan Bator is an experience that
+ensures one will be accosted by young street children at nearly every corner
+pleading with the only English word they have learned to speak — ‘money’.
+
+Valid statistical data regarding corruption is notoriously difficult to come by
+the world over. Mongolia ranked 85th on the Corruption Perception Index for
+2005 which is the most widely accepted measure of corruption published by
+
+8 The ‘Washington Consensus’ refers to economic policies put forth by the Congress and administration of the
+United States as well as by the Washington DC-based International Monetary Fund and World Bank. Some
+of the elements of this Consensus are trade liberalisation, privatisation, deregulation, etc. that are often
+applied to all countries and all situations.
+
+9 Transparency International’s National Integrity Systems Country Study Report on Mongolia, published in 2001,
+concluded that ‘[c]orruption in Mongolia has thrived in recent years on the opportunities presented by the
+move to a market economy, by democratization and privatization’. It further concluded that ‘[s]ince the start
+of the transition, corruption has spread in the community, is growing and has reached worrying proportions,
+although the exact extent of it is not known’. See www.transparency.org/policy_research/nis/regional/
+europe_central_asia.
+
+6L0Z YEW ZO UO JEsn OWT / Ayissaalun Uaple Aq GgZ790Z/6ZS/P/ST/OBNSqe-9|oINe/UONeujIqJe/LUoo "dno‘olwepese//:sdyy Wo papeojumog
+534 Arbitration International, Volume 25 Issue 4
+
+Transparency International.!° In Mongolia, the MCCI, with the financial
+support of the Asia Foundation,!! commissioned a survey for the purpose of
+investigating the character and impact of corruption in the Mongolian business
+sector. The MCCI summary, although in imperfect English, is nonetheless
+compelling:
+
+The goal of the survey was to study how often entrepreneurs face corruption and what size of
+corruption they do. To our question ‘How often do you have to make bribery in order to have
+your work run smooth?’ 66.1% said ‘sometimes’, 9.4% answered ‘always’ and 24.4% said
+‘never’. From these figures we can come to a conclusion that three fourths of people are involved
+in corruption.
+
+In response to a request that the survey respondents name five organizations
+that are most corrupted, judicial institutions were listed by 41.6 per cent of the
+respondents, the second largest number, with the Customs Office, Tax Office,
+police and banks as the top five on the list.!?
+
+In spite of the corruption, Mongolia has a vibrant democracy that has
+produced a series of elections relatively fair and free of impropriety with
+reasonably efficient and mostly non-violent transfers of power between the major
+political parties. Following a peaceful democratic revolution, the ex-Communist
+Mongolian People’s Revolutionary Party (MPRP) won elections in 1990 and
+1992, but was defeated by the Democratic Union Coalition (DUC) in the 1996
+parliamentary election. The MPRP won an overwhelming majority in the 2000
+parliamentary election, but the party lost seats in the 2004 election and shared
+power with democratic coalition parties from 2004 to 2008. The MPRP regained
+a solid majority in the 2008 parliamentary elections; the Prime Minister and a
+majority of cabinet members are currently MPRP members. !4
+
+(c) Significance of Mongolia’s Mineral Wealth
+
+Finally, in order to put the dispute involved in Paushok v. Mongolia into perspective,
+it is important to know that Mongolia has enormous mineral wealth, both
+developed and undeveloped. Despite being one of the world’s poorest countries,
+Mongolia’s reserves of natural resources have drawn increasing international
+interest. There are vast deposits of copper, gold, silver, iron ore, phosphorous and
+
+0 Transparency International, the global civil society organisation leading the fight against corruption, brings
+people together in a powerful worldwide coalition to end the devastating impact of corruption on men,
+women and children around the world. See www.transparency.org/about_us.
+
+'! A non-profit, non-governmental organisation committed to the development of a peaceful, prosperous, just
+and open Asia-Pacific region. See www.asiafoundation.org/about.
+
+12 The MCCI Study Report on Corruption in the Business Sector concluded, again in imperfect but compelling
+English, as follows: ‘Because of unfair privatization process, immorality of state officers, insufficiently
+developed law, which is not enforced in life and illegally appropriated state property, values of society and
+morality fall down. Today’s society loses its values, while falsity and unfairness dominate. This should
+become a warning for everybody that our society is being destroyed from its roots’.
+
+'3° Central Intelligence Agency, World Factbook, available at www.cia.gov/library/publications/the-the-world-
+factbook/geos/mg.html.
+
+6L0Z YEW ZO UO JEsn OWT / Ayissaalun Uaple Aq GgZ790Z/6ZS/P/ST/OBNSqe-9|oINe/UONeujIqJe/LUoo "dno‘olwepese//:sdyy Wo papeojumog
+Time to Evaluate the Standards for Issuance 535
+
+zinc hidden below its famous grasslands. Mongolia also has the biggest known
+coal reserves in the world. It possesses some of the largest proven reserves of gold,
+copper and uranium in the world. Not surprisingly, Mongolia does not itself have
+the technological or economic capacity to develop these resources, and given its
+historical relations with Russia, the most productive of these efforts were initiated
+during the period of the Soviet empire and were transferred to either public or
+private Russian interests after 1989.
+
+Even the history of Western foreign direct investment inevitably involves
+Russia and rumours of corruption. Ivanhoe Mines, Ltd (Canada) owns
+development rights to gold and copper reserves in the Gobi Desert (Oyu Tolgoi)
+and its history is illustrative of the Russian influence on Mongolia’s mineral
+development history. Robert Friedland, the founder and CEO of Ivanhoe, loaned
+the government of Mongolia money to pay off a staggering Russian debt
+accumulated during the Soviet years. Ivanhoe is reported to have loaned the
+country approximately US$25 million. It is highly likely that the Ivanhoe loan
+proceeds in fact were used to pay off some or all of the old Soviet indebtedness.
+Nonetheless, it is commonly assumed by many in Mongolia that some or all of
+the loan proceeds made their way into the hands of corrupt Mongolian
+government officials who negotiated a long-term deal with Ivanhoe for the
+exploitation of the Gobi gold and copper. From Ivanhoe’s perspective, it has
+already invested more than US$500 million and expects to invest as much as
+US$2 billion before it begins to pull the gold and copper out of the ground and
+sell it. With the fall in world commodity prices, Ivanhoe formed a joint venture
+with mining giant Rio Tinto in the hopes of continuing its efforts to profit from
+the Oyu Tolgoi operations.
+
+As the global cost of commodities began to skyrocket from 2004 to 2006,
+questions about whether Mongolia was receiving a fair share of the proceeds
+from the development and sale of these resources, whether the fragile grassland
+environment was being adequately protected, and whether enough Mongolians
+were being employed in the extraction industries became very important political
+issues in Mongolian national election campaigns. Mining contributes about 20
+per cent of the GDP of Mongolia and the regulated mining sector employs over
+12,000 people, while many more are engaged in unregulated mining. !+ Ivanhoe’s
+Oyu Tolgoi development is projected to produce more than one billion pounds of
+copper and 330,000 ounces of gold per year for 35 years, but many Mongolians
+fear the growing foreign influence and environmental damage to the grasslands. !5
+In May 2006, demonstrators burned an effigy of Robert Friedland in protest
+against the proposed project. Shortly thereafter, Parliament enacted the windfall
+mining profit tax authorising the imposition of taxes of 68 per cent on gold when
+it exceeds US$500 per ounce and on copper over US$2,600 per ton. !®
+
+4 ‘The Battle for Mongolia’s Resources’ (3 July 2008), available at Aljazeera.net,.
+
+'S To be sure, the most intractable environmental problems are presented by the unregulated native miners, not
+the multinational corporations.
+
+16 See supra n. 14.
+
+6L0Z YEW ZO UO JEsn OWT / Ayissaalun Uaple Aq GgZ790Z/6ZS/P/ST/OBNSqe-9|oINe/UONeujIqJe/LUoo "dno‘olwepese//:sdyy Wo papeojumog
+536 Arbitration International, Volume 25 Issue 4
+
+Against this backdrop, the Russian owners of the Mongolian registered gold
+mining and oil and gas companies commenced their arbitration claim against
+Mongolia.
+
+Ili. ANALYSIS OF THE INTERIM ORDER IN
+PAUSHOKv. MONGOLIA
+
+The authors have attempted to speak with counsel for the parties and to obtain
+copies of the submissions that would permit a more thorough presentation of the
+facts involved in this dispute, but have been unable to obtain copies of the parties’
+submissions. Consequently, the following recitation of the claims relies almost
+entirely upon the limited facts set forth in the Interim Order.!’
+
+(a) Claimants and Claims
+
+The claimants were a Russian national and two corporations that were both
+registered in the Russian Federation. CJSC Golden East Company and CJSC
+Vostokneftegaz Company, the corporate claimants, respectively owned (directly
+or indirectly) 100 per cent of the outstanding shares of two Mongolian registered
+companies, KOO Golden East-Mongolia ((GEM’) and KOO Vostokneftegaz-
+Mongolia (‘V-Mongolia’). The individual claimant, Mr Paushok, was the
+Executive Director of GEM and the indirect owner of 100 per cent of the shares
+of GEM.
+
+The tribunal summarised the claims as follows (Interim Order, para. 6):
+
+The subject matter of this dispute is the validity under the Treaty of the Windfall Profit Tax and
+of the levying of a fee for the import of foreign workers imposed by Respondent. In their Notice
+of Arbitration of November 30, 2007, Claimants request declaratory relief based on Articles 3(1)
+and 4 of the Treaty as well as damages, interest and costs. And, in their Statement of Claim filed
+on June 27, 2008, Claimants request declaratory relief with regard to those two types of
+measures as contrary to Articles 2, 3 and 4 of the Treaty; in addition, they claim damages,
+interest and costs to be determined by the Tribunal.
+
+‘Two days after the constitution of the tribunal, the claimants filed a request for
+interim measures, including a temporary restraining order (TRO). The motion
+
+17 The authors provided a draft of this article to counsel for the parties and requested input to correct any
+mistaken assumptions of fact. The authors sincerely hope that the parties to this action will make available
+to the public all submissions upon which the tribunal relied in reaching the Interim Order but until then, we
+will attempt to limit the analysis to facts that appear not to be in dispute and, where unclear, we will attempt
+to identify the lack of clarity. The Interim Order itself makes reference to a number of media reports and,
+with respect to its characterisation of the Windfall Profits Tax, the tribunal based its conclusions upon a
+‘written undertaking given by the State Secretary of the Minister of Justice and Home Affairs on March 19,
+2008’: the tribunal noted that one of the specific features of the request for interim relief unique to this case
+was that ‘[i]n particular, the Government of Mongolia, while not admitting to any illegality in the measures
+which have been enacted and which are challenged in this case, has recognized, both in 2007 and 2008, that
+the WPT Law was not achieving its objectives and should be replaced by a less severe taxation regime’
+(Interim Order, para. 43).
+
+6L0Z YEW ZO UO JEsn OWT / Ayissaalun Uaple Aq GgZ790Z/6ZS/P/ST/OBNSqe-9|oINe/UONeujIqJe/LUoo "dno‘olwepese//:sdyy Wo papeojumog
+Time to Evaluate the Standards for Issuance 937
+
+for the TRO appears to have focused on the claim of GEM and requested an
+order suspending enforcement of the Windfall Profits Tax, the 2006 Minerals
+Law and penalties for alleged late tax payments; suspension of any criminal
+action against GEM; and suspension of any other conduct that ‘aggravates the
+dispute, including, but not limited to, disparagement of Claimants or their
+investment in the media or unjustified refusal of permission to continue to mine
+gold in the same way and at the same levels as were approved in 2006 and 2007’
+(Interim Order, para. 2).
+
+On 23 March 2008, the tribunal entered a TRO that appears to have been
+based on some agreement by Mongolia that it would not seize or place a lien on
+the assets of the claimants and would allow them to continue their ordinary
+business operations in exchange for a commitment by the claimants that they
+would not move assets out of the country or alter their ownership structure in an
+attempt to secrete assets.
+
+On 8 July 2008, a hearing was conducted at the offices of the tribunal
+president’s law firm in Montreal. Thereafter, on 2 September 2008, the tribunal
+entered the Interim Order.
+
+(b) Applicable Rules, Law, Evidentiary Burden and Criteria Applied by the Trbunal
+
+The tribunal began by noting that its power relating to interim measures was set
+forth in articles 15(1), 26(1) and 26(2) of the UNCITRAL Rules. In doing so, the
+tribunal concluded that the authority granted by these rules exceeded the more
+limited authority to award interim relief contained in article 47 of the ICSID
+Convention and rule 39 of the ICSID Rules (Interim Order, para. 6). Nonetheless,
+the tribunal, citing an ICSID case, Emiho Agustin Maffezini v. Spain,!® acknowledged
+that interim measures are extraordinary measures not to be granted lightly. The
+tribunal also noted that the evidentiary burden is on the claimants to ‘demonstrate
+that their request is meeting the standards internationally recognized as pre-
+conditions for such measures’. Interestingly, the tribunal cited another ICSID
+decision, Occidental Petroleum Corp. v. Ecuador'9 (Interim Order, para. 6). Professor
+Stern was a member of that tribunal as well as the Paushok tribunal.
+
+With respect to the ‘criteria guiding the tribunal’, the tribunal in Paushok
+v. Mongolha stated, without reference to specific authority (Interim Award, paras.
+7-8):
+
+It is internationally recognized that five standards have to be met before a tribunal will issue an
+order in support of interim measures. They are (1) prima facie jurisdiction, (2) prima facie
+establishment of the case, (3) urgency, (4) imminent danger of serious prejudice (necessity) and
+
+(5) proportionality.
+
+'8 ICSID Case no. ARB/97/7, [1999] IIC 84, Procedural Order no. 2, 28 October 1999,
+'9 ICSID Case no. ARB/06/11, [2007] IIC 305, Decision on Provisional Measures, 17 August 2007.
+
+6L0Z YEW ZO UO JEsn OWT / Ayissaalun Uaple Aq GgZ790Z/6ZS/P/ST/OBNSqe-9|oINe/UONeujIqJe/LUoo "dno‘olwepese//:sdyy Wo papeojumog
+538 Arbitration International, Volume 25 Issue 4
+
+The tribunal proceeded to apply the facts of the case before it to each of the
+five required elements and concluded that interim relief was warranted.
+
+(i) Prima facie jurisdiction
+
+Relying on a decision of the International Court of Justice (ICJ),2° the tribunal set
+aside Mongolia’s challenges to the jurisdiction of the tribunal by postponing
+decision on the issues. The tribunal concluded that the government’s jurisdictional
+arguments, (i) failure to comply with notice requirements, and (ii) estoppel
+based on settlement negotiations, were matters to be considered as part of the
+jurisdictional and merits phase of the proceedings (Interim Order, para. 9).
+Finding that the claimants had established prima facie jurisdiction under the
+provisions of article 6 of the BIT, the tribunal in theory left open the door that it
+might later conclude it was actually without jurisdiction over the dispute.
+
+(a) Prima facie establishment of the case
+
+The tribunal dedicated only two paragraphs of its 91 paragraph order to this
+required element. It made no attempt to assess the merits of the claims. To the
+contrary, the tribunal concluded that it needed only to decide that the claims
+were not, on their face, frivolous. “Io do otherwise would require the Tribunal to
+proceed to a determination of the facts and, in practice to a hearing on the merits
+of the case, a lengthy and complicated process which would defeat the very
+purpose of interim measures’ (Interim Order, para. 9).
+
+(wt) Urgency
+The primary evidence upon which the tribunal relied to conclude that the
+circumstances were sufficiently urgent to warrant interim relief related to the
+impact of the Windfall Profits Tax on the gold mining industry generally, and on
+claimant GEM specifically. The tribunal cited statements from the President of
+the Mongolian Geologists Association, also a member of the Hural, that 93 gold
+mining companies, more than 50 per cent of the previous number of companies
+in the industry, had discontinued operations. The tribunal considered evidence of
+a proposal to modify the Windfall Profits Tax law as evidence that the
+government recognised the ‘critical situation resulting from its legislation’ even
+though the proposed changes were not adopted (Interim Order, para. 10). The
+proof upon which the tribunal relied was an undated press release submitted to
+the tribunal.
+
+The tribunal also considered evidence of the specific impact of the tax on
+GEM, concluding that in the then current fiscal conditions, imposition of the
+
+obligation to pay the Windfall Profits Tax immediately would likely result in
+GEM’s bankruptcy.
+
+20 Military and Paramilitary Activities In and Against Nicaragua (Nicaragua v. United States of America), Provisional
+Measures, Order of 10 May 1984, [1984] ICJ Rep. 169 at para. 24.
+
+6L0Z YEW ZO UO JEsn OWT / Ayissaalun Uaple Aq GgZ790Z/6ZS/P/ST/OBNSqe-9|oINe/UONeujIqJe/LUoo "dno‘olwepese//:sdyy Wo papeojumog
+Time to Evaluate the Standards for Issuance 539
+
+(w) Imminent danger of serious prejudice (necessity)
+
+The tribunal allocated the greatest portion of its analysis to this element of the
+Claimants’ burden. Considering significant numbers of ICSID and other
+precedents submitted and argued by the parties, the tribunal made a clear
+distinction between the Anglo-American concept of irreparable injury and the
+concept of irreparable prejudice in international law. Citing with approval K.P.
+Berger in his International Economic Arbitration,?! and relying particularly on the
+decision in Behring International, Inc. v. Islamic Republic Iranian Air Force,2? the tribunal
+adopted the view that ‘irreparable harm’ in international law has a more flexible
+meaning and that while the Anglo-American concept of irreparable injury
+requires a showing that the injury complained of is not remediable by an award
+of damages, the international law standard does not.
+
+The tribunal also relied on article 17A of the UNCITRAL Model Law for the
+proposition that ‘[h]arm not adequately reparable by an award of damages is
+likely to result if the measure is not ordered, and such harm substantially
+outweighs harm that is likely to result to the party against whom the measure is
+directed if the measure is granted’.
+
+(v) Proportonality
+
+In balancing the interests of the parties before it, the tribunal acknowledged the
+right of a sovereign to enact tax measures and to demand immediate payment of
+those taxes. However, the tribunal again relied upon the evidence provided by the
+undated press release indicating that the government itself had recognised that
+the Windfall Profits Tax was not achieving the objectives intended. After noting
+that the government had a legitimate interest in preventing the claimants from
+depleting their assets so that an award in the government’s favour would be
+uncollectible, the tribunal then proceeded to spht the proverbial baby in half,
+ordering the claimants to pay the taxes into an escrow account and periodically
+report on the status of its assets, thus placing the tribunal in the unique position as
+overseer of the tax collections of Mongolia from its second largest gold mining
+enterprise.
+
+IV. REVIEW OF STANDARDS FOR PRELIMINARY
+INJUNCTIONS IN THE UNITED STATES AND
+OTHER JURISDICTIONS
+
+As noted above, the tribunal in Paushok v. Mongola listed, without reference to
+specific authority, the following five standards for issuance of interim measures:
+
+2t K.P. Berger, International Economic Arbitration, Studies in Transnational Economic Law vol. 9 (Kluwer Law and
+Taxation Publishers, Deventer/Boston, 1993).
+22) Award no. ITM/ITL 52-382-3, 21 June 1985, 8 Iran-US CTR 238 at 276. -
+
+6L0Z YEW ZO UO JEsn OWT / Ayissaalun Uaple Aq GgZ790Z/6ZS/P/ST/OBNSqe-9|oINe/UONeujIqJe/LUoo "dno‘olwepese//:sdyy Wo papeojumog
+540 Arbitration International, Volume 25 Issue 4
+
+(1) prima facie jurisdiction;
+
+(2) prima facie establishment of the case;
+
+(3) urgency;
+
+(4) imminent danger of serious prejudice (necessity);
+(5) proportionality.
+
+Preliminary injunctions and temporary restraining orders have been a part of
+
+the remedial toolbox of courts in the United States for many years. In the federal
+courts of the United States, the grant or denial of a preliminary injunction is
+governed procedurally by Federal Rules of Civil Procedure, Rule 65, and rests in
+the sound discretion of trial courts which must exercise that discretion in light of
+four prerequisites:??
+
+(i) a substantial likelihood that the claimant will prevail on the merits;
+(ii) a substantial threat that the claimant will suffer irreparable injury if the
+injunction is not granted;
+(iu) the threatened injury to the claimant outweighs the threatened harm the
+injunction may do to the defendant;
+(iv) granting the preliminary injunction will not disserve the public interest.*4
+
+In Spain, the grant or denial of interim equitable relief depends on the
+
+existence of the legal requirements of:?°
+
+(i) fumus boni juris (a prima facie case);
+(ii) periculum in mora (appearance of danger from delay of the proceeding);
+(iii) sufficiency of guarantee.
+
+In South Africa, the grant or denial of interim equitable relief depends on the
+
+existence of the following prerequisites:76
+
+23
+
+24
+
+25
+
+26
+
+(i) a prima facie right: what is required is proof of facts that establish the
+existence of a right in terms of substantive law;
+
+(ii) a well-grounded apprehension of irreparable harm if the interim relief is
+not granted and the ultimate relief is eventually granted;
+
+Allison v. Froehlke, 470 F.2d 1123, 1126 (5th Cir. 1971); DiGiorgio v. Causey, 488 F.2d 527 (5th Cir. 1973); Canal
+Authority of the State of Florida v. Callaway, 489 F.2d 567 (5th Cir. 1974).
+
+It should be noted that while these four factors will always be considered, federal courts in the United States
+may also consider other equities in exercising their sound discretion whether to grant or deny preliminary
+injunctive relief. For example, some courts will consider the ‘balance of hardships’, which requires a showing
+of ‘sufficiently serious questions going to the merits to make them a fair ground for litigation and a balance
+of hardships tipping decidedly toward the party requesting the preliminary relief’. Hypoint Technology, Inc. v.
+Hewlett-Packard Co., 869 F.2d 1491 (6th Cir. 1989).
+
+Endesa, SA v. Gas Natural SDG, SA, Madrid Mercantile Court, Trial Number 523/2005, 21 March 2006
+Order.
+
+National Council of Societies for the Prevention of Cruelty to Animals v. Peter Openshaw, Supreme Court of Appeal of
+South Africa, Case Number 462/07, 31 May 2008 Order.
+
+6L0Z YEW ZO UO JEsn OWT / Ayissaalun Uaple Aq GgZ790Z/6ZS/P/ST/OBNSqe-9|oINe/UONeujIqJe/LUoo "dno‘olwepese//:sdyy Wo papeojumog
+Time to Evaluate the Standards for Issuance 541
+
+(iil) the balance of convenience favours the granting of an interim interdict;
+iv) the applicant has no other satisfactory remedy.
+Pp ry y.
+
+As lawyers educated and trained in the United States, the authors bring a
+common law approach to the issues framed by requests for interim relief:
+However, development of international law is a more complicated process and is
+not subject to pure common law traditional analysis and thought. Arbitration
+scholar and author, Prof. Jan Paulsson, tantalismgly posed and then answered the
+question thusly:
+
+What is the status of awards rendered by ephemeral arbitral tribunals deciding claims of
+investors under treaties? Although they are not binding on subsequent tribunals, they are
+assuredly read by them. That they may have an influence is evidently believed by advocates
+whose pleadings treat them with great attention, as precedents to be invoked, distinguished, or
+rejected. That scholars of international law deem awards worthy of sustained attention is equally
+evident, and testifies to a perception that they matter. But what — if any — is the dignity, or shall
+we say legitimacy, of such awards as instruments susceptible of generating international law? ...
+
+So it is pointless to resist the observation that precedents generate norms of international law.
+It is a fact of life before international courts and tribunals. What is more pertinent is to
+understand that the influence of international awards and judgments is highly variable. This is
+quite unlike the traditional concept of common law systems, where the precedent of the highest
+court is binding, no matter how unconvincing it may seem to lower-court Judges, until it is
+reversed at the same level. International courts and tribunals, on the other hand, are not part of
+a hierarchical system.27
+
+Nonetheless, Paulsson concludes that a special jurisprudence is developing from
+the ‘leading awards’ in investment arbitration. The danger inherent in this
+situation is that all decisions of all tribunals ‘have in principle equal status as
+concerns the potential for normative influence.’2®
+
+Consequently, although it is perfectly permissible for arbitrators serving on
+international investment tribunals to exercise ‘free choice’ as respects the leading
+awards upon which they choose to rely and how they choose to employ those
+precedents, it is equally permissible, and perhaps more important, for
+commentators to critically evaluate that reliance and the reasoning process on
+which it is based. Whether or not, in doing so, commentators ought to propose
+the development of standards they suggest might gain the force of international
+law or norm is perhaps dependent upon one’s view of the role to be played by
+commentators in the development of international law. It may even be a bit
+arrogant. Nonetheless, publication of such proposed standards is certainly not
+inappropriate so that some attempt may be made to synthesise a series of awards
+that appear only sporadically in the public domain and purport to identify and
+claim to rely on other ‘leading awards’ relating to a definable subject.
+
+27 Jan Paulsson, ‘International Arbitration and the Generation of Legal Norms: Treaty Arbitration and
+International Law’ in (2006) 3(5) Transnational Dispute Management (December).
+28 hid. p. 13.
+
+6L0Z YEW ZO UO JEsn OWT / Ayissaalun Uaple Aq GgZ790Z/6ZS/P/ST/OBNSqe-9|oINe/UONeujIqJe/LUoo "dno‘olwepese//:sdyy Wo papeojumog
+542 Arbitration International, Volume 25 Issue 4
+
+V. PROPOSAL FOR NEW STANDARDS FOR INTERIM
+MEASURES IN INTERNATIONAL ARBITRATION
+
+We propose that tribunals considering applications for issuance of interim
+measures in international investment arbitration under both ICSID and
+UNCITRAL Rules consider the following standards, understanding that
+application of the standards should be flexible and that where the language of the
+rules differs, that might have an impact on applicability of the standards to the
+facts of any given case:
+
+(1) prima facie determination that the tribunal has jurisdiction over the
+dispute pursuant to the relevant agreement;
+
+(2) a strongly arguable case on the merits of the claim(s);
+
+(3) urgency;
+
+(4) imminent danger of serious prejudice if the request for interim measures is
+not granted;
+
+(5) proportionality, including a determination that granting the request for
+interim measures will not disserve the public interest.
+
+These standards should be applied with a strong presumption against the party
+seeking such measures. Interim relief is in fact extraordinary relief that is not to
+be granted lightly,29 and as a result an extremely heavy burden should be on the
+moving party.2° The authors consider that perhaps the best initial guidance to
+tribunals considering requests for interim measures was provided by the US
+Court of Appeals for the Fifth Circuit, as follows:?!
+
+First and foremost, we reemphasize the importance of the general requirements for a
+preliminary injunction. It is an extraordinary remedy, not available unless the plaintiff carries his
+burden of persuasion as to all of the four prerequisites. The primary justification for granting
+a preliminary injunction is to preserve the court’s ability to render a meaningful decision after a
+trial on the merits.
+
+The claimant’s burden and the extraordinary nature of the relief requested
+should not become a mere platitude to precede entry of interim relief where the
+tribunal predicts it will ultimately grant the same relief at the conclusion.
+
+(a) Argument and Authority for the Proposed Standards
+
+A simple comparison of the standards employed by the tribunal in Paushok v.
+Mongolia with the standards from the United States and the sampling of other
+jurisdictions reveals some gaps, some overlap and some conflicts. Analysis of the
+
+29 Paushok v. Mongolia, Interim Order, para. 6; Emilio Agustin Maffezini v. Spain, JCSID Case no. ARB/97/7,
+[1999] TIC 84, Procedural Order no. 2, 28 October 1999; Occidental Petroleum Corp. v. Ecuador, ICSID Case
+no. ARB/06/11, [2007] IIC 305, Decision on Provisional Measures, 17 August 2007.
+
+30 Paushok v. Mongolia, Interim Order, para. 6.
+
+31 Canal Authority, supra n. 23, 489 F-2d at 576.
+
+6L0Z YEW ZO UO JEsn OWT / Ayissaalun Uaple Aq GgZ790Z/6ZS/P/ST/OBNSqe-9|oINe/UONeujIqJe/LUoo "dno‘olwepese//:sdyy Wo papeojumog
+Time to Evaluate the Standards for Issuance 543
+
+ways that these standards have been interpreted and applied by courts and by
+international arbitral tribunals reveals some deep differences that led to the
+proposals by these authors.
+
+(i) Prima facte jurisdiction
+
+The requirement that claimant establish, by adequate proof prior to entry of
+interim measures, a prima facie basis for the tribunal to conclude that it has
+jurisdiction over the dispute and the parties seems to be the proper standard
+to apply at the early stage of international investment arbitration proceedings.
+This is rarely an issue in the case of domestic courts since their jurisdiction tends
+to be challenged less often than the jurisdiction of international investment
+arbitral tribunals. The tribunal in Paushok v. Mongolia cited approvingly to the
+unanimous?? decision of the ICJ in the highly publicised and controversial case
+Military and Paramilitary Activities In and Against Nicaragua (Nicaragua v. United States of
+America), which appears to strike the right balance:34
+
+[O]n a request for provisional measures the Court need not, before deciding whether or not to
+indicate them, finally satisfy itself that it has jurisdiction on the merits of the case, or, as the case
+may be, that an objection to jurisdiction is well founded, yet it ought not to indicate such
+measures unless the provisions involved by the applicant appear, prima facie, to afford a basis on
+which the jurisdiction of the court might be founded.
+
+The tribunal in Paushok v. Mongolia appears to have given consideration to the
+requirements of the Washington Treaty3+ and the UNCITRAL Rules in arriving
+at its conclusion that the claimants established a prima facie basis for determining
+that the tribunal possessed jurisdiction to consider the dispute.
+
+There is a significant and growing body of publicly available jurisdictional
+awards on the ICSID website that should make the quality of such prima facie
+determinations reasonably sound. On the other hand, this body of jurisdictional
+awards is providing a number of nations, primarily in South America, with a
+basis to threaten withdrawal from the Washington Treaty.*° The authors believe
+that the proper rule is the one first enunciated by the ICJ in the Mcaragua case.
+Requiring only a prima facie finding of jurisdiction certainly entails some risk that
+interim awards might subsequently be reversed based on a later finding of a lack
+of jurisdiction, and there are, of course, significant issues that flow from such a
+standard. For example, is interlocutory appellate or judicial review of partial
+awards without fully developed facts to support the establishment of jurisdiction
+desirable? In such instances, should the reviewing authority grant the same
+
+32 The lone dissent of Stephen Schwebel, the US representative on the ICJ Court, did not question the prima
+facie standard for establishing jurisdiction as a prerequisite to entry of interim measures.
+
+33 Provisional Measures, Order of 10 May 1984, [1984] ICJ Rep. 169.
+
+34 The Convention on the Settlement of Investment Disputes Between States and Nationals of Other States is
+referred to as the Washington Treaty as it was compieted on 18 March 1965 in Washington, DC.
+
+35 On 23 November 2007, the Republic of Ecuador withdrew its agreement to submit disputes arising from
+investments in the natural resources sector to ICSID. Other South American nations have done the same.
+
+6L0Z YEW ZO UO JEsn OWT / Ayissaalun Uaple Aq GgZ790Z/6ZS/P/ST/OBNSqe-9|oINe/UONeujIqJe/LUoo "dno‘olwepese//:sdyy Wo papeojumog
+544 Arbitration International, Volume 25 Issue 4
+
+deference to the prima facie determination of jurisdiction that the New York
+Convention requires when reviewing final awards? If so, is an interim order
+subject to similar interlocutory review under ICSID procedures? These and other
+potential issues will remain.
+
+Despite the risks involved in basing significant interim relief on a jurisdictional
+footing that is only prima facie rather than completely explored and evaluated,
+the approach applied by the ICJ in the Mcaragua v. United States case seems to have
+stood well the test of time.*6
+
+(u) Strongly arguable case on the merits
+
+The authors disagree with the learned tribunal in Paushok v. Mongolia in respect of
+the proper measure of likely success on the merits as a factor in determining
+whether to grant interim measures. That tribunal asserted that it needed ‘to
+decide only that the claims made are not, on their face, frivolous or obviously
+outside the competence of the Tribunal’ (Interim Order, para. 9). Whether or not
+it came to the correct conclusion in the case before it, this standard introduces far
+too much opportunity for inappropriate and premature interference by a panel of
+international arbitrators in the public affairs of sovereign nations. Now that this
+Interim Order is in the public domain, this loose language should not be relied
+upon by other parties or tribunals.
+
+The authors believe that the tribunal in Paushok v. Mongolia based this portion
+of the decision on faulty legal reasoning from the authorities upon which the
+tribunal relied. The tribunal cited two cases for the above quoted proposition of
+law. The first case, Victor Pey Casado, President Allende Foundation v. Republique du
+Chile,3’ involved requests by both parties for provisional measures, which the
+tribunal denied. As regards the second case, Application of the Convention on the
+Punishment of the Crime of Genocide,** the cited paragraph in fact relates to the
+standard for establishment of the jurisdiction of the court and contains the very
+same language quoted above from Nicaragua v. United States. Thus, the authority
+for such a limited burden of proof as to the merits of the claim at the stage where
+the tribunal is considering a request for interim measures appears insubstantial.
+
+Two other authorities cited in the Paushok v. Mongolia Interim Order, Maffezini
+and Occidental, contain language that could have caused the tribunal in Paushok v.
+Mongolia to adopt such a minimal standard as to the claimant’s burden to establish
+the likelihood of success on the merits. In both cases, the request for interim
+measures was denied. In Maffezini, an ICSID tribunal denied a request by the
+Kingdom of Spain that the tribunal order claimant to post a guarantee or bond
+
+36 The authors noted supra n. 35 that the history of jurisdictional challenges and awards in ICSID proceedings
+has spawned threats by member nations to withdraw from ICSID. Whether this backlash represents a
+serious threat to the continued viability of ICSID and international investment arbitration remains to be
+seen.
+
+37 ICSID Case no. ARB/98/2, [2001] ICC 185, Decision on Provisional Measures, 25 September 2001 at
+para. 8.
+
+38 Provisional Measures, Order of 13 September 1993, [1993] IC] Rep. 325 at para. 24.
+
+6L0Z YEW ZO UO JEsn OWT / Ayissaalun Uaple Aq GgZ790Z/6ZS/P/ST/OBNSqe-9|oINe/UONeujIqJe/LUoo "dno‘olwepese//:sdyy Wo papeojumog
+Time to Evaluate the Standards for Issuance 545
+
+to ensure payment of costs and expenses should the claimant not prevail. ‘The
+Maffezin tribunal wrote:
+
+20. Expectations of success or failure in an arbitration or judicial case are conjectures. Until
+this Arbitral Tribunal hands down an award, no one can state with any certainty what its
+outcome will be. The meritoriousness of the Claimant’s case will be decided by the Tribunal
+based on the law and the evidence presented to it.
+
+21. A determination at this time which may cast a shadow on either party’s ability to present
+its case is not acceptable. It would be improper for the Tribunal to pre-judge the Claimant’s
+case by recommending provisional remedies of this nature.
+
+The Occidental tribunal addressed this language from the Maffezini procedural
+order, which the Republic of Ecuador argued should prevent the grant of
+provisional measures against it in the Occidental case. Although the Occidental
+tribunal also denied the request for provisional measures presented to it (finding
+that the claimants in that case failed to establish a ‘strongly arguable right’ to
+the requested relief, specific performance of a natural resources concession
+agreement), that tribunal, which included Prof. Stern, imcluded language
+unnecessary to the decision, to the effect that when a tribunal is considering the
+merits (whether claimant possesses a right) ‘the right to be preserved only has to
+be asserted as a theoretically existing right, as opposed to proven to exist in
+fact’.39 In another unfortunate passage, the Occidental tribunal returned to the
+holding of the ICSID tribunal in Victor Pey Casado, President Allende Foundation v.
+Republique du Chile (at para. 46):
+
+For its part, the Tribunal can neither prejudge nor even, to put it correctly, “assume in an
+anticipatory fashion’ ... It must therefore reason, at this preliminary stage of the arbitration
+process, on the basis not of ‘assumptions’ but of Aypotheses, in particular that by which it may
+come to recognize its own jurisdiction on the substance of the case, and in such a case, the
+hypothesis whereby the rights that the decision may recognize for one or the other of the parties
+in question could be placed in danger or compromised by the absence of provisional measures.
+(Emphasis in original)
+
+The Occidental tribunal then went on to add one last bit of unfortunately
+imprecise language:
+
+65. What is meant by a theoretically existing right? Clearly, the facts must show an actual
+right or legally protected interest, by opposition to a simple interest which does not entail legal
+protection. This right or legally protected interest must also potentially form part of the
+Claimants’ individual rights and obligations. Thus, the Tribunal must first determine whether or
+not the Claimants can theoretically invoke the rights whose protection they now seek. As was
+seen earlier, those rights are, first, their alleged right to specific performance of their Block 15
+contracts and, second, their alleged right to the non-aggravation of the dispute.
+
+The tribunal in Paushok v. Mongoha reasoned not from the holdings of these
+prior decisions, but rather from the above quoted provisions, which in the
+common law tradition are dicta. The result of this imprecise ‘common law
+
+39 Occidental, supra n. 29 at 29.
+
+6L0Z YEW ZO UO JEsn OWT / Ayissaalun Uaple Aq GgZ790Z/6ZS/P/ST/OBNSqe-9|oINe/UONeujIqJe/LUoo "dno‘olwepese//:sdyy Wo papeojumog
+546 Arbitration International, Volume 25 Issue 4
+
+process’ that is not based on stare decisis is, perhaps not surprisingly, a dangerously
+imprecise standard. Building on dicta from some awards and imprecise language
+of other awards, the tribunal in Paushok v. Mongolia has now concluded that a
+tribunal need only decide that the claims made are not, on their face, frivolous or
+obviously outside the competence of the tribunal in order to enter interim
+measures.
+
+The authors contend that a better standard was actually set forth in the
+holding of the Occidental decision on provisional measures. After an exhaustive
+analysis of Occidental’s claim for specific performance, that tribunal’s holding
+was as follows (at para. 40):
+
+86. In conclusion, it is the Tribunal’s view that the Claimants have not established a strongly
+arguable case that there exists a right to specific performance where a natural resources
+concession agreement has been terminated or cancelled by a sovereign State. The view of the
+Tribunal at this stage of the proceedings is that no such right exists. As a result, the Claimants
+have failed to establish that it would be appropriate for the Tribunal to grant a provisional
+measure such as the one sought by the Claimants pursuant to their ‘third-party notice’ request.
+
+A ‘strongly arguable case’ on the merits is a more accurate standard to draw
+from the very precedents upon which the tribunal in Paushok v. Mongolia relied.
+
+Of course, it is not possible to predict what would have been the result in
+Paushok v. Mongolia if the tribunal had employed this standard. Because the
+authors do not have access to the record before the tribunal, it requires too much
+speculation to perform a fair critical analysis of the decision. However, a more
+detailed analysis of the merits of the claims under the BIT would presumably
+have required a clear position to be taken by Mongolia regarding the status of
+both laws that gave rise to the claims and would have required the tribunal to
+carefully consider whether a portion of the Claimants’ tax obligation would have
+been payable under the previous tax structure (presumably the claimants had
+obligations to pay taxes prior to adoption of the Windfall Profits Tax). It would
+also have required a careful delineation of the manner in which claimants failed
+to comply with the employment requirements of the 2006 Minerals Law.
+
+The authors believe that before the tribunal entered an interim award that
+deprived Mongolia, a functioning democracy, of critical tax revenues from one of
+the largest mining companies in the country, for an indeterminate length of time,
+claimants should have been obligated to prove at least a strongly arguable case.
+
+In Mongolia today, the Hural is engaged in negotiations with Ivanhoe Mines
+Mongolia, Inc. over the terms of an Investment Agreement relating to the Oyu
+Tolgoi project. The impact such an agreement would have on Mongolia’s mineral
+and tax laws is very much a part of the public debate. As recently as 19 March
+2009, the Ulan Bator Post, the leading English language newspaper in Mongolia,
+published a letter to the editor from the Open Society in Mongolia that was
+critical of the Hural for conducting these negotiations in secret. If the tribunal in
+Paushok v. Mongolha made a determination, even at the preliminary stage of interim
+measures, that the Windfall Profits Tax and the 2006 Mineral Law violate
+Mongolia’s BIT with Russia, this would be an extraordinarily valuable piece of
+
+6L0Z YEW ZO UO JEsn OWT / Ayissaalun Uaple Aq GgZ790Z/6ZS/P/ST/OBNSqe-9|oINe/UONeujIqJe/LUoo "dno‘olwepese//:sdyy Wo papeojumog
+Time to Evaluate the Standards for Issuance 547
+
+information for policy-makers in Mongolia to have as they engage in subjects that
+are critical to the very future of the country and its people.
+
+In any event, the authors do not believe that international arbitral tribunals
+ought to enter such interim measures as suspending the collection of taxes by
+sovereign nations without holding the claimant to the requirement that it prove a
+strongly arguable case.
+
+(ut) Urgency
+
+Without commenting on the manner in which the tribunal in Paushok v. Mongolia
+applied the standard of urgency, there seems no question about the requirement
+that a claimant seeking interim measures must carry the heavy burden of
+establishing to the satisfaction of the tribunal that interim relief is necessary or the
+tribunal will find itself unable to fashion an appropriate remedy after final hearing
+on the merits is completed.
+
+(ww) Imminent danger of serious preudice if the request for
+interim measures 1s not granted
+
+In the authors’ view, the distinguished tribunal in Paushok v. Mongolia properly
+analysed and encapsulated the appropriate burden on a claimant with respect to
+establishing irreparable harm. The tribunal reviewed authorities cited by the
+parties and, quoting from UNCITRAL Model Law, article 17A, the tribunal
+expressed its view that ‘irreparable harm in international law has a flexible
+meaning’. Referring to article 17A, the tribunal noted that the requesting party is
+not required to demonstrate irreparable harm but merely that harm not
+‘adequately reparable by an award of damages is likely to result if the measure is
+not ordered, and such harm substantially outweighs the harm that is likely to result
+to the party against whom the measure is directed if the measure is granted’.
+
+Courts in the United States and commentators often assert that irreparable
+harm is harm that cannot be remedied by an award of damages. However, this
+concept is more appropriately known in the context of common law concepts of
+legal and equitable remedies, where the Anglo-American jurisprudence has
+developed a requirement that in order for a court to enter final equitable relief, it
+must conclude that an award of damages is inadequate to remedy the wrong
+done to the claimant.*
+
+The better reasoned decisions in US courts emphasise that the purpose of a
+preliminary injunction is to preserve the court’s ability to render a meaningful
+decision after a trial on the merits.*! The availability of a remedy in damages may
+or may not have a significant impact on the ability of the tribunal to render a
+meaningful decision after a trial on the merits, but it should not be determinative
+
+40 Franklin v. Gwinnett County Public Schools, 503 U.S. 60, 76 (1992) (‘fujnder the ordinary convention, the proper
+inquiry would be whether monetary damages provided an adequate remedy, and if not, whether equitable
+relief would be appropriate’).
+
+4! Canal Authority, supra n. 23, 498 F.2d. 576.
+
+6L0Z YEW ZO UO JEsn OWT / Ayissaalun Uaple Aq GgZ790Z/6ZS/P/ST/OBNSqe-9|oINe/UONeujIqJe/LUoo "dno‘olwepese//:sdyy Wo papeojumog
+548 Arbitration International, Volume 25 Issue 4
+
+by itself. The standard employed by the tribunal in Paushok v. Mongoha to evaluate
+the urgency of the need for interim relief seems appropriate.
+
+(v) Proportionalty, including a determination that granting interm measures will
+not disserve the public interest
+
+The need for a court or arbitral tribunal to balance the interests of the parties
+before granting interim measures does not seem to be controversial. Nearly every
+jurisdiction surveyed by the authors includes such a requirement. In the United
+States, however, courts are specifically required not only to balance the interests
+of the parties before the court, but also to consider and determine that entry of a
+preliminary injunction will not disserve the public interest. The very nature of
+international investment arbitration, where the respondent is always a sovereign
+nation, should require that consideration of the public interest be mandated
+before interim relief is granted. This 1s done routinely by courts in the United
+States and, if international arbitration tribunals are going to maintain their
+legitimacy, they must admit that they are inherently weighing in on the public
+interest of the respondents before them.
+
+For example, in evaluating the proportionality of its interim measures, the
+tribunal in Paushok v. Mongolia noted that Mongolia had ‘recognized that the WPT
+Law was not achieving the objectives it had in mind when it was adopted in
+2006’. The tribunal concluded that this was ‘quite apparent in its attempts, both
+in 2007 and 2008, to repeal that law and to replace it with a much more modest
+taxation regime’. One might ask whether the fact that the attempts to repeal the
+law failed made it ‘quite apparent’ that the majority of the elected representatives
+in the Hural thought the law was working as planned or that regardless of
+whether it was working as planned, it was nonetheless in the best interests of the
+people of Mongolia. On the other hand, if a distinguished panel of international
+arbitrators were to conclude that application of the Windfall Profits Tax and the
+Mineral Law of 2006 to mining enterprises like those who are the claimants in
+Paushok v. Mongolia violated Mongolia’s BIT obligations with other nations, that
+might in turn have a significant impact on the policy discourse within Mongolia.
+
+It may be thought revolutionary for international arbitrators to openly
+acknowledge that they should consider the public interest as they decide whether
+to enter interim measures in investment arbitration, but there is growing support
+for the proposition that there is an important place for consideration of public
+policy issues in investment treaty disputes. Professor Charles Brower II, in a soon
+to be published article,t? argues persuasively that international investment
+arbitral tribunals must openly consider sticky public policy issues involved in the
+respondent countries before them. Debunking one commonly held reason for
+limiting the role of investment arbitral tribunals, Prof. Brower writes:
+
+42 Charles Brower, II, ‘Obstacles and Pathways to Consideration of the Public Interest in Investment Treaty
+Disputes’ in (2008-09) Int’l Inv. L & Pol’y YB (Oxford University Press, June 2009).
+43 Ibid. pp. 367-368 (citations omitted).
+
+6L0Z YEW ZO UO JEsn OWT / Ayissaalun Uaple Aq GgZ790Z/6ZS/P/ST/OBNSqe-9|oINe/UONeujIqJe/LUoo "dno‘olwepese//:sdyy Wo papeojumog
+Time to Evaluate the Standards for Issuance 549
+
+As traditionally understood, investment treaties and investment arbitration represent efforts to
+depoliticize investment disputes. Charitably construed, this means the establishment of agreed
+principles regarding the treatment of foreign investment, as well as the removal of investment
+disputes from the politically charged process of state-to-state adjudication. Less charitably,
+depoliticization means the establishment of a legal regime empowering foreign investors to
+‘resist the forces of change often demanded by the political and economic life in host countries’.
+In other words, investment arbitration represents a process specifically designed to exclude the
+potential for troublesome arguments regarding the public interest.
+
+Although it may enjoy a measure of historical accuracy, this view only fuels mainstream
+concern that investment treaties subvert the democratic process. Because this position tends to
+invite backlash, because investment treaties are not suicide pacts, and because it makes no sense
+to ignore the issues that have become preoccupations for host countries, one should not see
+discussion of the public interest as incompatible with the goal of depoliticization. To the
+contrary, consideration of the public interest may diminish politicization by refuting claims that
+investment treaties constitute a threat to democratic governance.
+
+Professor Brower goes on to propose that reference to customary rules on
+treaty interpretation codified in the Vienna Convention on the Law of Treaties
+may provide a pathway for international investment tribunals to incorporate
+‘norms and values that serve the common good’, rather than limiting the inquiry
+to the ‘narrow interests of particular groups’.*
+
+The authors agree that it is preferable to openly acknowledge that the inquiry
+includes norms and values that serve the common good, so that the parties are
+able to offer evidence and argument on the subject and the citizens of the
+respondent nation can know when the legislative (or judicial or executive) actions
+of their government have been deemed to violate their treaty obligations. One
+cannot honestly doubt that arbitrators in investment arbitration cases are already
+making determinations of what is in the public interest of respondent nations,
+whether affirmatively or by negative implication when they enter interim
+measures over the objection of those very respondents.
+
+The tribunal in Paushok v. Mongolia wrote as follows, with respect to the public
+interest of Mongolia and its legislative authority:
+
+83. Clearly, and quite understandably so, Respondent sees that it is in its own interest that its
+second largest gold producer should continue its operations. A sudden collapse of GEM would
+put Respondent in a situation where it would, most likely, be unable to realize a large share of
+the amount owing to it under the WPT Law and some considerable time could elapse before it
+could find another investor willing to restart gold production on the relevant properties, unless a
+new fiscal regime would have been legislated — an eventuality which, considering the 2007
+experience, cannot be guaranteed.
+
+84. If Respondent were to prevail, it would be in a position to obtain payment of the full
+amount owing to it, specially taking into account the security in favor of Respondent to be
+provided by Claimants according to directions further issued under this Order. If, on the other
+hand, Claimants were to prevail, Respondent would probably face a claim for lower damages
+than if GEM’s activities had been terminated; this is not an insignificant fact, considering
+Respondent’s tight budgetary constraints.
+
+4 Ibid. pp. 372-373.
+45 Interim Order, para. 15 (emphasis added).
+
+6L0Z YEW ZO UO JEsn OWT / Ayissaalun Uaple Aq GgZ790Z/6ZS/P/ST/OBNSqe-9|oINe/UONeujIqJe/LUoo "dno‘olwepese//:sdyy Wo papeojumog
+550 Arbitration International, Volume 25 Issue 4
+
+To most people involved in international mvestment arbitration, these
+observations by the distinguished tribunal may seem so obvious as to be beyond
+debate and not truly an analysis of the impact its Interim Order would have on
+the public interest of Mongoha and its citizens. To the rest of the world,
+particularly to executive and legislative leaders of governments, they might well
+appear to be undemocratic and a usurpation of the sovereign authority of
+Mongolia. Simply noting that the funds in the escrow account will be available to
+aid in collection of the taxes should the respondent prevail does not relieve these
+observations of their impact on the public interest.
+
+Some argue that the confidentiality of the arbitration process precludes such
+open consideration of the respondent host country’s public interest. One of the
+authors has previously argued that this presumption of confidentiality must be
+abandoned in the case of international investment arbitration and that the
+presumption of confidentiality should be reversed even in international
+commercial arbitration. In the case of investment arbitration, the presumption
+of confidentiality places the arbitral representatives of the respondent govern-
+ment in the untenable position of having to choose between respecting the
+confidentiality of the proceedings or placing the decisions of international
+investment tribunals into the public discourse within their own countries. As a
+practical matter it is impossible for the outcomes to remain confidential, but the
+authors assert that permitting the parties to such disputes the right to publish not
+only the results but also the submissions of the parties so that they are freely
+accessible would help encourage better government decision-making, improve the
+quality of the process and those engaged in it and, in some instances, might help
+to prevent corrupt or incompetent government.
+
+If international arbitral tribunals are going to enter interim measures against
+sovereign nations involving the sovereign’s most essential authority, such as the
+authority to tax, then they should openly acknowledge that they are passing
+judgment on matters at the heart of the public interest and subject their
+judgments to public scrutiny. In the case of interim measures, this is particularly
+important because of the inherently transitory nature of arbitration tribunals and
+the fact that such interim measures are, by definition, entered without the full
+panoply of procedural and substantive rights assured by the applicable treaties,
+laws and rules of procedure.
+
+Rarely discussed, but inherent always in arbitration, is the fact that the tribunal
+is constituted for a single dispute and paid by the parties before it in that dispute.
+It would be disastrous if international arbitrators issued an interim award such as
+the tribunal in Paushok v. Mongolia and thereafter found themselves in the position
+of not being paid for their service as arbitrators. One can imagine the impact on
+the integrity of international investment arbitration if, after an interim award
+such as the one in Paushok v. Mongola, an ad hoc tribunal was subsequently not
+paid for its services and it was in a position of supervision over a fund of tax
+
+46 See Matthews, supra n. 6 at p. 14.
+
+6L0Z YEW ZO UO JEsn OWT / Ayissaalun Uaple Aq GgZ790Z/6ZS/P/ST/OBNSqe-9|oINe/UONeujIqJe/LUoo "dno‘olwepese//:sdyy Wo papeojumog
+Time to Evaluate the Standards for Issuance 551
+
+revenues that it had created by means of the interim measures. The distinguished
+tribunal in Paushok v. Mongolia would, of course, not permit itself to look at such
+funds in guarantee of their compensation, but the mere potential existence of
+such a dilemma compels the conclusion that international investment arbitral
+tribunals must openly consider the public interest(s) involved in any request for
+interim measures in a case before them, and must do so transparently.
+
+(b) Other Standards that Might be Considered
+
+Some jurisdictions require the posting of adequate security by the party seeking
+interim relief as a condition to granting the relief. Although not specifically listing
+it as one criterion it considered, the tribunal in Paushok v. Mongolia was clearly
+influenced by the need to make certain there was adequate security to protect
+both parties as it fashioned the complicated escrow procedures. As noted above,
+in Spain the sufficiency of a guarantee is one of the required elements a court
+must consider in determining whether to grant preliminary relief.*’
+
+In the United States, where the laws generally do not require claimants to post
+security for costs or fees as a prerequisite for filing and pursuing claims, the
+Federal Rules of Civil Procedure nonetheless require the posting of adequate
+security in an amount that the court considers proper to pay the ‘costs and
+damages sustained by any party found to have been wrongfully enjoined or
+restrained’.*8 Rule 65 distinguishes between preliminary injunctive relief granted
+after notice and a hearing, and temporary relief granted without notice and a
+hearing. In the case of a temporary restraining order without notice, the rule
+strictly details the contents and specific findings upon which such an order may
+be entered and requires that it be of very short duration, giving the party against
+whom it is issued the right to a hearing on very short application. However, in
+both cases, rule 65 requires the posting of security as a condition to issuance of an
+order.
+
+It may be premature to develop such detailed procedural requirements
+governing the grant of interim relief in international investment arbitration, but
+one bit of history may be predictive of the course that interim awards in
+international investment arbitration may take. For many years, US courts found
+that in evaluating applications for preliminary injunctive relief, the outcome of
+that motion was so likely to dictate the outcome of the case that many judges
+would simply consolidate the preliminary proceedings with a final hearing on the
+merits and treat them at the same time. This may be counterintuitive, since the
+initial idea of preliminary relief is that it must be granted quickly to avoid
+prejudice. Nonetheless, many courts simply concluded that if the emergency was
+sufficient to warrant interim relief, it was also sufficient to warrant a fast track
+procedure for final hearing on the merits. As this procedure grew in popularity,
+rule 65 was amended and subsection (a)(2) was added to specifically authorise the
+
+47 Endesa, SA, supra n. 25.
+48 Fed. R. Civ, P. 65.
+
+6L0Z YEW ZO UO JEsn OWT / Ayissaalun Uaple Aq GgZ790Z/6ZS/P/ST/OBNSqe-9|oINe/UONeujIqJe/LUoo "dno‘olwepese//:sdyy Wo papeojumog
+552 Arbitration International, Volume 25 Issue 4
+
+court to advance the trial on the merits and consolidate it with a hearing on a
+motion for preliminary injunction.
+
+VI. CONCLUSION
+
+International investment arbitrators have been given awesome power to judge the
+decisions of sovereign nations and enter awards against them, subjecting national
+treasuries to collection of their awards. They are given the power to consider and
+enter interim measures in proceedings where the parties have not yet been
+afforded the full panoply of due process guaranteed by the rules and laws
+implementing international arbitration.
+
+The authors are well aware that these proposals for standards to be employed
+by international investment arbitral tribunals when they are asked to award
+interim measures will be controversial in some ways. There is certainly room for
+significant debate about the proposals set forth in this article and there is no
+existing procedural way for them to become formal international norms. The
+authors nonetheless hope that this article will prompt debate and that it will cause
+other tribunals and commentators to question whether there is in actuality a set
+of ‘internationally recognised ... standards to be met before a tribunal will issue
+an order in support of interim measures’.
+
+6L0Z YEW ZO UO JEsn OWT / Ayissaalun Uaple Aq GgZ790Z/6ZS/P/ST/OBNSqe-9|oINe/UONeujIqJe/LUoo "dno‘olwepese//:sdyy Wo papeojumog

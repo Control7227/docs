@@ -1,0 +1,1032 @@
+@) Pp Revista Eletrénica de Direito Ptiblico
+a
+
+Interim Measures in International
+Investment Arbitration
+
+Medidas Cautelares na Arbitragem
+Internacional de Investimento
+
+BENOIT LE BARS
+
+VOL. 6 N° 2 SETEMBRO 2019
+
+WWW._E-PUBLICA.PT
+
+MCP © ue TDP
+
+INSTITUTO DE CIENCIAS ‘sex CENTRO DE INVESTIGACAO
+JURIDICO-POLITICAS DE DIREITO PUBLICO
+
+COM O APOIO DE:
+Fundac¢io
+[= < para a Ciéncia
+ea Tecnologia
+
+ISSN 2183-184x
+é-Piblica Vol. @ No. 2, Setembro 2019 (55-072}
+
+INTERIM MEASURES IN INTERNATIONAL INVESTMENT
+ARBITRATION
+
+MEDIDAS CAUTELARES NA ARBIPTRAGEM
+INTERNACIONAL DEIN VESTIMENTO
+
+BENOIT LE BARS*
+
+215 Rue de Pauburg Saint Honoré,
+75008. Paris, France
+
+lebars @1-Ib.com
+
+Sumunary: {tis current practice today for arbitral tnbunals to grant interim or
+provisional measures in international investment arbitration. Efficiency and
+impact of the measures are however largely debated in terms of legal grounds
+to grant those measures and because they are not self-executing, due to the fact
+that arbitral tribunals do not dispose of coercive power unlike state judge. This
+power fo grant measures is then influenced by the will of the parties to respect the
+orders, even if non-compliance with orders can influence the decision making of
+the arbitrators in a final award.
+
+In practice, the time between the commencement of investment arbitration and
+the rendering of the final award can be rather long, and events occurring during
+this time could threaten the conduct of the proceedings and render the final
+award hollow. Interim measures may prove critical to preserving a party’s rights
+pending the final award.
+
+Key words: International investment arbttration-Interim measures-ICSID-
+UNCITRAL- Urgency.
+
+Sumdrio: E pratica corrente e actual que os tribunais arbitrais adoptera medidas
+cautelares Ou provisdrias em arbitragens internacionais de investimento. A
+eficiéncia e o impacto das medidas sao, porém, largamente debatidas a respeito
+do respectivo fundarnento legal e, tambérn, porque nao sdo auto-exequiveis,
+devido ao facto de os tribunais arbitrais nao gozarem, ao contrario dos tribunais
+estaduais, de poder coercivo. O poder para adoptar medidas cautelares ou
+provisorias € influenciado, portanto, pela vontade das partes em respeitar as
+medidas dos tribunais, mesmo se o desrespeito possa influenciar a decisao final
+dos arbitros.
+
+Na pratica, o tempo transcorrido entre o micio da arbitragem de investimento e
+a prolacdo da decisdo final pode ser bastante longo e os eventos que decorrem
+no entretanto podem amicacar o normal decurso do processo ou mesmo tornar
+a sentenga indtil. As medidas provisdrias podem demonstrar-se criticas para
+preservar 05 direitos de uma parte enquanto a decisdo final nao ¢ prolatada.
+
+Palavras chave: Arbitragem internacional de investimento; medidas cautelares;
+ICSTD-UNCITRAL: urgéncia.
+
+56 e-Publica
+e-Publica Vol. 6 No. 2, Setembro 2019 (055-072)
+
+The authority of arbitral tribunals to grant interim or provisional measures in
+international investment arbitration is today uncontested and represents current
+practice’. However, their efficiency and impact are largely debated as provisional
+measures are not self-executing. This is due to the fact that arbitral tribunals do
+not dispose of imperium, i.e., coercive power, which distinguished them from
+their state judges*. Their power to grant measures is therefore largely influenced
+by the will of the parties to respect the orders, even if non-compliance with
+orders can influence the decision making of the arbitrators in a final award. It
+remains that interim measures can be of immense importance to parties involved
+in investment arbitration proceedings and the recent reform proposed for the
+ICSID Rules will generate additional debates.
+
+In practice, the time between the commencement of investment arbitration and
+the rendering of the final award can be rather long, and events occurring during
+this time could threaten the conduct of the proceedings and render the final
+award hollow. Interim measures may prove critical to preserving a party’s rights
+pending the final award. Securing interim measures in investment arbitration
+presents several particularities that arbitration practitioners have to familiarise
+themselves with.
+
+I. Jurisdiction to Order Interim Measures
+
+All the major institutional rules provide for the granting of interim relief. The
+rules surveyed here include rules commonly used in investment arbitration —
+ICSID, ICSID Additional Facility (ICSID AF), UNCITRAL (both 1976 and
+2010) and SCC — as well as the ICC Arbitration Rules and the recently released
+SIAC Investment Rules.* All of the UNCITRAL 1976,4 UNCITRAL 2010,°
+
+1. See PD. FRIEDLAND, Provisional Measures and ICSID Arbitration, Arbitration In-
+ternational, Vol. 2, 1986, pp. 335-357; R. BISMUTH, Anatomy of the Law and Practice of
+Interim Protective Measures in International Investment Arbitration, Journal of International
+Arbitration 26(6), 2009, pp. 773-821; L. BENTO, “Chapter 13: Mapping the Genetic Code of
+Provisional Measures: Characteristics and Recent Developments”, in C. Baltag, JCS7D Con-
+vention after 50 Years: Unsettled Issues, Kluwer Law International, 2016, pp. 363-384; A.
+ANTONIETTL G. KAUFMANN-KOHLER, “Interim relief in International Investment Agree-
+ments”, in K. Yannaca-Small (Ed.), Arbitration under International Investment Agreements: An
+analysis of the Key Procedural, Jurisdictional and Substantive Issues, Oxford University Press
+2010, pp. 507-550; P. KARRER, Interim Measures Issued by Arbitral Tribunals and the Courts:
+Less Theory, Please, /nternational Arbitration and National Courts, ICCA Congress Series
+n°10, 2010; D. SAROOSHI, Provisional Measures and Investment Treaty Arbitration, Arbitra-
+tion International, Vol. 29, N° 3, 2013, pp. 361-379.
+
+2. Ch. JARROSSON, “Reéflexions sur l’imperium’, in Etudes offertes a Pierre Bellet, Litec,
+pp. 245-279.
+
+3. ICSID Rule 39(1); ICSID AF Rules, Article 46(1); 1976 UNCITRAL Rules, Article
+26(1); 2010 UNCITRAL Rules, Article 26(1); SCC Rules, Article 37(1); ICC Rules, Article
+28(1); SIAC Investment Rules, Article 27.1.g.
+
+4. 1976 UNCITRAL Rules, Article 26(1).
+
+5. 2010 UNCITRAL Rules, Article 26(1).
+
+e-Publica 57
+e-Publica Vol. 6 No. 2, Setembro 2019 (055-072)
+
+ICC,° SCC’ rules and the SIAC Investment Rules® expressly condition the grant
+of interim relief on there being a request made by a party. Exceptionally, the
+ICSID and ICSID AF Rules allow a tribunal to recommend interim measures
+of its own initiative.? The ICSID AF Rules additionally specify that the tribunal
+may recommend measures other than those requested.'°
+
+All sets of rules examined also provide that parties may apply to national courts
+for interim relief.'’ However, the ICSID Rules additionally require that the
+parties must consent to recourse to national courts in order to be able to do so.”
+This requirement of party consent was introduced in the 1984 amendments to the
+ICSID Rules® to engineer compatibility between the interim measures regime
+and the exclusive jurisdiction that an ICSID tribunal enjoys over a dispute
+submitted to ICSID arbitration."
+
+More generally, the parties’ freedom to have recourse to domestic interim relief
+after the arbitration tribunal is constituted is often limited. The ICC Rules
+stipulate that this may only be done in ‘appropriate circumstances’, while the
+as yet untested SIAC Investment Rules require “exceptional circumstances’.
+Such circumstances would exist when the tribunal is not in a position to provide
+effective relief, for example, against third parties over which the tribunal has no
+
+jurisdiction.
+
+Of all the arbitration rules examined, only the ICSID and ICSID AF Rules
+expressly require that the tribunal give each party an opportunity to be heard.’
+The remaining rules surveyed are silent on the issue. However, ex parte relief
+is probably not available in investment arbitration as this could amount to a
+fundamental breach of procedural fairness, leaving the award vulnerable to being
+set aside.
+
+A different issue is whether tribunals have the power to issue orders maintaining
+the status quo pending a response from the party against whom the request for
+interim measures is submitted. The UNCITRAL Model Law expressly provides
+
+6. Article 28(1).
+
+7. Article 37(1).
+
+8. SIAC Investment Rules, Article 27.1.
+
+9. ICSID Convention, Article 47 and ICSID Rule 39(3); ICSID AF Rules, Article 46(2).
+
+10. ICSID AF Rules, Article 46(2). See also Christoph H Schreuer, The ICSID Convention:
+A Commentary (Cambridge University Press, 2nd Ed, 2009), page 763 for examples of cases
+in which ICSID tribunals departed from the requests in recommending provisional measures.
+
+11. ICSID Rule 39(6); ICSID AF Rules, Article 4644); 1976 UNCITRAL Rules, Article
+26(3); 2010 UNCITRAL Rules, Article 26(9); ICC Rules, Article 28(2); SCC Rules, Article
+37(5); SIAC Investment Rules, Article 27.2.
+
+12. ICSID Rule 39(6).
+
+13. C. Giorgetti (ed.), Litigating International Investment Disputes: A Practitioner s Guide
+(Koninklijke Brill, 2014), pages 196-198.
+
+14. ICSID Convention, Article 26.
+
+15. ICC Rules, Article 28(2),; SIAC Investment Rules, Article 27.2.
+
+16. ICSID Rule 39(4); ICSID AF Rules, Article 46(3). C. H Schreuer, The ICSZD Conven-
+tion: A Commentary (Cambridge University Press, 2nd Ed, 2009), pages 762-763.
+
+58 e-Publica
+e-Publica Vol. 6 No. 2, Setembro 2019 (055-072)
+
+for such a possibility,'? which is not uncommon in investment arbitration
+practice, irrespective of the set of arbitration rules applicable. ’* In the Von Pezold
+v. Zimbabwe case, the state ordered the claimants to allow an inspection of share
+registers of all companies linked to the ICSID proceedings, which was to take
+place two days later, and threatened criminal prosecution if the claimants refused
+to comply. Immediately upon receiving the state’s letter, the claimants filed
+a request for an order preventing such research. The president of the tribunal
+ordered, one day later and without inviting the state’s comments, the requested
+relief, '° highlighting that he would ‘confer with [the other arbitrators] as soon
+as possible regarding the final determination of the Application, including the
+need, if any, for reconsideration of these instructions’. This approach, that can
+be understood based on the urgency of this specific matter, does not mean that
+Tribunals can rule on their own without a proper debate. Acting differently is
+dangerous for the validity of the final award and, in any case, the arbitrators have
+to motivate precisely why they step one way or another, in order to avoid further
+difficulties for the parties at the stage of enforcement.
+
+Another difference between the various sets of rules is the availability of
+emergency relief, or relief before the tribunal is constituted. Given the time-
+sensitive circumstances under which most interim relief is commonly requested,
+parties may require relief prior to the relatively lengthy process of constituting
+the tribunal. Only the ICC, SCC and SIAC Investment Rules allow for emergency
+relief.
+
+As a matter of fact, there is some uncertainty as to whether emergency relief is
+available in treaty-based investment arbitration conducted under the ICC Rules.
+While the SIAC Investment Rules require the parties’ express consent before
+the emergency provisions apply,”° and the SCC rules do not impose any separate
+requirement of party consent, the ICC emergency arbitrator provisions require
+both parties to be signatories to the arbitration agreement.”! Certain commentators
+consider that this excludes treaty-based investment arbitration; given that the
+state’s offer to arbitrate is contained in the treaty and is accepted by the investor’s
+request for arbitration, there is no orthodox arbitration agreement.
+
+Under the SCC and SIAC Investment Rules (but not the ICC Rules), emergency
+orders granted cease to be binding if the dispute is not referred to a tribunal
+within 90 days of their granting. This safeguards against abuse of the emergency
+process by a party that has no intention of commencing arbitral proceedings.
+
+Only the SCC provisions on emergency proceedings have been tested in
+
+17. UNCITRAL Model Law, Article 17B(2).
+
+18. For ICC practice, see Jason Fry, Simon Greenberg, Francesca Mazza, The Secretariat's
+Guide to ICC Arbitration (ICC, 2012), page 291, paragraphs 3-1040.
+
+19. Bernhard von Pezold and Others v. Republic of Zimbabwe, ICSID Case No. ARB/10/15,
+Directions Conceming Claimants’ Application for Provisional Measures, 12 June 2012.
+
+20. SIAC Investment Rules, Article 27.4.
+
+21. ICC Rules, Article 29(5).
+
+22. Chiara Giorgetti ed, Litigating International Investment Disputes: A Practitioner's
+Guide (Koninklijke Brill, 2014), pages 203-205.
+
+e-Piiblica 59
+e-Publica Vol. 6 No. 2, Setembro 2019 (055-072)
+
+investment arbitration, with emergency relief granted in three reported cases.”
+Two questions of note were answered by the emergency arbitrators in these
+proceedings: (1) emergency relief could be granted even if the investment treaty
+had been concluded before the introduction of the SCC emergency provisions; **
+and (2) emergency relief could be granted notwithstanding the requirement of a
+cooling-off period in an investment treaty.”
+
+II. Conditions for the Granting of Interim Measures
+
+The conditions for the granting of interim measures are generally not expressly set
+out in the applicable arbitration rules. Indeed, the ICC and SCC Rules contain no
+further indication than requiring that the arbitral tribunal grant only the measures
+it ‘deems appropriate’.*° For its part, Article 47 of the ICSID Convention merely
+states that ‘the Tribunal may, if it considers that the circumstances so require,
+recommend any provisional measures which should be taken to preserve the
+respective rights of either party,’?”? and Article 39 of the ICSID Rules does not
+provide more details on the requirements that a request for interim measures
+must meet: ‘the request shall specify the rights to be preserved, the measures the
+recommendation of which is requested and the circumstances that require such
+measures.’** This wording use the word ‘recommend’ has always lead to strong
+debates regarding the binding or non-binding nature of the orders rendered, the
+current discussions for the adoption of renewed INCID Rules does not seem to
+clarify.
+
+Only the UNCITRAL Rules 2010 expressly set out the preconditions for the
+granting of interim measures, namely (1) the threat of a ‘harm not adequately
+reparable by an award of damages’ (necessity), (2) that ‘substantially outweighs
+the harm that is likely to result to the party against whom the measure is directed
+if the measure is granted’ (proportionality), and (3) a ‘reasonable possibility
+that the requesting party will succeed on the merits of the claim’ (prima facie
+claim on the merits).*? These preconditions are also included in Article 17 of the
+UNCITRAL Model Law.*°
+
+Commentators and investment arbitration jurisprudence refer to most (or all)
+of the following criteria for the granting of interim measures: (i) prima facie
+jurisdiction; (ii) a prima facie claim on the merits; (iii) necessity; (iv) urgency;
+and (v) proportionality.*!
+
+24. Griffin Group v. Poland, see Koh Swee Yen, ‘The Use of Emergency Arbitrators in
+Investment Treaty Arbitration’ (2016) 31(3) ICSID Rev 534, pages 543-545; L. E Peterson,
+“Investigation: New Details Emerge About Use of Emergency Arbitrators in Investment Trea-
+ty Cases’, JA Reporter (8 October 2015); www.iareporter.com/articles/investigation-new-de-
+tails-emerge-about-use-of-emergency-arbitrators-in-investment-treaty-cases/ (last accessed on
+27 February 2017).
+
+30. UNCITRAL Model Law, Article 17.
+
+31. R. Bismuth, ‘Anatomy of the Law and Practice of Interim Protective Measures in Inter-
+national Investment Arbitration’ (2009) 26(6) J. Int’l Arb. 773, pages 814-819; G. Kaufmann-
+Kohler and A. Antonietti, ‘Interim Relief in International Investment Agreements’, in Katia
+
+60 e-Publica
+e-Publica Vol. 6 No. 2, Setembro 2019 (055-072)
+
+i. Prima facie jurisdiction
+
+Even though none of the rules examined provide for this condition, tribunals
+often assess their prima facie jurisdiction before granting interim measures.”
+The assessment is prima facie only, as requests for interim measures must be
+dealt with as a matter of priority. Arbitrators are required to simply satisfy
+themselves that they do not manifestly lack jurisdiction over the underlying
+claim.’ ICSID tribunals can rely on the Secretary General’s registration of a
+request for arbitration as a token of such prima facie jurisdiction, as he or she
+would not do so where the dispute falls manifestly outside ICSID jurisdiction."
+Accordingly, the granting of interim measures does not prejudge the tribunal’s
+ultimate jurisdiction over the dispute, or preclude a jurisdictional challenge.
+
+ii. Prima facie claim on the merits
+
+Only the UNCITRAL Rules 2010 specifically require this precondition.
+However, it has also been applied in arbitrations under other sets of rules.*> It is
+not a stringent requirement, and the tribunal here needs only to assess a prima
+facie review of the merits* to satisfy itself that the claims made are ‘not, on their
+
+Yannaca-Small (ed), Arbitration Under International Investment Agreement: A Guide to the
+Key Issues (OUP, 2010), page 507, at pages 528-544; S. Luttrel, “ICSID Provisional Measures
+“In The Round” (2015) 31(3) Ard. Int'l 393, pages 398-410. See also N. Blackaby, C. Parta-
+sides, A. Redfern, M. Hunter, Redfern and Hunter on International Arbitration (OUP, 2015),
+paragraphs 5-32, where the authors consider that only necessity and urgency are inherent pre-
+conditions to the granting of interim measures.
+
+32. R. Bismuth, ‘Anatomy of the Law and Practice of Interim Protective Measures in In-
+ternational Investment Arbitration’ (2009) 26(6) J. Jnt’l Arb. 773, page 812; G. Kaufmann-
+Kohler and A. Antonietti, ‘Interim Relief in International Investment Agreements’, in Katia
+Yannaca-Small (ed), Arbitration Under International Investment Agreement: A Guide to the
+Key Issues (OUP, 2010), page 507, at page 531.
+
+33. R. Bismuth, ‘Anatomy of the Law and Practice of Interim Protective Measures in In-
+ternational Investment Arbitration’ (2009) 26(6) J. Int’l Arb. 773, page 812; G. Kaufmann-
+Kohler and A. Antonietti, ‘Interim Relief in International Investment Agreements’, in Katia
+Yannaca-Small (ed), Arbitration Under International Investment Agreement: A Guide to the
+Key Issues (OUP, 2010), page 507, at page 532; Occidental Petroleum Corporation v. the Re-
+public of Ecuador, 1CSID Case No. ARB/06/11, Decision on Provisional Measures, 17 August
+2007, paragraph 55. Pugachev v. Russia (Interim Award, 7 July 2017) The tribunal found that
+the “Claimant must prove, not only that this Tribunal has prima facie jurisdiction over the
+general dispute, but also that it has prima facie jurisdiction for the requested interim measures.’
+(paragraph 216). In this regard, the tribunal found that it did not have prima facie jurisdiction to
+suspend provisional measures that were related to the suspension of civil proceedings in third
+states, i.c., states that were not parties to the BIT in question (para 226).
+
+34. C. H Schreuer, The ICSID Convention: A Commentary (Cambridge University Press,
+2nd edition, 2009), page 772, paragraph 48.
+
+35. TSIKinvest LLC v. The Republic of Moldova, SCC Emergency Arbitration No.
+EA(2014/053), Emergency Decision on Interim Measures, 29 April 2014, paragraphs 62-65.
+
+36. C. Mouawad & E. Silbert, ‘A Guide To Interim Measures in Investor-State Arbitration’
+(2013) 29(3) Arb. Int’] 381, page 399.
+
+e-Piblica 61
+e-Publica Vol. 6 No. 2, Setembro 2019 (055-072)
+
+face, frivolously or obviously outside the competence of the [t]ribunal’.*’
+
+iii. Necessity
+
+One of the main criteria that arbitrators have to assess before ordering interim
+measures is whether these measures are necessary to preserve the rights of one
+of the parties to the arbitration.**
+
+Two standards on the requisite level of necessity have emerged in international
+arbitration practice. The higher standard is inspired by the International Court
+of Justice, which in LaGrand interpreted necessity as the prospect of irreparable
+harm.’ This standard was applied by the ICSID tribunal in Occidental v.
+Ecuador, which considered that a provisional measure is necessary where the
+actions of a party are ‘capable of causing or of threatening irreparable prejudice
+to the rights invoked’.*° The claimant in Occidental v. Ecuador requested
+provisional measures to compel Ecuador to fund and preserve a particular oil
+field. The tribunal refused to grant the requested provisional measures on the
+grounds that the relief sought was merely aimed at reducing the amount of
+damages incurred by the claimant. Since the alleged harm was compensable by
+monetary damages, provisional measures could not be granted.’ The tribunal
+in Quiborax v. Bolivia acknowledged the ICJ jurisprudence, and, by referring
+to Article 17A of the UNCITRAL Model Law (reproduced in the UNCITRAL
+Rules 2010),” explained that irreparable harm is harm that cannot be repaid by
+the award of damages.* This view was shared by the ICSID tribunal in Plama
+v. Bulgaria. The dispute involved the decision by a Bulgarian district court that
+had ordered that the company constituting the claimant’s investment in Bulgaria
+be declared bankrupt, and that its assets be sold and distributed to its creditors.
+The tribunal refused to order the discontinuance of the insolvency proceedings,
+as it considered that, regardless of the outcome of the Bulgarian proceedings, the
+claimant’s right to pursue its claim for damages in the ICSID arbitration and the
+tribunal’s ability to decide this claim remained unaffected.
+
+37. S. Paushok, CUSC Golden East Company and CJSC Vostoknefiegaz Company v. The
+Government of Mongolia, UNCITRAL, Order on Interim Measures, 2 September 2008, para-
+graph 55.
+
+38. As formulated in ICSID Rule 39.
+
+39. La Grand (Germany v. United States of America), Provisional Measures, Order of 3
+March 1999, ICJ Reports 1999, paragraph 23.
+
+40. Occidental Petroleum Corporation v. the Republic of Ecuador, ICSID Case No.
+ARB/06/11, Decision on Provisional Measures, 17 August 2007, paragraph 59. See also Jokios
+Tokelés v. Ukraine, ICSID Case No. ARB/02/18, Procedural Order No. 3, 18 January 2005,
+paragraph 8.
+
+41. Occidental Petroleum Corporation v. the Republic of Ecuador, ICSID Case No.
+ARB/06/11, Decision on Provisional Measures, 17 August 2007, paragraphs 26, 59 and 98.
+
+42. Article 26(3)(a).
+
+43. Quiborax SA and others v. Plurinational State of Bolivia, 1CSID Case No. ARB/06/2,
+Decision on Provisional Measures, 26 February 2010, paragraph 156;
+
+44. Plama Consortium Limited v. Republic of Bulgaria, \CSID Case No. ARB/03/24, Or-
+
+62 e-Publica
+e-Publica Vol. 6 No. 2, Setembro 2019 (055-072)
+
+The lower standard requires merely that the applying party risk suffering
+significant harm should the provisional measures not be granted. In Perenco v.
+Ecuador, the tribunal considered that ‘where action by one party may cause loss
+to the other which may not be capable of being made good by an eventual award
+of damages, the test in [Article 47 of the ICSID Convention] is likely to be met.
+But the Article does not lay down a test of irreparable loss and the authorities
+do not warrant so narrow a construction.’* The tribunal ordered that Ecuador
+refrain from collecting on certain taxes, because this would expose the claimant
+to imminent seizure of its assets in Ecuador and bring the claimant’s business in
+the country to an end.*°
+
+In City Oriente v. Ecuador, the tribunal noted that ‘it is not so essential that
+provisional measures be necessary to prevent irreparable harm, but that the
+harm spared the petitioner by such measures must be significant and that it
+exceeds greatly the damage caused to the party affected thereby.’*’ Therefore,
+the City Oriente tribunal replaced the requirement of irreparable harm with a
+proportionality element.
+
+It is worth noting that the ICJ’s test in LaGrand was birthed in extreme
+circumstances, in which provisional measures were sought to stay the execution
+of a German national by the United States.* It is difficult to think of a more
+acute situation of irreparable harm. Such situations are unlikely in investment
+arbitration, and it is questionable whether this high threshold is adequate in that
+specific field.”
+
+iv. Urgency
+
+Although not expressly required by the arbitration rules surveyed, urgency has
+been referred to as ‘the most important (even a sine gua non) consideration
+
+der, 6 September 2005, paragraphs 3(b) and 46.
+
+45. Perenco v. The Republic of Ecuador, ICSID Case No. ARB/08/6, Decision on Pro-
+visional Measures, 8 May 2009, paragraph 43. See also, Rizzani de Eccher S.p.A., Obrascon
+Huarte Lain S.A. and Trevi S.p.A. v. State of Kuwait, 1CSID Case No. ARB/17/8, Decision on
+Provisional Measures, 23 November 2017, paragraph 103.The tribunal in that case defined
+irreparable harm as “‘a material risk of serious or grave damage to the requesting party and not
+harm that is literally irreparable” and added that the degree of seriousness will vary depending
+on the case at hand.
+
+46. Perenco v. The Republic of Ecuador, 1CSID Case No. ARB/08/6, Decision on Provi-
+sional Measures, 8 May 2009, paragraphs 43, 46 and 79.
+
+47. City Oriente Limited v. The Republic of Ecuador and Empresa Estatal Petroleos Del
+Ecuador, ICSID Case No. ARB/06/21, Decision on Revocation of Provisional Measures and
+Other Procedural Matters, 13 May 2008, paragraph 72.
+
+48. La Grand (Germany v. United States of America), Provisional Measures, Order of 3
+March 1999, ICJ Reports 1999, page 9, paragraph 23. See also Vienna Convention on Consular
+Relations (Paraguay v. United States of America), Provisional Measures Order, 9 April 1988,
+page 13, paragraphs 35-37.
+
+49. D. Sarooshi, “Provisional Measures and Investment Treaty Arbitration’ (2013) 29(3)
+Arb. Int’1361, pages 372-376.
+
+e-Piiblica 63
+e-Publica Vol. 6 No. 2, Setembro 2019 (055-072)
+
+for the granting of interim measures’,*’ as provisional measures ‘will only be
+
+appropriate where a question cannot await the outcome of the award on the
+merits’.*! Thus, tribunals have regularly considered urgency as a requirement for
+the granting of interim measures.*
+
+In practice, urgency appears to be the assessment of necessity in the prevailing
+circumstances.* This was well articulated by the tribunal in Perenco v. Ecuador:
+‘[p]rovisional measures may only be granted where they are urgent, because
+they cannot be necessary if, for the time being, there is no demonstrable need
+for them’.™
+
+The degree of urgency required before provisional measures should be granted
+depends on the circumstances and nature of the measures sought.°> Typically,
+urgency is related to the prospect of potential harm being caused to the applying
+party before the final award is rendered by the tribunal.*° In any event, the applying
+party is obliged to demonstrate that the threat to its interests is imminent and
+likely to occur. Mere possibility or hypothetical harm are insufficient grounds
+for such measures.*’
+
+v. Proportionality
+
+It is generally admitted that ‘the risk of harm must be assessed with respect to
+the rights of either party.’** Most of the institutional arbitration rules are silent
+on this requirement, except for Article 26 of the UNCITRAL Rules 2010, which
+expressly requires that the harm the applicant is likely to suffer ‘substantially
+outweighs the harm that is likely to result to the party against whom the measure
+
+50. S. Luttrel, “ICSID Provisional Measures “In The Round”’ (2015) 31(3) Ard. Int] 393,
+page 406. See also R. Bismuth, ‘Anatomy of the Law and Practice of Interim Protective Mea-
+sures in International Investment Arbitration’ (2009) 26(6) J. Int’l Arb. 773, page 817.
+
+51. C. H Schreuer, 7e ICSID Convention: A Commentary (Cambridge University Press,
+2nd edition, 2009), page 775, paragraph 63, quoted with approval in Biwater Gauffv. Tanzania,
+ICSID Case No. ARB/05/22, Procedural Order No. 1, 31 March 2006, paragraph 68.
+
+52. 8. Paushok, CUSC Golden East Company and CJSC Vostoknefiegaz Company v. The
+Government of Mongolia, UNCITRAL, Order on Interim Measures, 2 September 2008, para-
+graph 45; EnCana Corporation v. Republic of Ecuador, LCIA Case No. UN3481, UNCITRAL,
+Interim Award, Request for Interim Measures of Protection, 31 January 2004, paragraph 13.
+
+53. C. Mouawad and E. Silbert, ‘A Guide To Interim Measures in Investor-State Arbitra-
+tion’ (2013) 29(3) Arb. Int] 381, page 388.
+
+54. Perenco v. The Republic of Ecuador, 1CSID Case No. ARB/08/6, Decision on Provi-
+sional Measures, 8 May 2009, paragraph 43.
+
+55. Biwater Gauff v. Tanzania, ICSID Case No. ARB/05/22, Procedural Order No. 1, 31
+March 2006, paragraph 76.
+
+56. Azurix Corp v. The Argentine Republic, ICSID Case No. ARB/01/12, Decision on Pro-
+visional Measures, 6 August 2003, paragraph 33.
+
+57. Occidental Petroleum Corp and Occidental Exploration & Production Co v. Ecuador,
+ICSID Case No. ARB/06/11, Decision on Provisional Measures, 17 August 2007, paragraph 89.
+
+58. G. Kaufmann-Kohler and A. Antonietti, ‘Interim Relief in International Investment
+Agreements’, in Katia Yannaca-Small (ed), Arbitration Under International Investment Agree-
+ment: A Guide to the Key Issues (OUP, 2010), page 541.
+
+64 e-Publica
+e-Publica Vol. 6 No. 2, Setembro 2019 (055-072)
+
+is directed if the measure is granted’.*°
+
+This is akin to the common law doctrine of the ‘balance of convenience’, whereby
+a tribunal must compare the harm that would result to either party if it turned out
+at the stage of the final award that provisional measures were wrongly granted
+or withheld.® Tribunals may consider proportionality either as a standalone
+requirement! or, more commonly, as part of the requirement of necessity.”
+
+Tribunals pay heightened attention to the requirement of proportionality when
+potential impingement on the sovereign powers of a state is at stake. This is
+particularly obvious in cases involving applications for the stay of domestic
+criminal proceedings to protect the arbitral process. As the tribunal in Hydro
+S.r.J vy. Albania considered, “criminal law and procedure are a most obvious
+and undisputed part of a State’s sovereignty’ and, therefore, ‘any obstruction
+of the investigation or prosecution of conduct that is reasonably suspected to be
+criminal in nature should only be ordered where that is absolutely necessary’.
+The tribunal granted the measures sought, reasoning that the state’s threat to
+incarcerate the claimants would affect their ability to participate in the arbitration,
+while a stay of the criminal proceedings would merely postpone the state’s ability
+to bring those proceedings.“
+
+The question of irreparable harm can be rather specific when one party requests
+security for costs. This can occur when the petitioner will suffer an injury that is
+“neither remote nor speculative but actual and imminent” and cannot be made
+whole through monetary damages awarded at the end of the proceedings.® For
+example one can cite the impossibility for one party to pay an award allocating
+damages or even only costs due to the impecuniosity of the other party to the
+arbitration.
+
+59. 2010 UNCITRAL Rules, Article 26.3(a).
+
+60. S. Luttrel, “ICSID Provisional Measures “In The Round”’ (2015) 31(3) Ard. Int] 393,
+pages 407-408; G. Kaufmann-Kohler and A. Antonietti, “Interim Relief in International Invest-
+ment Agreements’, in Katia Yannaca-Small (ed), Arbitration Under International Investment
+Agreement: A Guide to the Key Issues (OUP, 2010), page 541.
+
+61. S. Paushok, CUSC Golden East Company and CJSC Vostoknefiegaz Company v. The
+Government of Mongolia, UNCITRAL, Order on Interim Measures, 2 September 2008, para-
+graph 79; Occidental Petroleum Corp and Occidental Exploration & Production Co v. Ecuador,
+ICSID Case No. ARB/06/11, Decision on Provisional Measures, 17 August 2007, paragraph 93.
+
+62. City Oriente Limited v. The Republic of Ecuador and Empresa Estatal Petroleos Del
+Ecuador, ICSID Case No. ARB/06/21, Decision on Revocation of Provisional Measures and
+Other Procedural Matters, 13 May 2008, paragraph 72; Burlington Resources Inc v. Republic
+of Ecuador, 1CSID Case No. ARB/08/5, Procedural Order No. 1, 29 June 2009, paragraphs 81
+and 82.
+
+63. Hydro S.r.l. and others v. Republic of Albania, 1CSID Case No. ARB/15/28, Order on
+Provisional Measures, 3 March 2016, paragraph 3.16.
+
+64. Ibid., paragraphs 3.14, 3.16. See also Quiborax v. Bolivia, ICSID Case No. ARB/06/2,
+Decision on Provisional Measures, 26 February 2010, paragraphs 164-165.
+
+65. Emirates Int’l Inv. Co. v. ECP Mena Growth Fund, LLC 2012 WL 2198436, US District
+Court, Southern District of New York (15 June 2012), p. 15.
+
+e-Piiblica 65
+e-Publica Vol. 6 No. 2, Setembro 2019 (055-072)
+
+III. Types of Measures Granted by Investment Tribunals
+
+There is generally no restriction on the types of interim measures available for
+the mere reason that the rules mostly use a very broad wording in order for
+the Tribunals to get flexibility in their potential rulings. Practically speaking,
+measures granted by tribunals are generally measures that: require the parties to
+cooperate in the proceedings or preserve evidence, or decide on confidentiality”;
+preserve the status quo between the parties and avoid further aggravation of
+the dispute through unilateral action; prevent the parties from seeking relief
+through other remedies, for example, by staying parallel proceedings; or secure
+compliance with an eventual award, for example, by ordering security for costs.®
+
+i. Measures to maintain the status quo and avoid further aggravation of the
+dispute
+
+The principle that a dispute should not be aggravated is part of general international
+law.® It was the basis upon which Article 47 of the ICSID Convention (which
+empowers the arbitral tribunal to grant interim relief) was drafted,® and has been
+expressly acknowledged as a general obligation incumbent on disputing parties
+by several ICSID tribunals.”
+
+The preservation of the status quo or the non-aggravation of the dispute,
+rather than being considered as a type of interim measure, may be considered
+as a criterion for granting interim measures, which applies to several types of
+measures. In practice, the preservation of the status quo or the non-aggravation
+of the dispute has been used as a ground for a very wide range of applications for
+relief, such as ordering the stay of proceedings in domestic courts,”’ preventing
+
+66. This type of measures which can be found also in commercial arbitration and is broadly
+aaccpted will not be discussed in details in this commentary.
+
+67. C. H Schreuer, The ICSD Convention: A Commentary (Cambridge University Press,
+2nd edition, 2009), page 780.
+
+68. Electricity Company of Sofia and Bulgaria (Belgium v. Bulgaria), Interm Measures
+of Protection, 5 December 1939, PCIJ Rep Series A/B No. 79, page 199, cited in Burlington
+Resources Inc v. Republic of Ecuador, \CSID Case No. ARB/08/5, Procedural Order No. 1 on
+Burlington Oriente’s Request for Provisional Measures, 29 June 2009, paragraph 62, and in
+Caratube International Oil Company LLP v. The Republic of Kazakhstan, ICSID Case No.
+ARB/08/12, Decision Regarding Claimant’s Application for Provisional Measures, 31 July
+2009, paragraph 127. See also, Frontier Dispute Between Burkina Faso & Mali, Order on
+Provisional Measures of 10 January 1986, [1986] ICJ Rep 3, page 11 (CJ), and Nuclear Tests
+(Australia v. France), [1973] ICJ Rep 99, pages 104 and 106 (ICJ).
+
+69. Note A to ICSID Rule 39 in its 1968 version, 1 ICSID Rep 99.
+
+70. It was acknowledged for the first time in Amco Asia Corporation and Others v. Repub-
+lic of Indonesia, ICSID Case No. ARB/81/1, Decision on Request for Provisional Measures,
+9 December 183, page 412. See also, Victor Pey Casado and President Allende Foundation v.
+Republic of Chile, 1CSID Case No. ARB/98/2, Decision on Provisional Measures, 25 Septem-
+ber 2001, paragraph 67; Tokios Tokelés v. Ukraine, ICSID Case No. ARB/02/18, Order No. 1
+Claimant’s Request for Provisional Measures, | July 2003, paragraph 7.
+
+71. Tokios Tokelés v. Ukraine, 1CSID Case No. ARB/02/18, Order No. 1, Claimant’s Re-
+quest for Provisional Measures, | July 2003.
+
+66 e-Publica
+e-Publica Vol. 6 No. 2, Setembro 2019 (055-072)
+
+the respondent from publicising criminal investigations,” or preserving disputed
+contractual rights.”
+
+This large scope of measures that fall under the preservation of the status quo
+and non-aggravation of the dispute can be seen as contradicting the application
+of the high threshold for the necessity criterion. But preventing aggravation of
+a potential harm can also be analysed as avoiding aggravation of the dispute,
+therefore leading to this criterion being neutralized as least partially for this type
+of measures.
+
+ii. Measures to stay parallel proceedings
+
+Many international tribunals have granted interim measures directed at the
+conduct of domestic courts.“ The most controversial variety of such measures
+consists in injunctions against the state’s conduct of criminal proceedings against
+the claimant.
+
+States’ power to prosecute has regrettably been used against claimants in retaliation
+for the commencement of arbitral proceedings, resulting in applications to the
+arbitral tribunal for injunctive relief. On the other hand, tribunals are reluctant to
+infringe on a core aspect of state sovereign power: the national judge’s ability to
+initiate criminal proceedings.” Relief will only be granted where there is a clear
+abuse of the criminal process, for example, where the criminal proceedings were
+politically motivated, initiated as a ‘defence strategy’ to the arbitration,” or as
+a means of compelling the claimant to comply with alleged obligations that are
+disputed in the arbitration.” In most cases, the principle of separation of powers
+
+72. Teinver SA v. Argentina, ICSID Case No. ARB/09/1, Decision on Provisional Measures,
+8 April 2016.
+
+73. Perenco v. The Republic of Ecuador, 1CSID Case No. ARB/08/6, Decision on Provi-
+sional Measures, 8 May 2009.
+
+74. C. Mouawad and E. Silbert, “A Guide To Interim Measures in Investor-State Arbitra-
+tion’ (2013) 29(3) Arb. Int’1381, page 402. What is meant by domestic courts is the courts of the
+host State. The Pugachev tribunal clarified that it did not have jurisdiction to order interim mea-
+sures aiming at the suspension of court proceedings in a third country. See Sergei Viktorovich
+Pugachev v. The Russian Federation, UNCITRAL, Interim Award, 7 July 2017, paragraph 216.
+
+75. The issue was raised in Jokios Tokelés v. Ukraine, ICSID Case No. ARB/02/18, Order
+No. 1 Clatmant’s Request for Provisional Measures, | July 2003. See also Quiborax v. Bolivia,
+ICSID Case No. ARB/06/2, Decision on Provisional Measures, 26 February 2010, paragraphs
+120 and 123; Caratube International Oil Company LLP v. The Republic of Kazakhstan, ICSID
+Case No. ARB/08/12, Decision Regarding Claimant’s Application for Provisional Measures,
+31 July 2009, paragraph 137; Sergei Viktorovich Pugachev v. The Russian Federation, UNCI-
+TRAL, Interim Award, 7 July 2017, paragraph 272; Nova Group Investments, B.V. v. Romania,
+ICSID Case No. ARB/16/19, Procedural Order No. 7, Decision on Claimant’s Request for Pro-
+visional Measures, 29 March 2017, paragraphs 327-328.
+
+76. Quiborax v. Bolivia, ICSID Case No. ARB/06/2, Decision on Provisional Measures, 26
+February 2010, paragraph 122; Teinver SA v. Argentina, ICSID Case No. ARB/09/1, Decision
+on Provisional Measures, 8 April 2016, paragraph 190.
+
+77. City Oriente Ltd v. Republic of Ecuador and Petroecuador, ICSID Case No.
+ARB/06/21, Decision on Provisional Measures, 19 November 2007, paragraph 62.
+
+e-Publica 67
+e-Publica Vol. 6 No. 2, Setembro 2019 (055-072)
+
+when constitutionally protected limits the power of the arbitrators, specifically
+when the criminal action was initiated totally or partially before the arbitration
+started.
+
+iii. Measures ordering security for costs
+
+The SCC Arbitration Rules explicitly provide for the possibility for tribunals to
+order security for costs.”* Security for costs can also be considered as provided for
+under Article 26(2)(c) of the UNCITRAL Rules 2010, which refers to measures
+that ‘provide a means of preserving assets out of which a subsequent award may
+be satisfied’.”
+
+The new version of the ICSID Rules seems to be opting fora new regime of security
+for costs, independent from the set of rules applicable for interim measures®.
+Although investment arbitration tribunals have generally acknowledged their
+power to grant security for costs, even under other sets of rules,*! they are very
+reluctant to grant such measures. Tribunals have referred to various reasons for
+their refusals, including that it would be improper to prejudge the claimant’s
+case,®*” or because there is no imminent harm at stake.®
+
+78. SCC Rules, Article 38.
+
+79. 2010 UNCITRAL Rules, Article 26(2)(c). See also G. Kaufmann-Kohler and A. An-
+tonietti, “Interim Relief in International Investment Agreements’, in Katia Yannaca-Small (ed),
+Arbitration Under International Investment Agreement: A Guide to the Key Issues (OUP, 2010),
+page 507, at p. 528.
+
+80. Under the structure of the proposed revised Rules, it appears that security for costs will
+not be a type of provisional measure, as it is provided for in Rule 51, separated from Rule 50
+dealing with provisional measures. It can also be noticed that, unlike proposed Rule 50, Rule 51
+on security for costs uses the verb to “order”. This indicates that an order for security for cost
+is binding. Indeed, the proposed Rule 51 provides arbitral tribunals with the power to sanction
+a party that refuses to comply with such an order, by suspending or discontinuing the proceed-
+ings. Similar sanctions (or any other sort of sanctions) do not exist under proposed Rule 50 in
+relation to provisional measures. It can also be noted that while the initiative to order provision-
+al measures may be either the parties’ or the tribunal’s, an order for security for cost can only be
+rendered following a request submitted by one of the parties. Furthermore, the criteria tribunals
+are asked to apply when considering a request for provisional measures is different from the
+criteria applied when a request for security for cost is considered. In particular, a tribunal is
+allowed to recommend provisional measures only if it considers it to be urgent and necessary
+to do so. This is not required when a tribunal considers a request for security for costs. This
+possible evolution of the Rules is to be monitored strictly in order to define more precisely the
+boundaries between preliminary measures and security for costs. The impact of this reform on
+other Rules of arbitration which mainly referred to security for costs as an interim measure can
+also be considered.
+
+81. Libananco Holdings Co Limited v. Turkey, ICSID Case No. ARB/06/8, Decision on
+Preliminary Issues, 23 June 2008, paragraph 57; Commerce Group Corp & San Sebastian Gold
+Mines Inc v. Republic of El Salvador, 1CSID Case No. ARB/09/17, Decision on El Salvador’s
+Application for Security for Costs, 20 September 2012, paragraph 45; Victor Pey Casado and
+President Allende Foundation v. Republic of Chile, ICSID Case No. ARB/98/2, Decision on
+Provisional Measures, 25 September 2001, paragraph 82.
+
+82. Emilio Agustin Maffezini v. The Kingdom of Spain, \CSID Case No. 97/7, Decision on
+Provisional Measures (Procedural Order No. 2), 28 October 1999, paragraphs 20-21.
+
+83. Burimi SRL and Eagle Games SHA v. Republic of Albania, ICSID Case No. ARB/11/18,
+
+68 e-Publica
+e-Publica Vol. 6 No. 2, Setembro 2019 (055-072)
+
+Tribunals have stated that security for costs might be ordered in the most
+extreme cases, such as where essential interests of either party stand in danger
+of irreparable damage,™ or where abuse or serious misconduct is apparent.®
+Financial difficulties and third-party funding do not constitute in themselves
+exceptional circumstances justifying the granting of security for costs.* Neither
+would the fact that the claimant investor is a “shell company’ without assets of
+its own, as special purpose or joint venture vehicles are common in investment
+making.®’
+
+The tribunal in RSM Production Corporation v. Santa Lucia ordered the claimant
+to provide security for the respondent’s costs, as it was satisfied that such
+exceptional circumstances were met, highlighting that ‘the difference between
+the present proceeding and previous ICSID arbitrations in which the request for
+security for costs was in every case denied, is that in this case the circumstances
+
+Procedural Order No. 2 on Provisional Measures Concerning Seucirty for Costs, 3 May 2012,
+paragraph 35; Guaracachi America Inc and Rurelec PLC v. Plurinational State of Bolivia, PCA
+Case No. 2011-17, Procedural Order No. 14, 11 March 2013, paragraph 6; South American
+Silver Limited v. Plurinational State of Bolivia, PCA Case No. 2013-15, Procedural Order No.
+10, 11 January 2016, paragraph 50.
+
+84. Libananco Holdings Co Limited v. Turkey, ICSID Case No. ARB/06/8, Decision on
+Preliminary Issues, 23 June 2008, paragraph 57.
+
+85. Commerce Group Corp & San Sebastian Gold Mines Inc v. Republic of El Salvador,
+ICSID Case No. ARB/09/17, Decision on El Salvador’s Application for Security for Costs, 20
+September 2012, paragraph 45.
+
+86. EuroGas Inc and Belmont Resources Inc v. Slovak Republic, ICSID Case No.
+ARB/14/14, Procedural Order No. 3, Decision on the Parties’ Request for Provisional Mea-
+sures, 23 June 2015, paragraph 123; Eskosol S.p.A. in liquidazione v. Italian Republic, \CSID
+Case No. ARB/15/50, Procedural Order No. 3, Decision on Respondent’s Request for Pro-
+visional Measures, 12 April 2017, paragraphs 36-38: in this matter Italy requested security
+for costs, since Ekosol was bankrupt, and it had suspicions that pending existing bankruptcy
+proceedings Eskosol was relying on a third-party funder that would not be bound by an award
+on costs (paragraph 15-17). However, the tribunal rejected the respondent’s request, since Italy
+did not demonstrate that a posting of security for costs was either necessary or urgent in the
+circumstances (para. 37). The tribunal noted that it was not aware of any obligation on the
+part of the funder to meet an eventual costs order against Ekosol, and that that the funder had
+assisted Ekosol in obtaining insurance to satisfy an eventual costs order, for an amount higher
+than the amount of security sought by Italy (para. 37). The tribunal refused Italy’s claim as, in
+the circumstances, an order for security for costs would impose a disproportionate burden on
+the claimant (paragraph 38).
+
+87. Libananco Holdings Co Limited v. Turkey, ICSID Case No. ARB/06/8, Decision on
+Preliminary Issues, 23 June 2008, paragraphs 58-59; Lighthouse Corporation Pty Lid and
+Lighthouse Corporation Lid, IBC v. Democratic Republic of Timor-Leste, ICSID Case No.
+ARB/15/2, Procedural Order No. 2, Decision on Respondent’s Application for Provisional
+Measures, 13 February 2016, paragraphs 34, 36, 61 and 62: in this matter Timor-Leste based its
+request for security of costs on the fact that the claimants were allegedly shell companies with
+nominal assets, and their indirect owner Mr Jacobs made material misrepresentations about
+the companies’ experience, finances and capacity (paragraph 34).The tribunal rejected the re-
+spondent’s claim, as it failed to demonstrate the existence of “exceptional circumstances’, as
+required by the RSM v. Lucia tribunal for an order for security for costs (para. 62). The tribunal
+noted, inter alia, that mere insufficiency of assets would not suffice for an order for security for
+costs, but that “something more’ was required — this ‘something more’ was not demonstrated
+by the respondent (para. 61).
+
+e-Publica 69
+e-Publica Vol. 6 No. 2, Setembro 2019 (055-072)
+
+which were brought forward in other proceedings occur cumulatively.’®
+According to the tribunal, there was a material risk of non-compliance with a
+cost award given the claimant’s non-compliance with cost awards in previous
+proceedings that it had initiated,®° combined with a serious lack of financial
+assets given that the claimant’s claim was financed by a third party.
+
+RSM Production Corporation v. Santa Lucia paved the way for a more flexible
+approach in complex cases where a party can demonstrate the impecuniosity
+of a Claimant. In approaching security for costs, the CIArb Guidelines entitled
+“Applications for Security for Costs” (the “CIArb Guidelines”) has relevant
+citations for Tribunals consideration, namely (i) Article 1 (2) provides that “When
+deciding whether to make an order for security for costs, arbitrators should take
+into account the following matters: 1 — the prospects of success of the claim(s)
+and defence(s) Article 2); 2 — the claimant’s ability to satisfy an adverse costs
+award and the availability of the claimant’s assets for enforcement of an adverse
+costs award (Article 3); and 3 — whether it is fair in all of the circumstances to
+require one party to provide security for the other party’s costs (Article 4).””°
+
+According to Redfern and O’ Leary, “there are three criteria that an international
+arbitral tribunal should expect to be established before acceding to an
+application for security for costs: first, that there is a reasonable possibility that
+the requesting party will succeed in its defence to the claim; secondly, if the
+requesting party does succeed in its defense, that it is likely to be awarded costs;
+and thirdly, that there is a risk that those costs will not be paid unless some
+form of security is ordered. If these criteria are established, then the tribunal
+must consider whether it is fair and just in all the circumstances that the order
+be made.”*' This element of fairness allows for the appropriate test to include a
+‘reasonable possibility of success’. If one party can demonstrate that there is a
+reasonable chance that a cost award will never be paid (for example, because the
+agreement with a third party funder does not cover an adverse cost award or if it
+can be demonstrated that one party was never a company with proper financial
+capacity to pay) this element of reasonableness may be met.
+
+IV. The Effeciency and Enforcement of Interim Measures
+
+The ICSID Rules state that a tribunal may ‘recommend’ interim measures.” The
+ICC and SIAC Investment Rules use the more imperative term ‘order’,” while
+
+88. RSM Production Corporation v. Saint Lucia, 1CSID Case No. ARB/12/10, De-
+cision on Saint Lucia’s Request for Security for Costs, 13 August 2014, paragraph 86.
+
+89. See RSM Production Corporation v. Grenada, ICSID Case No. ARB/05/14,
+Order of the Committee Discontinuing the Proceeding and Decision on Costs, 28 April
+2011; Rachel S Grynberg, Stephen M Grynberg, Miriam Z Grynberg and RSM Produc-
+tion Corporation v. Grenada, ICSID Case No. ARB/10/6, Award, 10 December 2010.
+
+90. CIArb Guidelines entitled “Applications for Security for Costs 2016.
+
+91. A. Redfern & S. O’Leary, “Why it is time for international arbitration to em-
+brace security for costs” (2016) Arbitration International, vol. 32, pp. 397-413, at p.
+410.
+
+92. ICSID Rule 47.
+
+93. ICC Rules, Article 28(1); SIAC Investment Rules, Article 27.1.
+
+70 e-Publica
+e-Publica Vol. 6 No. 2, Setembro 2019 (055-072)
+
+the remaining rules surveyed use more neutral terms such as ‘grant’ or ‘take’.™
+Notwithstanding the difference in terminology, interim measures ordered in
+investment arbitration are considered as binding on the parties.”
+
+On the other hand, tribunals lack the coercive power of state courts, and have
+limited ability to compel enforcement of the interim relief granted. The tribunal’s
+own coercive powers extend only to costs sanctions, and the drawing of adverse
+inferences against a party on matters of evidence. For example, an adverse
+inference was drawn by the tribunal in AG/P v. Congo against the respondent for
+failing to cooperate with orders to preserve evidence.”
+
+There are examples of respondent states pre-empting orders for provisional
+measures, by voluntarily undertaking to preserve certain rights for the claimant.
+For example, the government in Vacuum Salt v. Ghana undertook that it
+would not deny the claimant access to certain records requested. The tribunal
+considered that this satisfied the claimant’s concerns expressed in its request for
+provisional measures, and did not see the need to order relief.”’ Another example
+is found in /talba v. Uruguay, where the claimant sought to restrain Uruguay’s
+criminal investigations against two of the claimant’s witnesses. The government
+of Uruguay undertook that these investigations would not impede the witnesses’
+ability to participate in the claimant’s case and freely offer their testimony. The
+tribunal was persuaded by these undertakings, inter alia, and declined to restrain
+the investigations.”
+
+On the other hand, and more particularly where anti-enforcement or anti-suit
+injunctions regarding proceedings against the claiming investor are concerned,
+there is an understandable difficulty with enforcing the interim measures, given
+that a state’s sovereign rights are implicated. Reportedly, out of 10 orders granted
+by ICSID tribunals between 2000 and 2010 for relief suspending domestic
+litigation, only two were complied with.”
+
+If measures of enforcement are required, the requesting party must resign itself
+to turn to national courts for assistance. This can be a complicated exercise given
+
+94. 1976 UNCITRAL Rules, Article 26(1); 2010 UNCITRAL Rules, Article 26(1); SCC
+Rules, Article 37(1).
+
+95. Emilio Agustin Maffezini v. The Kingdom of Spain, 1CSID Case No. ARB/97/7, De-
+cision on Provisional Measures (Procedural Order No. 2), 28 October 1999, paragraph 9;
+Victor Pey Casado and President Allende Foundation v. Republic of Chile, ICSID Case No.
+ARB/98/2, Decision on Provisional Measures, 25 September 2001, paragraphs 17-26; 7okios
+Tokelés v. Ukraine, 1CSID Case No. ARB/02/18, Order No. 1 Claimant’s Request for Provision-
+al Measures, | July 2003, paragraph 4; Occidental Petroleum Corporation and Occidental Ex-
+ploration and Production Company v. The Republic of Ecuador, 1CSID Case No. ARB/06/11,
+Decision on Provisional Measures, 17 August 2007, paragraph 58. See also Caline Mouawad
+and Elizabeth Silbert, “A Guide To Interim Measures in Investor-State Arbitration’ (2013) 29(3)
+Arb. Int’1381, pages 381 to 416.
+
+96. AGIP SpA v. People s Republic of the Congo (1979) 1 ICSID Reports 306, page 317.
+
+97. Vacuum Salt Products Ltd y. Republic of Ghana, ICSID Case No. ARB/92/1, Award, 16
+February 1994, paragraph 16.
+
+98. Italba Corporation v. Oriental Republic of Uruguay, ICSID Case No. ARB/16/9, De-
+cision on Claimant’s Application for Provisional Measures and Temporary Relief, 15 February
+2017, paragraphs 119-120.
+
+99. M. D Goldhaber, “The Rise of Arbitral Power over Domestic Courts’ (2013) 1(2) SJCL
+373, page 402, referring to Rodrigo Gil, ‘ICSID Provisional Measures to Enjoin Parallel Do-
+mestic Litigation’ (2009) 3 World Arb & Mediation Rev 535, pages 553-564.
+
+e-Piublica 71
+e-Publica Vol. 6 No. 2, Setembro 2019 (055-072)
+
+that international conventions, in particular the New York Convention,’ and
+
+domestic rules typically only provide for the enforcement of awards and not
+orders.
+
+In this regard, in Chevron v. Ecuador, the tribunal re-issued interim measures
+previously granted in procedural order in the form of an interim award,!”!
+stating that such an award was ‘immediately final and binding’ upon the parties.
+The relevant interim measures sought to preclude the state from enforcing an
+anticipated judgment issued by an Ecuadorian court against the claimants. There
+is a practice among certain national jurisdictions to refuse to enforce interim
+orders as awards under the New York Convention 1958, no matter their title. !
+
+On the other hand, jurisdictions that have adopted Articles 17H and 171 of
+the UNCITRAL Model Law 1985 with the amendments of 2006, specifically
+provide that interim measures issued by an arbitral tribunal are binding and
+shall be enforced by a competent national court subject to specified grounds for
+refusing such enforcement.
+
+About the author : Benoit Le Bars
+Lazareff Le Bars
+
+Benoit Le Bars, co-founder and managing partner of Lazareff Le Bars, represents
+clients in international arbitration, mediation and alternative dispute resolution,
+and has specialist expertise in corporate law, international trade law, international
+contracts and OHADA law.
+
+Benoit Le Bars’ practice focuses principally on commercial and investment
+arbitration involving complex trade relationships between businesses, investors
+and states, and spans a broad range of jurisdictions and arbitral institutions.
+
+In addition to his work as counsel, he is often appointed as arbitrator and has
+extensive experience in arbitral forums worldwide.
+
+His international arbitration expertise is recognised in the leading international
+legal directories, including Chambers and The Legal 500.
+
+In 2018, Benoit published an exhaustive treatise of French law judgments in
+international commercial arbitration (nternational commercial arbitration:
+landmark decisions of French arbitration law, Lexisnexis 2018). He is also a
+professor of law in the United States and in France.
+
+28 > 2k
+
+100. Convention on the Recognition and Enforcement of Foreign Arbitral Awards, New
+York, 10 June 1958.
+
+101. Chevron Corporation and Texaco Petroleum Corporation v. The Republic of Ecuador,
+UNCITRAL, PCA Case No. 2009-23, First Interim Award on Interim Measures, 25 January
+2012, pages 16-17.
+
+102. See, e.g., Cour de Cassation, Ist Civil Chamber, 12 October 2011, No. 09-72.439,
+Groupe Antoine Tabet v. Congo (2012) Rev arb 86, note by Francois-Xavier Train; B. Le Bars
+& J. Dalmasso, International commercial arbitration: landmark decisions of French arbitration
+law, Lexisnexis 2018, Topic 20, p. 369 and sub.
+
+72. e-Piblica

@@ -1,0 +1,1262 @@
+niGe
+« ft,
+
+= We THE LAW AND PRACTICE OF INTERNATIONAL ONS
+BRILL COURTS AND TRIBUNALS £6 (2017) 159-184
+NIJHOFF brillcom/lape
+
+Provisional Measures in 1csip Arbitration
+from “Wonderland’s Jurisprudence’ to Informal
+Modification of Treaties
+
+Tarcisio Gazzini
+University of Lausanne, Switzerland
+
+Tarcisio.Gazzini@unilch
+
+Robert Kolb
+University of Geneva, Switzerland
+Robert. Kolb@unige.ch
+
+Abstract
+
+Since 1999, 1CS1D tribunals have almost systematically held that they have the power
+not only to recommend but also to order provisional measures under Article 47 of the
+ics Convention and Rule 39 of the Arbitration Rules. This article argues that the legal
+argamentts offered by these tribunals are often mot fully elaborated and in any case not
+entirely convincing. {t then provides an altemative reading of the decisions relating to
+the mandatory character of provisional measures, in the sense that they imply a signifi-
+cant departure from the meaning the contracting parties recorded in the treaty. Yet, as
+the majority of tcsip members have endorsed, accepted or at least acquiesced in such
+departure, it appears that Article 47 of the 1¢sip Convention has been informally rodi-
+
+fed through subsequent practice.
+Keywords
+
+provisional measures - Icsip Convention - investment arbitration - treaty
+
+interpretation — modification of treaties
+
+© KONINKLIJKE BRILL NV, LEIDEN, 2017 | 0:01 10.1163/15738034-12341
+
+160 GAZZINI AND KOLB
+I Introduction
+
+In a long stream of substantially identical decisions starting with Maffezini v.
+Spain,! ICSID tribunals have upheld their power to order provisional measures
+under Article 47 of the Ics1p Convention. Since Article 47 of the IcsID
+Convention expressly authorizes IcsID tribunals only to recommend such
+measures, it is worth examining the significance and implications of these de-
+cisions from the standpoint of the law of treaties.
+
+The article first offers a concise discussion of the nature and role of provi-
+sional measures in the settlement of international disputes, before reviewing
+the leading cases of the International Court of Justice (Icy) and other inter-
+national tribunals (sections 11 to Iv). It then briefly describes the emergence
+of what appears to be a jurisprudence constante in ICSID investment arbitra-
+tion (section v) and examines the persuasiveness of the underlying legal rea-
+soning (section VI). Section vi! is dedicated to the attitudes of IcsID members
+with regard to these decisions. The final objective of the article is to appraise
+the impact of the concordant body of decisions in combination with the (lack
+of) reaction of Member States to the 1cs1D Convention from the standpoint of
+the interpretation and possibly the informal modification of Article 47.
+
+The discussion is limited to the alleged competence of Ics1D tribunals to
+order provisional measures. It does not deal with the relationship between
+provisional measures and jurisdiction nor the conditions under which provi-
+sional measures can be granted.
+
+II Provisional Measures in the Settlement of International Disputes
+
+When a case is filed before an international tribunal, the object of the whole
+procedure is to settle the dispute and to grant effective remedies to the parties
+to the extent the claims, and possibly the counterclaims, brought forward are
+considered to have merit. The dispute concerns a network of material or im-
+material goods as well as subjective legal situations (rights and obligations). In
+the nature of things, the procedure takes some time and tribunals may grant
+interim protection or provisional measures, the purpose of which is “to pre-
+serve the respective rights of the Parties, pending a decision of the Court, and
+
+1 See infra note 33.
+
+pownids APH lS 2 OM BATHS 06-314
+
+via Leiden University
+PROVISIONAL MEASURES IN ICSID ARBITRATION 161
+
+presupposes that irreparable prejudice shall not be caused to rights which are
+the subject of dispute in judicial proceedings”?
+
+Provisional measures normally set up duties of abstention rather than call-
+ing upon the parties to perform possibly onerous actions. They are not made
+the object of a judgment. The latter is a jurisdictional act covered by the force
+of res judicata and flows from a contentious procedure during which the com-
+peting arguments of the parties are heard and the court decides on the claim.
+Provisional measures are rather pronounced through an order (ordonnance).
+This entails that in cases of urgency there is no need to go through the parties’
+arguments as ordinarily set out in written pleadings and presented at hearings.
+This course of procedure gives the matter the necessary flexibility: provisional
+measures can be altered during the proceedings and new ones can be granted.
+There is no res judicata attached to such measures,? with the possible excep-
+tion that an arbitral tribunal would violate procedural public policy if it de-
+parted from opinions expressed in a preliminary award rendered in the same
+case.* When the tribunal declines to exercise its jurisdiction or delivers the
+final judgment, the provisional measures automatically lose their function and
+expire. The “interim” protection thus gives way to the substantive “final” pro-
+tection of the rights and obligations at stake.
+
+Although provisional measures are normally requested by the parties,° the
+issue of interim protection may also be raised in the interest of the tribunal in
+the proper administration of justice and effectiveness of the proceedings of
+which it is seized. If the final judgment’s impact can be impaired by actions
+of the parties while the dispute is pending, the prestige of the tribunal and the
+effectiveness of its adjudication process could be heavily jeopardized. That is
+
+2 Land and Maritime Boundary between Cameroon and Nigeria, Provisional Measures, Order of
+15 March 1996, I.C.J. Reports 1996, p. 13, para. 35.
+
+3 See C. Schreuer with L. Malintoppi, A. Reinisch, A. Sinclair, The ICSID Convention. A
+Commentary (2nd ed., 2009), 774-775. In Pey Casado v. Chile, infra note 33, para. 14, the tri-
+bunal held that “[i]l y a lieu d’ajouter que les mesures conservatoires, qui sont du reste pro-
+visoires par nature et par définition (comme l|’observe avec raison la Partie défenderesse),
+peuvent étre modifiées ou annulées en tout temps par le Tribunal, ne jouissent pas de la force
+de res judicata [...]”.
+
+4 Swiss Supreme Court, Decision 4A_606/2013, 2 September 2014, as reported by P. Bartsch, A.
+Truttmann, Swiss Supreme Court Clarifies Res Judicata Effect of Preliminary Award Rendered
+by same Arbitrators in same Proceedings, at http://www.swlegal.ch/getdoc/9923adda-688b
+-ge6e-8c4f-d4331ee7e48b/2014_ Philippe-Baertsch_Aileen-Truttmann_Swiss-Supr.aspx.
+
+5 Such a demand can be presented at any time during the proceedings. For the IcJ, see Article
+73 (1), Rules of Court (1978).
+
+LAPE 16 (2017) 159-184 Downloaded from Brill.com06/06/201 9 05:28:31 AM
+
+via Leiden University
+162 GAZZINI AND KOLB
+
+the reason why provisional measures can also be taken by tribunals on their
+own authority (proprio motu).®
+
+With regard to the binding effect of provisional measures, there are two
+schools of thought.” On one hand, it has been argued, with regard to the pro-
+visional measures indicated by the 1cj, that their binding character is func-
+tionally indispensable as otherwise the very object of the entire proceedings,
+namely the protection of the parties’ rights, would be frustrated. The argument
+is further buttressed by the principle of good faith in the sense that, once the
+parties have accepted the tribunal’s jurisdiction, they also assume certain
+accessory obligations which are necessary to enable the tribunal to fully dis-
+charge its mission.’ The binding nature of provisional measures has also been
+considered as inherent to the tribunal’s function or dictated by logic.9
+
+On the other hand, some authors have maintained that there is no neces-
+sary symmetry between the final judgment and provisional measures. Inspired
+by the principle that the sovereignty of States should not be limited without a
+clear legal entitlement to do so, and fearing that a bold course on provisional
+measures could discourage States to accept the jurisdiction of the Icj, they
+have argued that these measures ought to be considered non-binding unless
+
+6 For the IcjJ, see Article 75 (1), Rules of Court (1978).
+
+7 For a full discussion, see R. Kolb, La bonne foi en droit international public (2000), 608 ff.,
+or The International Court of Justice (2013), esp. 641-645.
+
+8 See, in particular, L. Daniele, Le misure cautelari nel processo dinanzi alla Corte
+Internazionale di Giustizia (1993), esp. 150. In Quiborax v. Bolivia, infra note 33, para. 592,
+the tribunal held that “The principle of good faith involves the duty not to perform any act
+that would defeat the object and purpose of the obligation that has been undertaken by
+the parties, even if the act itself is not expressly prohibited by the provisions of the treaty”
+(footnote omitted).
+
+9 According to G.G. Fitzmaurice, “The Law and Procedure of the International Court of
+Justice, 1951-1954”, 34 British Yearbook of International Law (1958), 1, 122, “the whole logic
+of the jurisdiction to indicate interim measures entails that, when indicated, they are
+binding — for this jurisdiction is based on the absolute necessity, when the circumstances
+call for it, of being able to preserve, and to avoid prejudice to, the rights of any par-
+ties, as determined by the final judgment of the Court”. See also L. Collins, “Provisional
+and Protective Measures in International Litigation’, 234 Recueil des Cours (1992-111),
+9; L. Gross, “Some Observations on Provisional Measures”, in Y. Dinstein et al. (eds.),
+International Law at a Time of Perplexity. Essays in Honour of S. Rosenne (1989), 307;
+K. Oellers-Frahm, “Article 41”, in A. Zimmermann, C. Tomuschat, K. Oellers-Frahm,
+CJ. Tams (eds.), The Statute of the International Court of Justice, A Commentary (2nd ed.,
+2012), 1038.
+
+pownids APH lS 2 OM BATHS 06-314
+
+via Leiden University
+PROVISIONAL MEASURES IN ICSID ARBITRATION 163
+
+the court or tribunal has been conferred the power to attach to them a binding
+character.!°
+
+III Jurisprudence of the International Court of Justice
+
+According to Article 41 (1) of its Statute, the 1cj “shall have the power to indi-
+cate, if it considers that circumstances so require, any provisional measures
+which ought to be taken to preserve the respective rights of either party”.
+Prior to 2001, there was a “profound divergence in the views of authoritative
+commentators” as to whether provisional measures are binding.’* The wording
+of the Statute is all but clear. The question of the binding nature of provisional
+measures was deliberately left open at the drafting stage of the Statute of the
+Permanent Court of International Justice (PCIJ) in 1920. The word “indicate”
+rather than “order” or “decide” may suggest non-mandatory measures; but, in
+reality, the word is compatible with either interpretation, since it is neutral.
+The words “ought to be taken” rather than “shall be taken” may also suggest
+some non-binding feature; but the corresponding French wording, predomi-
+nant in 1920, reads “doivent étre prises’, which conveys the idea of a binding
+character.
+
+The practice of the Court was not conclusive for many years. Since no State
+requested a sanction for non-observance of provisional measures, the Court
+took only an oblique position on the question.’ In addition, the practice of
+States was inconclusive: some provisional injunctions were heeded by the
+
+10 _ See, in particular, J. Sztucki, Interim Measures in The Hague Court (1983); H. Thirlway, “The
+Indication of Provisional Measures by the ICJ”, in R. Bernhardt (ed.), Provisional Measures
+Indicated by International Courts (1994), 1.
+
+11 +The other authentic text reads “La Cour a le pouvoir d’indiquer, si elle estime que les
+circonstances l’exigent, quelles mesures conservatoires du droit de chacun doivent étre
+prises a titre provisoire”. In doctrine, see, in particular, $. Rosenne, Provisional Measures in
+International Law: The International Court of Justice and the International Tribunal for the
+Law of the Sea (2005); K. Oellers-Frahm, supra note 9, 1062-1069; J.J. Quintana, Litigation
+at the International Court of Justice (2015), Chapter 1.
+
+12 R. Kolb, International Court of Justice, supra note 7, 644. See also L. Collins, supra note 9,
+esp. 216 ff.; S. Rosenne, supra note 1, esp. 34 ff.
+
+13. In Vienna Convention on Consular Relations (Paraguay v. United States of America),
+Provisional Measures, Order of 9 April 1998, I.C.J. Reports 1998, p. 248, para. 41, the Court
+held that the “United States should take all measures”. The French text more clearly reads:
+“Les Etats-Unis doivent prendre toutes les mesures”.
+
+LAPE 16 (2017) 159-184 Downloaded from Brill.com06/06/201 9 05:28:31 AM
+
+via Leiden University
+164 GAZZINI AND KOLB
+
+concerned party, while many other injunctions were finally not carried out.*
+There was thus no clear opinio juris on the matter.
+The situation changed in 2001 when the Icy found that
+
+[i]t follows from the object and purpose of the Statute, as well as from
+the terms of Article 41 when read in their context, that the power to indi-
+cate provisional measures entails that such measures should be binding,
+inasmuch as the power in question is based on the necessity, when the
+circumstances call for it, to safeguard, and to avoid prejudice to, the rights
+of the parties as determined by the final judgment of the Court.!®
+
+The main point, according to the Court, is to preserve to the full extent its own
+ability to properly fulfil its judicial function. The finding was consistently reit-
+erated in subsequent decisions.
+
+In 2007, the 1cj further held that the finding in the LaGrand decision on
+the mandatory character of provisional measures merely clarified (rather than
+developed) the meaning that Article 41 of the Statute had always had, with
+the consequence that it was applicable to measures adopted before 2001. It
+observed that
+
+its ‘orders on provisional measures under Article 41 [of the Statute] have
+binding effect’ (LaGrand [...]). Although the Court only had occasion to
+make such a finding in a judgment subsequent to the Orders that it made
+in the present dispute, this does not affect the binding nature of those
+Orders, since in the Judgment referred to the Court did no more than give
+the provisions of the Statute the meaning and scope that they had pos-
+sessed from the outset. It notes that provisional measures are aimed at
+preserving the rights of each of the parties pending the final decision of
+the Court. The Court’s Orders of 8 April and 13 September 1993 indicating
+
+14 K. Oellers-Frahm, supra note 9, 1065-1066.
+
+15 LaGrand (Germany v. United States of America), Judgment, I.C.J. Reports 2001, p. 466, para.
+102. In the literature, see, in particular, R.Y. Jennings, “The LaGrand Case’, 1 The Law and
+Practice of International Courts and Tribunals (2002), 50; C. Tams, M. Memmecke, “The
+LaGrand Case’, 51 International and Comparative Law Quarterly (2002), 449; R. Sloane,
+“Measures Necessary to Ensure: The I1cJ’s Provisional Measures Order in Avena and Other
+Mexican Nationals’, 17 Leiden Journal of International Law (2004), 673; R. Kolb, “Note
+on the New International Case-Law Concerning the Binding Character of Provisional
+Measures’, 74 Nordic Journal of International Law (2005), 117.
+
+pownids APH lS 2 OM BATHS 06-314
+
+via Leiden University
+PROVISIONAL MEASURES IN ICSID ARBITRATION 165
+
+provisional measures created legal obligations which both Parties were
+required to satisfy.1©
+
+This statement might obscure rather than clarify the role of the Court. Article
+41 of the Statute as it originally stood left the question of the binding nature
+of such measures entirely open. The drafting history, the text or the practice of
+the Court in its formative years do not yield any clear answers to the question.
+Thus, the 2001 decision is in reality a piece of legal craftsmanship based on te-
+leological and effectiveness considerations, with the aim of strengthening the
+judicial process at the cj and not losing ground with respect to tribunals, such
+as the International Tribunal for the Law of the Sea (ITLOS), which possess the
+power to indicate binding provisional measures.
+
+The Court modestly veiled this part of judicial creativity by hiding
+behind the classic positivistic canon whereby the decision taken flows from
+the applicable norm in its original complexion. Lex semper loquitur. This fic-
+tion has perhaps a certain importance in international law where sovereign
+States are particularly sensitive to inroads into their sovereignty. Its function is
+to reassure States about the “proper behaviour” of the 1cJ, which purportedly
+does not seek to carve out from the Statute more powers than States (origi-
+nally) granted to it. But it stands to reason that institutional texts, as much as
+others, must not be interpreted only in the light of their historical sense. The
+interpreter can take into account later developments and engage in objective
+or dynamic interpretation of the meaning a provision should have today. This
+the Court did; and on that account it cannot be blamed.
+
+Another aspect of the matter needs to be noted. Often, the analysis stops
+with the finding that provisional measures under Article 41 of the Icj Statute
+have legally binding character. Apart from the fact that the cj could also issue
+non-binding measures if it found that through an appropriate course (who can
+do more can do less), little room is devoted to the exact consequences of that
+finding. It has been argued that the statement of the Court in LaGrand is disas-
+trous since it might affect the readiness of States to submit their disputes to the
+Court.!” This classic argument, used every time the Court has not deferred to
+the whims and wishes of a State, has no great weight: since 2001, there has been
+no significant change in the submission of cases to the Court.
+
+16 Application of the Convention on the Prevention and Punishment of the Crime of Genocide
+(Bosnia and Herzegovina v. Serbia and Montenegro), Judgment, I.C.J. Reports 2007, p. 43,
+para. 452.
+
+17. ‘See H. Thirlway, “The Law and Procedure of the International Court of Justice, 1960-1989
+(Part Twelve)”, 72 British Yearbook of International Law (2001), 37, at 126.
+
+LAPE 16 (2017) 159-184 Downloaded from Brill.com06/06/201 9 05:28:31 AM
+
+via Leiden University
+166 GAZZINI AND KOLB
+
+But taking now a look from another perspective, the question remains as to
+what consequences the breach of the provisional injunction entails. As with
+any breach of international obligations, non-compliance with binding pro-
+visional measures engages international responsibility and triggers the duty
+to make reparation.® With regard to the form of reparation, in particular, a
+perusal of the recent practice shows that the Court limits itself to granting
+satisfaction for the breach of such measures through a finding in its reasoning
+and one operative paragraph. In other words, the Court states in its judgment
+on the merits that the concerned State has breached the obligation to execute
+the provisional measures. The Court even refused to burden the wrongfully be-
+having State with procedural costs under Article 64 of the Statute, with regard
+to additional costs provoked by the breach of these measures (e.g. additional
+pleadings for other provisional measures).!° This is hardly an incentive to hon-
+our such measures.
+
+The Court should endeavour to give more teeth to its binding measures
+under Article 41 of the Statute. One option would be to place procedural costs
+on the party at fault under a new interpretation of Article 64 of the Statute.
+Another option would be to impose specific duties of restitution or of compen-
+sation for all the proximate (as opposed to incidental or remote) consequences
+of the unlawful act. Still another option would be to elaborate a specific set of
+consequences for that type of unlawful act, e.g. certain procedural disadvan-
+tages for the State at fault, thus, that State would not receive certain benefits
+as long as it had not executed the measures. It also stands to reason that these
+approaches could be combined. For the time being, the Court seems to be re-
+maining extremely cautious in this regard. It seems to have been impressed
+about the leap it dared to take in 2001 and therefore desirous of waiting for
+some time to pass before carrying further ahead on this subject matter.
+
+IV Other International Tribunals
+
+Although a review of the law and practice of international tribunals with re-
+gard to provisional measures is clearly beyond the scope of this article, it is
+
+18 See Articles 28 ff. of the International Law Commission's Draft Articles on Responsibility of
+States for Internationally Wrongful Acts, UN Doc. A/56/10, 2001.
+
+19 See, in particular, Certain Activities Carried out by Nicaragua in the Border Area (Costa Rica
+v. Nicaragua), Judgment, 15 December 2015, para. 127, and, as to procedural costs, para. 144.
+The decision has been rightly criticized by Judges Tomka, Greenwood, Sebutinde and
+Judge ad hoc Dugard.
+
+pownids APH lS 2 OM BATHS 06-314
+
+via Leiden University
+PROVISIONAL MEASURES IN ICSID ARBITRATION 167
+
+worth briefly discussing the provisions contained in some international legal
+instruments related to the settlement of international disputes. In some of
+them, the binding nature of these measures is uncontroversial. This is the case,
+in particular, of Article 290 of the Law of the Sea Convention of 1982, which
+provides that “the court or tribunal may prescribe any provisional measures
+which it considers appropriate under the circumstances to preserve the re-
+spective rights of the parties to the dispute or to prevent serious harm to the
+marine environment, pending the final decision’.2°
+
+In the same vein, Article 33 (1) of the Revised General Act for the Pacific
+Settlement of International Disputes reads “the International Court of Justice,
+acting in accordance with Article 41 of its Statute, or the Arbitral Tribunal, shall
+lay down within the shortest possible time the provisional measures to be ad-
+opted. The parties to the dispute shall be bound to accept such measures”.”!
+
+Similarly, Article 63 (2) of the American Convention on Human Rights and
+Rule 25 of the Rules of Procedure of the Inter-American Court of Human Rights
+leave no doubt about the binding nature of provisional measures. Article 63 (2)
+provides that “in cases of extreme gravity and urgency, and when necessary to
+avoid irreparable damage to persons, the Court shall adopt such provisional
+measures as it deems pertinent in matters it has under consideration’, whereas
+under Rule 25 the Court “may, at the request of a party or on its own motion,
+order such provisional measures as it deems pertinent”. The Inter-American
+Court has consistently indicated that compliance with provisional measures is
+necessary to ensure the effectiveness of its decisions on the merits and has not
+hesitated to order the concerned State to adopt provisional measures.??
+
+The binding nature of provisional measures under the European Convention
+on Human Rights, on the contrary, has been controversial for several years.
+
+20 P. Tomka, G.I. Hernandez, “Provisional Measures in the International Tribunal for the Law
+of the Sea’, in H.P. Hestermeyer et al. (eds.), Coexistence, Cooperation and Solidarity. Liber
+Amicorum R. Wolfrum (2012), Vol. 11, 1763. See PCA Case No. 2015-28, The “Erica Lexie”
+Incident (Italy v. India), Request for the Prescription of Provisional Measures, 29 April
+2016, esp. paras. 72, 120 and 132, at https://pcacases.com/web/sendAttach/1707. An identi-
+cal provision can be found in Article 31.1 of the European Convention for the Peaceful
+Settlement of Disputes.
+
+21 +The authentic French text reads: “la Cour International de Justice, statuant conformé-
+ment a l’Article 41 de son Statut, ou le Tribunal arbitral, indiquera, dans le plus bref délai
+possible, quelles mesures provisoires doivent étre prises. Les parties en litige seront
+tenues de s’y conformer’.
+
+22 Fora recent example, see Order of the Inter-American Court of Human Rights of May 29,
+2013. Provisional Measures with regard to El Salvador Matter of B, available at http://www
+.corteidh.or.cr/docs/medidas/B_se_o1_ing.pdf.
+
+LAPE 16 (2017) 159-184 Downloaded from Brill.com06/06/201 9 05:28:31 AM
+
+via Leiden University
+168 GAZZINI AND KOLB
+
+Neither the Convention nor its Protocols expressly refer to provisional mea-
+sures. In 1991, the European Court of Human Rights (ECtHR) held by a ten to
+nine majority that the (then) European Commission of Human Rights had not
+been bestowed by the Convention with the power to adopt mandatory provi-
+sional measures.?3
+
+On 17 June and 8 July 2002, the European Court of Human Rights inserted
+Rule 39 according to which the Court may, at the request of a party or of any
+other person concerned, or of its own motion, indicate to the parties any inter-
+im measure which it considers should be adopted in the interests of the parties
+or of the proper conduct of the proceedings. Although Rule 39 is not drafted in
+clear, mandatory terms, in 2003, the European Court of Human Rights followed
+without hesitation the 1cyj decision in LaGrand and held that:
+
+[interim measures] enable the State concerned to discharge its obliga-
+tion to comply with the final judgment of the Court, which is legally
+binding by virtue of Article 46 of the Convention. [...] any State Party
+to the Convention to which interim measures have been indicated in
+order to avoid irreparable harm being caused to the victim of an alleged
+violation must comply with those measures and refrain from any act or
+omission that will undermine the authority and effectiveness of the final
+judgment.?+#
+
+Two years later, the Grand Chamber upheld the finding and definitively settled
+the question.?> It must nonetheless be noted that three judges dissented and
+argued that
+
+23 Cruz Varas and Others v. Sweden, No. 15576/89, Judgment, 20 March 1991, paras. 102—
+103. Rule 36 of the Rules of the European Commission on Human Rights reads: “The
+Commission, or when it is not in session, the President may indicate to the parties any
+interim measure the adoption of which seems desirable in the interest of the parties or
+the proper conduct of the proceedings before it”.
+
+24 Mamatkulov and Abdurasulovic v. Turkey, No. 46827/99 and 46951/99, Judgment,
+6 February 2003, paras. 104—110.
+
+25 Mamatkulov and Askarov v. Turkey, No. 46827/99 and 46951/99, Grand Chamber,
+4 February 2005. The Court concluded that “[a] failure by a Contracting State to comply
+with interim measures is to be regarded as preventing the Court from effectively examin-
+ing the applicant’s complaint and as hindering the effective exercise of his or her right
+and, accordingly, as a violation of Article 34” (para. 128). On these decisions, see C.J. Tams,
+“Interim Orders by the ECTHR — Comments on Mamatkulov and Abdurasulovic v. Turkey’,
+63 Zeitschrift fiir ausldndisches 6ffentliches Recht und Vélkerrecht (2003), 681; K. Oellers-
+Frahm, “Verbindlichkeit einstweiliger Massnahmen: Der EMGR vollzieht — endlich — die
+
+pownids APH lS 2 OM BATHS 06-314
+
+via Leiden University
+PROVISIONAL MEASURES IN ICSID ARBITRATION 169
+
+neither Article 26 (d) of that Convention, empowering the Court to enact
+Rules of Procedure, nor Article 34, instituting the right of individual appli-
+cation, is sufficiently connected to the issue under consideration to fill a
+‘gap’ in the Convention by instituting binding interim measures ex nihilo,
+thereby imposing on the States Parties to the Convention an obligation
+without their consent. In other words, there is a big difference between
+a simple interpretation of a treaty and its amendment, or between the
+exercise of the judicial role and international legislation.7°
+
+Since then, the ECtHR has systematically reiterated its position on the binding
+nature of provisional measures. In a recent case, for instance, it stressed
+
+the special importance attached to interim measures in the Convention
+system. Their purpose is not only to enable an effective examination of
+the application to be carried out but also to ensure that the protection
+afforded to the applicant by the Convention is effective; such measures
+subsequently allow the Committee of Ministers to supervise the execu-
+tion of the final judgment. Interim measures thus enable the State con-
+cerned to discharge its obligation to comply with the final judgment of the
+Court, which is legally binding by virtue of Article 46 of the Convention.?”
+
+Yet, the binding nature of provisional measures has not gone unchallenged and
+States have occasionally refused to comply with them.?8 In Amiroyv v. Russia, for
+instance, the respondent government challenged the legally binding force of
+the provisional measures and argued that the power to issue such measures
+cannot be drawn from Article 34 of the Convention or from any other source.”°
+
+The developments related to the European Convention on Human Rights
+further confirm the tendency to affirm the binding character of provisional
+measures under the different schemes of international adjudication that exist.
+It has been argued that a general principle of international law has emerged
+
+erforderliche Wende in seiner Rechtsprechung”, 30 Europdische Grundrechte Zeitschrift
+(2003), 689; G. Cohen-Jonathan, “Sur la force obligatoire des mesures provisoires. Larrét
+de la Grande Chambre européenne du 4 février 2005”, 109 Revue Générale de Droit
+International Public (2005), 421.
+
+26 Mamatkulov and Askarov v. Turkey, supra note 25, Joint Partly Dissenting Opinion of
+Judges Caflisch, Tirmen and Kovler, para. 11.
+
+27 Amirov v. Russia, No. 51857/13, Judgment, 27 November 2014, para. 66.
+
+28 See, in particular, W.A. Schabas, The European Convention on Human Rights (2015),
+750-751.
+
+29 Amirov v. Russia, supra note 27, para. 62.
+
+LAPE 16 (2017) 159-184 Downloaded from Brill.com06/06/201 9 05:28:31 AM
+
+via Leiden University
+170 GAZZINI AND KOLB
+
+and that any standing international jurisdiction should be presumed to have
+the power to issue binding provisional measures when they are entitled to “in-
+
+dicate’, “order”, “prescribe” or “adopt” such measures.*° It is against this back-
+ground that the IcsID jurisprudence has to be appreciated.
+
+Vv Decisions by 1cs1D Tribunals
+
+The adoption of provisional measures by IcsID tribunals is governed by Article
+47 of the IcSID Convention and further defined in Rule 39 of the Arbitration
+Rules.*! In accordance with Article 47 of the IcsID Convention, a tribunal
+“may, if it considers the circumstances so require, recommend any provisional
+measures which should be taken to preserve the respective interests of either
+party” (emphasis added). In the other two authentic languages, namely French
+and Spanish, Article 47 reads respectively: “le Tribunal peut, s’il estime que les
+circonstances l’exigent, recommander toutes mesures conservatoires propres a
+sauvegarder les droits des parties” (emphasis added); and “el Tribunal, si con-
+sidera que las circunstancias asi lo requieren, podra recomendar la adopci6n
+de aquellas medidas provisionales que considere necesarias para salvaguardar
+los respectivos derechos de las partes”.
+Under Rule 39 of the Arbitral Rules, in turn,
+
+a party may request that provisional measures for the preservation of
+its rights be recommended by the Tribunal. The request shall specify the
+rights to be preserved, the measures the recommendation of which is
+requested, and the circumstances that require such measures (emphasis
+added).
+
+30 ~=— A. Tzanakopoulos, “Provisional Measures Indicated by International Courts: Emergence
+of a General Principle of International Law’, 57 Revue Hellenique de droit international
+(2004), 53.
+
+31 In the literature, see, in particular, Z. Mavrogordato, G. Sidere, “The Nature and
+Enforceability of ICSID Provisional Measures”, 75 Arbitration (2009), 38; G. Kaufmann-
+Kohler, A. Antonietti, “Interim Relief in International Investment Agreements’, in
+K. Yannaca-Small (ed.), Arbitration under International Investment Agreements: An
+Analysis of the Key Procedural, Jurisdictional and Substantive Issues (2010), 530; D. Sarooshi,
+“Provisional Measures and Investment Treaty Arbitration”, 29 Arbitration International
+(2013), 361; S. Luttrell, “ICSID Provisional Measures ‘In the Round’’, 31 Arbitration
+International (2015), 393; B. Stern, “Interim/Provisional Measures, Occidental v. Ecuador,
+ICSID ARB/o6/11’, in M. Kinnear et al. (eds.), Building International Investment Law. The
+First 50 Years of ICSID (2016), 627.
+
+pownids APH lS 2 OM BATHS 06-314
+
+via Leiden University
+PROVISIONAL MEASURES IN ICSID ARBITRATION 171
+
+While the French version perfectly coincides with the English one,** the
+Spanish version contains a significant difference as it reads
+
+cualquiera de las partes [...] puede solicitar que el Tribunal recomiende la
+adopcion de medidas provisionales para la salvaguardia de sus derechos.
+La solicitud debera especificar los derechos que se salvaguardaran, las
+medidas cuya recomendacion se pide, y las circunstancias que hacen
+necesaria la dictacién de tales medidas (emphasis added).
+
+Article 47 of the Ics1D Convention and Rule 39 of the Arbitration Rules stand
+in sharp contrast with Article 26 (1) of the UNCITRAL Arbitration Rules under
+which arbitral tribunals may, at the request of a party, grant interim measures.
+
+With one exception, all tribunals that have dealt with this issue have held
+that, under Article 47 of the 1cstD Convention and Rule 39 of the Arbitration
+Rules, they have been conferred the power not only to recommend but also to
+bind the parties with regard to provisional measures.** In Maffezini v. Spain,
+
+32 ‘The French text reads: “une partie peut [...] requérir que des mesures provisoires pour
+la conservation de ses droits soient recommandees par le Tribunal. La requéte spécifie
+les droits devant étre préservés, les mesures dont la recommandation est sollicitée et les
+circonstances qui rendent ces mesures nécessaires” (emphasis added).
+
+33 Amongst the many decisions in this sense, see Maffeziniv. Spain, 1CSID Case No. ARB/97/7,
+Procedural Order No. 2, 28 October 1999, para. 9; Pey Casado and President Allende
+Foundation v. Chile, 1cS1D Case No. ARB/98/2, Provisional Measures, 25 September 2001,
+paras. 19-20; Tokios Tokelés v. Ukraine, 1cS1D Case No. ARB/o2/18, Procedural Order No. 1,
+1 July 2003, para. 4; Azurix v. Argentina, IcSID Case No. ARB/o1/12, Provisional Measures,
+6 August 2003, paras. 30-31; Occidental v. Ecuador, 1cS1D Case No. ARB/06/11, Provisional
+Measures, 17 August 2007, para. 58; City Oriente Ltd v. Ecuador and Empresa Estatal de
+Petroleos del Ecuador, icsip Case No. ARB/o6/21, Provisional Measures, 19 November
+2007, para. 52; Perenco Ecuador Limited v. Ecuador, 1cS1D Case No. ARB/o8/6, Provisional
+Measures, 8 May 2009, para. 43; Burlington Resources Inc. v. Ecuador, 1cSID Case No.
+ARB/08/5, Provisional Measures, 29 June 2009, paras. 62 ff.; Quiborax S.A. and Non-Metallic
+Minerals S.A. v. Bolivia, 1cS1D Case No. ARB/06/2, Provisional Measures, 26 February 2010,
+para. 108, and Award, 15 September 2015, paras. 578-579; Spyridon Roussalis v. Romania,
+IcsID Case No. ARB/o6/1, Award, 7 December 2011, paras. 24 and 29 (Decision on provi-
+sional measures (not public)); Tethyan v. Pakistan, 1CS1D Case No. ARB/12/1, Provisional
+Measures, 13 December 2012, para. 120; RSM Production Corporation v. Saint Lucia, 1CSID
+Case No. ARB/12/10, Request for Security for Costs, 13 August 2014, para. 48; PNG Sustainable
+Development Program Ltd. v. Papua New Guinea, ICSID Case No. ARB/13/33, Provisional
+Measures, 15 January 2015, para. 102; Transglobal Green Energy, LLc and Transglobal Green
+Energy de Panama, S.A. v. Panama, ICSID Case No. ARB/13/28, Provisional Measures,
+21 January 2016, para. 25; Valle Verde Sociedad Financiera S.L. v. Venezuela, 1CSID Case No.
+
+LAPE 16 (2017) 159-184 Downloaded from Brill.com06/06/201 9 05:28:31 AM
+
+via Leiden University
+172 GAZZINI AND KOLB
+
+the tribunal for the first time addressed the question of the hortatory or man-
+datory character of provisional measures. It took into account only the English
+and Spanish versions and focused on Rule 39. It held that
+
+[while there is a semantic difference between the word ‘recommend’ as
+used in Rule 39 and the word ‘order’ as used elsewhere in the Rules to
+describe the Tribunal’s ability to require a party to take a certain action,
+the difference is more apparent than real. It should be noted that the
+Spanish text of that Rule uses also the word ‘dictacién’ The Tribunal does
+not believe that the parties to the Convention meant to create a substan-
+tial difference in the effect of these two words. The Tribunal’s authority to
+rule on provisional measures is no less binding than that of a final award.
+Accordingly, for the purposes of this Order, the Tribunal deems the word
+‘recommend’ to be of equivalent value as the word ‘order’.3*
+
+After the decision in LaGrand was delivered, several ICSID tribunals shared the
+teleological argument developed by the cj with regard to Article 41 of the IcJ
+Statute. In Pey Casado v. Chile, in particular, the tribunal opined that Article 47
+of the 1cs1D Convention was modelled (“directement inspiré”) on Article 41 of
+the Icy Statute.°> It borrowed the teleological argument developed by the Icj
+in LaGrand to uphold the mandatory character of provisional measures on the
+need to preserve the (possible) execution of the pending decision on the mer-
+its and to prevent that a party’s acts or omissions could undermine the rights
+of the other party.?° In Perenco v. Ecuador, the tribunal also included in the
+equation the term “request”, which appears in ICsID Arbitration Rule 39, and
+concluded that “[t]he parallels between ‘recommend’ in the Ics1D Convention
+
+ARB/12/18, Provisional Measures, 25 January 2016, para. 75; United Utilities (Tallinn) B.V.
+and Aktsiaselts Tallinna Vesi v. Estonia, 1cS1D Case No. ARB/14/24, Provisional Measures,
+12 May 2016, para. 109.
+
+34  Maffezini v. Spain, supra note 33, para. 9. Other tribunals emphasised the importance of
+the verb ‘dictar’ used in the Spanish text, see, for instance, Transglobal v. Panama, supra
+note 33, para. 25.
+
+35 Pey Casado v. Chile, supra note 33, para. 2, quoted with approval by other tribunals, i.e.
+CEMEX Caracas Investments B.V. and CEMEX Caracas II Investments B.V. v. Bolivia, 1CSID
+Case No. ARB/08/15, Provisional Measures, 10 March 2010, para. 39. In City Oriente Ltd
+v. Ecuador, supra note 33, para. 53, the tribunal held that “[i]n any event, whatever the
+meaning ascribed to such words, a failure to comply with orders given to Respondents
+by the Tribunal in accordance with Article 47 of the Convention will entail a violation of
+Article 26 thereof, and engage Respondents’ liability”.
+
+36 ~—- Pey Casado v. Chile, supra note 33, paras. 19-20.
+
+pownids APH lS 2 OM BATHS 06-314
+
+via Leiden University
+PROVISIONAL MEASURES IN ICSID ARBITRATION 173
+
+and ‘indicate’ in the Icy Statute are quite clear, suggesting that one cannot
+rightly assume that a ‘request’ is comparatively weaker than a ‘recommenda-
+tion’, or that neither is binding”.3”
+
+The argument was fortified by a reference to the principle that the parties
+to a pending dispute should not take steps that might aggravate it or prejudice
+the execution of the award.*8 In Perenco v. Ecuador, the tribunal held that
+
+[i]rrespective of the precise terminology used, the Tribunal’s efforts to
+effectuate its mandate under a treaty by prevailing on the parties
+to maintain the status quo in the case before it are binding on the par-
+ties pursuant to their obligations under said treaty. [...]. In becoming a
+Party to a treaty such as the Ics1D Convention |...], a State confers upon
+an arbitral tribunal jurisdiction over certain claims and assumes an obli-
+gation to take whatever steps might be necessary to comply with deci-
+sions rendered by the tribunal pursuant to the treaty. So long as and to
+the extent that the arbitration is in progress, both parties are under an
+international obligation to comply with whatever the tribunal issues as
+provisional measures for the purpose of protecting its jurisdiction and its
+ability, should it so decide, to grant the relief requested. State Parties to
+the IcsID Convention thus inherently are under an international obliga-
+tion to comply with provisional measures issued by an IcsI1D tribunal.39
+
+A stream of decisions confirming the mandatory character of provisional mea-
+sures has followed this line of reasoning.*° Tribunals refrained from under-
+
+37. Perenco Ecuador Ltd. v. Ecuador, note 33, para. 69 in fine. In the same vein, see also City
+Oriente Limited v. Ecuador, supra note 33, para. 393; Quiborax v. Bolivia, supra note 33,
+Provisional Measures, para. 108.
+
+38 Para. 24.
+
+39 ~~ -Perenco v. Ecuador, supra note 33, paras. 66 and 67. In the same vein, in Burlington v.
+Ecuador, supra note 33, para. 66, the tribunal held that “by ratifying the 1cs1D Convention,
+Ecuador has accepted that an 1cs1D tribunal may order measures on a provisional basis,
+even in a situation which may entail some interference with sovereign powers and
+enforcement duties”.
+
+40 ~~ See the decision referred to in note 33. It must nonetheless be noted that some tribunals
+have referred only to their authority to recommend provisional measures under Article
+47, ICSID Convention; see, for instance, Phoenix Action, Ltd. v. Czech Republic, 1cS1D Case
+No. ARB/o06/5, Provisional Measures, 6 April 2007, paras. 29-30; Railroad Development
+Corporation v. Guatemala, ICSID Case No. ARB/o7/23, Provisional Measures, 15 October
+2008, para. 31; Hydro S.r.l. and others v. Albania, 1csID Case No. ARB/15/28, Provisional
+Measures, 3 March 2016, paras. 3.7, 3.12, 3.41 and 5.1.
+
+LAPE 16 (2017) 159-184 Downloaded from Brill.com06/06/201 9 05:28:31 AM
+
+via Leiden University
+174 GAZZINI AND KOLB
+
+taking any detailed analysis of the relevant provisions and simply conformed
+themselves to what they considered as the consolidated jurisprudence on this
+point, normally accompanied with reference to a couple of prior decisions.
+
+The following sequence of decisions clearly illustrates how tribunals have
+built up the jurisprudence on this point. In Tokios Tokelés v. Ukraine, the tribu-
+nal confined itself to point out that “according to a well-established principle
+laid down by the jurisprudence of the Ics1D tribunals, provisional measures
+‘recommended’ by an IcsID tribunal are legally compulsory; they are in effect
+‘ordered’ by the tribunal, and the parties are under a legal obligation to comply
+with them”.#!
+
+Four years later, another tribunal held that “although Article 47 of the 1cs1D
+Convention uses the word ‘recommend; the Tribunal is, in fact, empowered to
+order provisional measures. This has been recognized by numerous interna-
+tional tribunals, among them the Ics1D tribunal in the Tokios Tokelés case”.
+Another eight years passed and in PNG v. Papua New Guinea the tribunal
+reiterated the power of IcsID tribunals to order — instead of recommend —
+provisional measures.*? It refrained from elaborating any legal argument to
+support this conclusion and laconically relied on a single decision, Occidental
+v. Ecuador, which in turn made a reference to “numerous international tribu-
+nals”, but expressly indicates only the tribunal appointed in Tokios Tokeleés v.
+Ukraine.**
+
+The view that IcsID tribunals may order provisional measures under Article
+47 has found limited opposition. In Caratube v. Kazakhstan, the tribunal held,
+without any explanation, that “according to Rule 39, the Tribunal cannot order,
+but can only recommend provisional measures in ICSID proceedings”.*> In
+a more recent case, a dissenting arbitrator argued that the text of Article 47
+of the Ics1D Convention and Rule 39 of the Arbitration Rules is unequivocal
+
+41 Tokios Tokelés v. Ukraine, supra note 33, para. 4.
+
+42 Occidental v. Ecuador, supra note 33, para. 58.
+
+43 PNG v. Papua New Guinea, IcsID Case No. ARB/13/33, supra note 33, para. 102. In RSM
+v. Saint Lucia, supra note 33, para. 48, the tribunal held that “[t]here is no question, in
+general, that the Tribunal has the authority to order provisional measures to preserve
+a Party’s right”. Regrettably, it failed to indicate any legal argument — either directly or
+through prior decisions — to support the finding.
+
+44 Similarly, in United Utilities v. Estonia, supra note 33, para. 109, the tribunal considered
+that “it has the authority to order, not merely to ‘recommend, provisional measures.
+This has been recognised by many IcsID tribunals, as stated in Tokios Tokelés v. Ukraine”
+(emphasis added).
+
+45 Caratube International Oil Company LLP v. Kazakhstan, tcstD Case No. ARB/08/12,
+Provisional Measures, 31 July 2009, para. 67.
+
+pownids APH lS 2 OM BATHS 06-314
+
+via Leiden University
+PROVISIONAL MEASURES IN ICSID ARBITRATION 175
+
+in providing that an IcsID tribunal may recommend - as opposed to order —
+provisional measures. In his words, “no matter how many times it is repeated,
+an order is not a recommendation. Only in the jurisprudence of an imaginary
+Wonderland would this make sense”.*® He further fortified the literal interpre-
+tation with a double a contrario argument. On the one hand, he argued that had
+the contracting parties to the IcsID Convention intended to confer on ICSID
+tribunals the power to order provisional measures they would have drafted
+Article 47 differently and articulated some standards or guidance for grant-
+ing these measures. On the other hand, he emphasised that, unlike Article 47
+of the 1cs1D Convention, the corresponding article in the Additional Facility
+Rules — Article 46 — contains a reference to the provisional measures “ordered”
+by the tribunal.*” Additionally, the legally binding nature of provisional mea-
+sures has been occasionally challenged — without success — by States.*®
+
+Apart from this rather isolated criticism, IcsID tribunals’ decisions on pro-
+visional measures resemble a litany combining, on the one hand, the admis-
+sion that the ordinary meaning, the context and the travaux préparatoires of
+Article 47 of the 1cs1D Convention militate against the power to order such
+measures, and, on the other hand, the decisive findings based on the Spanish
+text of Rule 39 of the Arbitration Rules as well as on the I1cJ jurisprudence that
+provisional measures need to be mandatory in order to fulfil their function,
+namely to preserve effectively the rights of the parties. The award in Quiborax
+v. Bolivia, dealing, inter alia, with the order issued by the tribunal to the re-
+spondent to take as a matter of provisional measures all appropriate measures
+to suspend certain criminal proceedings directly related to the arbitration,*®
+conveniently states the point. In the tribunal’s words,
+
+[i]t is true that the ordinary meaning of this provision, especially the
+terms ‘recommend’ and ‘should be taken’ do not convey the notion of a
+binding order. The same can be said for the context; other provisions of
+the IcsID Convention use different language when referring to binding
+
+46 __ E. Nottingham, dissenting opinion in RSM Production v. Saint Lucia, supra note 33,
+para. 16.
+
+47 Ibid., para. 4.
+
+48 See, for instance, the position of the respondent in Quiborax v. Bolivia, supra note 33,
+Award, para. 574 (a).
+
+49 On decisions by investment tribunals related to the continuation of domestic proceed-
+ings and the related level of deference, see D. Kalderimis, “The Authority of Investment
+Treaty Tribunals to Issue Orders Restraining Domestic Court Proceedings’, 31 [CSID
+Review (2016), 549, esp. 562-563.
+
+LAPE 16 (2017) 159-184 Downloaded from Brill.com06/06/201 9 05:28:31 AM
+
+via Leiden University
+176 GAZZINI AND KOLB
+
+obligations. Similarly, the travaux préparatoires of the IcS1D Convention,
+to the extent relevant as supplementary means of interpretation, show
+that an earlier draft using the word ‘prescribe’ was then changed to ‘rec-
+ommend’. Despite this, 1cs1p tribunals have consistently found that
+they have the power to make binding orders for provisional measures.
+The rationale is that these decisions derive their mandatory force from
+the function of provisional remedies, which is to secure the applicant's
+rights while the proceedings are pending. To use the words of the Icj in
+LaGrand, ‘the power in question is based on the necessity, when the cir-
+cumstances call for it, to safeguard, and to avoid prejudice to, the rights of
+the parties as determined by the final judgment of the Court’. While the
+wording and the context of Article 41 of the cj Statute are not strictly
+identical to those of the IcsID Convention (‘indicate’ instead of ‘recom-
+mend’), the function of the measures is the same.5°
+
+The tribunal also held that failure to adopt the provisional measures ordered
+under Article 47 amounts to a breach of such provision, but does not neces-
+sarily entail a violation of the duty to arbitrate in good faith.*! It did not attach
+any specific consequences to non-compliance with provisional measures. It
+is generally accepted that 1cs1D tribunals may take the attitude of the parties
+regarding provisional measures into account when dealing with the merits of
+the dispute.
+
+VI Analysis of Legal Argument in Favour of the Mandatory Character
+of Provisional Measures according to the Applicable Legal
+Provisions
+
+It is submitted that the finding that Ics1pD tribunals have the power not only
+to recommend but also to impose provisional measures is not persuasive as
+a matter of treaty interpretation. In the first place, the focus and insistence
+
+50 Quiborax v. Bolivia, supra note 33, Award, paras. 578-579. On preparatory work, see infra
+text note 57.
+
+51 ‘The tribunal felt the need to clarify in footnote 743 that “provisional measures issued
+under Article 47 are binding per se, a failure to comply with them will automatically entail
+a breach of Article 47. This does not necessarily give rise to a breach of the underlying
+right that the measures seek to preserve; whether those rights are harmed will depend on
+the facts of the case”. The tribunal eventually found no breaches of the duty of good faith
+regarding the procedural conduct in the arbitration, paras. 594-596.
+
+pownids APH lS 2 OM BATHS 06-314
+
+via Leiden University
+PROVISIONAL MEASURES IN ICSID ARBITRATION 177
+
+on Rule 39 of the Arbitration Rules rather than on Article 47 of the IcsID
+Convention is unfortunate as the former are meant to implement the latter
+and be “subject to the Convention’.*? As a result, the interpreter must consider
+first and foremost Article 47 of the 1cs1D Convention. The Arbitration Rules
+could be used, when appropriate, to confirm, clarify or determine the meaning
+attached to Article 47 of the IcsID Convention.
+
+It follows that tribunals are expected to concentrate on Article 47 of the
+ICSID Convention and to meticulously interpret it in accordance with Articles
+31 to 33 of the Vienna Convention on the Law of Treaties (vcLT), keeping in
+mind that “the text of the treaty is deemed to be the authentic expression of
+the intentions of the parties; and its elucidation, rather than wide-ranging
+searches for the supposed intentions of the parties, is the proper object of
+interpretation.”>?
+
+The ordinary meaning of Article 47 of the Ics1D Convention is straight-
+forward. All three of the authentic versions of the treaty refer to the power
+of ICSID tribunals to recommend provisional measures. The verb “to recom-
+mend” has an unambiguous meaning, which is definitely distinct from that of
+the verb “to order”. In using it in Article 47, the contracting parties to a treaty
+made a deliberate choice for the purpose of defining the powers of the tribu-
+nals and the related obligations of the parties to the dispute.
+
+That IcstID tribunals have received the power to recommend, but not to
+order, provisional measures is fully consistent with the object and purpose of
+both the treaty as a whole and Article 47 of the Ics1D Convention. It cannot
+be postulated that these objects and purposes, namely ensuring a stable legal
+framework and an adequate protection of foreign investment, imperatively
+demand that Ics1D tribunals have the competence to order the adoption of
+provisional measures.
+
+Arbitration Rule 39 can certainly be taken into account as context for the
+purpose of interpreting Article 47 of the Ics1D Convention in accordance with
+Article 31 (2) of the vcLT. Being meant to implement Article 47, however, Rule
+39 cannot dislodge its clear literal meaning. Even assuming, for the sake of ar-
+gument, that the meaning of Article 47 is not entirely clear, it must be empha-
+sized that Rule 39 does not point unambiguously to the mandatory character
+of provisional measures. In all three authentic texts, Rule 39 allows the parties
+
+52  C.Schreuer with L. Malintoppi, A. Reinisch, A. Sinclair, supra note 3, 683.
+
+53  Methanex Corp. v. United States, UNCITRAL (NAFTA), Final Award, 3 August 2005, Part II,
+Chapter B, para. 22. Accordingly, as pointed out in Sociedad General de Aguas de Barcelona
+S.A. v. Argentina, ICSID Case No. ARB/03/17, Jurisdiction, 16 May 2006, para. 54, “[t]he
+starting place for any exercise in interpretation is therefore the treaty text itself”.
+
+LAPE 16 (2017) 159-184 Downloaded from Brill.com06/06/201 9 05:28:31 AM
+
+via Leiden University
+178 GAZZINI AND KOLB
+
+to the dispute to request a Tribunal to recommend the adoption of provisional
+measures to preserve their rights. And only the Spanish text makes a reference
+to “la dictacién” of provisional measures, which alludes to their mandatory
+character.** The use of the term dictacion in the Spanish version is the only ele-
+ment in Rule 39 militating in favour of the mandatory character of provisional
+measures. However, such an element almost pales in significance compared
+with the clear and coherent use of the verb “to recommend?” in all authentic
+versions of Article 47 of the IcsID Convention as well as Arbitration Rule 39.
+
+From the standpoint of Article 33 of the vcLT, furthermore, it must be
+pointed out that the interpreter is not supposed to select one or several lan-
+guages, but rather to extract from the treaty “the best reconciliation of the
+differences”.*> Elevating the term dictacidn used in just one version of Rule 39
+to the crucial element for the interpretation of Rule 39 is questionable, espe-
+cially when considering the rest of the Spanish version as well as the English
+and French versions, which unmistakably reveal the recommendatory nature
+of provisional measures. This conclusion is further strengthened by the clear
+indication contained in the Spanish version of note B to Arbitration Rule 39,
+published by IcsID in 1968, that “a menos que las partes convengan lo con-
+trario, el Tribunal sélo tiene la facultad de ‘hacer recomendaciones’”.°®
+
+Should any doubts remain, they should be dissipated by the travaux prépara-
+toires. The question of the nature of provisional measures was raised during
+the negotiations and the proposal to confer on tribunals to order their adop-
+tion was defeated. The verb “to prescribe” that appeared in a previous draft of
+what would become Article 47 of the Ics1D Convention was eventually sup-
+planted by the verb “to recommend’, thus demonstrating the reluctance of the
+contracting parties to confer on ICSID tribunals the power to order provisional
+measures.>”
+
+54 In City Oriente Ltd v. Ecuador, supra note 33, para. 52, for instance, the tribunal found that
+the distinction between recommending and ordering “is more apparent than it is real,
+since Rule 39 (1) itself does, in its Spanish version, mention the ‘dictacidn’ [ordering] of
+the provisional measures, which demonstrates that, as far as the Rules are concerned,
+such words are used interchangeably”.
+
+55 R. Gardiner, Treaty Interpretation (2nd ed., 2015), 380.
+
+56 Reglas procesuales aplicables a los procedimientos de arbitraje, Regla 39, Notas B, p. 105,
+https://icsid-worldbank.org/apps/ICSIDWEB/resources/Documents/ICSID%20
+Regulations%2o0and%2o0Rules%201968%20-%20ENG.pdf.
+
+57. See, in particular, Summary Proceedings of the Legal Committee Meeting, 8 December
+1964, in A. Broches, History of the ICSID Convention, Vol. 11, 812-815. See also Quiborax
+v. Bolivia, supra note 33, Award, para. 578. On the legislative history of Article 47, see
+C.N. Brower, R.E.M. Goodman, “Provisional Measures and the Protection of ICSID
+
+pownids APH lS 2 OM BATHS 06-314
+
+via Leiden University
+PROVISIONAL MEASURES IN ICSID ARBITRATION 179
+
+With regard to the LaGrand decision, there is no doubt that IcsID tribunals
+are allowed — and indeed must be encouraged*® — to look at the legal argu-
+ments developed by the Icj as a source of inspiration to interpret investment-
+related treaties and to settle investment disputes. Yet, they must make sure
+that such arguments are susceptible to being extended to investment disputes,
+a question that largely depends on the text and content of the relevant legal in-
+struments, which in the case under discussion are Article 41 of the 1cj Statute,
+Article 47 of the IcsID Convention and Rule 39 of the Ics1D Arbitration Rules.
+
+In the decisions sketched out above, IcsID tribunals conceded the sig-
+nificant textual differences between Article 47 of the IcsID Convention and
+Article 41 of the 1cj Statute. They nonetheless largely overlooked them
+and did not see any obstacle to transposing in an almost mechanical fashion
+to the former the interpretation of the latter adopted by the 1cj. They passively
+borrowed the legal argument elaborated in LaGrand without inquiring as to
+the difference between Article 41 of the cj Statute and Article 47 of the IcsID
+Convention. The former consistently and in all authentic languages uses the
+verb “to recommend”, whereas the latter employs, in the English, Spanish and
+French texts, the verb “to indicate”. The importance of the difference must not
+be underestimated since the use of “to recommend” in Article 47 of the IcsID
+Convention results from a deliberate choice made by the contracting parties,
+which were well aware of the text of Article 41 of the cj Statute. Leaving aside
+its persuasiveness,°? the legal argument underpinning the LaGrand decision
+can find limited application in relation to Article 47 of the Ics1D Convention.
+
+Two final related considerations — both having a distinct teleological
+flavour — deserve to be mentioned. The first concerns the well-established
+principle that the parties to a dispute must refrain from taking measures sus-
+ceptible to aggravate the dispute or hamper the execution of the award.®° The
+principle alone does not postulate the power of an arbitral tribunal to order
+mandatory provisional measures. Otherwise, the entire debate on the horta-
+tory or mandatory character of provisional measures that opposed leading
+
+Jurisdictional Exclusivity against Municipal Proceedings’, 6 JCSID Review (1991), 431, esp.
+440 ff; A.R. Parra, The History of ICSID (2012), esp. 173 ff.
+
+58 A. Pellet, “The Case Law of the ICJ in Investment Arbitration’, 28 [CSID Review (2013), 223.
+
+59 See Section III.
+
+60 —_ See, for instance, Amco Asia Corporation and others v. Indonesia, 1CS1D Case No. ARB/81/1,
+Provisional Measures, 9 December 1983, 1 [CSID Reports (1993), 401, 411. In Caratube v.
+Kazakhstan, supra note 45, para. 67, the tribunal held that “the Parties have an obligation
+to conduct the procedure in good faith and that this obligation includes a duty to avoid
+any unnecessary aggravation of the dispute and harassment of the other party”.
+
+LAPE 16 (2017) 159-184 Downloaded from Brill.com06/06/201 9 05:28:31 AM
+
+via Leiden University
+180 GAZZINI AND KOLB
+
+scholars for decades would not have made any sense. The existence of such
+an obligation and the legal nature of a decision by a tribunal on provisional
+measures are two different questions. The parties to a dispute must comply
+with the obligations stemming from the principle independently from the
+powers conferred on the tribunal or their exercise.®!
+
+The second consideration relates to the consequences of disregarding a tri-
+bunal’s recommendation on provisional measures. During the negotiation of
+the IcsID Convention, a proposal that intended to introduce a sanction for
+non-compliance with these measures was rejected.®* Instead, it was agreed
+that IcsID tribunals would “take into account” such conduct.®? Some authors
+have associated the fact that tribunals could take into account the reluctance
+of any party to adopt the recommended measures with a “moral obligation” to
+do so.* Be that as it may, the very fact that no sanction was attached to non-
+compliance seems to confirm — or at least to be compatible with — the horta-
+tory nature of such provisional measures.
+
+VII Relevance of the Attitude of IcSID Members
+
+If it is accepted that the interpretation upheld in the decisions sketched out
+above is not persuasive, it is appropriate to inquire with regard to what the
+consequences and implications may be.®* From this perspective, it must be
+kept in mind that the parties to a treaty remain “the transaction’s exclusive and
+absolute domini”®® and that international rules — including those contained in
+
+61 ~~ ‘In Churchill Mining Plc and Planet Mining Pty Ltd v. Indonesia, 1cSID Case No. ARB/12/14
+and 12/40, Provisional Measures, 4 March 2013, para. 57, the tribunal held that “[w]hile
+the request for provisional measures must be denied, the Tribunal reminds the Parties
+of their general duty, which arises from the principle of good faith, not to take any action
+that may aggravate the dispute or affect the integrity of the arbitration”. See also text and
+note 51.
+
+62 See A.R. Parra, supra note 57, 86.
+
+63. A. Broches, supra note 57, p. 815; A.R. Parra, supra note 57, 178.
+
+64 G. Kaufmann-Kohler, A. Antonietti, supra note 31, 546.
+
+65 Significantly, in Quiborax v. Bolivia, Award, supra note 33, paras. 582 and 583, the tribunal
+conceded that the attribution of mandatory character to provisional measures can be
+seen as an “evolution of international law” with regard not only to investment arbitration,
+but also to the jurisprudence of the icy and the ECtHR. It even prospected the possibility
+that the respondent “may not have been aware of the binding nature of these provisional
+measures when it failed to comply with them”.
+
+66 _ Expression borrowed from G. Arangio-Ruiz, The UN Declaration on Friendly Relations and
+the System of the Sources of International Law (1979), 284-285, esp. note 183. In Canadian
+
+pownids APH lS 2 OM BATHS 06-314
+
+via Leiden University
+PROVISIONAL MEASURES IN ICSID ARBITRATION 181
+
+international agreements — are created, modified and discarded through claims,
+counterclaims, actions and reactions by the subjects of international law.®”
+
+Given the significant number of coherent decisions upholding the manda-
+tory character of provisional measures, it is not surprising that IcsID tribu-
+nals have recently limited themselves to referring to these decisions and have
+been reluctant to engage in a full discussion on the matter. Such an attitude is
+likely to be consolidated in future decisions. True, each tribunal is not legally
+bound by previous decisions.®* But it is also expected to consider and follow
+established case law to the fullest possible extent, with a view to enhancing
+the coherence and predictability of the whole system.®9 As pointed out by an
+ICSID tribunal,
+
+unless there are compelling reasons to the contrary, it ought to follow
+solutions established in a series of consistent cases, comparable to the
+case at hand, but subject of course to the specifics of a given treaty and of
+the circumstances of the actual case. By doing so, it will meet its duty to
+seek to contribute to the harmonious development of investment law and
+thereby to meet the legitimate expectations of the community of States
+and investors towards certainty of the rule of law.”
+
+Yet, the crux of the matter remains the subsequent practice of the parties to the
+ICSID Convention with a view to establishing the possible informal modifica-
+tion of Article 47 in the sense of allowing IcsID tribunals to order provisional
+
+Cattleman for Fair Trade v. United States (UNCITRAL) NAFTA, the respondent clearly
+pointed out that “a treaty remains the exclusive province of the States parties themselves
+that may construct the treaty either expressly or tacitly through subsequent conduct’,
+Reply by the United States, 1 May 2007, p. 1. (emphases added, footnotes omitted), http://
+wwwsstate.gov/documents/organization/84471.pdf.
+
+67 See M.S. McDougal, “The Hydrogen Bomb Tests and the International Law of the Sea’, 49
+American Journal of International Law (1955), 353-
+
+68 See, among many decisions, AES Corp. v. Argentina, IcSID Case No. ARB/o2/17, Jurisdic-
+tion, 26 April 2005, para. 30.
+
+69 On this point, H. Lauterpacht, The Development of International Law by the International
+Court (1958), p. 14, has eloquently pointed out that the 1cJ “follows its own decisions for
+the same reasons for which all courts — whether bound by the doctrine of precedent or
+not — do so, namely, because such decisions are a repository of legal experience to which
+it is convenient to adhere; because they embody what the Court has considered in the
+past to be good law; because respect for decisions given in the past makes for certainty
+and stability, which are the essence of the orderly administration of justice [...]”.
+
+70 ~~ -~-Bayindir Insaat Turizm Ticaret Ve Sanayi AS v. Pakistan, 1CS1D Case No. ARB/03/29, Award,
+27 August 2009, para. 145.
+
+LAPE 16 (2017) 159-184 Downloaded from Brill.com06/06/201 9 05:28:31 AM
+
+via Leiden University
+182 GAZZINI AND KOLB
+
+measures. Article 31 (3) (b) of the vcLT clearly directs the interpreter to take
+into account any subsequent practice in the application of the treaty estab-
+lishing the agreement of the parties regarding its interpretation.”1 From this
+perspective, the wTo Appellate Body has lucidly pointed out that this requires
+“a ‘concordant, common and consistent’ sequence of acts or pronouncements
+which is sufficient to establish a discernible pattern implying the agreement of
+the parties [to a treaty] regarding its interpretation’.”
+
+It therefore becomes crucial to assess the reaction or lack of reaction of the
+parties to the IcsID Convention. In this regard, it must first be emphasized
+that arbitral decisions cannot be treated as State practice.”* They remain the
+pronouncements of arbitral tribunals that have been mandated by the parties
+to settle a specific dispute between them. Strictly speaking, the effects of their
+decisions are confined to the parties to the dispute. They may, nonetheless, in-
+fluence State practice and trigger States’ reactions either in support or against
+the interpretation taken by the tribunal. The lack of reaction to or the acqui-
+escence in a consistent and significant body of decisions may amount to State
+practice and demonstrate the general acceptance by the parties to the treaty of
+the interpretation emerging from the arbitral decisions — even to the point
+of informally modifying the treaty through subsequent practice.” Acceptance
+by the disputing investor, on the contrary, is immaterial for the purpose of
+State practice, as only the States parties are the masters of the treaty. What is
+decisive is to establish whether State practice — rather than arbitral decisions —
+is sufficiently concordant, common and consistent.”°
+
+With regard to the mandatory character of provisional measures, it is con-
+sequently the general acceptance of or acquiescence in arbitral tribunals’ de-
+cisions by the parties to the 1cs1D Convention that may lead — or may have
+
+71 ~~ See, for instance, Kasikili/Sedudu Island (Botswana/Namibia), Judgment, I.C.J. Reports
+1999 (II), p. 1045, esp. paras. 49-50.
+
+72 Japan — Measures Alcoholic Beverages, WT/DS8/AB/R, 4 October 1996, para. 106. See also
+Canadian Cattlemen v. United States, supra note 66, para. 189.
+
+73. In Romak S.A. v. Uzbekistan, UNCITRAL AA280, Award, 26 November 2009, para. 170, the
+tribunal held that arbitral awards “cannot be deemed to constitute the expression of a
+general consensus of the international community, and much less a formal source of
+international law. Arbitral awards remain mere sources of inspiration, comfort or refer-
+ence to arbitrators”.
+
+74 +See R. Kolb, Bonne foi, supra note 7, 297 ff. See also W. Karl, Vertrag und spdtere Praxis im
+Volkerrecht (1983).
+
+75 See, with regard to the so-called 18-month requirement contained in some BITs con-
+cluded by Argentina, Daimler Financial Services AG v. Argentina, 1CSID Case No. ARB/05/1,
+Award, 15 August 2012, para. 268.
+
+pownids APH lS 2 OM BATHS 06-314
+
+via Leiden University
+PROVISIONAL MEASURES IN ICSID ARBITRATION 183
+
+already led - to an informal modification of Article 47 of the icsip Convention.
+From this perspective, the presence of two elernents must be shown. On the
+one hand, a significant mumber of arbitral tribunals nvust have shared the inter-
+pretation outlined above. On the other hand, the great majority of the parties
+to the treaty, having had ample opportunity to react to the interpretation, must
+have endorsed the new reading of the relevant provision or have refrained from
+contesting its inaccuracy.
+
+In the case of Article 47 of the 1csip Convention and Rule 39 of the 1csip
+Arbitration Rules, both elernents seem to be satished. The decisions adopted
+by the various arbitral triminais can be considered as having been sufficiently
+coherent and as having reached the critical mass. They were rendered during
+a time-span of about 16 years and there is Httle record of any negative reac-
+tion by States, either of those appearing as respondents in proceedings or by
+other States. Although the fact that not all investment awards are available to
+the public calls for prudence, it may be conchided that a uniform and gener-
+ally accepted practice has emerged allowing tcs1p tribunals to order binding
+provisional measures. Indeed, had the parties to the Convention perceived the
+decisions described above as an impairment of their rights or an alteration of
+their obligations, they would have had a bona fide duty to oppose them.
+
+VITL = Conchasions
+
+A string of decisions rendered by rcs1p tribunals since 1999 have upheld —
+virtually without opposition during the proceedings and amongst the parties
+to the rcsip Convention - the mandatory character of provisional measures
+under Article 47 of the 1cSID Convention and Rule 29 of the 1csim Arbitration
+Rules. The legal arguments underpinning these decisions and principally the
+Spanish version of Rule 39 as well as teleological considerations developed
+along the lines of the 1cy decision in LaGrand are not entirely convincing.
+Nonetheless, tribunals appear to consider these decisions as “jurisprudence
+constante” and have confmed thernselves to refer to them without much elab-
+oration and with an almost religious deference.
+
+However, it is argued that these decisions imply a significant departure
+from the meaning the contracting parties recorded in the treaty. Such a law-
+making exercise does not suffice in itself to confer on an 1cstp tribunal the
+competence nat only to recommend, but also to order, these measures. If the
+overwhelming majority of 1csip members endorse, accept or at least acquies-
+cence in these decisions, however, an informal modification of Article 47 may
+be brought about. This is arguably what has happened in the last few years
+
+LAPE 16 (2017) 159-184
+
+184 GAZZINI AND KOLB
+
+since these decisions have reached a critical mass and IcsID membership has
+acquiesced in the power of ICsID tribunals to order provisional measures.
+
+Attributing mandatory force to provisional measures can be deemed a
+welcome development from the point of view of the efficiency of investment
+arbitration and compliance with related awards. This is at once a chance anda
+burden. It will also bring 1cs1D jurisprudence in line with that of other inter-
+national tribunals and most prominently the Icj. It can additionally be seen
+as another milestone in the rise of provisional measures to the legal Olympus
+of binding legal acts. Here, as in other treaty matters, the attitude of States
+parties is the decisive element. By remaining ostensibly silent, States may thus
+have brought about a significant shift in the legal situation. Indeed, they are
+the masters of the treaty, even when they remain silent. As Humpty Dumpty
+reminds us, the real question is “which is to be master — that’s all.””6
+
+76 ~—_-L. Carroll, Through the Looking Glass (1960), Chapter V1, 186.
+
+pownids APH lS 2 OM BATHS 06-314
+
+via Leiden University

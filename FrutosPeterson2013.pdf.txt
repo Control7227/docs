@@ -1,0 +1,1302 @@
+Chapter 12
+
+Provisional Measures in ICSID Arbitration: The
+Irreparable Harm Requirement
+
+Claudia Frutos-Peterson and Diora Ziyaeva*
+I. INTRODUCTION
+
+ICSID tribunals have consistently decided! that provisional measures
+under Article 47 of the ICSID Convention could only be granted to protect
+
+* Claudia Frutos-Peterson is a Partner and Diora Ziyaeva is an Associate in the
+International Arbitration Group of Curtis, Mallet-Prevost, Colt & Mosle LLP. The views
+expressed in this article are exclusively those of the authors and shall not be attributed to
+Curtis, Mallet-Prevost, Colt & Mosle LLP or its clients. The authors gratefully
+acknowledge the editorial assistance of Andrey Kuznetsov and Francisco Sanchez.
+
+1 See, e.g., Churchill Mining Ple and Planet Mining Pty Ltd v. Republic of Indonesia, ICSID
+Case No. ARB/12/14 and 12/40, Procedural Order No. 9 Provisional Measures, 9 100-
+103 (July 8, 2014) (“Churchill Procedural Order No. 9”); Lao Holdings N.V. v. The Lao People’s
+Democratic Republic, ICSID Case No. ARB(AF)/12/6, Ruling on Motion to Amend the
+Provisional Measure Order, J {| 9, 75 (May 30, 2014) (“Lao Holdings’); Churchill Mining Plc
+and Planet Mining Pty Ltd v. Republic of Indonesia, ICSID Case No. ARB/12/14 and 12/40,
+Procedural Order No. 3 Provisional Measures, § 42 (March 4, 2013) (“Churchill Procedural
+Order No. 3”); Tethyan Copper Company Pty Ltd v. Islamic Republic of Pakistan, Decision on
+Claimant’s Request for Provisional Measures, §{ 118-119 (December 13, 2012)
+(“Tethyan”’),; Burimi SRL and Eagle Games SH.A v. Republic of Albania, ICSID Case No.
+ARB/11/18, Procedural Order No. 2, {34-35 (May 3, 2012) (“Burim?’); Abaclat and
+others v. Argentine Republic, ICSID Case No. ARB/07/5, Procedural Order No. 11, ¥ 11
+(June 27, 2012) (“Abaclat, Procedural Order No. 11”); Iona Micula and others v. Romania,
+ICSID Case No. ARB/05/20, Decision on Claimants’ Application for Provisional
+Measures, § 12 (March 2, 2011) (“Iona Micula”); Cemex Caracas Investments B.V. and Cemex
+Caracas II Investments B.V. v. Bolivarian Republic of Venezuela, ICSID Case No. ARB/08/15,
+Decision on the Claimants’ Request for Provisional Measures, {J 44-56 (March 3, 2010)
+(“Cemex”); Quiborax S.A., Non Metallic Minerals S.A. and Allan Fosk Kapliun v. Plurinational
+State of Bolivia (ICSID Case No. ARB/06/02), Decision on Provisional Measures, J 113
+(February 26, 2010) (“Quiborax”); Millicom International Operations B.V. and Sentel GSM SA
+v. The Republic of Senegal, ICSID Case No. ARB/08/20, Decision on the Application for
+Provisional Measures, J 39 (August 24, 2009) (“Millicom”); Caratube International Oil
+Company LLP v. The Republic of Kazakhstan, ICSID Case No. ARB/08/12, Decision
+Regarding Claimant’s Application for Provisional Measures, § 136 (July 31, 2009)
+(“Caratube”); Burlington Resources Inc. v. The Republic of Ecuador, ICSID Case No.
+ARB/08/5, Procedural Order No. 1, J 51, 82 (June 29, 2009) (“Burlington”), Perenco
+Ecuador Ltd. v. Ecuador and Empresa Estatal Petroleos del Ecuador (Petroecuador), ICSID Case
+No. ARB/08/6, Decision on Provisional Measures, { 43 (May 8, 2009) (“Perenco”);
+Phoenix Action, Ltd. v. The Czech Republic, ICSID Case No. ARB/06/5, Decision on
+Provisional Measures, § 33 (April 6, 2007) (“Phoenix Action’); Occidental Petroleum
+Corporation and Occidental Exploration and Production Company v. The Republic of Ecuador,
+
+209
+210 INTERIM & EMERGENCY RELIEF IN INT’L ARBITRATION
+
+the rights of either party in case of urgency and necessity.* Arbitral
+tribunals generally agree that inquiry into the “necessity” of a provisional
+measure involves consideration of the harm it seeks to avoid. ICSID
+tribunals by and large have followed the International Court of Justice
+(“ICJ”) “irreparable harm” or “irreparable prejudice” criterion for
+determining when a provisional measure is necessary.*? That standard, to
+the extent that the case law has clarified its contours, includes harm that
+cannot be fully remedied, reversed or rectified by an award of monetary
+damages.4 However, several ICSID tribunals have applied a purportedly
+
+ICSID Case No. ARB/06/11, Decision on Provisional Measures, J] 61 (August 17, 2007)
+(“Occidental”), Satpem S.p.A. v. The People’s Republic of Bangladesh, ICSID Case No.
+ARB/05/07, Decision on Jurisdiction and Recommendation on Provisional Measures, §
+182 (March 21, 2007) (“Saipem”); Plama Consortium Limited v. Republic of Bulgaria, \CSID
+Case No. ARB/03/24, Order, {38 (September 6, 2005) (“Plama’).
+
+2 As part of the requirements to grant provisional measures, some tribunals will also
+determine whether they have prima facie jurisdiction over the subject matter of the request.
+See, e.g., Tethyan, J 122 (finding prima facie jurisdiction under Article 25 of the ICSID
+Convention and the applicable BIT). Other tribunals have set forth two additional criteria:
+a) prima facie establishment of the merits of the case, and b) the extent to which interim
+measures would inconvenience the other party. Tribunals seem to have taken into
+consideration the last two requirements when acting under the UNCITRAL Arbitration
+Rules. See, e.g., Sergei Paushok et al v. Mongolia, UNCITRAL, Order on Interim Measures, §
+55 (September 2, 2008) (“Paushok’) (a tribunal “need not go beyond whether a reasonable
+case has been made which, if the facts alleged are proven, might possibly lead the Tribunal
+to the conclusion that an award could be made in favor of Claimants.’). But for an ICSID
+case, see Tethyan, 117 (“The question of whether the right to be preserved exists goes to
+the merits of the case which will not be decided at this preliminary stage of the
+proceedings. It therefore suffices that the party requesting the provisional measure
+establishes a prima facie case that it owns a legally protected interest.”).
+
+3 See infra at 10-12.
+
+4 Applications for security for costs are generally not governed by the standard criteria
+for interim measures, such as urgency or risk of irreparable harm. See, e.g., Gary B. Born,
+INTERNATIONAL COMMERCIAL ARBITRATION, VOL. Il: INTERNATIONAL ARBITRAL
+PROCEDURES, p. 2473 (2d ed. 2014) (“Born”) (finding that “applications for security for
+legal costs typically do not require showings of an urgent risk of irreparable harm.”);
+Jeffrey Waincymer, PROCEDURE AND EVIDENCE IN INTERNATIONAL ARBITRATION, p. 647
+(2012) (“Waincymer”) (contending that “the standard criteria for considering interim
+measure applications do not normally apply to security for costs. A typical interim
+measure application such as preserving evidence or assets or enjoining a party against
+taking a proposed course of action looks for urgency, serious or irreparable harm and a
+tenable case on the merits. Where security for costs applications are concerned, urgency
+and injunctive relief is not relevant. The irreparable harm is simply the allegation that a
+losing claimant will not be able to pay a costs award. As to consideration on the merits,
+that can remain relevant and is effectively looked at in reverse. The less likely the merit
+in the claims, the more there might be concern to protect a potential cost award in favour
+of the responding party.”).
+PROVISIONAL MEASURES IN ICSID ARBITRATION 211
+
+lower standard of harm leading some commentators to herald the decline
+of ICSID tribunals’ use of the irreparable harm standard.°®
+
+Yet, as the following analysis will show, the 2010 provisional
+measures decision in Cemex and the post-Cemex provisional measures
+decisions’ seek to dispel the doubts over the applicability of the ICJ
+necessity standard and its notion of irreparable harm in ICSID arbitration.
+Following a survey of the ICJ and ICSID case law on provisional measures,
+the Cemex tribunal saw “no reason not to retain the generally accepted
+standard of ‘irreparable harm’ as criterion for the ‘necessity’ required by
+Article 47 of the ICSID Convention.”®
+
+After a brief review of the close relationship between Article 47 of the
+ICSID Convention and Article 41 of the ICJ Statute, Part II will describe the
+irreparable harm standard developed by the IC] as applied in ICSID
+arbitration cases. Part III will address the string of decisions purporting to
+apply a more relaxed criterion of necessity to applications for provisional
+measures. Part IV will address the Cemex decision and those in its wake to
+demonstrate that ICSID case law continues to identify irreparable harm as
+the criterion for necessity under the ICSID Convention, concluding that
+predictions of adoption of a less demanding standard are overstated.
+
+5 See Burlington, § 82; Perenco, § 43; City Oriente Limited v. The Republic of Ecuador and
+Empresa Estatal de Petrdleos del Ecuador (Petroecuador), ICSID Case No. ARB/06/21,
+Decision on Provisional Measures, J] 55-59 (November 19, 2007) (“City Oriente”);
+Quiborax, § 156.
+
+6 See, e.g, Dan Sarooshi, Provisional Measures and Investment Treaty Arbitration, in 29
+ARB. INT'L, ISSUE 3, 361, 365-66, 378 (2013) (“Sarooshi’) (contending that “it is more
+appropriate for ICSID Tribunals to adopt the lower threshold test of a ‘significant harm
+or threat’ to the parties rights when deciding whether provisional measures are
+‘necessary’ rather than using the ICJ’s higher threshold of ‘irreparable prejudice”); Born,
+pp. 2488-2491 (finding it “very doubtful” that ICJ’s irreparable harm or prejudice
+standard will find application in the setting of investment treaty arbitration); Caline
+Mouawad, Elizabeth Silbert, A Guide to Interim Measures in Investor-State Arbitration, in 29
+ARB. INT'L, ISSUE 3, 392 (2013) (“Mouawad and Silbert”) (finding that the concepts of
+“substantial harm” and “irreparable harm” are flexible under international law and do
+not necessarily require that the injury complained to be not remediable by an award of
+damages). See also Gabrielle Kauffman-Kohler, Interim Relief in International Investment
+Agreements, in ARBITRATION UNDER INTERNATIONAL INVESTMENT AGREEMENTS: AN
+ANALYSIS OF THE KEY PROCEDURAL, JURISDICTIONAL AND SUBSTANTIVE ISSUES, 507 (Katia
+Yannaca-Small (ed.), Oxford University Press 2010), pp. 543-44 (“Kauffman-Kohler”)
+(stressing that the finding of “irreparable harm” tends to be closely linked to the non-
+existence of monetary relief and wondering whether a less demanding standard of
+necessity in UNCITRAL commercial and investor-state arbitration could influence the
+ICSID arbitration).
+
+7 Lao Holdings, {| 16, 37-42; Tethyan, { 118; Burimi, | 34-35; Churchill Procedural Order
+No. 3, § 42; Abaclat, Procedural Order No. 11, § 11; Iona Micula, § 12.
+
+8 Cemex, J] 44-56.
+212 INTERIM & EMERGENCY RELIEF IN INT’L ARBITRATION
+
+II. ICJ STANDARD OF IRREPARABLE HARM AND ITS
+APPLICATION BY ICSID TRIBUNALS
+
+A. The Close Relationship between Article 47 of the ICSID Convention
+and Article 41 of the ICJ Statute
+
+Article 47 of the ICSID Convention and Article 41 of the ICJ Statute
+are actually close. In a semantic sense, the wording of both provisions is
+identical and, ceteris paribus, it would be reasonable to argue that they
+should be interpreted similarly. Moreover, the drafting history of Article
+47 of the ICSID Convention supports the contention of this very close
+relationship.
+
+Article 41(1) of the ICJ Statute reads as follows: “The Court shall
+have the power to indicate, if it considers that circumstances so require, any
+provisional measures which ought to be taken to preserve the respective rights of
+either party.”°
+
+The formulation of the provisional measures provision used in the
+ICJ Statute goes as far back as the Permanent Court of International Justice
+(“PCI”) Statute. The language of both statutes vis-a-vis the articles on
+provisional measures is the same.!° Because the substantive content of
+Article 41(1) of the ICJ Statute remained identical to its predecessor, the
+subsequent jurisprudence of the ICJ has applied the same treatment to the
+matter of provisional measures as the PCIJ." It is in applying Article 41
+that the ICJ foreshadowed the test to grant provisional measures, which
+has shaped customary international law standards of urgency and
+necessity.
+
+Under the ICSID Convention the power of ICSID arbitral tribunals to
+recommend provisional measures derives from Article 47. Article 47
+states:
+
+Except as the parties otherwise agree, the Tribunal may, if it
+considers that the circumstances so require, recommend any provisional
+
+® United Nations, Statute of the International Court of Justice, 1 UNTS XVI, Chapter III
+Article 41 (October 24, 1945) (emphasis added).
+
+10 Article 41 of the PCIJ Statue provided: “[t]he Court shall have the power to indicate, if
+it considers that circumstances so require, any provisional measures which ought to be
+taken to reserve the respective rights of either party.” Statute of the Permanent Court of
+International Justice, 1 UNTS XVI, Chapter III Article 41 (December 16, 1920).
+
+" During the jurisprudence of the PCIJ, there were six requests for provisional
+measures (out of a total of 66 cases decided between 1920 and 1942). Two of the requests
+were granted. From 1947 to 2009, the ICJ received 40 such requests: 20 were rejected, 16
+were granted, one was withdrawn by the applicant, two were removed from the list and
+one lapsed. See Kempen, Bernhard and He, Zan, The Practice of the International Court of
+Justice on Provisional Measures: The Recent Development, in ZEITSCHRIFT FUR
+AUSLANDISCHES OFFENTLICHES RECHT UND VOLKERRECHT VOL. 69 (2009), p. 919, n. 1
+(“Kempen and He”).
+PROVISIONAL MEASURES IN ICSID ARBITRATION 213
+
+measures which should be taken to preserve the respective rights of either
+
+party.'2
+
+The operative portions of Article 47 of the ICSID Convention, Article
+41 of the ICJ Statute and Article 41 of the PCIJ Statute are identical in
+formulation. This identical wording of the provisions tends to suggest that
+there should be a bound commonality in the interpretation of Article 41 of
+the ICJ Statute and Article 47 of the ICSID Convention.
+
+Further, the travaux préparatoires of the ICSID Convention
+demonstrate that Article 47 was directly modeled on and inspired by
+Article 41 of the ICJ Statute. The drafting history of the ICSID
+Convention indicates that the intention of the drafters was to follow
+customary international law. In the relevant section of the 1964
+Chairman’s Report on issues raised and suggestions made with respect to
+the preliminary draft of the ICSID Convention, it states that:
+
+[t]he provision in the Working Paper defines the measures which
+a tribunal may prescribe as those which are “necessary for the
+protection of the rights of the parties.” Several delegations
+thought the criterion might be spelled out in more detail (by
+specifying such matters as avoidance of frustration of an eventual
+award, irreparable damage and urgent necessity and clarifying
+the term “rights of the parties”) and an indication might be given
+in general terms of what the provisional measures would be ...
+the latitude given to arbitral tribunals by the Working Paper is in
+accordance with generally accepted custom....\4
+
+Although the travaux preparatoires to the ICSID Convention do not
+provide any definitive standard or the precise definition of the criterion,'®
+
+2 JCSID Convention, Article 47 (emphasis added). See also the text of Rule 39 of the
+ICSID Arbitration Rules, which contains detailed provisions governing the standard and
+procedure for issuing provisional measures.
+
+13 Lawrence Collins, ESSAYS IN INTERNATIONAL LITIGATION AND THE CONFLICT OF LAWS,
+74 (Clarendon Press, Oxford, 1994); see also Loretta Malintoppi, Provisional Measures in
+Recent ICSID Proceedings: What Parties Request and What Tribunals Order, 11, in
+INTERNATIONAL INVESTMENT LAW FOR THE 21ST CENTURY: ESSAYS IN HONOUR OF
+CRISTOPH SCHREUER (C. Binder, et al eds., 2009).
+
+4 History of the ICSID Convention, Regional Consultative Meetings of Legal Experts on
+Settlement of Investment Disputes, Chairman’s Report on Issues Raised and Suggestions
+Made with Respect to the Preliminary Draft of a Convention on the Settlement of
+Investment Disputes Between States and National of Other States (July 9, 1964), Vol. II-1,
+p. 573 (emphasis added).
+
+5 See, e.g., History of the ICSID Convention, 1968, Vol. II-1, pp. 337, 515, 573. See also,
+Christoph Schreuer et al., THE ICSID CONVENTION: A COMMENTARY, Second Edition
+(Cambridge University Press 2009), pp. 775-777 (“C. Schreuer, THE ICSID CONVENTION: A
+COMMENTARY”) (on the issue of irreparable harm, Professor Schreuer analyzes the matter,
+but does not posit a standard; he mainly describes what most tribunals have done).
+214 INTERIM & EMERGENCY RELIEF IN INT’L ARBITRATION
+
+the drafters understood that the interim relief would be an extraordinary
+remedy in light of customary international law. It was pointed out that
+such measures would only be used in situations of absolute necessity and
+that tribunals would exercise self-restraint in their application. '°
+According to the drafters of the ICSID Convention:
+
+...[t{]here would be very few, if any, cases of irreparable damage,
+because disputes would concern investments and investments could
+always be valued in terms of money.”
+
+[...] the experience indicated that arbitral tribunals were extremely
+loath to order provisional or interim measures and one should have some
+confidence in the self-restraint which tribunals would impose upon
+themselves,'®
+
+[...] provisional measures ought not be prescribed unless absolutely
+necessary in the circumstances, and if pecuniary compensation would be
+adequate in lieu of some preliminary measure, then no preliminary
+measure ought to be prescribed. On that basis, such measures
+ought to be included in the enforcement provision. That might
+also have the effect of discouraging tribunals from prescribing
+preliminary measures save in the most exceptional cases.
+
+The drafting history of Article 47 of the ICSID Convention suggests a
+close link to the standards for issuing provisional measures put forward
+by Article 41 of the ICJ Statute. Based on the above, it would be reasonable
+to interpret Article 47 of the ICSID Convention in accordance with the IC]
+jurisprudence.”
+
+B. Urgency and Necessity under the IC] Jurisprudence
+
+The ICJ jurisprudence considers requests for provisional measures in
+terms of their urgency and necessity to avoid irreparable prejudice
+(harm), 7! although the ICJ has not always rigorously distinguished
+
+16 C. Schreuer, THE ICSID CONVENTION: A COMMENTARY, p. 775.
+
+7 History of the ICSID Convention, Comment voiced by Mr. Tsai (China), 1968, Vol. II-
+1, p. 516 (emphasis added).
+
+18 History of the ICSID Convention, Comment voiced by Mr. Broches (Chairman), 1968,
+Vol. II-1, p. 516 (emphasis added).
+
+19 History of the ICSID Convention, Comment articulated by Mr. O’Donovan
+(Australia), 1968, Vol. II-1, p. 523 (emphasis added).
+
+20 Much is drawn from the ICJ’s experience over the past seventy years, but
+considerable emphasis must also be attributed to the PCIJ (especially the 1932 Status of
+Eastern Greenland cases between Denmark and Norway).
+
+*1 For instance, the Fisheries Jurisdiction (Federal Republic of Germany v. Iceland), Interim
+Protection, Order of August 17, 1972, LC J. Reports 1972, 9 22 reads as follows:
+“[w]hereas the right of the Court to indicate provisional measures as provided for in
+PROVISIONAL MEASURES IN ICSID ARBITRATION 215
+
+between the two criteria and has often spoken of “urgent necessity” as the
+standard to be applied.27 The IC] appears to be inclined to interpret the
+“irreparability” as “impossibility of full execution of the final judgment.”
+
+The notion of irreparable harm or prejudice was most likely first
+defined by the PCIJ in the Sino Belgian Treaty Case as one that cannot be
+compensated by way of damages or restitution in some other material
+form.*4 In the Aegean Sea Continental Shelf Case, the ICJ considered its
+power under Article 41 of the ICJ Statute in terms of the necessity
+requirement, i.e., “whether provisional measures are necessary to preserve
+the rights of either party and whether the acts complained of are capable of
+
+Article 41 of the Statute has as its object to preserve the respective rights of the Parties
+pending the decision of the Court, and presupposes that irreparable prejudice should be
+not caused to rights which are the subject of dispute in judicial proceedings, and that the
+Court’s judgment should not be anticipated by reason of any initiative regarding the
+measures which are at issues.” See also Construction of a Road in Costa Rica along the San
+Juan River (Nicaragua v. Costa Rica), Order of December 13, 2013, I.C.J. Reports 2013, 4 25
+where the ICJ found that “[t]he power of the Court to indicate provisional measures will
+be exercised only if there is urgency, in the sense that there is a real and imminent risk
+that irreparable prejudice will be caused to the rights in dispute before the Court has
+given its final decision.” Having found that Nicaragua had not established that the
+ongoing construction works led to a substantial increase in the sediment load in the
+river, no real and imminent risk of irreparable prejudice to the rights invoked was found
+to be substantiated, and hence rejected the request for provisional measures.
+
+2 Pulp Mills on the River Uruguay (Argentine v. Uruguay), Provisional Measures, Order of
+January 23, 2007, I.C.J. Reports 2007, 9 31-32 (“Pulp Mills’). See also Passage through the
+Great Belt (Finland v. Denmark), Provisional Measures, Order of July 29, 1991, I.CJ.
+Reports 1991, J 23 (“Passage through the Great Belt’); Certain Criminal Proceedings in France
+(Republic of the Congo v. France), Order of June 17, 2003, L.C.J. Reports 2003, | 22 (“Certain
+Criminal Proceedings in France’).
+
+23 Kempen and He, p. 922, n. 10 citing to Anglo-Iranian Oil Company (United Kingdom v.
+Iran), Order of July 5, 1951, IC J. Reports 1951, p. 93. See also Application of the
+International Convention on the Elimination of All Forms of Racial Discrimination (Georgia v.
+Russian Federation), Provisional Measures, Order of October 15, 2008, I.C.J. Reports 2008,
+{| 118; Request for Interpretation of the Judgment of 31 March 2004 in the Case concerning
+Avena and Other Mexican Nationals (Mexico v. United States of America), Provisional
+Measures, Order of July 26, 2008, I.C.J. Reports 2008, {| 65; Application of the Convention on
+the Prevention and Punishment of the Crime of Genocide, Provisional Measures, Order of
+April 8, 1993, LC.J. Reports 1993, { 34; Land and Maritime Boundary Case between Cameroon
+and Nigeria, Provisional Measures, Order of March 15, 1996, ILC. J. Reports 1996, 4 35
+(“Land and Maritime Boundary Case’).
+
+24 Denunciation of the Treaty of November 2nd, 1865, between China and Belgium (Belgium v.
+China), 1929 P.C.LJ. (ser. A) No. 18 (Order of May 25), {9-10 (issuing interim measures
+to protect Belgian mission, ships, nationals and property in China given that “the object
+of the measures of interim protections contemplated by the Statute of the Court is to
+preserve the respective rights of the Parties, pending the decision by the court” and that
+the infraction in question “could not be made good simply by the payment of an
+indemnity or by compensation or restitution in some other material form.”).
+216 INTERIM & EMERGENCY RELIEF IN INT’L ARBITRATION
+
+causing or of threatening irreparable prejudice to the rights invoked.”*> In
+Nuclear Tests (New Zealand v. France), the ICJ held that the power of the
+Court to indicate interim measures under Article 41 of the Statute aimed at
+preserving the rights of the parties presupposes “that irreparable prejudice
+should not be caused to rights which are the subject of the dispute.”°
+
+More recently, in the Pulp Mills Case, the ICJ further reiterated that
+pursuant to Article 41 of the ICJ Statute and ICJ jurisprudence, the Court
+has the power to issue interim measures “provided such measures are
+necessary to prevent irreparable prejudice to the rights that are in
+dispute.”?” Similarly, in Cambodia v. Thailand, the ICJ reasoned that “the
+Court, pursuant to Article 41 of its Statute, has the power to indicate
+provisional measures when irreparable prejudice could be caused to rights
+which are the subject of the judicial proceedings... [the] power of the
+Court to indicate provisional measures will be exercised only if there is
+urgency, in the sense that there is a real and imminent risk that irreparable
+prejudice may be caused to the rights in dispute before the Court has given
+its final decision.” 2°
+
+In the jurisprudence of the ICJ, it appears that while the damages to
+property might be reparable, the threat to life or health is irreparable,
+indicating that the purpose is to prevent irreparable prejudice to human
+life rather than the subject-matter of the main claim. Although the ICJ
+occasionally asserted that non-aggravation could be one of the
+circumstances that the Court should take into consideration, nonetheless,
+
+25 Aegean Sea Continental Shelf Case (Greece v. Turkey), Interim Measures of Protection,
+Order of September 11, 1976, Separate Opinion of President Jiménez de Aréchaga, I.C.J.
+Reports 1976, p. 16 (“Aegean Sea, Separate Opinion of President Jiménez de Aréchaga’”);
+Aegean Sea Continental Shelf Case (Greece v. Turkey), Interim Measures of Protection, Order
+of September 11, 1976, I.C.J. Reports 1976, 32-33 (applying Article 41 and holding that
+there is no risk of “irreparable prejudice” to the rights of Greece since the alleged breach
+by Turkey of Greece’s right to acquire information concerning the natural resources on
+the continental shelf “might be capable of reparation by appropriate means.”). In
+addition, in United States Diplomatic and Consular Staff in Teheran, applying Article 41 of
+the ICJ with the aim of avoiding “irreparable prejudice” to the parties’ rights stated that
+“the continuation of the situation the subject of the presented request exposes the human
+beings concerned to privation, hardship, anguish and even danger to life and health and
+thus a serious possibility of irreparable harm.” Case Concerning United States Diplomatic
+and Consular Staff in Teheran, Provisional Measures, Order of December 15, 1979, I.C.J.
+Reports 1979, |] 36, 42.
+
+26 Nuclear Tests (Australia v. France), Interim Protection, Order of June 22, 1973, LC J.
+Reports 1973, § 20; see also LaGrand (Germany v. United States of America), Provisional
+Measures, Order of March 3 1999, C.J. Reports 1999, ¢ 23 (the court held that it “will not
+order interim measures in the absence of ‘irreparable prejudice...to the rights which are
+subject of the dispute...’””).
+
+27 Pulp Mills, 1] 60-62.
+
+8 Request for Interpretation of the Judgment of 15 June 1962 in the Case concerning the Temple
+of Preah Vihear (Cambodia v. Thailand) (Cambodia v. Thailand), Provisional Measures,
+Order of July 18, 2011, LC.J. Reports 2011, 4] 46-47.
+PROVISIONAL MEASURES IN ICSID ARBITRATION 217
+
+the IC) affirmatively observed that “non-aggravation of the dispute”
+cannot be regarded as an independent basis of the indication of
+provisional measures.”°
+
+C. Urgency and Necessity under ICSID Jurisprudence Constante
+
+It is widely accepted that two of the main requirements for ICSID
+tribunals to grant provisional measures are: 1) the urgency of the need for
+such measures; and 2) the necessity of measures to avoid irreparable
+harm.*° ICSID tribunals have looked into the jurisprudence of the ICJ in
+connection with the interpretation of Article 41 of the ICJ Statute to
+determine the standards of urgency and necessity when issuing interim
+relief. In Pey Casado v. Chile, for instance, the tribunal observed that Article
+47 of the ICSID Convention is directly inspired by Article 41 of the ICJ
+Statute. In that case, the tribunal stated that Article 47 “is not an
+innovation in the history of international jurisdiction; it is directly inspired
+by Article 41 of the Statute of the International Court of Justice, hence the
+particular importance that can be accorded to the judgments given in the
+past by that Court” in that matter.°!
+
+ICSID tribunals agree that “[t]he imposition of provisional measures is
+an extraordinary remedy that should not be granted lightly...” A
+common formulation is that “[p]rovisional measures are not meant to
+protect against any potential or hypothetical harm susceptible to result from
+uncertain actions.”*> Rather, they are meant to protect the requesting party
+from imminent harm.*+ The burden of showing that provisional measures
+
+29 According to the Court, the “non-aggravation of the dispute” is not regarded as an
+independent basis of the indication of provisional measures. Only the possible
+aggravation of the rights of the parties that have been found under the imminent risk or
+irreparable prejudice can be considered. See, e.g. Land and Maritime Boundary Case, § 42
+(the Court concluded that “the events that have given rise to the request, and more
+especially the killing of persons, have caused irreparable damage to the rights that the
+Parties may have over the Peninsula; whereas persons in the disputed area and, as a
+consequence, the rights of the Parties within that area are exposed to serious risk of
+further irreparable damage...”). See also Declaration of Judge Oda in the Land and Maritime
+Boundary Case (“[the] loss of life in the disputed area, distressing as it undoubtedly is,
+does not constitute the real subject matter of the present case”). See, e.g., Kempen and
+He, p. 921.
+
+30 See supra pp. 1-2 and note 2.
+
+31 Victor Pey Casado and President Allende Foundation v. Republic of Chile, ICSID Case No.
+ARB/98/2, Decision on Provisional Measures, { 2 (September 25, 2001) (“Pey Casado”).
+See also C. Schreuer, THE ICSID CONVENTION: A COMMENTARY, p. 759.
+
+32 See Emilio Agustin Maffezini v. Spain, ICSID Case No. ARB/97/7, Procedural Order
+No. 2, { 10 (October 28, 1999) (“Maffezini’”’); Plama, J 38; Phoenix Action, § 33; Occidental, J
+87; Burimi, J 34. See also Paushok, J 39 for a case under the UNCITRAL Rules.
+
+33 Occidental, § 89; Burimt, J 34-35.
+
+34 Occidental, § 87.
+218 INTERIM & EMERGENCY RELIEF IN INT’L ARBITRATION
+
+are urgent and necessary to avoid irreparable harm falls on the requesting
+party; where evidence is lacking, provisional measures must be denied.*°
+
+While the content of the urgency requirement has not produced
+serious controversy in investment treaty arbitration,°*° the contours of the
+necessity requirement and, more specifically, whether irreparable harm is
+a requirement for an ICSID tribunal to grant provisional measures have
+occasioned some discussion. °” The focal point of the analysis is
+determining whether irreparable harm or prejudice will occur if the
+tribunal denies the prayer for interim measures.
+
+In Tokios Tokelés v. Ukraine, the tribunal, relying on the Aegean Sea
+Continental Shelf Case, observed that a provisional measure is necessary
+where “the actions of a party are capable of causing or of threatening
+irreparable prejudice to the rights invoked.”**
+
+The Phoenix v. the Czech Republic tribunal adopted a similar reasoning
+from the ICJ jurisprudence and, relying also on the Aegean Sea Continental
+Shelf Case, held that “international jurisprudence on provisional measures
+indicates that a provisional measure is necessary where the actions of a
+party ‘are capable of causing or of threatening irreparable prejudice to the
+rights invoked.’”°°
+
+The Occidental v. Ecuador tribunal based its holding on the Aegean Sea
+Continental Shelf Case and went a step further to conclude that the ICJ
+jurisprudence regarding when interim measures are necessary is “well
+established,” namely “a provisional measure is necessary where the
+actions of a party are ‘capable of causing or of threatening irreparable
+prejudice to the rights invoked.’” According to the tribunal, under Article
+47 of the ICSID Convention, provisional measures are those measures that
+are “necessary to preserve a party’s rights where the need is urgent in
+order to avoid irreparable harm.”*° The tribunal found there was no
+irreparable harm since the claimant’s harm, ie., the potential loss of the
+
+35 See Tanzania Electric Supply Company v. Independent Power Tanzania Limited, ICSID Case
+No. ARB/98/8, Decision on the Respondent’s Request for Provisional Measures
+(December 20, 1999) (“Tanzania”).
+
+36 As far as the urgency requirement is concerned, commentators and tribunals agree
+that “provisional measures are only appropriate if it is impossible to wait for a specific
+issue to be settled at the merits stage.” See City Oriente, § 67. See also Quiborax, 4 150;
+Biwater Gauff (Tanzania) Ltd. v. Tanzania, ICSID Case No. ARB/05/22, Procedural Order
+No. 1, § 76 (March 31, 2006) (“Biwater”).
+
+37 Sarooshi, pp. 365-66; Born, pp. 2488-2491.
+
+38 Tokios Tokelés v. Ukraine, ICSID Case No. ARB/02/18, Order No. 3, { 8 January 18,
+2005) (“Tokios Tokelés, Order No. 3”), citing the Aegean Sea, Separate Opinion of President
+Jiménez de Aréchaga, p. 16.
+
+39 Phoenix Action, { 33.
+
+0 Occidental, § 59.
+PROVISIONAL MEASURES IN ICSID ARBITRATION 219
+
+contractual concession right to operate an oil field, if any, could be
+compensated by a monetary award.*!
+
+Thus, ICSID tribunals have widely accepted the applicability of the
+ICJ jurisprudence construing Article 41 of the ICJ Statute in issuing interim
+measures under Article 47 of the ICSID Convention and accepting the
+irreparable harm or prejudice standard for necessity of provisional
+measures.42 However, a few ICSID cases seem to have departed from the
+ICJ jurisprudence of the irreparable harm standard when determining
+whether preliminary measures are necessary.
+
+Il. A DIFFERENT STANDARD OF “NECESSITY”?
+
+Several ICSID tribunals seem to have followed a more “relaxed”
+standard of necessity for issuing provisional measures, derived not from
+the ICJ Statute and the jurisprudence construing it, but rather from the
+2006 UNCITRAL Model Law on International Commercial Arbitration (the
+“2006 UNCITRAL Model Law”).4 The 2006 UNICTRAL Model Law
+provision on interim measures requires a showing that “harm not
+adequately reparable by an award of damages is likely to result if the
+measure is not ordered.”“4
+
+The travaux preparatoires of the 2006 UNCITRAL Model Law
+articulate the reasons involving the use of the balance of interests language
+in the context of conditions for granting interim measures:
+
+[s]ubparagraph (a) follows the proposal made by the Working
+Group fo replace the words “irreparable harm” with the words “harm
+not adequately reparable by an award of damages” ... irreparable harm
+might present too high a threshold and would more clearly establish
+
+41 Occidental, § 92.
+
+#® See, e.g., Lao Holdings, J 9; Occidental, | 59; Pey Casado, | 2.
+
+43 The Model Law serves as the basis for harmonizing national arbitration legislations
+addressing every stage of the arbitral process. The Model Law “reflects a worldwide
+consensus on the principles and important issues of international arbitration practice.”
+See Explanatory Note to the 1985 UNCITRAL Model Law on International Commercial
+Arbitration, with Amendments as Adopted in 2006, {| 2; see also Kaufman-Kohler, p. 510.
+The 1976 UNCITRAL Arbitration Rules empowered the tribunals to grant interim relief,
+but were silent on the requirements for issuing provisional measures. Compare Article
+26 of the 1976 UNCITRAL Arbitration Rules (featuring no specification of the standard
+for issuing interim measures, their types or tribunal powers with respect to such
+measures), and Article 17A of the 2006 UNCITRAL Model Law (providing the standard
+and conditions for issuing interim measures, a non-exhaustive list of the types of
+measures, and expounding the tribunal’s powers with respect to interim measures).
+
+44 Chapter IV, Article 17(A), 2006 UNCITRAL Model Law; Explanatory Note to the 1985
+UNCITRAL Model Law on International Commercial Arbitration, with Amendments as
+Adopted in 2006, 9] 27-30; Kaufman-Kohler, p. 510.
+220 INTERIM & EMERGENCY RELIEF IN INT’L ARBITRATION
+
+the discretion of the arbitral tribunal in deciding upon the
+issuance of an interim measure ...*°
+
+The drafters of the 2006 UNCITRAL Model Law intended to replace
+the “irreparable harm” standard with a lower threshold standard
+suggesting an alternative trend in interim relief in favor of applying the
+balance of interests standard instead.*¢
+
+It seems that the cases in which ICSID tribunals have relied on the
+standard applied under the 2006 UNCITRAL Model Law involved special
+circumstances seeking to preserve the claimant’s investment which could
+not be adequately remedied by an award of damages.‘”
+
+The Burlington v. Ecuador provisional measures decision concerned
+the seizure by the Ecuadorian authorities of claimant’s oil fields in the
+Amazon Region and their production in order to collect the allegedly
+unpaid sums under a new hydrocarbon law as well as the termination of
+the production sharing contracts for the oil fields.4* The Burlington
+tribunal concluded that such measures endangered the claimant’s rights to
+non-aggravation of the dispute, continued specific performance of the two
+contracts and preservation of the effectiveness of the award.*? The
+Burlington tribunal analyzed the necessity criterion for provisional
+measures, holding that, “[i]n the circumstances of the present case, this
+Tribunal finds it appropriate to follow those cases that adopt the standard
+of ‘harm not adequately reparable by an award of damages’ to use the
+words of the UNCITRAL Model Law.”® The tribunal elaborated on such
+“circumstances” and concluded that the damage is not adequately
+compensable by money for the following reasons:
+
+[T]his case is not one of only more damages caused by the passage
+of time. It is a case of avoidance of a different damage. The risk here
+is the destruction of an ongoing investment and of its revenue-producing
+potential which benefits both the investor and the State. Indeed, if the
+investor must continue to finance operation expenses while making
+losses, from a business point of view it is likely that it will reduce
+
+4 U.N. Commission on Int’l Trade Law, Settlement of commercial disputes, Interim
+measures of protection, Note by the Secretariat, { 16, U.N. Doc. A/CN.9/WG.II/WP.138
+(August 8, 2005) (emphasis added). See also U.N. Commission on Int’ Trade Law, Report
+of the Working Group on Arbitration on the work of its fortieth session (New York, 23-27
+February 2004), § 89, U.N. Doc. A/CN.9/547 (April 16, 2004).
+
+46 The new 2010 UNCITRAL Arbitration Rules mirror the language of Article 17A(1)(a)
+of the 2006 UNCITRAL Model Law. Article 26(3)(a) provides that “[h]Jarm not
+adequately reparable by an award of damages is likely to result if the measure is not
+ordered.”
+
+47 See, e.g., Burlington, Perenco, City Oriente, and Quiborax.
+
+48 Burlington, JJ 11, 14.
+
+49 Burlington, JJ 59-68.
+
+5° Burlington, J 82.
+PROVISIONAL MEASURES IN ICSID ARBITRATION 221
+
+its investment and maintenance costs to a minimum and thus its
+output and the shared revenues. There is also an obvious economic
+risk that it will cease operating altogether. While profit sharing
+may be legitimate, expecting that a foreign investor will continue to
+operate a loss making investment over years is unreasonable as a
+matter of practice. Contrary to the Respondents’ assertion
+pursuant to which the protection would be granted against the
+investor’s own act of “walking away”, the Tribunal considers that
+the project and its economic standing is at risk regardless of the
+conduct of the investor.*
+
+In light of the risk of “the destruction of an ongoing investment and
+of its revenue-producing potential,” the Burlington tribunal ruled in favor
+of the “significant” harm standard advocated for by the claimant, as
+opposed to the “irreparable, i., not compensable by money” harm
+standard advocated for by the respondent.** The tribunal accepted the
+Paushok tribunal’s proposition that “irreparable harm” has a “flexible
+meaning” in international law, and sided with the cases that adopted the
+2006 UNCITRAL Model Law Article 17A(1) standard requiring a “balance
+of interests” analysis, ie., assessment of the risk of harm posed by the
+provisional measures or their absence to the rights of both parties, not just
+the applicant’s.*
+
+In Perenco v. Ecuador, the tribunal asserted that the ICSID Arbitration
+Rules do not lay down a test of irreparable loss. In that case, the claimant
+requested provisional measures after the respondent ordered the seizure of
+Perenco’s oil production and shipment under the Participation Contract
+until such time as the claimant pays its debt pursuant to the new
+hydrocarbon law increasing “extraordinary gains” taxes.* The claimant
+sought specific performance of the Participation Contract in its request for
+relief.°° The Perenco tribunal relied on the Electricity Company of Sofia and
+LaGrand cases for the proposition that a provisional measure is imposed
+with the view of preventing the aggravation of or extension of the dispute.
+The Perenco tribunal held that the necessity requirement of Article 47 of the
+ICSID Convention and Rule 39 of the ICSID Arbitration Rules are satisfied
+when “one party may cause loss to the other which may not be capable of
+being made good by an eventual award of damages.” The Perenco tribunal
+
+51 Burlington, J 83 (emphasis added).
+
+52 Burlington, J 75, 84-85.
+
+3 Burlington, | § 80-85 (citing Paushok, 62, 68-69; City Oriente Ltd. v. Ecuador & Anor.,
+ICSID Case No. ARB/06/21, Decision on Revocation of Provisional Measures and Other
+Procedural Matters, § 72 (May 13, 2008) (“City Oriente Decision on Revocation”);
+Occidental, J 99).
+
+54 Perenco, {| 13-16.
+
+55 Perenco, { 46.
+
+56 Perenco, { 43.
+222 INTERIM & EMERGENCY RELIEF IN INT’L ARBITRATION
+
+ordered provisional measures, concluding that in their absence Perenco
+faced “the imminent seizure of its assets in Ecuador (whether oil, plant,
+equipment or bank balances)” and that its “business would be crippled, if
+not destroyed.”°” The Perenco tribunal held that “the grant of provisional
+measures in such circumstances is fully sanctioned by a long line of
+authority, laid down by the Permanent Court of International Justice, the
+International Court of Justice, ICSID Tribunals and at least one UNCITRAL
+Tribunal.” 5 However, the Perenco tribunal went on to emphasize that
+Article 47 of the ICSID Convention does not contain the irreparable harm
+test to meet the necessity requirement. As the tribunal explained:
+
+[Provisional measures] must be necessary, because that is what
+“require” means, and measures will be not necessary where a
+party can be adequately compensated by an award of damages if
+it successfully vindicates its rights when the case is finally
+decided. Thus, as the Respondents correctly submit, many of the
+authorities express the test in terms of “irreparable loss.” Where
+action by one party may cause loss to the other which may not be
+capable of being made good by an eventual award of damages,
+the test in the Article is likely to be met. But the Article does not
+lay down a test of irreparable loss and the authorities do not
+warrant so narrow a construction.”
+
+The Perenco tribunal relied extensively on the City Oriente v. Ecuador
+provisional measures decision. City Oriente presented a similar situation
+in that the main relief that the claimant sought was performance of its oil
+exploration and exploitation contracts with Petroecuador and that the
+dispute concerned the “recoverability of enhanced payments required by
+[Hydrocarbon] Law 42.”© The tribunal granted provisional measures
+because Petroecuador had made repeated demands for payment under the
+newly enacted hydrocarbon law, and Petroecuador and Ecuador had
+commenced an administrative proceeding to terminate the contract. The
+tribunal found that these actions aggravated the dispute and were contrary
+to the maintenance of the sfatus quo and pacta sunt servanda, as the contract
+required all disputes to be settled through arbitration. In addition, three
+City Oriente executives faced criminal charges of embezzlement due to
+City Oriente’s failure to pay the amounts due under the new hydrocarbon
+law, as well as a separate complaint against City Oriente for non-payment
+of the sums due under the law. The tribunal found that these actions were
+aimed at coercing payment under the new hydrocarbon law and thereby
+
+57 Perenco, {| 46, 53.
+
+58 Perenco, { 54.
+
+59 Perenco, ¥ 43.
+
+60 Perenco, § 57; City Oriente, 4] 55-59.
+PROVISIONAL MEASURES IN ICSID ARBITRATION 223
+
+aggravated the dispute, as the respondents sought to take justice into their
+own hands.*!
+
+Specifically, the City Oriente tribunal concluded that the respondents
+must refrain from acts that undermine its performance obligations under
+the contract to preserve the status quo and not aggravate the dispute. The
+tribunal observed:
+
+In the opinion of this Tribunal, the provisional measures
+requested by Claimant are necessary to preserve Claimant's rights
+and the claims it has asserted in this arbitration. Indeed, City
+Oriente is seeking an order to have the Contract performed pursuant to
+its original terms and conditions.... However, pending a decision on
+this dispute, the principle that neither party may aggravate or
+extend the dispute or take justice into their own hands prevails.
+Consequently, Ecuador and Petroecuador shall continue to
+comply with the obligations that they voluntarily undertook in
+the Contract, pursuant to the agreed upon terms, and they must
+refrain from declaring its termination. ...°
+
+The City Oriente tribunal based its ruling on the conclusion that
+“Article 47 of the Convention provides authorization for the passing of
+provisional measures prohibiting any action that affects the disputed
+rights, aggravates the dispute, frustrates the effectiveness of the future
+award or entails having either party take justice into its own hands.”
+
+The tribunal further held that neither Article 47 of the ICSID
+Convention nor Rule 39 of the ICSID Arbitration Rules require that
+provisional measures be ordered only as a means to prevent irreparable
+harm; urgency is the only requirement in Article 47. Specifically, the
+tribunal stated:
+
+First, the Tribunal has verified that neither Article 47 of the
+Convention nor Rule 39 of the Arbitration Rules require that
+provisional measures be ordered only as a means to prevent
+irreparable harm. The only requirement arising from the wording
+of Rule 39 is the traditional urgency requirement...
+
+Now, is there a second requirement to be fulfilled stating that
+provisional measures must be necessary to prevent irreparable
+harm? Rule 39 only refers to “circumstances that require such
+measures.” It is the opinion of the Tribunal that this wording
+requires only that provisional measures must not be ordered
+lightly, but only as a last resort, after careful consideration of the
+
+61 City Oriente, {| 57-66.
+6 City Oriente, { 57 (emphasis added).
+6 City Oriente, ¥ 55.
+224 INTERIM & EMERGENCY RELIEF IN INT’L ARBITRATION
+
+interests at stake, weighing the harm spared the petitioner and
+the damage inflicted on the other party. It is not so essential that
+provisional measures be necessary to prevent irreparable harm,
+but that the harm spared the petitioner by such measures must be
+significant and that it exceed greatly the damage caused to the
+party affected thereby.
+
+The City Oriente tribunal questioned the necessity requirement all
+together and found that the harm must be “significant” rather than
+“irreparable” to justify the issuance of interim measures under the ICSID
+Convention and the ICSID Arbitration Rules.
+
+In the end, the City Oriente tribunal granted the claimant’s request for
+provisional measures to preserve the status quo since the claimant was
+seeking specific performance, ie., “[an order] to have the contract
+performed pursuant to its original terms and conditions.”©
+
+In a more recent case, Quiborax S.A. v. Bolivia, the tribunal addressed
+the specific application of provisional measures to order the respondent
+State to stay its criminal investigation against the claimant. The Quiborax
+tribunal emphasized that as a general rule investment tribunals should not
+be reviewing the application of the State’s penal powers. According to the
+Quiborax tribunal, the tribunal is “not in a position to determine” “whether
+the criminal proceedings have a legitimate basis or not” and insisted that it
+“does not question the sovereign rights of a State to conduct criminal
+cases.”° As the Quiborax tribunal forcefully put it:
+
+[T]he exclusivity of the ICSID proceedings does not extend to
+criminal proceedings. Criminal proceedings deal with criminal
+liability and not with investment disputes, and fall by definition
+outside the scope of the Centre’s jurisdiction and the competence
+of this Tribunal. Neither the ICSID Convention nor the BIT
+contain any rule enjoining a State from exercising criminal
+jurisdiction, nor do they exempt suspected criminals from
+prosecution by virtue of their being investors.”
+
+However, the Quiborax tribunal found the situation in that case to be
+exceptional in that the respondent was investigating the claimant precisely
+
+64 City Oriente Decision on Revocation, 4 {| 70-72.
+
+65 City Oriente, {J 57-58 (November 19, 2007); see also City Oriente Decision on Revocation, {| 58:
+City Oriente has a right that the status quo ante be maintained for as long as
+these arbitration proceedings are pending, and that the Contract continues to
+be regularly performed as agreed by the parties (as expressly required by
+Clause 20.3.5 of the Contract) and it also has a right that Petroecuador and
+Ecuador refrain from adopting any unilateral compulsory or coercive measure
+impairing contractual balance.
+
+66 Quiborax, J 163-64.
+
+67 Quiborax, 9 129.
+PROVISIONAL MEASURES IN ICSID ARBITRATION 225
+
+because the claimant had initiated the ICSID arbitration. The Quiborax
+tribunal held that the rights to be preserved by provisional measures
+extend to procedural rights, including the preservation of the status quo
+and the non-aggravation of the dispute. In that case, the tribunal issued
+provisional measures to stay the respondent's criminal investigation of the
+claimant, including for alleged fraud and forgery of documents, holding
+that “any harm caused to the integrity of the ICSID proceedings,
+particularly with respect to a party’s access to evidence or the integrity of
+the evidence produced could not be remedied by an award of damages.”°°
+But, at the same time, the Quiborax tribunal was careful to emphasize that,
+in conformity with the general rule that investment tribunals are in no
+position to review the legitimacy of a State’s criminal proceedings, “a mere
+stay of the criminal proceedings would not affect Respondent's
+sovereignty nor require conduct in violation of national law.””
+
+Although the Quiborax tribunal considered that an irreparable harm
+is a harm that cannot be repaired by an award of damages,”! the tribunal
+seemed to rely on the text of Article 17A of the 2006 UNCITRAL Model
+Law. According to the tribunal, “this standard has been adopted by
+several ICSID tribunals and embodied in Art. 17A of the UNCITRAL
+Model Law.”” The tribunal explained the standard for issuing interim
+measures as follows:
+
+That provision [Article 17A of the UNCITRAL Model Law]
+requires the party requesting an interim measure to satisfy the
+tribunal that:
+
+Harm not adequately repaired by an award of damages is likely to
+result if the measure is not ordered, and such harm substantially
+outweighs the harm that is likely to result to the party against
+whom the measure is directed if the measure is granted.
+
+Following this standard, Claimants submit that the provisional
+measures requested are necessary because the harm caused would
+not be adequately repaired by an award of damages. The Tribunal
+agrees with Claimants in this respect: any harm caused to the
+integrity of the ICSID proceedings, particularly with respect to a
+party’s access to evidence or the integrity of the evidence produced
+could not be remedied by an award of damages.
+
+68 Quiborax, JJ 164-65.
+
+69 Quiborax, JJ 157, 163.
+
+70 Quiborax, § 165.
+
+71 Quiborax, § 156.
+
+2 Quiborax, { 156, citing City Oriente, Paushok and Burlington.
+226 INTERIM & EMERGENCY RELIEF IN INT’L ARBITRATION
+
+However, Claimants have accurately pointed out that the
+necessity requirement requires the Tribunal to consider the
+proportionality of the requested provisional measures. The
+Tribunal must thus balance the harm caused to Claimants by the
+criminal proceedings and the harm that would be caused to
+Respondent if the proceedings were stayed or terminated.”
+
+It follows that, under Quiborax, harm is “irreparable” and an interim
+measure is therefore “necessary” when two conditions are met: (i) harm
+caused would not be adequately repaired by an award of damages and (ii)
+harm resulting from absence of interim measures to the claimant is greater
+than harm to the respondent from their imposition.
+
+In sum, the ICSID arbitration tribunals that have deviated from the
+ICJ irreparable harm cases and put forward the alternative standard of
+necessity based on the 2006 UNCITRAL Model Law have consistently
+done so in special circumstances when monetary damages could not fully
+remedy the harm. This is evident in cases such as City Oriente, Burlington
+and Perenco, where there was the threat of destruction of the investment
+and each respective claimant sought performance of the contract, and in
+Quiborax, when the respondent’s measures threatened the integrity of the
+arbitral proceedings by precluding claimant’s access to the necessary
+evidence.
+
+IV. ICJ CONCEPT OF “TRREPARABLE HARM” PREVAILS IN ICSID
+JURISPRUDENCE
+
+A. The Cemex Decision on Provisional Measures
+
+In Cemex, claimants sought to restrain Venezuela from seizing vessels
+which had been transferred from their Venezuelan subsidiary, Cemex
+Venezuela, to a third party. Claimants sought orders for provisional
+measures under the ICSID Convention, stating that “Venezuela should be
+enjoined from further action that will increase the Claimants’ damages and
+thus aggravate this dispute.””* The key legal issue of divergence between
+the parties was “the kind of risk justifying” provisional measures.”
+
+The Cemex tribunal rejected claimants’ request for provisional
+measures, holding that under the circumstances such measures do not
+meet the requirements of urgency and necessity under Article 47 of the
+ICSID Convention and that the non-aggravation of the dispute principle
+does not supplant meeting the necessity requirement.” Thus, applying the
+irreparable damage or prejudice standard, the Cemex tribunal concluded
+
+7% Quiborax, JJ 156-58.
+7 Cemex, J 20.
+7 Cemex, J 42.
+76 Cemex, J 61.
+PROVISIONAL MEASURES IN ICSID ARBITRATION 227
+
+that claimants’ alleged harm was not irreparable and thereby the
+provisional measures were not necessary since, according to the claimants,
+the only consequence of the seizure of the vessels would be a financial loss
+and such loss could be readily compensated by a damages award.”
+
+The Cemex tribunal determined that the applicable criterion for
+necessity is the irreparable harm or prejudice. The tribunal dismissed
+arguments criticizing the application of the ICJ irreparable harm standard
+in ICSID arbitrations and contention that a lower threshold of harm
+belongs in ICSID arbitration. The tribunal stated:
+
+Thus, ICSID Tribunals, when considering government actions
+which may well prove to have infringed a right and caused harm,
+make a distinction between:
+
+(a) situations where the alleged prejudice can be readily
+compensated by awarding damages;
+
+(b) and those where there is a serious risk of destruction of a
+going concern that constitutes the investment.
+
+In the first category of cases, provisional measures were denied
+because of the absence of an “irreparable harm.” In the second
+category of cases they were granted, the tribunals using other
+standards -- although they could have based their decision on the
+fact that, the destruction of the ongoing concern that constituted
+the investment, would have created an “irreparable harm.” ....
+
+... the Tribunal sees no reason not to retain the generally accepted
+standard of “irreparable harm” as criterion for the “necessity”
+required by Article 47 of the ICSID Convention...”
+
+The Cemex tribunal reasoned that the concept of irreparable harm is a
+governing rule because this is precisely the criterion “always required by
+the International Court of Justice for provisional measures” under Article
+41 of the Statute” and Article 47 of the ICSID Convention is “directly
+inspired” by Article 41 of the ICJ Statute.
+
+Reviewing both the ICJ and ICSID jurisprudence, the Cemex tribunal
+refined the definition of irreparable harm or prejudice as damage that,
+although capable of financial compensation, cannot be fully remedied by
+it. The tribunal recognized that the rationale used by the ICJ jurisprudence
+in cases concerning the danger of property destruction is also applicable in
+
+7 Cemex, J 58.
+
+7% Cemex, 55-56.
+
+7 Cemex, J 40, 43 (citing Pulp Mills, J] 31-32; Passage through the Great Belt, J 23;
+Certain Criminal Proceedings in France, J 22).
+
+80 Cemex, § 39 (citing Pey Casado, J 2 and C. Schreuer, THE ICSID CONVENTION: A
+COMMENTARY, p. 759).
+228 INTERIM & EMERGENCY RELIEF IN INT’L ARBITRATION
+
+ICSID arbitrations as an example of the damage that, although capable of
+financial compensation, cannot be fully remedied by it.8! In such cases,
+ICSID tribunals distinguish the prejudice that can be easily compensated
+by awarding damages from that prejudice that is posing a serious risk of
+destruction to the investment.*
+
+Specifically, the Cemex tribunal observed that in Plama the tribunal
+accepted the respondent’s argument that harm is not irreparable if it can
+be compensated for by damages, which was the only remedy the claimant
+sought. It further observed that in Burlington, when the tribunal ordered
+the establishment of an escrow account where the disputed funds could be
+held pending the final award, the risk was greater than mere damages,
+namely “the destruction of an ongoing investment and its revenue-
+producing potential.” The Cemex tribunal also pointed out that, in Perenco,
+the tribunal established an escrow account for the same purpose as in
+Burlington, after concluding that the claimant cannot be “adequately
+compensated by an award of damages” in light of the seizure of its assets
+and oil production and the danger of destruction of its investment.®
+
+The Cemex tribunal further reinforced its conclusion that the
+irreparable harm standard is the general rule in ICSID arbitration by
+specifically considering the Burlington and Perenco decisions. It reasoned
+that even the Burlington and Perenco tribunals which purported to make
+use of the UNICTRAL Model Law-derived criterion for necessity actually
+support its conclusion, because the “harm not adequately reparable by an
+award of damages” standard does “not differ in substance from the
+standard of ‘irreparable damage’ generally used.”*+ In discussing these
+cases, the Cemex tribunal observed that, under the test applied by the ICJ,
+the Burlington and Perenco tribunals “could have based their decision on
+the fact that, the destruction of the ongoing concern that constituted the
+investment, would have created an ‘irreparable harm.’”® Essentially, the
+Cemex tribunal concluded that this was a distinction without a difference:
+
+81 Cemex, 9§ 47-48. The Cemex tribunal underlined that the ICJ granted provisional
+measures even when monetary damages could be awarded in circumstances where “the
+health or life of people and sometimes their properties were in jeopardy.” However, the
+ICJ denied provisional measures in the Aegean Sea case because violation of the alleged
+rights was “capable of reparation by appropriate means.”
+
+8 Cemex, § 55; cf. Sarooshi, pp. 371-372 (arguing that the ICJ irreparable prejudice
+requirements “is not applicable or even persuasive as a way of constructing necessity in
+the context of ICSID” because “of the wholly different nature of the types of cases in
+which the ICJ may be involved as compared to the investors-State claims that come
+before ICSID Tribunals,” namely cases involving the legality on the use of military force,
+boundary cases and cases over treatment of foreign property).
+
+8 Cemex, J] 52-54.
+
+84 Cemex, [] 45-47.
+
+8 Cemex, J 55.
+PROVISIONAL MEASURES IN ICSID ARBITRATION 229
+
+irreparable harm or prejudice precisely means damage that cannot be
+adequately compensated by a monetary award.*°
+
+B. Post-Cemex Decisions
+
+The post-Cemex ICSID jurisprudence confirms the understanding that
+the necessity of interim measures is determined by application of the
+“irreparable harm” test. In Abaclat, for example, the tribunal held that “a
+wide consensus has emerged in practice” that an order of provisional
+measures requires inter alia “the risk of irreparable harm or prejudice in case
+the measures are not granted.”*®” Citing the Cemex decision on provisional
+measures with approval, the Tethyan tribunal observed that “pursuant to the
+well-established jurisprudence of ICSID tribunals, provisional measures
+may be granted where the situation is urgent and the requested measures
+are necessary to preserve a party’s right from irreparable harm.”** The
+tribunal further remarked that “[t]his test is in conformity with the practice
+of the International Court of Justice (ICJ’) under Article 41 of its Statute, on
+which Article 47 of the ICSID Convention is modeled.”®
+
+When ICSID tribunals have been confronted with provisional
+measures requests where the integrity of the arbitral proceedings has been
+
+86 Moreover, the Cemex decision resolved the dispute over the relationship between the
+“irreparable harm” and “non-aggravation of dispute” principle. The tribunal reasoned
+that the mere fact that the ICJ had frequently issued provisional measures in order to
+prevent aggravation or extension of the dispute does not serve as a criterion for
+determining when a provisional measure is “necessary” while this is the function of
+provisional measures, the criterion for their “necessity” is the assessment of
+“irreparable” harm under Article 47 of the ICSID Convention - a requirement
+independent from the aim to prevent the extension or aggravation of the dispute.
+Rather, as the Cemex tribunal held, “the so-called principle of non-aggravation cannot
+supplant the requirement of Article 47,” the provisional measures “cannot be granted on
+the basis of the principle of non-aggravation alone.” See Cemex, { 61; see also Lao
+Holdings, J 14-16 (relying on Tokios Tokelés v. Ukraine, ICSID Case No. ARB/02/18,
+Order No. 1, § 2 (July 1, 2003), the tribunal issued a preliminary order to prevent
+aggravation of the dispute only after having satisfied itself that absent such an order
+there was “a real and imminent risk that irreparable prejudice may be caused to the
+rights in dispute” of the parties). Cf. Born pp. 2490-2491 (citing with approval cases to
+support the proposition that the standard for interim measures is not the imminent
+threat of irreparable harm but whether the complained-of actions are having a “serious
+adverse effect” on the ability of a party to fully protect its rights in the judicial
+proceedings, i.e., the general right to the maintenance of the status quo and the non-
+aggravation of the dispute) and Sarooshi, pp. 378-379 (contending that “a lower
+threshold than ‘irreparable prejudice’ - whether it is “significant harm’ to parties rights
+or even a ‘threat’ to parties rights - is entirely appropriate and should be followed by
+other ICSID Tribunals...”, Le., avoidance of the aggravation of the dispute).
+
+87 Abaclat, Procedural Order No. 11, § 11.
+
+88 Tethyan, { 118.
+
+8 Tethyan, { 119.
+230 INTERIM & EMERGENCY RELIEF IN INT’L ARBITRATION
+
+the centerpiece of discussion, ICSID tribunals have applied the irreparable
+harm requirement when determining whether the measure is necessary.
+
+For instance, in Caratube, the claimant sought provisional measures to
+stay criminal investigations during the course of the ICSID arbitration. The
+tribunal refused to grant the provisional measures. According to the
+tribunal, it was not necessary to issue provisional measures because the
+claimant's ability to furnish evidence for the claim was not impaired given
+the respondent’s undertaking to preserve all documents, including files and
+computer disks and other materials the Kazakh authorities had taken from
+claimant, to grant claimant access to all the documents it requested, and to
+allow claimant to copy such documents and take them out of Kazakhstan.
+The tribunal further explained that the claimant sought money damages, not
+specific performance, which, as the tribunal emphasized, would have
+triggered other considerations such as those discussed in the Burlington case.
+The Caratube tribunal concluded by holding that:
+
+[A]pplying Rule 39(1), the Tribunal does not find that the right
+preserved is threatened. Claimant has not shown that its
+procedural right to continue with the ICSID arbitration is
+precluded by the criminal investigation... Regarding Claimant’s
+substantive rights involved ... damage may be claimed, examined
+and decided later in this case in the procedure on the merits. Since,
+in the present case, Claimant is not claiming specific performance,
+but money damages, this Tribunal does not have to deal with the
+question whether other considerations have to be applied in
+specific performance claims....?!
+
+In Lao Holdings, the respondent filed a motion to amend a non-
+aggravation clause in an earlier Provisional Measures Order (PMO) to
+permit it to further its criminal investigation into the alleged illegal
+conduct by the claimant and its employees, as well as the alleged
+corruption of the officials of the respondent Government in connection
+with the investment. The tribunal refused to grant the motion to modify
+the non-aggravation clause and held that allowing the Laotian police and
+prosecutors to pursue the criminal investigation by deposing witnesses
+and collecting bank and audit documentation on the eve of the arbitration
+hearing would “aggravate the dispute, by endangering the procedural
+integrity of the arbitral proceedings.” The tribunal relied on Certain
+Activities Carried out by Nicaragua in the Border Area (Costa Rica v. Nicaragua)
+ICJ decision for the proposition that a party seeking a modification of the
+
+so
+
+° Caratube, [J 99-104, 137-139.
+1 Caratube, 4 139.
+
+° Lao Holdings, | 1, 26, 31.
+
+% Lao Holdings, § 42.
+PROVISIONAL MEASURES IN ICSID ARBITRATION 231
+
+provisional order must demonstrate urgency and necessity. Citing
+Quiborax with approval, the tribunal reasoned that permitting the criminal
+prosecution of the claimant to continue would be “highly disruptive” to
+the claimant’s ability to present its case by hindering access to
+documentary evidence and reducing potential willingness of witnesses to
+cooperate with the ICSID proceedings.*
+
+In Churchill the tribunal held that the necessity requirement for
+enjoining the state’s criminal investigation against certain individuals not
+parties to the dispute had not been fulfilled since the rights for which the
+claimants sought provisional measures were not affected,” ie., the right to
+exclusivity of the ICSID proceedings, preservation of the status quo and the
+non-aggravation of the dispute, and the right to the procedural integrity of
+the arbitral proceedings.” Although the claimants insisted on the
+application of the “substantial harm” test for necessity and the respondent
+argued for the “irreparable harm” standard, the tribunal did not
+characterize the standard of harm.** Specifically, the tribunal found that
+lodging criminal charges on the grounds of forgery of official documents
+against companies that are not parties to the dispute does not threaten the
+exclusivity of the ICSID proceedings.” The tribunal also found that the
+right to non-aggravation of the dispute had not been violated because no
+investigation had been initiated, no criminal charges had been filed against
+the claimants themselves or their concurrent witnesses, and there was no
+showing of any pressure or intimidation against the claimants and their
+witnesses.! In this sense, the tribunal distinguished Quiborax since,
+
+% Lao Holdings, J 50.
+
+% Lao Holdings, { 72. It should be noted that in issuing the original PMO, “...the
+Tribunal satisfied itself, as it was required to do, that in the absence of such an order
+there was ‘a real and imminent risk that irreparable prejudice may be caused to the rights in the
+dispute’ before a decision could be given on the merits...” Lao Holdings, { 16 (citing the
+September 13, 2007 PMO) (emphasis added).
+
+96 Churchill Procedural Order No. 9, JJ 102-103.
+
+97 Churchill Procedural Order No. 9, JJ 10, 86-88, 92-95, 99.
+
+9 Churchill Procedural Order No. 9, 4 70, 102-103. “The Tribunal can dispense with
+entering into a discussion of the Parties’ arguments. Since in the present circumstances,
+the rights for which the Claimants seek provisional measures are not affected, the
+necessity requirement is consequently not fulfilled.”
+
+9° Churchill Procedural Order No. 9, § 87. Specifically, the tribunal indicated: “As a
+starting point, the Tribunal agrees with the Quiborax tribunal in that criminal
+proceedings do not per se threaten the exclusivity of ICSID proceedings. This derives
+from the fact that the jurisdiction of the Centre and the competence of the Tribunal
+extend to investment disputes, ie. for present purposes, whether the Respondent
+breached its international obligations under the UK-Indonesia BIT with respect to
+Churchill Mining and under the Australia-Indonesia BIT with respect to Planet Mining,
+and not to criminal proceedings, which fall outside the scope of the Centre’s jurisdiction
+and the Tribunal’s competence.” [d., { 85.
+
+100 Churchill Procedural Order No. 9, JJ 88, 92-95.
+232 INTERIM & EMERGENCY RELIEF IN INT’L ARBITRATION
+
+unlike factual circumstances in Churchill, Quiborax dealt with actual
+criminal investigations against a co-claimant and persons involved in the
+setting up of the investment. !°!
+
+Interestingly, in a previous decision rendered by the same tribunal
+concerning a different request for provisional measures, the tribunal held
+that the necessity requirement under Rule 39 of the ICSID Arbitration
+Rules “implies the existence of a risk of irreparable or substantial harm.”!°?
+In that instance, it was the respondent State that had filed a request for
+provisional measures to order the claimants to refrain from making false
+statements in the media regarding the dispute and from approaching and
+trying to persuade and induce any officials of the government of Indonesia
+to settle the case outside the ICSID arbitration proceedings.!° The tribunal
+articulated the requirements for granting provisional measures as follows:
+
+There seems to be no disagreement between the Parties on the
+requirements for provisional measures. According to Rule 39 of
+the ICSID Arbitration Rules, the request must specify “the rights
+to be preserved, the measures the recommendation of which is
+requested, and the circumstances that require such measures”.
+Various ICSID tribunals have interpreted these requirements to
+mean that provisional measures must (i) serve to protect certain
+rights of the applicant, (ii) meet the requirement of urgency; and
+(iii) the requirement of necessity, which implies the existence of a risk of
+irreparable or substantial harm.
+
+The tribunal, however, did not satisfy the respondent’s request for
+provisional measures. It held that the respondent had failed to identify
+any right that may justify provisional measures and made insufficient
+representations regarding urgency and the risk of “irreparable or serious
+damage” as a result of the claimants’ complained-of conduct.!%
+
+In sum, based on a survey of ICSID arbitration decisions following
+the Cemex case, it is evident that the Cemex ruling clarified the meaning of
+irreparable harm as a harm that cannot be readily compensated by an
+award of damages and that it is the general requirement for a finding of
+necessity of provisional measures under the ICSID Convention.
+
+101 Churchill Procedural Order No. 9, J 99.
+
+102 Churchill Procedural Order No. 3, § 42 (citing Plama, § 38; Burlington, § 51; Quiborax,
+4 113; loan Micula, § 12).
+
+103 Churchill Procedural Order No. 3, JJ 20-23.
+
+104 Churchill Procedural Order No. 3, { 42 (emphasis added).
+
+105 Churchill Procedural Order No. 3, JJ 49-56.
+PROVISIONAL MEASURES IN ICSID ARBITRATION 233
+Vv. CONCLUSION
+
+The Cemex decision and post-Cemex line of cases confirm that the
+irreparable harm or prejudice is the governing criterion for necessity under
+Article 47 of the ICSID Convention and Rule 39 of the ICSID Arbitration
+Rules and that the UNCITRAL lower-threshold harm standard has not
+made serious inroads into ICSID arbitration.
+
+Despite the debate over the necessity standard, ICSID case law shows
+that irreparable harm is required for the granting of provisional measures
+under Article 47 of the ICSID Convention, as confirmed by ICSID tribunals
+following the ICJ’s persistent stance on the necessity standard. The Cemex
+tribunal's strong reasoning in favor of maintaining the higher ICJ standard
+of requirements for provisional measures, corroborated by the post-Cemex
+case law, lay to rest the perception that ICSID tribunals are moving in the
+direction of adopting a lower threshold test than the “irreparable harm”
+standard.
+
+Provisional measures in investment treaty arbitration warrant
+caution because of their unique trait: such measures inherently encroach
+on State sovereignty and restrict the exercise of its quintessential
+regulatory powers. As such, the Cemex position eschewing the more
+relaxed standard of necessity under the 2006 UNCITRAL Model Law is in
+harmony with the extraordinary nature of provisional remedies directed
+against States.

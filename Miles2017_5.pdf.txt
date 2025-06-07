@@ -1,0 +1,2738 @@
+Purpose of Provisional Measures
+
+I Introduction
+
+Provisional measures, as a general rule, may only be ordered to advance
+certain defined objectives.' Two categories of measure exist. The first are
+provisional measures designed to protect a right subject to litigation. The
+second are provisional measures designed to prevent the further aggrava-
+tion of the dispute and damage to the status quo more generally — referred
+to here as measures for the non-aggravation of the dispute. However,
+these seemingly simple categories conceal a wealth of corollaries that have
+invited considerable judicial and academic commentary.
+
+This chapter will address these corollaries, and critique the various
+elaborations that they have prompted in the courts and tribunals under
+investigation. As with the questions of jurisdiction and admissibility
+examined in Chapter 4, the ICJ may be said to have led the way in
+developing these elaborations — though other international bodies have
+consistently adopted them for their own use. Moreover, that in the wake
+of the ICJ’s determination as to the binding quality of provisional mea-
+sures in LaGrand,* the Court has arguably been seeking to impose further
+restrictions on the award of interim relief so insulate itself from frivolous
+or vexatious applications and to enhance the legitimacy of any relief so
+awarded. Three advances may be identified, namely the (re-)discovery
+of the so-called ‘plausibility’ and ‘link’ tests and the further require-
+ment that measures for the non-aggravation of the dispute may only
+be awarded in the presence of measures for the protection of a right or
+interest.
+
+' At least formally: cf. Chapter 9.
+2 LaGrand (Germany v US), ICJ Reports 2001 p 466, 502-3.
+
+174
+
+https://doi.org/10.1017/9781316410813.007 Published online by Cambridge University Press
+eae paw quate
+via ae fF ie ;
+TOS VO OLOr ras #
+
+MEASURES FOR THE PRESERVATION OF RIGHTS PENDENTE LITE 175
+
+II Measures for the Preservation of Rights Pendente Lite
+A Different Forms of the Measure
+
+The dominant reason for which most provisional measures are awarded
+is to protect a right pendente lite. This much is evident in the wording
+of Article 41 of the ICJ Statute and its PCIJ predecessor,* which speak of
+provisional measures ‘which ought be taken to [p]reserve the respective
+rights of the parties.” Substantially similar wording may be seen to appear
+in, inter alia, UNCLOS Article 290(1), Article 47 of the ICSID Convention,
+NAFTA Article 1134 and DR-CAFTA Article 10.20.8. This purpose has
+been further confirmed judicially. The PCIJ, speaking through the pen of
+President Huber in the Sino-Belgian Treaty case, noted that ‘the object
+of interim measures of protection is to preserve the respective rights of
+the Parties, pending the decision of the Court’® A similar approach was
+taken by the ICJ in the Fisheries Jurisdiction cases, where it was said that
+‘the right of the Court to indicate provisional measures [...] has as its
+object to preserve the respective rights of the Parties pending the decision
+
+> See e.g. H W A Thirlway, ‘The Indication of Interim Measures by the International
+Court of Justice’, in R Bernhardt (ed), Interim Measures Indicated by International Courts
+(Berlin: Springer, 1994) 1, 7-8; Shigeru Oda, “Provisional Measures: The Practice of the
+International Court of Justice’, in V Lowe and M Fitzmaurice (eds), Fifty Years of the Inter-
+national Court of Justice: Essays in Honour of Sir Robert Jennings (Cambridge: Cambridge
+University Press, 1996) 541, 551-2; Hironobu Sakai, “New Developments of the Orders
+on Provisional Measures by the International Court of Justice’ (2009) 52 JYIL 231, 244—
+57; Loretta Malintoppi, “Provisional Measures in Recent ICSID Proceedings: What Parties
+Request and What Tribunals Order’, in C Binder et al. (eds), International Investment Law
+for the 21st Century: Essays in Honour of Christoph Schreuer (Oxford: Oxford University
+Press, 2009) 157, 164-72; ICISD Commentary, 778-80; Karin Oellers-Frahm, ‘Article 417
+in IC] Commentary, 1026, 1035-8; Hugh Thirlway, 1 The Law and Procedure of the Interna-
+tional Court of Justice: Fifty Years of Jurisprudence (Oxford: Oxford University Press, 2013)
+929-46; 2 ibid, 1771-99; Robert Kolb, The International Court of Justice (Oxford: Hart,
+2013) 620-1.
+
+See also and earlier common Art 4 of the 1914 Bryan Treaties with China, France and
+Sweden, as well as certain of the procedural regulations adopted by the inter-war Mixed
+Arbitral Tribunals: Chapter 2, §$I.A.3, HI.B.
+
+Due to a printer’s error, Art 41 of the PCIJ Statute made reference to measures to ‘reserve’
+the rights of the parties. This was corrected by the Washington Committee: Chapter 3,
+SILB.
+
+Denunciation of the Treaty of November 2nd, 1865, between China and Belgium (Belgium v
+China) (1927) PCIJ Ser A No 8, 6. Further: Legal Status of the South-Eastern Territory of
+Greenland (Denmark v Norway) (1932) PCIJ Ser A/B No 48, 284; Polish Agrarian Reform
+and the German Minority (Germany v Poland) (1933) PCIJ Ser A/B No 58, 177.
+
+a
+
+wi
+
+an
+
+AOVETSTEdT Get s.coyY Published online by Cambridge University Press
+eae tN wok at
+via ae fF ie ;
+LIDS VOL ora randa s
+
+176 PURPOSE OF PROVISIONAL MEASURES
+
+of the Court,’ a position which has been reaffirmed as recently as Certain
+Documents and Data.® Confirmation on this point has also been provided
+by ITLOS? and by investor-state’® and inter-state arbitral tribunals."
+
+It is worth noting that the broad wording of the phrase ‘preservation
+of rights pendente lite’ actually conceals within it a number of other mea-
+sures. These do not have a separate life of their own, but may instead
+be seen as expressions of the wider general purpose. Notwithstanding its
+pronouncement on the primary purpose of interim relief in the Fisheries
+Jurisdiction and other cases, the ICJ in Aegean Sea stated that “[t]he essen-
+tial object of provisional measures is to ensure that the execution of a
+future judgment on the merits shall not be frustrated by the actions of
+one party pendente lite.!* Such measures of non-anticipation however, are
+still considered to relate to the preservation of rights, as such anticipation
+may “prejudice the rights claimed |... ] and affect the possibility of their
+full restoration in the event of judgment in [the applicant’s] favour’.°
+
+B_ Defining a Right Pendente Lite
+
+In all cases considered, a court or tribunal’s jurisdiction to indicate provi-
+sional measures is enlivened only in the context of the case before it, and
+‘does not comprise a power to protect rights “at large” on the application
+of a State which considers that its rights are threatened’.'* Consequently,
+when considering measures for the preservation of rights, the right or
+
+’ Fisheries Jurisdiction (UK v Iceland), Interim Protection, ICJ Reports 1972 p 12, 16; Fisheries
+Jurisdiction (FRG v Iceland), Interim Protection, IC] Reports 1972 p 30, 34.
+
+8 Questions Relating to the Seizure and Detention of Certain Documents and Data (Timor-
+
+Leste v Australia), ICJ, Order of 3 March 2014, $22.
+
+See e.g. Southern Bluefin Tuna (Australia v Japan; New Zealand v Japan), Provisional
+
+Measures (1999) 117 ILR 148, 163; Land Reclamation by Singapore in and around the
+
+Straits of Johor (Malaysia v Singapore), Provisional Measures (2003) 126 ILR 487, 501.
+
+10 See e.g. Plama Consortium Ltd v Bulgaria, ICSID Case No ARB/03/24 (Order, 6 September
+2005) $38 Tethyan Copper Company Pty Ltd v Pakistan, ICSID Case ARB/12/1 (Provisional
+Measures, 13 December 2012) $114. Cf. Sergei Paushok, CJSC Golden East Company and
+CJSC Vostokneftgaz Company v Mongolia, UNCITRAL (Interim Measures, 2 September
+2008) $§37-8 (referring to the preservation of the subject matter of the dispute as required
+by 1976 UNCITRAL Rules, Art 26(1)).
+
+‘Indus Waters Kishenganga Arbitration (Pakistan v India), Interim Measures (2011) 150 ILR
+
+311, 350-1.
+
+Aegean Sea Continental Shelf (Greece v Turkey), Provisional Measures, ICJ Reports 1976
+
+p 3, 15-16.
+
+‘3 Fisheries Jurisdiction (UK v Iceland), ICJ Reports 1972 p 12, 16; Fisheries Jurisdiction (FRG
+v Iceland), ICJ Reports 1973 p 30, 34.
+
+4 Thirlway, 2 Law and Procedure, 1779-80.
+
+9
+
+SOPFETST6GAT IS 1 S OOF Published online by Cambridge University Press
+MEASURES FOR THE PRESERVATION OF RIGHTS PENDENTE LITE 177
+
+interest in question is generally defined by the assertions in the appli-
+cant’s originating process.!° Thus, in the Fisheries Jurisdiction cases it was
+said that ‘irreparable prejudice should not be caused to the rights which
+are the subject of dispute in judicial proceedings’.'* In Bosnian Genocide,
+it was similarly found that ‘the Court must be concerned to preserve by
+such measures the rights which may subsequently be adjudged by the
+Court to belong either to the Applicant or to the Respondent’! More
+expansively, the ICSID tribunal in Plama v Bulgaria remarked that:
+
+The rights to be preserved must relate to the requesting party’s ability to
+have its claims and requests for relief in the arbitration fairly considered
+and decided by the arbitral tribunal and for any arbitral decision which
+grants to the Claimant the relief it seeks to be effective and able to be
+carried out. Thus the rights to be preserved by provisional measures are
+circumscribed by the requesting party’s claims and requests for relief.'*
+
+The existence of such rights, moreover, is conditioned by the court or
+tribunal’s previous determinations on jurisdiction, or, where jurisdiction
+has not been finally determined, its findings on prima facie jurisdiction.
+Thus, in Bosnian Genocide, the IC] considered a request for provisional
+measures where the only basis of jurisdiction that survived a prima facie
+examination was the Genocide Convention. Consequently, the Court was
+only willing to award relief that protected those rights, whilst dismissing
+requests pertaining to other interests, e.g. self-defence.”
+
+Where the claimant applies for provisional measures, the rights to be
+preserved are easily identified from the pleadings. However, provisional
+measures can be requested by both parties to the dispute. The question
+therefore arises as to how to identify the rights to be protected where the
+respondent is applying for interim relief in the absence of a counterclaim
+that might specify the rights that it seeks to assert.” This problem con-
+fronted the ICJ in the second set of provisional measures proceedings in
+
+Ibid, 1780; Yoshiyuki Lee-Iwamoto, “The Repercussions of the LaGrand Judgment: Recent
+ICJ Jurisprudence on Provisional Measures’ (2012) 55 JYIL 237, 240.
+
+16 Fisheries Jurisdiction (UK v Iceland), ICJ Reports 1972 p 12, 16; Fisheries Jurisdiction (FRG
+v Iceland), ICJ Reports 1973 p 30, 34.
+
+Application of the Convention on the Prevention and Punishment of the Crime of Genocide
+(Bosnia and Herzegovina v Serbia and Montenegro), Provisional Measures, IC] Reports
+1993 p 3, 19.
+
+18 Plama v Bulgaria, ICSID Case No ARB/03/24, $30.
+
+19 Bosnian Genocide, ICJ Reports 1993 p 3, 18-19.
+
+20 Thirlway, 2 Law and Procedure, 1780-2.
+
+AOVETSTEdT Get s.coyY Published online by Cambridge University Press
+178 PURPOSE OF PROVISIONAL MEASURES
+
+the Pulp Mills case.”' In broad terms, the case concerned the construction
+and future commissioning of two pulp mills on the Uruguayan side of the
+River Uruguay, which partially demarcated the border with Argentina.
+Argentina founded jurisdiction on the 1975 Statute of the River Uruguay,
+which provided that ‘any dispute concerning the interpretation and appli-
+cation of the [Montevideo] Treaty [concerning the boundary constituted
+by the River Uruguay] and the [present] Statute which cannot be settled by
+direct negotiations may be submitted by either party to the International
+Court of Justice.” It further requested an award of provisional measures
+to protect the rights specified in its application, but this was eventually
+denied by the Court on the basis that there was no risk of irreparable
+prejudice.”°
+
+Shortly thereafter, Uruguay filed its own request for interim relief to
+restrain certain Argentine citizens from blocking roads and bridges over
+the river to protest the construction of the mills. In making this applica-
+tion, Uruguay conceded that these acts fell outside of the Court’s juris-
+diction inasmuch as they were not covered by the Statute of the River
+Uruguay, but further contended that they constituted a fundamental
+interference with the very rights that it was attempting to defend, ice.
+its ability to construct and commission the pulp mills. As such, it was
+said, ‘[t]he blocking of international roads and bridges [...] is a matter
+directly, intimately and indissociably related to the subject matter of the
+case before the Court.*4 The Court agreed, noting that
+
+Article 41 of the Court’s Statute authorizes it ‘to indicate [...] any provi-
+sional measures which ought to be taken to preserve the respective rights
+of either party’; and [...] the rights of the respondent are not dependent
+solely upon the way in which the applicant formulates its application[.]”°
+
+The point, the Court continued, was not that Uruguay was able to seek
+interim protection of any right that could be claimed under international
+law, but rather that in defending the proceeding it was asserting a right
+to construct and commission the mills without interference by another
+state. Put this way, the Court held:
+
+[A]ny right Uruguay may have to continue the construction and to begin
+the commissioning of [the pulp mills] in conformity with the provisions
+
+21 Pulp Mills on the River Uruguay (Argentina v Uruguay), Provisional Measures, ICJ Reports
+2007 p 3.
+
+22 26 February 1975, 1295 UNTS 340, Art 60.
+
+3 Pulp Mills, Provisional Measures, ICJ Reports 2006 p 113, 131-3.
+
+4 Pulp Mills, ICJ Reports 2007 p 3,9. —*° Ibid, 10.
+
+PSTS4T 8S 12.00% Published online by Cambridge University Press
+eae tN wok at
+via ae fF ie ;
+LIDS VOL ora randa s
+
+MEASURES FOR THE PRESERVATION OF RIGHTS PENDENTE LITE 179
+
+of the 1975 Statute, pending a final decision of the Court, effectively
+constitutes a claimed right in the present case, which may in principle be
+protected by the indication of provisional measures.”°
+
+To elaborate, had the proceedings been instituted by Uruguay asking
+for a declaration that the construction of the mills conformed to the
+1975 Statute, then any attempt to impede that construction by Argentina
+through the blockading of bridges could validly be the subject of interim
+relief?’ Accordingly, where provisional measures are requested by the
+respondent in the absence of a counterclaim, the rights to be protected
+are a negative image of the claimant’s application, in that the respondent
+may assert a right to pursue a course of conduct over the objections of the
+claimant. This may be seen as a reflection (of sorts) of the PCI)’s dictum
+in the SS Lotus case,?> where was said that international law does not,
+absent a prohibitive rule to the contrary, restrain the capacity of states to
+commit acts that have effects beyond their territorial jurisdiction.
+
+This point is of general application with respect to other courts and
+tribunals, although it has yet to arise in quite so acute a fashion before
+other institutions. An adjudicative body under UNCLOS Part XV has yet
+to consider the question and on the rare occasion that a state respondent
+in an investment arbitration has applied for provisional measures, the
+basic rights to be defended invariably concern the power of that state to
+regulate investment activity within its own borders,”’ even ifthe measures
+requested do not directly seek to protect those rights.°°’
+
+C Relationship Between Measures Requested and the Merits Proper
+
+Simply remarking that provisional measures are intended to preserve
+rights pendente lite, however, is to oversimplify the matter. Further
+
+6 Thid, 11.” Thirlway, 2 Law and Procedure, 1782.
+
+28 SS Lotus (France v Turkey) (1927) PCIJ Ser A No 10, 19.
+
+9 See e.g. the rights listed by the respondent in Churchill Mining PLC v Indonesia, ICSID Case
+No ARB/12/14 (Provisional Measures, 4 March 2013) §§44—54 (concerning confidentiality
+of proceedings).
+
+3° See e.g. Amco Asia Corp, Pan American Development Ltd and PT Amco Indonesia v Indonesia,
+Provisional Measures (1983) 1 ICSID Reports 410, 411 (confidentiality of proceedings);
+Maritime International Nominees Establishment v Guinea (1988) 4 ICSID Reports 61,
+68-9 (exclusivity of proceedings); Emilio Agustin Maffezini v Spain, Provisional Measures
+(2001) 5 ICSID Reports 393, 393 (security for costs); Victor Pey Casado and President
+Allende Foundation v Chile, Provisional Measures (2001) 6 ICSID Reports 373, 394-7
+(security for costs); Bayindir Insaat Turizm Ticaret Ve Sanayi AS v Pakistan, ICSID Case
+No ARB/03/29 (Decision on Jurisdiction, 14 November 2005) $46 (security for costs).
+
+SOPFETST6GAT IS 1 S OOF Published online by Cambridge University Press
+eae rt eN wnat
+via ae fF ie ;
+TOS VO OLOr ras #
+
+180 PURPOSE OF PROVISIONAL MEASURES
+
+enquiries are required with respect to the connection between the mea-
+sures requested and the final judgment on the merits. Within the jurispru-
+dence, this has generated what might be referred to as the ‘link’ require-
+ment, i.e. that the rights to be protected by the imposition of provisional
+measures must be linked to those rights that are the subject of the main
+claim.*! Given the fact-dependent nature of the requirement, it can only
+be assessed on a case-by-case basis — though some general principles may
+be ascertained.
+
+1 The International Court of Justice
+
+Much of the early jurisprudence surrounding the link requirement
+emerges, unsurprisingly, from the practice of the PCY] and ICJ. A relatively
+straightforward instantiation of the problem arose in Arbitral Award of
+31 July 1989, where the subject matter of the claim was the formal valid-
+ity of an arbitral award determining the rights to certain maritime areas
+between Guinea-Bissau and Senegal. As part of its request, Guinea-Bissau
+asked the Court to order provisional measures with respect to activities
+in the maritime areas themselves. This was rejected on the basis that:
+
+[T]he Applicant [...] asks the Court to pass upon the existence and
+validity of the award but does not ask the Court to pass upon the respective
+rights of the parties in the maritime areas in question [... ] [A]ccordingly,
+the alleged rights sought to be made the subject of provisional measures
+are not the subject of proceedings before the Court on the merits of the
+case.”
+
+An earlier example occurred before the PCY in the Polish Agrarian Reform
+case,*° a decision that also highlights the difficulties that may arise in the
+ascertainment of the precise identity of rights sub judice.** In that case,
+the German pleading’? was on its face unclear as to whether Germany
+
+31 Jerzy Sztucki, Interim Measures in the Hague Court: An Attempt at a Scrutiny (Deventer:
+Kluwer, 1983) 89-93; Lee-Iwamoto, ‘Repercussions of LaGrand, 241-7; Oellers-Frahm,
+“Article 41’, 1044-5; Inna Uchikova, “Provisional Measures before the International Court
+of Justice’ (2013) 12 LPICT 391, 404-7.
+
+Arbitral Award of 31 July 1989 (Guinea-Bissau v Senegal), Provisional Measures, ICJ Reports
+1990 p 64, 70. Further: South-Eastern Greenland (1932) PCIJ Ser A/B No 48, 284; Fisheries
+Jurisdiction (UK v Iceland), ICJ Reports 1972 p 12, 15; Fisheries Jurisdiction (FRG v Iceland),
+ICJ Reports 1972 p 30, 33; Aegean Sea, ICJ Reports 1976 p 3, 11; Cameroon v Nigeria, IC]
+Reports 1996 p 13, 22; Application of the International Convention on the Elimination of
+All Forms of Racial Discrimination (Georgia v Russian Federation), Provisional Measures,
+IC] Reports 2008 p 353, 388-9.
+
+33 See Chapter 2, §IV.C.5.
+
+** Oellers-Frahm, ‘Article 41, 1044. *°-_ (1933) Ser C No 71, 11-14.
+
+32
+
+AOVETSTEdT Get s.coyY Published online by Cambridge University Press
+MEASURES FOR THE PRESERVATION OF RIGHTS PENDENTE LITE 181
+
+considered the entirety of the Polish agricultural reform legislation to be
+inconsistent with Articles 8 and 9 of the Minorities Treaty,*° or whether it
+was only concerned with certain specific instances of discrimination. The
+PCIJ held that the latter was the correct interpretation of the pleading,
+and as such, that:
+
+[T]he interim measures asked for [concerning all future cases of the appli-
+cation of the law] would result in a general suspension of the agrarian
+reform in so far as concerns Polish nationals of the German race, and
+cannot therefore be regarded as solely designed to protect the subject of
+the dispute and the actual object of the principal claim.*”
+
+This reading of the German pleading was questioned by Judge Anzilotti,
+who preferred to interpret it as seeking a declaratory judgment that the
+Polish government’s conduct in the application of the agrarian reform law
+was generally inconsistent with the Minorities Treaty — consequently, the
+case concerned more than just certain instances of alleged expropriation,
+but rather ‘the whole body of acts by which the Polish authorities [had]
+applied the agrarian reform law’ If this was the case, Judge Anzilotti
+remarked, ‘it is quite comprehensible that [Germany] should have asked
+[...] that the application of the agrarian reform to Polish citizens of the
+German race, in general, should be suspended’.*® However, he continued,
+Germany bore responsibility for the filing of a document ‘open to different
+interpretations’ in relation to a matter with respect to which ‘perfect clarity
+[was] essential’. As such, it was proper that relief be denied, but this did
+not prevent the filing of a fresh application ‘indicating the subject of the
+suit with the necessary clearness and precision, and to follow it up by a
+fresh request for the indication of interim measures appropriate to the
+rights claimed’?
+
+It is possible to see the difficulties caused by the German pleadings
+in the Polish Agrarian Reform case as informing, at least in part, the
+1936 amendment of the PCIJ’s rules of procedure.*” There, paragraph 1
+was introduced to the overhauled Article 61 (formerly Article 57 of the
+Court’s 1931 Rules), requiring that any request for provisional measures
+
+© Minorities Treaty between the Principal Allied and Associated Powers and Poland, 28 June
+
+1919, 25 CTS 413.
+
+>” Polish Agrarian Reform (1933) PCIJ Ser A/B No 58, 178.
+
+8 Tbid, 182 (Judge Anzilotti, diss). 3° Thid.
+
+40 See Chapter 2, $IV.B.3. Further: Elkind, Functional Approach, 69-77; Shabtai Rosenne,
+Provisional Measures in International Law: The International Court of Justice and the Inter-
+national Tribunal for the Law of the Sea (Oxford: Oxford University Press, 2005) 66-8. For
+the Court’s internal discussions on the amendment, see PCIJ Ser D No 2 Add 3.
+
+PSTS4T 8S 12.00% Published online by Cambridge University Press
+eae rt eN wnat
+via ae fF ie ;
+LIDS VOL ora randa s
+
+182 PURPOSE OF PROVISIONAL MEASURES
+
+‘shall specify the case to which it relates and the interim measures of which
+the indication is proposed’. This was in turn carried over to the ICJ’s 1946
+and 1972 Rules.*! The 1978 Rules, however, dropped this requirement,
+replacing it instead with the present requirement of Article 73(2) that the
+request specify only the reasons behind it and the possible consequences
+if relief were not granted. Oellers-Frahm attributes this shift to ‘the fact
+that formalistic definitions are not always helpful and that the Court has
+to assess the indication of provisional measures from the point of view
+of the substance of the dispute as a whole.” Post-LaGrand, however,
+the link requirement has attained renewed importance in the Court’s
+jurisprudence, such that the diminution identified by Oellers-Frahm has
+been partially reversed.** In Pulp Mills, the Court identified the link test
+as an independent requirement in the provisional measures calculus, in
+opposition to the Court’s previous position whereby the relationship
+between provisional measures and the merits was considered implicitly
+when assessing irreparable prejudice to rights in issue.** In the Border
+Area case, the majority elevated the link between the measures sought
+and rights pendente lite to a condition precedent for the award of relief.”
+
+The Uruguayan application in Pulp Mills also gave the Court the oppor-
+tunity to reconsider the contours of the link requirement, characterizing
+the question as contemplating ‘the link between the alleged rights the pro-
+tection of which is the subject of the provisional measures being sought,
+and the subject of the proceedings before the Court on the merits of the
+case’.*° The Court defined the threshold as one of ‘a sufficient connection
+with the merits of the case for the purpose of the current proceedings.*” A
+fortiori, it seems that the Court does not require precise equivalence
+between the rights to be protected and the merits of the proceeding,*® but
+merely that some relationship be observable:
+
+4
+43
+44
+
+aan
+
+Chapter 3, SILC.1.  ” Oellers-Frahm, ‘Article 417 1044-5.
+
+Lee-Iwamoto, ‘Repercussions of LaGrand, 240-1.
+
+Ibid, 242. See e.g. Certain Criminal Proceedings in France (Congo v France), Provisional
+Measures, ICJ Reports 2003 p 102, 108-9; Questions relating to the Obligation to Prosecute
+or Extradite (Belgium v Senegal), Provisional Measures, ICJ Reports 2009 p 139, 151.
+Certain Activities Carried Out by Nicaragua in the Border Area (Costa Rica v Nicaragua),
+Provisional Measures, ICJ Reports 2011 p 6, 18. Further: Certain Activities Carried Out
+by Nicaragua in the Border Area (Costa Rica v Nicaragua)/Construction of a Road in Costa
+Rica Along the San Juan River (Nicaragua v Costa Rica), Provisional Measures, ICJ Reports
+2013 p 354, 360; Certain Documents and Data, ICJ, Order of 3 March 2014, $23.
+
+© Pulp Mills, ICJ Reports 2007 p 3, 10 (emphasis added). "7 Tbid, 10-11.
+
+48 See e.g. Request for Interpretation of the Judgment of 31 March in the Case concerning Avena
+and Other Mexican Nationals (Mexico v US) (Mexico v US), Provisional Measures, ICJ
+Reports 2008 p 311, Georgia v Russia, ICJ Reports 2008 p 353, 388.
+
+45
+
+AOVETSTEdT Get s.coyY Published online by Cambridge University Press
+MEASURES FOR THE PRESERVATION OF RIGHTS PENDENTE LITE 183
+
+Whereas the first provisional measure requested by Costa Rica is aimed at
+ensuring that Nicaragua will refrain from any activity ‘in the area compris-
+ing the entirety of Isla Portillos’; whereas the continuation or resumption
+of the disputed activities by Nicaragua on Isla Portillos would be likely to
+affect the rights of sovereignty which might be adjudged on the merits to
+belong to Costa Rica; whereas, therefore, a link exists between these rights
+and the provisional measure being sought [.]*
+
+Even this threshold has proved malleable, depending on the measures
+requested and the wider circumstances of the case. In the consular rights
+cases of Breard,°? LaGrand and Avena?! the rights subject to litigation
+arose from the Vienna Convention on Consular Relations (VCCR)** and
+the failure of US authorities to inform foreign nationals being prose-
+cuted of serious crimes of their right to consular assistance. The states
+concerned — Paraguay, Germany and Mexico, respectively — asked that
+the Court intervene to provisionally halt the execution of their citizens
+so as to enable full reparation. These rights, however, were reflective of
+the political subject matter of the dispute; its legal substance was bound
+up entirely in the interpretation and application of the VCCR, a point
+made by Judge Oda in repeated declarations.°? The same may be said of
+the orders made in the Temple (Interpretation) case, in which the Court
+was requested under Article 60 of its Statute to interpret the geographic
+scope of an area that it had adjudged in an earlier decision to belong to
+Cambodia.’ In ordering interim relief, however, the Court controver-
+sially overstepped this mark, ordering the imposition of a demilitarized
+zone that would on any reading of the original judgment impinge on the
+sovereignty of either Thailand or Cambodia,” and which would therefore
+be impossible to determine under the jurisdictional mandate granted to
+the Court by Article 60.°° From this, one may draw the inference that
+the possible consequences of a failure to award provisional measures will
+
+9 Border Area, ICJ Reports 2011 p 6, 20.
+
+°° Vienna Convention on Consular Relations (Paraguay v US), Provisional Measures, ICJ
+
+Reports 1998 p 248.
+
+Avena and Other Mexican Nationals (Mexico v US), Provisional Measures, ICJ Reports
+
+2003 p 77.
+
+2 24 April 1963, 596 UNTS 261.
+
+3 Breard, ICJ Reports 1998 p 248, 261 (Judge Oda); LaGrand, ICJ Reports 1999 p 9, 19
+(Judge Oda); Avena, ICJ Reports 2003 p 77, 93 (Judge Oda).
+
+4 Temple of Preah Vihear (Cambodia v Thailand), ICJ Reports 1962 p 6, 37.
+
+°° Request for Interpretation of the Judgment of 15 June 1962 in the Case concerning the Temple
+of Preah Vihear (Cambodia v Thailand) (Cambodia v Thailand), Provisional Measures,
+ICJ Reports 2011 p 537, 548. See also Avena (Interpretation), ICJ Reports 2008 p 321, 328.
+
+°° Temple (Interpretation), ICJ Reports 2011 p 537, 569 (President Owada, diss), 564 (Judge
+Al-Khasawneh, diss), 609-10 (Judge Xue, diss), 614 (Judge Donoghue, diss).
+
+5
+
+nay
+
+AOVETSTEdT Get s.coyY Published online by Cambridge University Press
+184 PURPOSE OF PROVISIONAL MEASURES
+
+be taken into account by the ICJ in the awarding of interim relief,’ and
+that the possibility of particularly devastating consequences — particularly
+those involving risk to human life, health or liberty — will result in the link
+requirement being stretched to its limits.°® There are, however, counterex-
+amples to this: in Georgia v Russia,’ for example, the Court based its prima
+facie jurisdiction on the terms of International Convention for the Elim-
+ination of All Forms of Racial Discrimination (CERD).® Georgia’s suit
+against Russia, however, was bought in the context of a wider conflict in
+which Russia invaded Georgia alleging persecution of a Russian-speaking
+minority in the breakaway republics of South Ossetia and Abkhazia. The
+true gravamen of the Georgian complaint, accordingly, was not racial
+discrimination, but violations of international humanitarian law more
+generally - CERD merely provided a basis on which to invigorate the
+jurisdiction of the ICJ. Consequently, when ordering protection of rights
+in dispute, the Court required to parties to, inter alia, ‘refrain from any
+act of racial discrimination against persons, groups of persons, or institu-
+tions, with the implication being (somewhat perversely) that any violation
+of humanitarian law that was not based on racial discrimination would be
+permissible under the terms of the order. That being said, the Court also
+awarded measures for non-aggravation that would presumably capture
+any wider breaches of the laws of war.°!
+
+Furthermore, the link requirement has been reduced to the vanishing
+point where a party requests a provisional measure designed to ensure
+compliance with other forms of interim relief already granted, e.g. a mea-
+sure requiring a party to keep the Court apprised of compliance with
+its orders. Self-evidently, where specific measures have been awarded,
+further measures to ensure compliance therewith require no further jus-
+tification. The same may also be said of measures for non-aggravation
+of the dispute, with respect to which the Court has applied a reduced
+threshold on the basis that they ‘compliment’ rights that may fall for final
+determination.™
+
+57
+58
+
+Rosenne, Provisional Measures, 202-4; Kolb, International Court, 627.
+
+See further Rosalyn Higgins, ‘Interim Measures for the Protection of Human Rights’
+(1998) 36 Col JTL 91. This point is dealt with extensively in Chapter 8, $II.A.
+
+Application of the International Convention on the Elimination of All Forms of Racial
+Discrimination (Georgia v Russia), Provisional Measures, ICJ Reports 2008 p 353. Noted:
+Cindy Galway Buys (2009) 103 AJIL 294. See also Bosnian Genocide, ICJ Reports 1993 p 3,
+19.
+
+6° 4 March 1969, 660 UNTS 195. —°!_ Georgia v Russia, ICJ Reports 2008 p 353, 398-9.
+
+© Border Area/San Juan River, ICJ Reports 2013 p 354, 361.
+
+63 Border Area, ICJ Reports 2011 p 6, 21: ‘whereas the final provisional measure sought by
+Costa Rica, being very broadly worded, is linked to the rights which form the subject of
+
+59
+
+AOVETSTEdT Get s.coyY Published online by Cambridge University Press
+MEASURES FOR THE PRESERVATION OF RIGHTS PENDENTE LITE 185
+
+2 Dispute Settlement Under UNCLOS
+
+Although the jurisprudence of the IC] has — particularly in recent years —
+given additional life and depth to the link requirement, the same level of
+articulation did not until recently occur with respect to UNCLOS Article
+290. That is not to say, however, that such a requirement could not be
+inferred. Like Article 41 of the ICJ Statute, UNCLOS Article 290 pro-
+vides that ‘the Tribunal may prescribe any provisional measures which it
+considers appropriate under the circumstances to preserve the respective
+rights of the parties to the dispute’®* Such considerations of ‘appropri-
+ateness’ speak to a need for a link between the rights to be adjudicated
+on the merits and the measures so requested — it just so happens that this
+was subsumed within wider considerations as to irreparable prejudice,
+the stance taken by the ICJ prior to Pulp Mills.
+
+Earlier coyness notwithstanding, the Special Chamber of ITLOS con-
+vened in Ghana/Céte d'Ivoire introduced the link requirement to UNC-
+LOS Article 290(1). The case concerned the delimitation of a maritime
+boundary between the two states, with Cote d'Ivoire seeking to restrain
+hydrocarbon extraction overseen by Ghana in the disputed area. In this
+connection, Cote dIvoire requested, inter alia, that the Chamber restrain
+all oil extraction and exploitation operations in the disputed area, refrain
+from granting any new permits pertaining to the same, and to take all
+steps necessary to prevent information on exploitation activities in the
+disputed area from being used to the detriment of Cote d'Ivoire.” In
+assessing the prerequisites of interim relief, the Chamber simply held that
+‘there is a link between the rights Cote d'Ivoire claims and the provi-
+sional measures it seeks, citing the ICJ’s 2011 order in Border Area in
+support.°’ On this basis, it may be said that the requirement is on its way
+to becoming a prerequisite to interim relief under UNCLOS Article 290 —
+although it should be pointed out that the Tribunal as a whole in Enrica
+Lexie made no mention of it as a separate requirement.
+
+the case before the Court on the merits, in so far as it is a measure complimenting more
+specific measures protecting those same rights’.
+64 See e.g, MOX Plant (Ireland v UK), Provisional Measures (2001) 126 ILR 257, 275 (ITLOS);
+ARA Libertad (Argentina v Ghana), Provisional Measures, (2012) 156 ILR 186, 201.
+Delimitation of the Maritime Boundary between Ghana and Céte d’Ivoire in the Atlantic
+Ocean (Ghana/Céte d’Ivoire), ITLOS Case No 23 (Provisional Measures, 25 April 2015)
+§25,
+6 Thid, $63.
+°” Border Area, ICJ Reports 2011 p 6, 18. The reliance of the Special Chamber on ICJ authority
+throughout the Order of 25 April 2015 is surprising in light of its past recalcitrance. It is
+worth noting, however, that President Abraham of the IC] was appointed judge ad hoc by
+Céte d'Ivoire, which may have led to a more catholic understanding of interim relief.
+
+65
+
+PSTS4T 8S 12.00% Published online by Cambridge University Press
+186 PURPOSE OF PROVISIONAL MEASURES
+
+The above discussion notwithstanding, neither ITLOS nor an Annex
+VII tribunal have seen fit to elaborate on what such a link might entail —
+though at the present point in time there is no reason to think that it
+will not proceed along lines identical to the ICJ. In part, this might be
+thought to reflect the level of restraint demonstrated by parties who apply
+for provisional measures in ensuring that — in terms of their pleadings at
+least — their reach does not exceed their grasp. It might also be thought
+to reflect the relatively narrow class of rights that UNCLOS tribunals
+are competent to adjudicate upon per UNCLOS Article 288(1), which
+lends itself to clear identification and the crafting of relief to match,
+notwithstanding the fact that the Article 89(3) of the ITLOS Rules — like
+Article 73(2) of the ICJ Rules on which it was based — does not require
+the identification of rights to be protected in a request for interim relief.
+A final consideration may be the fairly sparse reasoning that characterizes
+ITLOS provisional measures. Unlike the ICJ, which has evidenced a steady
+increase in the complexity of its decisions on provisional measures over
+time, ITLOS has remained more aloof in its reasoning, and if it deems
+a requested measure to be unrelated to the rights subject to litigation, it
+is more likely to simply rewrite the request per its power to award relief
+other than that requested by the parties, as opposed to simply addressing
+and rejecting each request individually.
+
+It should be added that provisional measures for the protection of the
+marine environment, being the subject of express mention in UNCLOS
+Article 290, need not fulfill the link requirement — they remain available
+in all proceedings under Part XV, irrespective of the subject matter of the
+dispute.
+
+3 Inter-State Arbitration
+
+The link test has also been averred to in the context of inter-state
+arbitration. In Kishenganga, India argued that one of the four inter-
+national criteria guiding the award of interim measures was that of ‘a
+link between [the] rights [whose protection is being sought] and the
+measures requested’.’ The Court of Arbitration to an extent disagreed,
+citing the lex specialis nature of Paragraph 28 of Annexure G of the
+Indus Waters Treaty”? as excluding by implication further additional
+
+6 See e.g. the Irish pleadings in MOX Plant, where it was contended ‘that its rights under
+certain provisions of the Convention, in particular articles 123, 192 to 194, 197, 206, 207,
+211, 212 and 213 thereof, will be irrevocably violated’: MOX Plant (2001) 126 ILR 257,
+275. Also: Land Reclamation (2003) 126 ILR 487, 502.
+
+6 Kishenganga (2011) 150 ILR 310, 335. =”: 19 September 1960, 419 UNTS 215.
+
+PSTS4T 8S 12.00% Published online by Cambridge University Press
+MEASURES FOR THE PRESERVATION OF RIGHTS PENDENTE LITE 187
+
+requirements.’' However, the Court considered that one of the purposes
+for which provisional measures could be awarded under Paragraph 28
+of Annexure G, being ‘to safeguard [a party’s] interests under the Treaty
+with respect to the matter in dispute’ could be usefully informed by the
+practice of the ICJ concerning the phrase ‘to preserve the respective rights
+of either party.” As such, the Court of Arbitration may have considered
+the ICJ’s pronouncements on the link test in Pulp Mills and later cases
+to be relevant to the interpretation of Paragraph 28. However, it did not
+address the point, possibly due to the fact that an alternative basis for
+interim action within the provision, ‘to avoid prejudice to the final solu-
+tion of the dispute’ did not require an express consideration of rights
+pendente lite, and thus no discussion of linkage.’* Accordingly, India’s
+submissions that Pakistan’s application for interim relief failed for want
+of alink between the measures sought and the merits”* went unaddressed.
+Despite this, however, the Court confusingly saw fit to introduce a form
+of preliminary merits review into Paragraph 28 of Annexure G, a test that,
+as will be seen, requires identification and consideration of rights that fall
+to be considered on the merits.”
+
+4 Investor-State Arbitration
+
+A different narrative, however, emerges with respect to investor-state arbi-
+tration. Investment arbitration tribunals have become used to rejecting
+requests for interim relief due to a failure to demonstrate an appropri-
+ate link between the measures requested and the rights on the merits,
+whilst at the same time setting a reasonable threshold for applicants in
+this respect.”
+
+(a) ICSID Arbitration The ICSID Rules are alone amongst the tri-
+bunals surveyed in requiring that the rights in question be specified in the
+request for provisional measures.’’ Consequently, ICSID tribunals have
+stated that such rights must exist at the time that the request is made,
+must not be hypothetical and cannot be created in the future.’”® Impor-
+tantly, tribunals have considered that rights accruing to investors under
+
+7
+
+ny
+
+Kishenganga (2011) 150 ILR 310, 350.” -‘Thid, 352-3.
+
+® Tbid, 353.  ™ Ibid, 342.” Tbid, 351.
+
+© ICSID Commentary, 779; Malintoppi, Provisional Measures in Recent ICSID Proceedings’,
+164-72; Caline Mouawad and Elizabeth Silbert, ‘A Guide to Interim Measures in Investor-
+State Arbitration’ (2013) 29 Arb Int] 381, 393-7.
+
+77 ICSID Rules, Rule 39(1). An equivalent provision does not appear in the ICSID (AF) Rules
+or in either the 1976 or 2010 iterations of the UNCITRAL Rules.
+
+8 Maffezini v Spain (2001) 5 ICSID Reports 393, 394.
+
+PSTS4T 8S 12.00% Published online by Cambridge University Press
+eae tN wok at
+via ae fF ie ;
+TOS VO OLOr ras #
+
+188 PURPOSE OF PROVISIONAL MEASURES
+
+domestic contracts are enforceable where the contracts in question are
+directly actionable.”
+
+Article 47 of the ICSID Convention seems to confine relief to rights
+subject to litigation, i.e. those that are included in the investor’s prayer
+for relief or the directly corresponding sphere of state activity.®° This
+reading of the provision is reflected in the early ICSID jurisprudence.
+In Amco v Indonesia, the Tribunal was confronted with a request by
+the respondent to enjoin the claimant from violating the confidentiality
+of the arbitral proceedings through a series of newspaper articles. The
+request was rejected for two reasons: in the first place, the articles in
+question could not have harmed Indonesia’s interests; and in the second,
+the confidentiality of the proceedings was not a right which fell to be
+determined on the merits. The Tribunal noted:
+
+[C]laimants rightly point out that Rule 39(1), implementing the very
+general provision of Article 47 of the Convention, requires a party which
+solicits a provisional measure to specify the rights that such measure would
+be purported to preserve. Obviously, the rights to which this provision is
+relating are the rights in dispute, and no such right could be threatened
+by the publication of articles like those which are produced [...] It might
+possibly be that a large press campaign could have [a negative effect on
+Indonesia]. However, even so, it would not be an influence on rights in
+dispute.*!
+
+Over time, however, ICSID tribunals have moved away from this strict
+standard. The Tribunal in Plama v Bulgaria rejected the Amco v Indonesia
+
+See e.g. Tanzania Electric Supply Company Limited v Independent Power Tanzania Ltd,
+Provisional Measures (1999) 8 ICSID Reports 239, 242; City Oriente Ltd v Ecuador and
+Empesa Estatal Petréleos Del Ecuador (PetroEcuador), ICSID Case No ARB/06/21 (Decision
+on Revocation of Provisional Measures, 13 May 2008) $57; Perenco Ecuador Ltd v Ecuador
+and Empresa Estatal Petréleos del Ecuador (PetroEcuador), ICSID Case No ARB/08/6 (Pro-
+visional Measures, 8 May 2009) $62; Burlington Resources Inc and Ors v Ecuador and
+Empresa Estatal Petréleos del Ecuador (PetroEcuador), ICSID Case No ARB/08/5 (Proce-
+dural Order No 1, 29 June 2009) $71; Tethyan Copper v Pakistan, ICSID Case No ARB/12/1,
+§§134-7. There is no reason to think that a different result would follow with respect to
+contractual rights if the rights to be determined on the merits derived from an investment
+treaty.
+
+8° See Churchill Mining v Indonesia, ICSID Case No ARB/12/14, $44, 50, holding that the
+respondent’s general rights to (a) host foreign investments, (b) regulate and promote
+investment in its natural resources, (c) enforce regulations on investment in its natural
+resources, (d) be free from reputational attacks, and (e) attain justice based on factual truth
+could not be considered subject to litigation. The Tribunal reached a similar conclusion
+regarding the respondent’s second requested order, namely that the claimant’s personnel
+be prevented from lobbying Indonesian officials so as to achieve a settlement: ibid, §§51—-4.
+
+8! Amco v Indonesia (1983) 1 ICSID Reports 410, 411.
+
+SOPFETST6GAT IS 1 S OOF Published online by Cambridge University Press
+eae rt eN wnat
+via ae fF ie ;
+TOS VO OLOr ras #
+
+MEASURES FOR THE PRESERVATION OF RIGHTS PENDENTE LITE 189
+
+standard as overly narrow, requiring instead that the rights to be protected
+merely ‘relate’ to those to be determined on the merits.®* This is now the
+status quo, with the tribunals apparently aware that they have developed a
+variant of the link test that is at least partially distinct from ICJ practice.**
+The result has been the extension of Article 47 to protect procedural
+rights relating to the integrity of the arbitral process.** These may be said
+to include, inter alia, measures for the preservation of evidence,® for pro-
+tecting the exclusivity®® and confidentiality of proceedings,®’ and for the
+
+82 Plama v Bulgaria, ICSID Case No ARB/03/24, $40.
+
+83 See e.g. Quiborax SA, Non Metallic Minerals SA and Allan Fosk Kaplin v Bolivia, ICSID Case
+No ARB/06/2 (Provisional Measures, 26 February 2010) $§$78, 116-24, where the strict
+linkage requirement promoted by the ICJ in Certain Criminal Proceedings was considered
+and rejected in favour of the more relaxed standard enunciated in Plama v Bulgaria. See
+also Lao Holdings NV v Lao People’s Democratic Republic, ICSID Case No ARB(AF)/12/16
+(Ruling on Motion to Amend the Provisional Measures Order, 30 May 2014) $11.
+
+84 Biwater Gauff (Tanzania) Ltd v Tanzania, ICSID Case No ARB/05/22 (Procedural Order
+No 1, 31 March 2006) $71.
+
+85 See e.g. AGIP SpA v People’s Republic of the Congo, Provisional Measures (1977) 1 ICSID
+Reports 309, 310-11; Vacuum Salt Products Limited v Ghana, Provisional Measures (1993)
+4 ICSID Reports 323, 327-8; Sempra Energy International v Argentine Republic, ICSID
+Case No ARB/02/16 (Award, 28 September 2007) $37; Biwater Gauff v Tanzania, ICSID
+Case No ARB/05/22, $86; Railway Development Corporation v Guatemala, ICSID Case No
+ARB/07/23 (Provisional Measures, 15 October 2008) §$27-31. Further: ICSID Commen-
+tary, 780-2; Mouawad and Silbert, “Guide to Interim Measures’, 413-14.
+
+8° See e.g. Vacuum Salt v Ghana (1993) 4 ICSID Reports 323, 328; SGS Société Générale de
+Surveillance SA v Pakistan, Procedural Order No 2 (2002) 8 ICSID Reports 388, 392-6;
+Ceskoslovenska Obchodni Banka AS v Slovak Republic, ICSID Case No ARB/97/4 (Decision
+on Jurisdiction, 24 May 1999) $9; Tanzania Electric v IPTL (1999) 8 ICSID Reports 339,
+342; Plama v Bulgaria, ICSID Case No ARB/03/24, $50; Tokios Tokelés v Ukraine, ICSID
+Case No ARB/02/18 (Procedural Order No 1, 1 July 2003) $7; Millicom International
+Operations BV and Sentel GSM SA v Senegal, ICSID Case No ARB/08/20 (Decision on the
+Application of Provisional Measures, 9 December 2009) $45(d). In the context of ICSID,
+the right arises under Article 26 of the ICSID Convention, but surely exists more generally
+in international law where the existence of parallel proceedings and the possibility of a
+contradictory award would prejudice the effective resolution of the dispute: Charles N
+Brower and Ronald E M Goodman, ‘Provisional Measures and the Protection of ICSID
+Jurisdictional Exclusivity Against Municipal Proceedings’ (1991) 6 ICSID Rev — FIL]
+431; ICSID Commentary, 784-93; Mouawad and Silbert, “Guide to Interim Measures’,
+402-13.
+
+87 See e.g. Biwater Gauff v Tanzania, ICSID Case No ARB/05/22 (Procedural Order No 3,
+29 September 2006) $$135-42. See also Metalclad Corporation v United Mexican States,
+ICSID Case No ARB(AF)/97/1 (Order, 27 October 1997) §9; Loewen Group Inc v Raymond
+L Loewen v United States, ICSID Case No ARB(AF)/98/3 (Jurisdiction, 5 January 2001)
+§26. It is worth noting that confidentiality will not generally be considered a right related
+to a right pendente lite (per Amco v Indonesia and Churchill Mining v Indonesia), but
+where a breach of confidentiality is sufficiently severe it may be elevated to that level
+through its ability to affect those rights substantially and directly, e.g. by damaging an
+
+AOVETSTEdT Get s.coyY Published online by Cambridge University Press
+190 PURPOSE OF PROVISIONAL MEASURES
+
+provision ofa financial guarantee or bond,** none of which will ordinar-
+ily appear in or thrown into relief by the claimant’s originating process.
+Furthermore, they do not appear to have been considered expressly by
+the drafters of the ICSID Convention in relation to provisional measures,
+leading to concerns of legitimacy.®’ But that is not to say that procedural
+rights cannot be protected through provisional measures: the problem
+is not one of the scope of Article 47 and Rule 39(1), respectively, but of
+the identification of the rights to be protected. The preferable approach
+is that utilized by the tribunal in RDC v Guatemala, which characterized
+a request for the preservation of evidence as either designed to preserve
+the substantive rights of the parties or to ensure that its jurisdiction was
+fully effective, a classification reflected in DR-CAFTA Article 10.20.8.7°
+Put another way, arbitral proceedings are commenced in order to uphold
+substantive rights, and anything that prejudices such proceedings (e.g. the
+destruction of evidence) will necessarily cause prejudice to the rights on
+which they are premised. In this sense, the protection of procedural rights
+is a necessary corollary of the need to protect the actual rights pendente
+lite, which is the approach taken by the ICJ on those rare occasions where
+it is petitioned for measures of protection relating to the protection of
+evidence.”! The PCIJ exhibited a similar practice with respect to mea-
+sures to protect the exclusivity of proceedings. In Electricity Company, the
+Court ordered Bulgaria to ensure that, pending the proceedings before
+the Court, no further steps were taken in a local collection action against
+the eponymous company, considering that measures were warranted so
+
+investor’s share price. In Biwater Gauff v Tanzania (Procedural Order No 3) this risk
+was held to warrant measures for non-aggravation: ICSID Case No ARB/05/22, $141.
+Also: World Duty Free v Kenya, ICSID Case No ARB/00/7 (Award, 4 October 2006) $16.
+Further: ICSID Commentary, 795-6; Mouawad and Silbert, ‘Guide to Interim Measures’,
+401-2.
+
+88 See e.g. Maffizini v Spain (1999) 5 ICSID Reports 393, 394-5; Casado v Chile (2001) 6
+ICSID Reports 373, 394-7; Bayindir v Pakistan, ICSID Case No ARB/03/29, §46. Fur-
+ther: ICSID Commentary, 782-4; Mouawad and Silbert, ‘Guide to Interim Measures’,
+414-16.
+
+89 ICSID Commentary, 779. See further: Quiborax v Bolivia, ICSID Case No ARB/06/2,
+§§139-48. Also: AGIP v Congo (1977) 1 ICSID Reports 309, 310-11; Biwater Gauff v
+Tanzania, ICSID Case No ARB/05/22, $$84-98.
+
+% RDC v Guatemala, ICSID Case No ARB/07/23, $§27—31. A similar connection was drawn
+
+by the Tribunal in Perenco v Ecuador, ICSID Case No ARB/08/6, $43.
+
+See e.g. Frontier Dispute (Burkina Faso/Mali), Provisional Measures, ICJ Reports 1986 p 3,
+
+9; Land and Maritime Boundary between Cameroon and Nigeria (Cameroon v Nigeria),
+
+Provisional Measures, ICJ Reports 1996 p 13, 23. Further: Thirlway, “Provisional Measures
+
+by the ICJ;, 16.
+
+91
+
+AOVETSTEdT Get s.coyY Published online by Cambridge University Press
+MEASURES FOR THE PRESERVATION OF RIGHTS PENDENTE LITE 191
+
+as to ‘prevent [...] the performance of acts likely to prejudice [...] the
+
+respective rights which may result from the impending judgment.”
+
+(b) UNCITRAL Arbitration Tribunals operating under the UNCI-
+TRAL Rules (or variants thereof) have displayed propensities similar to
+those of ICSID tribunals. The Iran—US Claims Tribunal in particular rec-
+ognized the need for a connection between the measures proposed and
+the subject matter of the litigation and was particularly willing to take
+action in order to protect the exclusivity of proceedings.”* As stated by
+the Iran—US Claims Tribunal in E-Systems v Iran:
+
+The Tribunal has an inherent power to issue such orders as may be nec-
+essary to conserve the respective rights of the Parties and to ensure that
+this Tribunal’s jurisdiction and authority are made fully effective. Not only
+should it be said that the award to be rendered in this case by the Tri-
+bunal [...] will prevail over any decisions inconsistent with it rendered
+by Iranian or United States courts, but, in order to ensure the full effective-
+ness of the Tribunal’s decisions, the Government of Iran should request
+that actions in the Iranian Court be stayed until such proceedings in this
+Tribunal have been completed.”
+
+However, the Iran—US Claims Tribunal retained an awareness of the need
+to protect only the subject matter of the proceedings before it. In RCA
+Globcom v Iran, the claimant based its claim on a contract for services with
+the Iranian Army Joint Staff, and further asserted that the contract was
+subsequently cancelled due to force majeure. The claimant had, however,
+taken out an insurance policy on the contract with a third party insurer.
+Following the contract’s putative cancellation, the insurer had pursued the
+claimant in the Iranian courts for premiums post-dating the frustrating
+event, and secured judgment in its favour. The Tribunal refused to award
+provisional measures for the vacation of the judgment on the basis that
+‘the proceedings before the domestic court concern a dispute arising
+
+* Electricity Company of Sofia and Bulgaria (Belgium v Bulgaria) (1939) PCIJ Ser A/B No
+
+79, 199. See also the measures requested by Germany in Administration of the Prince von
+
+Pless (Germany v Poland) (1933) PCIJ Ser A/B No 54.
+
+David D Caron, ‘Interim Measures of Protection: Theory and Practice in Light of the
+
+Iran—United States Claims Tribunal’ (1986) 46 ZaéRV 465, 485-8; David D Caron, Lee M
+
+Caplan and Matti Pellonpaa, The UNCITRAL Arbitration Rules: A Commentary (Oxford:
+
+Oxford University Press, 2006) 534-5.
+
+°4 E-Systems Inc v Iran (1983) 2 Iran—US CTR 51, 57. Further: Stewart Abercrombie Baker
+and Mark David Davis, The UNCITRAL Arbitration Rules in Practice: The Experience of
+the Iran—US Claims Tribunal (Deventer: Kluwer, 1992) 135-8.
+
+93
+
+AOVETSTEdT Get s.coyY Published online by Cambridge University Press
+192 PURPOSE OF PROVISIONAL MEASURES
+
+out of a separate contract’ (i.e. the insurance policy), and ‘[t]he alleged
+interrelationship between the two cases is not quite clear’.”°
+
+There is, however, a further elaboration in the case of UNCITRAL
+tribunals. Article 26(1) of the 1976 UNCITRAL Rules only requires a
+connection between interim relief and the subject matter of the dispute,
+as opposed to rights subject to litigation.”° This results in a discretion
+wider than that afforded to the other tribunals considered.”” As such,
+when establishing the parameters of interim relief, UNCITRAL tribunals
+have shown a propensity to phrase the link in terms of a general situa-
+tion, as opposed to specific rights. In Paushok v Mongolia, for example,
+the Tribunal recited the various provisions of the relevant BIT on which
+the claimant relied, but characterized the situation more generally as
+relating to ‘the validity under the [BIT] of the Windfall Profit Tax and
+of the levying of a fee for the import of foreign workers imposed by
+the Respondent’.”® A similar picture emerges with respect to two of its
+decisions on interim measures given in Chevron v Ecuador. There, the
+situation involved Ecuador’s repeated failure to stay proceedings before
+its domestic courts (the Lago Agrio judgment) and later, to prevent the
+enforcement of a final judgment arising out of those proceedings. In its
+Order of 28 January 2011, the Tribunal noted that the proceedings were
+such as to potentially ‘render these arbitration proceedings inefficacious
+[...] thereby thwarting the Claimant’s claims against the Respondent;
+indicating that its concern was to prevent damage the claimant’s ability to
+protect its interests via arbitration.””? Similar concerns may have been at
+play in its Fourth Interim Award, wherein the Tribunal referred to the pos-
+sibility that the Lago Agrio judgment would ‘imperil to a very significant
+extent the overall fairness and the efficacy of these arbitral proceedings’
+Ultimately, however, the Tribunal’s refusal to detach questions of linkage
+from that of irreparable prejudice may indicate that they saw the two as
+inextricable, a position redolent of earlier ICJ practice.
+
+°° RCA Globcom Communications and Ors v Iran (1983) 4 Iran—US CTR 9, 12; United
+Technologies International Inc v Iran (1986) 13 Iran—US CTR 254, 258-9; cf. Tadjer-Cohen
+Associates Incorporated v Iran (1985) 9 Iran—US CTR 302, 304-5.
+
+°° Clyde Croft, Christopher Kee and Jeffrey Waincymer, A Guide to the UNCITRAL Arbi-
+tration Rules (Cambridge: Cambridge University Press, 2013) 288-92.
+
+°” Paushok v Mongolia, UNCITRAL, §36. 8 Thid, $37.
+
+°° Chevron Corporation and Texaco Petroleum Company v Ecuador, PCA Case No 2009-23
+(First Order on Interim Measures, 28 January 2011), reproduced in Chevron v Ecuador,
+PCA Case No 2009-23 (First Interim Award, 25 January 2012) 7.
+
+100 Chevron v Ecuador, PCA Case No 2009-23 (Fourth Interim Award, 7 February 2013)
+$85.
+
+PSTS4T 8S 12.00% Published online by Cambridge University Press
+MEASURES FOR THE PRESERVATION OF RIGHTS PENDENTE LITE 193
+
+Significantly, Article 26(2) of the 2010 UNCITRAL Rules removes com-
+pletely any requirement for linkage, at least on the face of the provision.
+This, together with the work of the UNCITRAL Working Group on secu-
+rity for costs, has caused some scholars to argue that the link test cannot
+be reintroduced to the provision via implication.'®' However, given that
+ICSID tribunals have managed to maintain the viability of security for
+costs whilst still upholding some form of link requirement, it cannot be
+said that such a precondition remains out of the question, especially given
+its omnipresence before other international bodies.
+
+D_ Plausibility of the Rights Claimed and the Prospect of Success
+on the Merits
+
+Connected to the question of the relationship between the rights subject
+to litigation and the merits is the question of the existence of the rights
+themselves and the additional question of the claimant’s likely success on
+the merits. Within domestic legal systems, it is not uncommon for interim
+relief to depend on the applicant’s capacity to demonstrate at least some
+possibility of victory if the matter proceeds to final judgment.’ The
+precise degree of success required may vary. In England, the position
+is that the claimant must show that there is a serious question to be
+tried,' in that the claimant must show that there is a real (as opposed to
+a fanciful) prospect of success on the merits.'™ In civilian jurisdictions,
+such as Germany’ or Spain,'°° a more stringent standard of the fumi
+boni juris (literally: smoke of a good fire) may be applied so as to require
+a reasonable probability of success on the merits. In the United States, the
+bar is set higher still, with the applicant required to prove that success on
+the merits is likely.'°”
+
+10
+102
+
+paar
+
+Croft et al., Guide to the UNCITRAL Rules, 269.
+
+Lawrence Collins, ‘Provisional and Protective Measures in International Litigation’ (1992)
+
+234 Hague Recuiel 9, 24-9.
+
+103 American Cynamid Co v Ethicon Ltd [1975] AC 396, 407 (Lord Diplock).
+
+104 Tn this, the threshold is just above that at which the respondent would be successful in a
+strikeout application: Pippa Rogerson, Collier’s Conflict of Laws (Cambridge: Cambridge
+University Press, 4th edn, 2013) 55-6.
+
+105 ZPO §§935, 940. Further: Collins, ‘Provisional and Protective Measures’ 27.
+
+106 Ley de Enjuiciamiento Civil 2000, Art 728. Further: Carlos Esplugues-Mota, ‘Provisional
+Measures in Spanish Civil Procedure’, in R Sttirner and M Kawano (eds), Comparative
+Studies on Enforcement and Provisional Measures (Tubingen: Mohr Siebeck, 2011) 206,
+211.
+
+107 Mazurek v Armstrong, 520 US 968, 972 (1997); Gonzales v O Centro Espirita Beneficente
+
+Uniao do Vegetal, 546 US 418, 428 (2006); Munaf v Geren, 553 US 674, 690 (2008).
+
+AOVETSTEdT Get s.coyY Published online by Cambridge University Press
+194 PURPOSE OF PROVISIONAL MEASURES
+
+Within the international space, a preliminary consideration of the mer-
+its is problematic, due primarily to the consensual character of jurisdic-
+tion. In cases where the jurisdiction of an international court or tribunal
+is contested, the adjudicator must tread carefully so as to avoid giving the
+impression that it is pronouncing on the merits without first establishing
+its competence to do so —such speculation, Rosenne notes, ‘is hardly com-
+patible with the international judicial function’? On the other hand, as
+Collins points out, if no regard whatsoever is paid to the merits, this may
+act as an incentive for parties to bring frivolous or vexatious claims in the
+hope of securing interim relief.!°? Furthermore, per Oellers-Frahm, in
+the event that success on the merits is totally improbable, then it follows
+a fortiori that provisional measures cannot be deemed necessary for the
+protection of rights pendente lite.'!° It might further be added that, to
+the extent that a preliminary assessment of the merits may be criticized,
+those criticisms do not differ markedly in substance from those leveled
+at the test of prima facie jurisdiction when it was first introduced by
+the Court — criticisms that were notably absent by the time that prima
+facie admissibility was formally incorporated into the Court’s calculus.!!
+As such, the clientele of international courts and tribunals appears to
+have accepted the notion that the integrity of the provisional measures
+process — especially in light of the common consensus that such measures
+are binding — requires some examination of matters that are yet to be
+determined finally, including the merits.
+
+Accordingly, it is clear that some species of review is required — the ques-
+tion is one of threshold. Two broad standards have emerged as between
+international courts and tribunals. The first is broadly similar to standards
+seen in municipal law and elsewhere in the international system (e.g. with
+respect to preliminary assessment of jurisdiction): an assessment of the
+applicant’s chances of success on the merits. The second is a lesser thresh-
+old that seeks only to establish the ‘plausible’ existence of the rights with
+respect to which interim protection is claimed.!”
+
+1 The International Court of Justice
+
+(a) Merits Review in the Separate and Dissenting Opinions of the IC):
+1951-2006 Open ventilation of this issue before the ICJ has occurred
+
+108 Rosenne, Provisional Measures, 72. See also the correspondence of President Adachi in
+
+South-Eastern Greenland (1932) PCIJ Ser C No 69, 16, 32, 48.
+109 Collins, ‘Provisional and Protective Measures’, 225.
+110 Oellers-Frahm, ‘Article 41’, 1042. ‘11 See Chapter 4, $SIV.A, V.B.
+112 See e.g. Lee-Iwamoto, ‘Repercussions of LaGrand, 247-51.
+
+Q
+
+9
+
+an
+
+PSTS4T 8S 12.00% Published online by Cambridge University Press
+MEASURES FOR THE PRESERVATION OF RIGHTS PENDENTE LITE 195
+
+only relatively recently within the Court’s practice. In Great Belt, Den-
+mark argued that in order for provisional measures to be granted, a
+reasonable prospect of success on the merits had to be demonstrated.
+It further asserted: ‘not even a prima facie case exists in favour of the
+Finnish contention.!!? Although the Court did not take a clear posi-
+tion on the issue (instead holding that the Finnish application failed for
+lack of urgency!'*) Judge Shahabuddeen considered the point at length,
+eventually holding that:
+
+[J]urisdiction over the merits is merely one element which the applicant
+must establish in order to succeed in the substantive case which it has
+brought — a truth undiminished, in my view, by the importance of that
+element or by the fact that it may be argued as a preliminary issue. If the
+claimant cannot make out a prima facie case of substantive jurisdiction,
+this circumstance shows it has no possibility of succeeding. It is easy
+to appreciate that proof of the definitive existence of the right claimed
+cannot be part of the ‘circumstances’ within the meaning of Article 41 of
+the Statute, but is rather a matter for the merits. It is less easy to accept
+that this applies to the establishment of a possibility of the existence of the
+right,!!
+
+Further express consideration of the issue by way of separate opinion
+occurred in the Pulp Mills. Although the majority again failed to comment
+expressly on the point, Judges Bennouna and Abraham considered the
+issue at length. Judge Bennouna argued that the majority ought to have
+examined at least the existence of the rights sub judice whilst at the same
+time taking all necessary precautions to ensure that it could not be accused
+of having prejudged the merits of the case. He acknowledged, however,
+that ‘it would not have been appropriate to settle the issue, even prima
+facie if doubt subsisted as a result of the possible complexity, ambiguity or
+silence of the texts concerned [ ... ] making it impossible to decide at this
+stage between the Parties’ differing interpretations’.''© A more expansive
+discussion was entered into by Judge Abraham, who argued that following
+the determination in LaGrand that provisional measures ordered by the
+ICJ were binding, the Court was obliged to enhance the legitimacy of such
+interventions:
+
+[The Court] cannot order a State to conduct itself in a certain way simply
+because another State claims that such conduct is necessary to preserve
+its own rights, unless the Court has carried out some minimum review to
+
+‘13 Passage through the Great Belt (Finland v Denmark), Provisional Measures, ICJ Reports
+1991 p 12, 17.
+
+4 Thid, 18. 15 Tbid, 31 (Judge Shahabuddeen).
+
+16 Pulp Mills, ICJ Reports 2006 p 113, 144—5 (Judge Bennouna).
+
+PSTS4T 8S 12.00% Published online by Cambridge University Press
+196 PURPOSE OF PROVISIONAL MEASURES
+
+determine whether the rights thus claimed actually exist and whether they
+are in danger of being violated — and irreparably so — in the absence of the
+provisional measures the Court has been asked to prescribe: thus, unless
+the Court has given some thought to the merits of the case.!"”
+
+Judge Abraham then went on to note that in undertaking such a limited
+examination of the merits, ‘the Court does not overstep the boundaries
+of its mission as a jurisdiction appealed to for final relief [but] on the
+contrary, it is sensibly fulfilling that mission’ In such a light, the neces-
+sity of merits review ‘is inescapable, mandated as it were by logic. The
+judge stopped short, however, of requiring an ‘exacting’ evaluation of the
+claimant’s prospect of success on the merits. Rather, he said,
+
+It might be enough to ascertain that the claimed right is not patently
+non-existent and that, according to the information available to the Court
+at the particular stage in the proceedings, the possibility of the other
+party’s conduct infringing that right is not manifestly to be ruled out. The
+requirement of fumus boni juris then gives way to that of fumus non mali
+juris. But, in all honesty, these are subtleties and there exists a great range
+of intermediate degrees, each capable of expression in somewhat vague
+terms: the requesting party should establish the possible existence of the
+right claimed, or the apparent existence of such right, etc.'!®
+
+It should be noted that although these separate opinions appear relatively
+late in the Court’s jurisprudence, threads of the debate can be seen in
+earlier commentary. With respect to the PCJ, Dumbauld argued that ‘a
+prima facie showing of probable right and probable injury’ was a pre-
+requisite of interim relief,'!? with Mani making a similar identification
+with respect to the practice of the ICJ in the 1970s.'*° In Anglo-Iranian
+Oil, the Court itself gave the somewhat Delphic statement that ‘the Court
+must be concerned to preserve by such measures the rights which may
+be subsequently adjudged by the Court to belong either to the Appli-
+cant or to the Respondent’! Similarly, in the Nuclear Tests cases, Judges
+Forster, Petrén and Ignacio-Pinto expressed serious doubts as to the legal
+foundations of Australia and New Zealand’s claims against France when
+
+ll
+119
+
+~s
+
+Ibid, 140 (Judge Abraham). 118 Tbid, 140-1 (Judge Abraham).
+
+Edward Dumbauld, Interim Measures of Protection in International Controversies (The
+Hague: Martinus Nijhoff, 1932) 160-1.
+
+20 VS Mani, ‘On Interim Measures of Protection: ICJ Practice’ (1973) 13 Indian JIL 262,
+265.
+
+Anglo-Iranian Oil, ICJ Reports 1951 p 89, 93. This precise form of words has now
+reappeared in the context of the plausibility test: see e.g. Temple (Interpretation), IC]
+Reports 2011 p 537, 545.
+
+12
+
+rae
+
+SOPFETST6GAT IS 1 S OOF Published online by Cambridge University Press
+MEASURES FOR THE PRESERVATION OF RIGHTS PENDENTE LITE 197
+
+dissenting from the majority decision to award provisional measures.”
+Accordingly, whilst the recent focus of the ICJ on the elaboration of this
+requirement might appear sudden, the threads of the debate are clearly
+visible within the Court’s earlier practice, contrary to the assertions of
+Judge Koroma in Border Area that the criterion “seemed to appear out of
+
+nowhere’ !”?
+
+(b) Further Development and Scope: 2009 Onwards Judge Abraham’s
+powerful distillation of the issues in Pulp Mills appears to have influenced
+the Court as a whole. In Obligation to Prosecute or Extradite, the Court
+provided, pursuant to Article 41, that ‘the power of the Court to indicate
+provisional measures should be exercised only if the Court is satisfied that
+the rights asserted by a party are at least plausible.'** This formula — along
+with the rider that the Court is not called upon to determine during the
+provisional measures phase whether such rights exist — has been adopted
+in subsequent cases, including Border Area,'*? Temple (Interpretation)'*°
+and Certain Documents and Data.'*’
+
+This recent string of decisions has enabled the Court to delineate the
+boundaries of the test. In the first place, it is important to be clear that the
+Court is not advocating a review of the applicant’s prospects of success on
+the merits in the mode of municipal standards such as the serious ques-
+tion to be tried or the fumi boni juris.'*® The Court is only purporting to
+assess whether the applicant possesses the rights in question — it pointedly
+does not assess whether, on the facts as they stand, those rights have been
+breached by the respondent, much less whether that breach is excusable.
+While some commentators have advocated a higher standard of review, '”?
+
+122 Nuclear Tests (Australia v France), ICJ Reports 1973 p 99, 114 (Judge Forster, diss),
+126 (Judge Petrén, diss), 131 (Judge Ignacio-Pinto, diss); Nuclear Tests (New Zealand v
+France), 1CJ Reports 1973 p 135, 148 (Judge Forster, diss), 161-2 (Judge Petrén, diss),
+163-4 (Judge Ignacio-Pinto, diss).
+
+23 Border Area, ICJ Reports 2011 p 6, 30 (Judge Koroma).
+
+24 Obligation to Prosecute or Extradite, ICJ Reports 2009 p 139, 151 (emphasis added).
+
+25 Border Area, ICJ Reports 2011 p 6, 19.
+
+26 Temple (Interpretation), ICJ Reports 2011 p 537, 546.
+
+7 Certain Documents and Data, ICJ, Order of 3 March 2014, §26.
+
+128 See e.g. Georgia v Russia, ICJ Reports 2008 p 353, 395-6. Cf. Sakai, ‘New Developments,
+
+263 (fn 112), arguing that ‘the Court seems to adopt [the fumi boni juris] as a require-
+
+ment for indicating provisional measures. This reading appears to be the result of a
+
+misinterpretation of the Court’s words in Obligation to Prosecute or Extradite.
+
+See e.g. Sztucki, Interim Measures, 123—4; J G Merrills, ‘Interim Measures of Protection
+
+in the Recent Jurisprudence of the International Court of Justice’ (1995) 44 ICLQ 90,
+
+114-15; ‘Oellers-Frahm, ‘Article 41°, 1042-4.
+
+129
+
+AOVETSTEdT Get s.coyY Published online by Cambridge University Press
+198 PURPOSE OF PROVISIONAL MEASURES
+
+the requirement of plausibility alone has become part of the settled prac-
+tice of the Court and would appear to strike a satisfactory balance between
+screening cases that are manifestly hopeless whilst at the same time giving
+appropriate weight to the consensual character of international jurisdic-
+tion. Whilst it might be argued that in refusing to pronounce on the
+merits in a provisional sense, the Court deprives the parties of a “sneak
+peek’ at the merits that might otherwise encourage settlement,'*° it is to
+be remembered that the primary purpose of interim relief is not the facil-
+itation of negotiations but the preservation of rights pendente lite. This
+objective is better served if provisional measures are backed by an institu-
+tional legitimacy achieved through awareness of the Court’s jurisdictional
+boundaries.
+
+Two criticisms have arisen with respect to the test as stated. The first
+is that the plausibility criterion is not sufficiently separate from the link
+test to be considered independent.'*! Although the two requirements are
+closely aligned (in the sense that rights asserted must be both plausibly
+held and sufficiently linked to the measures requested) the Court has
+begun to structure its judgments such as to indicate a formal separation.
+In the Temple (Interpretation) case, for example, the Court framed the
+two tests in the following terms:
+
+Whereas the power of the Court to indicate provisional measures under
+Article 41 of the Statute has as its object the preservation of the respective
+rights of the parties pending the decision of the Court; whereas it follows
+that the Court must be concerned to preserve by such measures the rights
+which may subsequently be adjudged by the Court to belong to either
+party; whereas the Court may exercise this power only if it is satisfied that
+the rights asserted by a party are at least plausible [... |
+
+Whereas, moreover, a link must be established between the alleged rights
+and the provisional measures sought to protect them.”
+
+A second, more substantial criticism of the link test is that of ambiguity,
+with Judge Koroma in Border Area noting that depending on the defini-
+tion that one attributed to the term ‘plausible’, it could be held to bear
+
+13° Collins, ‘Provisional and Protective Measures’, 27.
+
+ST See e.g. Daniel Miiller and Affef Ben Mansour, ‘Procedural Developments at the Inter-
+national Court of Justice’ (2009) 8 LPICT 459, 499-500.
+
+132. Temple (Interpretation), ICJ Reports 2011 p 537, 545. Application of the tests to the facts
+before the Court then took place under separate subheadings: ibid, 545, 547; Border Area,
+ICJ Reports 2011 p 6, 18-21. Cf. Obligation to Prosecute or Extradite, ICJ Reports 2009
+p 139, 151-2; Certain Documents and Data, ICJ, Order of 3 March 2014, §§22-30.
+
+AOVETSTEdT Get s.coyY Published online by Cambridge University Press
+MEASURES FOR THE PRESERVATION OF RIGHTS PENDENTE LITE 199
+
+the same meaning as ‘specious’ or ‘persuasive but deceptive’.'*° Such an
+observation appears mildly fatuous — the criterion self-evidently attempts
+to add materially to the existing prerequisites for the award of provisional
+measures. But this does not detract from Judge Koroma’s wider point
+that the threshold of plausibility is not immediately apparent in the test
+as formulated. Nor is it clear whether the standard applies to legal rights
+or facts or both.'** Insofar as the latter point is concerned, it is suggested
+that some form of factual and legal analysis is required if the test is to be
+effective. The Court must assess whether (a) the right asserted could pos-
+sibly exist in the abstract; and (b) whether the party asserting that right
+could plausibly hold it in the particular circumstances of the case. Thus,
+in Border Area, the Court determined (a) that the contested territory, the
+Isla Portillos, could plausibly be the subject of sovereign title; and (b) that
+Costa Rica could plausibly hold such a claim — though the Court rightly
+noted that it was not required to assess the plausibility of Nicaragua’s
+alternative title.!°° The Court also did not purport to determine whether
+Nicaragua had violated Costa Rica’s title and did not pronounce on the
+presence (vel non) of any justification or excuse for such a violation.
+
+But this still leaves the precise threshold of plausibility undefined.!*°
+Oellers-Frahm has commented that to a German lawyer the term is redo-
+lent of the concept of Schliissigkeit, meaning that the claim is ‘plausible’ if
+supposing that the facts alleged by the applicant are true then the claim
+will succeed.!°” However, such a position if true would conflate the plau-
+sibility threshold with the kind of involved view of the merits that might
+infringe on the jurisdictional limits that the Court has set for itself and
+convert the proceedings into a summary trial on the merits. The prefer-
+able position appears to be that of Judge Greenwood, who stated that in
+order to satisfy the criterion, the applicant must demonstrate “something
+more than assertion but less than proof; in other words |... ] that there
+is at least a reasonable possibility that the right which it claims exists as a
+matter of law and will be judged to apply to that party’s case’.!*®
+
+Further clarity has been provided by the Court’s recent decision in Cer-
+tain Documents and Data, which constitutes the first detailed application
+of the test in the face of considered opposition by a respondent. There,
+
+‘53: The judge went on to remark that the French ‘plausibilité bore a more uniformly positive
+
+meaning: Border Area, ICJ Reports 2011 p 6, 31-2 (Judge Koroma).
+54 Tbid, 32 (Judge Koroma). 35 Thid, 19.
+6 But cf. the discussion on Kishenganga and inter-state arbitration: below §II.D.4.
+137 Oellers-Frahm, ‘Article 41’, 1043-4.
+138 Border Area, ICJ Reports 2011 p 6, 47 (Judge Greenwood).
+
+PSTS4T 8S 12.00% Published online by Cambridge University Press
+200 PURPOSE OF PROVISIONAL MEASURES
+
+Timor-Leste sought to rely on a somewhat ambiguous set of rights arising
+from Australia’s seizure of the relevant documents from Timor-Leste’s
+solicitor in Canberra. In particular, it identified as worthy of protection
+‘the ownership and property rights which it holds over the seized material,
+entailing the rights to inviolability and immunity of this property [... |
+to which it is entitled as a sovereign State, and its rights to confidentiality
+of communications with its legal advisors’. Timor-Leste further sought to
+argue that legal professional privilege could be considered a general prin-
+ciple of law within the meaning of Article 38(1)(c) of the ICJ Statute.!*?
+Australia, for its part, sought to challenge the plausibility of these rights
+on both legal and factual grounds. In the first place, it was argued, it could
+not be established that the documents that were removed from the solic-
+itor’s office belonged to Timor-Leste. In the second, there did not exist
+under international law a general principle of immunity or inviolability
+of state papers and property and, even if there was, that principle could
+not be considered absolute.'*°
+
+This created a quandary for the Court. On the one hand, the Timo-
+rese application was clearly novel, and to reject it without first subjecting
+it to searching analysis would be premature. The case against rejection,
+however, was weakened by the dearth of support for the argument in
+Timor-Leste’s pleadings. The Court’s solution was to root the Timorese
+submissions in a recognized principle of international law that was suf-
+ficiently plausible. It began its analysis by identifying the factual context
+in which the dispute arose (i.e. the PCA proceeding then on foot between
+the parties under the TST'*') and the extent to which the documents
+allegedly taken related to that arbitration. It then sought to link the rights
+claimed by Timor-Leste — which were asserted with almost nothing in the
+way of supporting authority!” — with an existing and recognized basis
+in international law, namely that of sovereign equality, holding that it
+was arguable that this principle extended to equality of arbitral process
+and a right of states to expect that other nations would not interfere
+in the preparations for and conduct of such proceedings.'*° This, the
+Court said, ensured that at least some of the rights for which Timor-Leste
+
+139 Certain Documents and Data, ICJ, Order of 3 March 2014, §24.
+
+M0 Tbid, §25. 4! 20 May 2002, 2258 UNTS 3.
+
+2" Certain Documents and Data, Timor-Leste: Application of 17 December 2013, $10. See
+also Certain Documents and Data, Australia: Written Observations of 13 January 2014,
+§75(d), noting that the rights that Timor-Leste sought to protect had either not been
+identified in the Timorese application or were ‘at best speculative’.
+
+3° Certain Documents and Data, ICJ, Order of 3 March 2014, §27.
+
+PSTS4T 8S 12.00% Published online by Cambridge University Press
+MEASURES FOR THE PRESERVATION OF RIGHTS PENDENTE LITE 201
+
+sought protection — ‘namely the right to conduct arbitration proceed-
+ings and negotiations without interference [...] including the right of
+confidentiality and of non-interference in its communications with legal
+advisors’ — were plausible.'4
+
+The Court’s approach in Certain Documents and Data raises a question
+as to what would have occurred had a recognized international norm such
+as sovereign equality not been available. In such a case, it is submitted,
+the Court should still have found the test satisfied. Although novel, the
+Timorese assertions were not totally fanciful, relying in part on widely
+recognized principles of municipal law that could conceivably consti-
+tute a general principle of law within the meaning of Article 38(1)(c) of
+the ICJ Statute. In such a case, where a more searching investigation is
+required to determine the plausibility of an applicant’s claims, the appli-
+cant should axiomatically receive the benefit of the doubt in the same way
+that investor-state arbitration tribunals presently treat similar claims as
+to prima facie jurisdiction.'*° However, this is dependent on the applicant
+to a certain extent helping itself — as pointed out by Judge Anzilotti in the
+Polish Agrarian Reform case, it is not the Court’s job to correct manifestly
+deficient pleadings. !*°
+
+2 Dispute Settlement Under UNCLOS
+
+On this basis, an articulated criterion of plausibility has now emerged as a
+separate precondition for interim relief under Article 41 of the ICJ Statute.
+The position under UNCLOS Article 290 was, for a time, less clear. Unlike
+the ICJ, it seemed unlikely that any dispute settlement body convened
+under UNCLOS Part XV will be required to consider whether a right exists
+in a legal sense (as in Certain Documents and Data), as UNCLOS Article
+288 expressly limits the jurisdiction of such bodies to disputes concerning
+the interpretation or application of the Convention. Accordingly, if the
+body in question determines that it possesses jurisdiction, it follows that
+the right or rights claimed by the applicant are located within UNCLOS,
+the legal existence of which is self-evident.'*” As such, if UNCLOS were
+minded to adopt a plausibility criterion along the lines suggested by the
+ICJ, the only relevant concern would be whether the applicant holds
+the relevant rights as a question of fact, e.g. by being the registered flag
+
+M4 Tbid, §28. See Chapter 4, $IV.C.
+
+M6 Polish Agrarian Reform (1933) PCIJ Ser A/B No 58, 182 (Judge Anzilotti, diss).
+
+47 Though an exception may conceivably arise if a claimant contends for a highly unlikely
+interpretation of an existing provision of UNCLOS.
+
+PSTS4T 8S 12.00% Published online by Cambridge University Press
+eae rt eN wnat
+via ae fF ie ;
+LIDS VOL ora randa s
+
+202 PURPOSE OF PROVISIONAL MEASURES
+
+state of a vessel subject to allegedly improper seizure under UNCLOS, as
+was asserted in M/V Saiga (No 2), M/V Louisa, ARA Libertad and Arctic
+Sunrise.
+
+This notwithstanding, ITLOS clearly considered the plausible existence
+of rights claimed to be relevant to the grant of provisional measures since
+at least 2010. In M/V Louisa, it noted that it did not need to ‘establish
+definitively the existence of rights claimed’;!“° with the insertion of the
+adjective ‘definitively perhaps implying that some form of review was
+nonetheless required. Similar language was also used in ARA Libertad’?
+and Arctic Sunrise.'°° As with the link requirement, the Special Cham-
+ber in Ghana/Céte d'Ivoire finally introduced the plausibility requirement
+expressly into the jurisprudence surrounding UNCLOS Article 290(1),
+citing the ICJ’s 2013 order in Border Area’?! and holding in terms that
+‘before prescribing provisional measures, the Special Chamber need not
+therefore concern itself with the competing claims of the Parties [... ],
+it need only satisfy itself that the right which Cote d'Ivoire claims on
+the merits and seeks to protect are at least plausible’!°? This position
+was then adopted — with reference to Ghana/Cote d'Ivoire — by the Tri-
+bunal as a whole in Enrica Lexie.'°> On this basis, it may be said that
+the requirement is now a prerequisite to interim relief under UNCLOS
+Article 290.
+
+A further consideration for ITLOS is the question of institutional legit-
+imacy that arises from its regular use of UNCLOS Article 290(5) to award
+provisional measures prior to the composition of an Annex VII arbi-
+tral tribunal. As discussed earlier in relation to questions of prima facie
+jurisdiction,’ the act of awarding interim relief on behalf of another
+international tribunal may require that the claimant be given an addi-
+tional benefit of the doubt when addressing issues that may later determine
+
+M8 M/V Louisa (2010) 148 ILR 459, 471. M49 ARA Libertad (2012) 156 ILR 186, 199.
+
+150 Arctic Sunrise, ITLOS Case No 22, §68. —_'*!_ Border Area, ICJ Reports 2013 p 354, 360.
+
+152 Ghana/Cote d'Ivoire, ITLOS Case No 23, §§57-8.
+
+153° Enrica Lexie (Italy v India), ITLOS Case No 24 (Provisional Measures, 24 August 2015)
+§§83 4. In that case, however, the Tribunal applied the plausibility test not only the rights
+asserted by Italy as the applicant for provisional measures, but to the rights asserted by
+India as respondent: ibid, $85. As pointed out by the dissenting Judge Heidar, this is
+strictly speaking incorrect, with the purpose of the test being as a prerequisite for the
+award of interim relief to the applicant. To apply it to the rights asserted by the respondent
+is accordingly nonsensical. Indeed, in Enrica Lexie, India made no submissions as to
+whether its asserted rights could be considered plausible: ibid, $§17—20 (Judge Heidar,
+diss).
+
+154 See Chapter 4, SIII.B.2.
+
+AOVETSTEdT Get s.coyY Published online by Cambridge University Press
+MEASURES FOR THE PRESERVATION OF RIGHTS PENDENTE LITE 203
+
+the claim — or at the least urge an additional measure of caution on the
+part of the Tribunal.
+
+As with the link test, provisional measures for the protection of the
+marine environment are also exempt from the plausibility requirement.
+The test assesses the existence of rights which are contested on the merits.
+As the right to seek provisional measures arises not from the merits them-
+selves, but from an express grant of power under the terms of UNCLOS
+Article 290, the particular hoop need not be jumped through by the appli-
+cant. In such situations, the true test is whether the serious environmental
+harm hypothesized will actually come about — a question that arises in
+relation to the requirements of irreparable harm and urgency.
+
+3 Inter-State Arbitration
+
+Those isolated instances of ad hoc inter-state arbitration appear minded
+to adopt a form of merits review wholesale irrespective of whether a lex
+specialis governs the award of interim relief. In Kishenganga, the Court of
+Arbitration held that it was not required to import the linkage test into
+its calculations due to the lex specialis of Paragraph 28 of Annexure G of
+the Indus Waters Treaty.'°? This notwithstanding, the Court still held as
+follows:
+
+Yet as broad as the scope of Paragraph 28 may be, the Court nonetheless
+recognizes that interim measures under the treaty remain an extraordinary
+recourse. Consistent with the general practice of international and national
+courts and tribunals, the Court must be satisfied that, without prejudice to
+its decision on the merits, the claims set forth by the Party seeking interim
+measures appear to be at least ‘plausible’. Regardless of the conditions
+under which it is authorized under its rules to indicate interim relief, such
+relief cannot be said to be ‘necessary’ under any of those conditions if it is
+apparent to that court at an early stage that it is unlikely to have jurisdiction
+or that the applicant has failed to present a plausible case on the merits.!*°
+
+The Court then went on to apply this test to Pakistan, eventually
+pronouncing itself satisfied that Pakistan had “presented a plausible,
+provisionally tenable argument under the Treaty in support of its case’
+and further remarked that it could not ‘exclude the possibility that
+India’s planned installations, or elements of those installations, on the
+Kishenganga/Neelum would not be in conformity with the [Indus River]
+>157
+
+Treaty.
+
+155 See above SIL.C.4. °° Kishenganga (2011) 150 ILR 311, 351-2.
+157 Thid, 353. Further: Yoshifumi Tanaka, ‘Note on the Interim Measures in the Indus Waters
+Kishenganga Arbitration’ (2012) 11 LPICT 555, 571-5.
+
+PSTS4T 8S 12.00% Published online by Cambridge University Press
+204 PURPOSE OF PROVISIONAL MEASURES
+
+This passage suffers from certain difficulties similar. In an explanatory
+footnote,'°® the Court linked the word ‘plausible’ to ‘terminology used by
+the ICJ’ and cited the term as used in Temple (Interpretation). It then pro-
+ceeded to note that ‘some jurisdictions would require the demonstration
+of more than a plausible case, such as a prima facie determination that the
+case is meritorious and cited Article 17A(1)(b) of the 2006 UNCITRAL
+Model Law.!°? Given that the passage from Temple (Interpretation) that
+the Court cited refers to the plausibility test as developed by the ICJ,'®° we
+must assume that the Court in Kishenganga was referring to plausibility as
+a threshold of preliminary merits review, and not proposing the adoption
+of the IC)’s plausibility test wholesale. Moreover, based on its reference
+to the 2006 UNCITRAL Model Law, the Court perceived plausibility as
+entailing a threshold somewhere below that of the prima facie case.'*!
+
+A further difficulty arises from the Court’s reliance on ‘the general
+practice of international and national courts and tribunals’ in introducing
+the ‘plausible case’ test. Whilst many national courts require some form
+of merits review prior to the granting of interim relief, the previous
+discussion demonstrates that the international scene is very different,
+with courts and tribunals for the most part adopting some variation of
+the IC)’s plausibility test.°* The inference to be drawn is that Kishenganga
+is an attempt by the Court of Arbitration to advance the law on provisional
+measures beyond the benchmark set by the IC] in Obligation to Prosecute
+or Extradite and other cases in a manner redolent of Judge Lauterpacht’s
+formulation of the test of prima facie jurisdiction in Interhandel.'©
+
+15
+
+Loe]
+
+Kishenganga (2011) 150 ILR 311, 351.
+
+°° From which 2010 UNCITRAL Art 26(3)(b) is drawn.
+
+16° Temple (Interpretation), ICJ Reports 2011 p 537, 545.
+
+‘el Given that the Kishenganga Court of Arbitration included two then-judges of the ICJ
+(Vice-President Tomka and Judge Simma) and was chaired by its former president (Judge
+Schwebel), this demarcation may prove significant for the ICJ’s own practice.
+
+But cf. the practice of the European Court of Justice, which requires the applicant to state
+‘the pleas of fact and law establishing a prima facie case for the interim measure applied
+for’, which has been interpreted as requiring the applicant to prove the fumi boni juris of
+its case: Rules of Procedure of the Court of Justice [2012] OJ L 265, Art 160(3); Cases
+43/59, 44/59 and 48/59, Lachmiiller v Commission [1960] ECR 489, 492; Case 3/75R,
+Johnson and Firth Brown v Commission [1975] ECR 1, 6. Further: Francis G Jacobs,
+‘Provisional Measures in the Law and Practice of the Court of Justice of the European
+Communities, in R Bernhardt (ed), Interim Measures Indicated by International Courts
+(Berlin: Springer-Verlag, 1994) 37, 48-50.
+
+‘63 Interhandel (Switzerland v US), Provisional Measures, ICJ Reports 1957 p 105, 118 (Judge
+Lauterpacht) (positing the test by reference to the standard ‘uniformly adopted in inter-
+national arbitral and judicial practice’ without reference to such practice).
+
+ma
+
+162
+
+SOPFETST6GAT IS 1 S OOF Published online by Cambridge University Press
+MEASURES FOR THE PRESERVATION OF RIGHTS PENDENTE LITE 205
+
+4 Investor-State Arbitration
+
+The state of play with respect to investor-state arbitration is also con-
+fusing, but for a different reason, namely that whilst the various ICSID
+and ad hoc tribunals seem to agree that some form of merits review is
+required prior to the award of interim relief, they cannot always agree on
+the precise formulation of the test. Two schools of thought have emerged.
+The first requires an inquiry into the existence of the rights with respect to
+which protection is claimed. In Maffezini v Spain, the Tribunal determined
+that the words ‘provisional measures for the preservation of [a party’s]
+rights’ as they appeared in Rule 39(1) of the ICSID Rules required that
+‘such rights must exist at the time of the request, must not be hypo-
+thetical, nor [be] ones to be created in the future’.'®* This would appear
+to require an ICSID tribunal to finally determine the existence of the
+rights with respect to which protection is claimed at the provisional mea-
+sures stage. These remarks were criticized by the Tribunal in Casado v
+Chile, which pronounced them to be ‘susceptible to misunderstanding’
+and unable to be upheld generally as they could require a tribunal to
+prejudge the substance ofa case at a point at which it was ill-equipped to
+do so.‘
+
+Further currency was given to the views of the latter tribunal by their
+adoption in Occidental v Ecuador. There, the claimant argued that it was
+entitled to specific performance of an oil field concession agreement,
+and sought provisional measures to this effect. The respondent, citing
+Maffezini v Spain, asserted that under the applicable law of the arbitration,
+the claimant was at best entitled to damages and that provisional measures
+consequently could not be awarded on the basis that the claimed rights
+were non-existent.!©° The Tribunal disagreed, observing that ‘although a
+right may not yet have been recognized by the Tribunal, such a right may
+nonetheless deserving of [interim] protection’.'®’ It was further noted
+that if the respondent’s position was correct, a tribunal could never order
+provisional measures to protect rights the existence and violation of which
+was the precise subject matter of the arbitration.‘ Rather, relying on
+Casado v Chile, it held that:
+
+164 Maffezini v Spain (2001) 5 ICSID Reports 393, 394. Cf. Phoenix Action Ltd v Czech
+Republic, ICSID Case No ARB/06/5 (Provisional Measures, 6 April 2007) §§37—46.
+
+165 Casado v Chile (2001) 6 ICSID Reports 373, 387.
+
+‘66 Occidental Petroleum Corporation and Occidental Exploration and Production Com-
+pany v Ecuador, ICSID Case No ARB/06/11 (Provisional Measures, 17 August 2007)
+§§42-3.
+
+‘67 Thid, $63. 168 Tbid.
+
+PSTS4T 8S 12.00% Published online by Cambridge University Press
+206 PURPOSE OF PROVISIONAL MEASURES
+
+The right to be preserved only has to be asserted as a theoretically existing
+right, as opposed to proven to exist in fact. The Tribunal, at the provisional
+measures stage, will only deal with the nature of the right claimed, not
+with its existence or the merits of the allegations of its violation.!®
+
+Elaborating on this, the Tribunal spoke of a need for a legally protected
+right or interest (as opposed to a ‘mere interest’) to ‘potentially form
+part of the Claimant’s individual rights and obligations’, indicating that
+not only the right must exist in law, it must be held in fact by the party
+that requests protection.'”? A similar position was taken by the ICSID
+tribunal in Tethyan Copper v Pakistan, which required only that the
+applicant establish ‘a prima facie case that it owns a legally protected
+interest.!7!
+
+These passages highlight two points. In the first place, rights do not
+have to be definitively proved to exist in order to be protected — a mere
+‘theoretical’ possibility of existence is sufficient.'’”? In the second, the
+tribunals in question did not call for a review of the claimant’s prospects
+of success on the merits. This position aligns with the plausibility test
+developed by the ICJ, though no express parallel has been drawn.
+
+The other school of thought which has developed in some investor-state
+cases is that the applicant for interim relief must establish a prima facie
+case on the merits if provisional measures are to be granted, a position
+which has been advocated by Oellers-Frahm and others with respect to
+the ICJ. Questions may be asked, however, as to whether such a test was
+intended by the tribunals in question. In Paushok v Mongolia, the Tribunal
+held as follows:
+
+At [the provisional measures] stage, the Tribunal need not go beyond
+whether a reasonable case has been made which, if the alleged facts were
+proven might possibly lead the Tribunal to the conclusion that an award
+could be made in favor of the Claimants. Essentially, the Tribunal needs
+to decide only that the claims made are not, on their face, frivolous or
+obviously outside the competence of the Tribunal. To do otherwise would
+require the Tribunal to proceed to a determination of the facts and, in
+practice, to a hearing on the merits of the case, a lengthy and complicated
+process which would defeat the very purpose of interim measures.!”°
+
+' Thid, $64. 17° Thid, $$65-6.
+
+“l Tethyan Copper v Pakistan, ICSID Case ARB/12/1, $117. Also: Burlington v Ecuador,
+ICSID Case No ARB/08/5, $53.
+
+2 Although cf. Quiborax v Bolivia, ICSID Case No ARB/06/2, §113ff, which speaks of the
+mere ‘existence’ of rights without reference to any threshold of review.
+
+3 Paushok v Mongolia, UNCITRAL, $55.
+
+PSTS4T 8S 12.00% Published online by Cambridge University Press
+MEASURES FOR THE PRESERVATION OF RIGHTS PENDENTE LITE 207
+
+There are good reasons to doubt the accuracy of this passage, which cites
+as authority the ICJ’s Order in Bosnian Genocide and the decision of the
+ICSID tribunal in Casado v Chile, neither of which advocates a review
+of the applicant’s prospects on the merits.'”* As such, it is possible that
+the position set out in Paushok v Mongolia is based on a misreading
+of earlier case law — similar in certain respects to the decision of the
+Court of Arbitration in Kishenganga. This is by no means limited to the
+tribunals themselves, with some scholars engaging in a similar misreading,
+or mistakenly conflating the quasi-plausibility test set out in the line of
+cases following Casado v Chile with a full prima facie review on the
+merits.!”°
+
+A further reference to the standard of the prima facie case was made
+(without reference to any supporting authority) by the tribunal in
+PNGSDP v PNG, with the test there held to comprise ‘a consideration
+of the prima facie strength of the parties’ respective claims, counter-
+claims and defences. At the same time, however, the Tribunal said that
+‘{the] analysis should not pre-judge the merits of the case’ and that
+the test would ‘ordinarily lead to a rejection |... ] only in rare circum-
+stances, where the requesting party has failed to advance any credible basis
+for its claims.'”° The Tribunal thus stipulated a relatively low thresh-
+old of review at this stage of the proceedings, such that an applicant
+would only seek to surmount it if its underlying claim was completely
+incredible.
+
+In this light, the position with respect to most ICSID and ad hoc
+investor-state arbitrations is that something akin to the plausibility test
+serves as a precondition to interim relief. The position may, however,
+change in the future, with Article 26(3)(b) of the 2010 UNCITRAL Rules
+requiring that the party seeking interim relief satisfy a tribunal that
+there is ‘a reasonable possibility that the requesting party will succeed
+on the merits of the claim’.!”” However, given that Article 26 of the 1976
+
+74 Thid, §55 (fn 8). No form of merits review at the provisional measures phase appears in the
+jurisprudence of the Iran—US Claims Tribunal: Caron, “Interim Measures of Protection’,
+490-1; Brower and Brueschke, Iran—United States Claims Tribunal, 218-29; Baker and
+Davis, UNCITRAL Arbitration Rules in Practice, 139-41. Cf. Chevron v Ecuador, PCA
+Case No 2009-23 (Interim Measures, 9 February 2011) §D, making no mention of any
+prima facie standard beyond that attaching to jurisdiction.
+
+5 See e.g. Mouawat and Silbert, ‘Guide to Interim Measures’, 399-400.
+
+6 PNG Sustainable Development Program Ltd v Papua New Guinea, ICSID Case No
+ARB/33/13 (Provisional Measures, 21 January 2015) $120.
+
+7 This requirement does not apply where the orders sought relate to the simple preservation
+of evidence: 2010 UNCITRAL Art 26(4). Further: David D Caron and Lee Caplan, The
+
+AOVETSTEdT Get s.coyY Published online by Cambridge University Press
+208 PURPOSE OF PROVISIONAL MEASURES
+
+UNCITRAL Rules does not contain this requirement and these Rules
+remain the predominant set of procedural rules in ad hoc investor-state
+arbitration, it is unlikely that any such shift will happen in the immediate
+future.
+
+III Measures for the Non-Aggravation of the Dispute
+A_ Protection of the Objective Interest
+
+In the context of the protection of rights pendente lite, provisional mea-
+sures appear as a subjectively oriented tool of the parties, with interna-
+tional courts and tribunals playing a purely reflexive role in assessing and
+responding to specific applications. But courts and tribunals ought also
+to consider the wider objective interest of the effective functioning of the
+international judicial system. For this reason, international adjudicative
+bodies are capable of protecting the administration of justice through the
+granting of provisional measures proprio motu.'’® These often take the
+form of measures expressed in terms of avoiding the aggravation or exten-
+sion of a dispute'’? — referred to here as measures for the non-aggravation
+of the dispute. An allied concern in this respect is the court or tribunal’s
+interest in protecting the integrity of its proceedings, a point made by the
+ICSID tribunal in Biwater Gauff v Tanzania as follows:
+
+It is now settled in both treaty and international commercial arbitration
+that an arbitral tribunal is entitled to direct the parties not to take any
+step that might (1) harm or prejudice the integrity of the proceedings, or
+(2) aggravate or exacerbate the dispute. Both may be seen as a particular
+type of provisional measure [...] or simply as a facet of the tribunal’s
+overall procedural powers and its responsibility for its own process.'®°
+
+Measures for non-aggravation first appeared in the Convention for the
+Establishment of a Central American Court of Justice,!®! Article XVIII of
+which provided that ‘the court may at the solicitation of one of the parties,
+
+UNCITRAL Arbitration Rules: A Commentary (Oxford: Oxford University Press, 2nd edn,
+2013) 523; Croft et al, UNCITRAL Arbitration Rules, 287.
+
+“8 Kolb, International Court, 616. Further: Pulp Mills, ICJ Reports 2007 p 3, 23 (Judge
+Buergenthal).
+
+79 Thirlway, ‘Provisional Measures by the ICJ;, 12-16; Brown, Common Law, 122; Oellers-
+Frahm, ‘Article 41’, 1035-6; Paolo Palchetti, “The Power of the International Court of
+Justice to Indicate Provisional Measures to Prevent the Aggravation of a Dispute’ (2008)
+21 LJIL 623.
+
+180 Biwater Gauff v Tanzania, ICSID Case No ARB/05/22, $135.
+
+181 20 December 1907, 206 CTS 78. Further: Chapter II, $III.A.2.
+
+AOVETSTEdT Get s.coyY Published online by Cambridge University Press
+MEASURES FOR THE NON-AGGRAVATION OF THE DISPUTE 209
+
+fix the situation in which the contending parties must remain [...] to
+the end that the difficulty shall not be aggravated’. Notwithstanding the
+requirement on the face of the provision that it could only be exercised by
+way of application, the Court in Honduras v El Salvador and Guatemala
+quickly awarded measures sua sponte so as to cool a situation of armed
+conflict between the parties.!*”
+
+As argued in Chapter 2, the practice of the CACJ is sufficient to establish
+a separate historical starting point for measures for non-aggravation when
+compared to measures for the protection of rights pendente lite.!®° These
+strands were then merged by the PCIJ through Article 41 ofits Statute. The
+Court first indicated measures for non-escalation in Electricity Company
+in terms that raised more questions than answers, relying as it did on:
+
+[The] principle universally accepted by international tribunals [ ... ] to the
+effect that the parties to a case must abstain from any measures capable of
+exercising a prejudicial effect in regard to the execution of the decision to
+be given and, in general, not allow any step of any kind to be taken which
+might aggravate and extend the dispute.'**
+
+This statement is significant for two reasons. In the first place, it asserts
+that parties to international litigation are under general obligation to
+avoid taking any action that may escalate a dispute. In the second, it
+contains no clear indication of why the Court saw fit to award a measure
+of this kind,'®° and no further indication of whether it conceived itself as
+possessing a power to award interim relief separate from that required to
+protect rights pendente lite.
+
+B_ The International Court of Justice
+
+1 A Separate Power?
+
+The cue given by the PCIJ in Electricity Company was taken up by its
+successor, with the IC] in Anglo-Iranian Oil ordering, inter alia, that
+
+the parties ‘should each ensure that no action of any kind is taken
+
+which might aggravate or extend the dispute submitted to the Court’'*°
+
+182 Editorial Comment, ‘The First Case before the Central American Court of Justice’ (1908)
+
+2 AJIL 835, 838.
+
+Which may be said to have emerged out of the practice of the inter-war MATs and earlier
+
+municipal precedents: Chapter 2, SIIB.
+
+184 Electricity Company (1939) PCIJ Ser A/B No 79, 199. Also: LaGrand, ICJ Reports 2001
+p 466, 503.
+
+185 Cf. Sztucki, Interim Measures, 76-8.
+
+186 Anglo-Iranian Oil, ICJ Reports 1951 p 89, 93.
+
+183
+
+PSTS4T 8S 12.00% Published online by Cambridge University Press
+eae tN wok at
+via ae fF ie ;
+TOS VO OLOr ras #
+
+210 PURPOSE OF PROVISIONAL MEASURES
+
+Similarly worded injunctions followed in cases such as Fisheries
+Jurisdiction,'®’ Nuclear Tests,'°8> and Tehran Hostages.'®? Despite its
+regular invocation, however, the Court refrained from stating whether it
+considered these measures to derive from a source of power independent
+of those designed to protect rights subject to litigation,’? though in
+Passage over Indian Territory, it rejected a Portuguese request to uphold
+the right on the basis that a request had not been made through Article
+Al, effectively confining the general principle of Electricity Company
+within that aspect of the Court’s procedure.’?! However, in Burkina
+Faso/Mali, a Chamber of the Court gave its opinion on the subject, noting
+that:
+
+[I]ndependently of the requests submitted by the Parties for the indi-
+cation of provisional measures, the Court or, accordingly, the cham-
+ber possesses by virtue of Article 41 of the Statute the power to indi-
+cate provisional measures with a view to preventing the aggravation or
+extension of the dispute whenever it considers that the circumstances so
+require.!”
+
+This statement was later reiterated by the Court proper in Cameroon v
+Nigeria,'®’ and further repeated in Armed Activities (DRC v Uganda)'*
+and Certain Criminal Proceedings,'”? notwithstanding the strident views
+of some commentators and individual judges that no such independent
+
+18
+
+~s
+
+Fisheries Jurisdiction (UK v Iceland), ICJ Reports 1972 p 12, 17; Fisheries Jurisdiction (FRG
+
+v Iceland), ICJ Reports 1972 p 30, 35.
+
+Nuclear Tests (Australia v France), ICJ Reports 1973 p 99, 106; Nuclear Tests (New Zealand
+
+v France), IC) Reports p 134, 142.
+
+189 Tehran Hostages, ICJ Reports 1979 p 7, 21.
+
+190 Thirlway, ‘Provisional Measures by the ICJ’, 14-15.
+
+191 Right of Passage over Indian Territory (Portugal v India), Preliminary Objections, ICJ
+
+Reports 1957 p 125, 152.
+
+Burkina Faso/Mali, ICJ Reports 1986 p 3, 9. The question was earlier raised, but not
+
+answered, in Aegean Sea, IC] Reports 1976 p 3, 12. In the Lockerbie case, a number
+
+of the dissenting judges argued in favour of proprio motu measures for non-escalation:
+
+Questions of the Interpretation and Application of the 1971 Montreal Convention arising
+
+from the Aerial Incident at Lockerbie (Libya v US), Provisional Measures, ICJ Reports 1992
+
+p 114, 140 Judge Shahabuddeen), 142 (Judge Bedjaoi, diss), 194-5 (Judge Ajibola, diss),
+
+215-16 (Judge ad hoc El-Kosheri, diss).
+
+193 Cameroon v Nigeria, ICJ Reports 1996 p 13, 22-3. Further: Jerzy Sztucki, ‘Case Anal-
+ysis: Case concerning Land and Maritime Boundary (Cameroon v Nigeria): Provisional
+Measures, Order of 15 March 1996 (1996) 10 LJTL 341, 350-2.
+
+194 Armed Activities in the Territory of the Congo (DRC v Uganda), Provisional Measures, ICJ
+
+Reports 2000 p 111, 128.
+
+Certain Criminal Proceedings in France (France v Congo), Provisional Measures, IC]
+
+Reports 2003 p 102, 111.
+
+18
+
+Loe]
+
+nary
+
+192
+
+19
+
+wi
+
+SOPFETST6GAT IS 1 S OOF Published online by Cambridge University Press
+eae rt eN wnat
+via ae fF ie ;
+TOS VO OLOr ras #
+
+MEASURES FOR THE NON-AGGRAVATION OF THE DISPUTE 211
+
+power could exist within the strict wording of Article 41.!”° Even then, the
+Chamber’s statement in Burkina Faso/Mali contains a certain ambiguity
+on its face, as one cannot be sure whether the power to which the Chamber
+refers is the Court’s general capacity to award measures different to those
+requested by the parties,'”” or the specific power to award measures for
+non-aggravation’* — though the latter appears to be the more likely.'”
+
+The ICJ, however, retreated from this position in the Pulp Mills case,
+declaring that the ‘power of the Court to indicate provisional measures
+can be exercised only if there is an urgent necessity to prevent irreparable
+harm to such rights, before the Court has given its final decision’*”° This
+decision to limit thus the applicability of Article 41 drewa lengthy response
+from Judge Buergenthal, who argued not only that the Court possessed
+two distinct powers under Article 41, but that in deliberately subsuming
+one of these within the other it had ‘missed an opportunity [... ] to fully
+address the legal implications of extrajudicial coercive measures..”"' Judge
+Buergenthal further pointed out that Article 41 did not represent the outer
+limit of the Court’s powers vis-d-vis provisional measures, but was rather
+an expression of the ‘requisite powers vested in courts generally [... |
+to ensure that the orderly adjudication of cases pending before it is not
+ageravated or undermined by extrajudicial coercive measures resorted to
+by one party.” In this connection, Judge Buergenthal noted:
+
+196 See e.g. Thirlway, 1 Law and Practice, 946-53. Further: Aegean Sea, ICJ Reports 1976 p 3,
+16 (President Jiménez de Aréchaga):
+
+The Court’s specific power under Article 41 of the Statute is directed to the preservation
+of rights sub-judice and does not consist in a police power over the maintenance of
+international peace nor in a general competence to make recommendations relating
+to the peaceful settlement of disputes.
+
+197 Further: ICJ Rules, Art 75(1).
+198 Palchetti, ‘Provisional Measures to Prevent Aggravation’, 625-6.
+199 See e.g. Lockerbie, ICJ Reports 1992 p 144, 158 (Judge Bedjaoui):
+
+This is a case-law which, instead of focusing on a review of each prerequisite to the
+indication of provisional measures, gives pride of place to a comprehensive analysis
+of the ‘circumstances’ of the case, it being decided, on that basis, to indicate those
+measures in the general terms of an exhortation to all the parties not to aggravate or
+extend the dispute. The provisional measure thus taken, in the form of an exhortation,
+does not in any way depend upon the indication of other, more specific provisional
+measures.
+
+200 Pulp Mills, IC] Reports 2007 p 3, 13, 16. Further: Palchetti, ‘Provisional Measures to
+Prevent Aggravation, 634-7; Bernhard Kempen and Zan He, “The Practice of the Inter-
+national Court of Justice on Provisional Measures: The Recent Development’ (2009) 69
+ZaGRV 919, 923-5.
+
+201 Pulp Mills, ICJ Reports 2007 p 3,21. 7 Thid, 23.
+
+AOVETSTEdT Get s.coyY Published online by Cambridge University Press
+eae paw quate
+via ae fF ie ;
+TOS VO OLOr ras #
+
+212 PURPOSE OF PROVISIONAL MEASURES
+
+The fact that the Court [...] has in all these prior cases also indicated
+the first type of provisional measures, does not detract from the wording
+of Article 41 of the Statute, which makes the decision whether or not
+to indicate provisional measures dependent on the ‘circumstances’ that
+may require it. These circumstances may involve an imminent threat of
+irreparable prejudice to the rights in dispute. But, independently thereof,
+no compelling reason has been advanced by the Court why they may
+not also apply to situations in which one party to the case resorts to
+extrajudicial coercive measures, unrelated to a subject matter in dispute,
+that aggravate a dispute simply by seeking to undermine or interfere with
+the rights of the other party in defending its case before the Court. In
+such situations, the test would not be whether there is an imminent threat
+of irreparable harm to the subject matter of the dispute, but whether the
+challenged actions are having a serious adverse effect on the ability of the
+party seeking the provisional measures to fully protect its rights in the
+judicial proceedings.”
+
+Given the wider history of provisional measures, Judge Buergenthal has
+the better side of the argument. Measures for the protection of rights
+pendente lite and measures for non-aggravation arise from two different
+traditions of interim relief, a fact implicitly recognized by the PCIJ in Elec-
+tricity Company in identifying a general rule of non-aggravation in inter-
+national disputes.*"* For the Court now to claim — Burkina Faso/Mali and
+its successor cases notwithstanding — that measures for non-aggravation
+are merely ancillary to measures for the protection of rights is to diminish
+its ability to ensure the integrity of proceedings on an interlocutory basis.
+Nonetheless, in light of the Court’s dictum in Pulp Mills, this is (for now)
+the status quo.*”
+
+What then is the animus behind this apparent reversal? Palchetti iden-
+tifies two reasons, both connected to the Court’s conclusion as to the
+binding character of provisional measures in LaGrand.? Firstly, and
+as seen in the ICJ’s increased emphasis on the plausibility test,”°” the
+Court has taken as a general rule a more stringent approach to the
+awarding of provisional measures so as to increase the legitimacy of any
+orders so given. Secondly, the contextualization of provisional measures
+
+203 Tbid, 24-5.  7°4_ Cf. Kolb, International Court, 616.
+
+205 Palchetti, ‘Provisional Measures to Prevent Aggravation’ 636; Kempen and He, ‘Recent
+Development, 924-5; Thirlway, 2 Law and Practice, 1799-1802; Uchikova, ‘Provisional
+Measures before the ICJ;, 427.
+
+206 Palchetti, ‘Provisional Measures to Prevent Aggravation’, 640-1.
+
+07 Above §II.D.1(b).
+
+AOVETSTEdT Get s.coyY Published online by Cambridge University Press
+MEASURES FOR THE NON-AGGRAVATION OF THE DISPUTE 213
+
+post-LaGrand has led the Court to reemphasize that the primary pur-
+pose of interim relief is the protection of rights pendente lite, with
+measures for non-aggravation assuming a correspondingly diminished
+role.
+
+2 Preconditions for the Award of Measures for
+Non-Aggravation
+
+Following the 2007 Order of the ICJ in Pulp Mills, the preconditions for
+an award of measures for non-aggravation are that a case for interim relief
+to protect rights pendente lite must first be made out in its entirety, i.e.
+the applicant must establish prima facie jurisdiction, identify a plausible
+right sufficiently linked to the merits, and prove urgency and irreparable
+harm with respect to that right. However, the award of measures for non-
+ageravation does not follow from this a fortiori, and the Court has held in
+cases such as Certain Criminal Proceedings that such are not appropriate,
+appearing to utilize criteria independent of those for the protection of
+rights.?"°
+
+The ICJ has not enunciated a definitive test for the award of measures
+for non-aggravation, though it is tolerably clear that much turns on the
+particular circumstances of the case.””” Such measures are particularly apt
+in cases involving the use of force, with the Chamber in Burkina Faso/Mali
+noting that in such situations ‘there can be no doubt of the Chamber’s
+power and duty to indicate, if need be, such provisional measures as may
+conduce to the due administration of justice.?!? Similar concerns may
+have driven the Court’s express reliance on its ‘independent’ power to
+grant such measures in Cameroon v Nigeria and Armed Activities (DRC v
+Uganda), as well as its decision not to in the rather different case of Certain
+Criminal Proceedings. At the same time, however, there is no reason to
+think that measures for non-aggravation are confined to cases with a
+potential or realized risk of armed conflict, as the award of such measures
+in the Nuclear Tests cases demonstrates. Certainly, this would accord with
+the position taken in Electricity Company, where the PCI referred to the
+need for parties avoid taking ‘any steps’ that might aggravate or extend a
+dispute — a general formula that on its face extends beyond questions of
+use of force.
+
+208 Certain Criminal Proceedings, ICJ Reports 2003 p 102, 111.
+209 Palchetti, ‘Provisional Measures to Prevent Aggravation’, 628.
+210 Burkina Faso/Mali, ICJ Reports 1986 p 3, 9.
+
+PSTS4T 8S 12.00% Published online by Cambridge University Press
+eae rt eN wnat
+via ae fF ie ;
+TOS VO OLOr ras #
+
+214 PURPOSE OF PROVISIONAL MEASURES
+
+3. Scope and Effect of Measures for Non-Aggravation:
+The Border Area Case
+
+Following on from the decision in Pulp Mills, it has become clear that the
+ICJ now considers measures for non-aggravation to be supplementary to
+measures for the protection of rights pendente lite. However, this position
+is not necessarily out of step with the Court’s previous practice, where,
+despite the assertions of independent power in Burkina Faso/Mali and
+its fellows, measures for non-aggravation were never awarded absent
+measures for the protection of rights. In terms of their overall effect, such
+measures have historically performed a ‘catch-all’ function, serving as an
+injunction to the parties to avoid making an already sub-optimal situation
+worse.”!' This may include not only steps that may aggravate or extend
+the dispute, but also steps that may generally cause prejudice to the rights
+of the parties.”!* Further specific direction may also be given under the
+rubric of non-aggravation.?!°
+
+As such, the inclusion of measures for non-aggravation reflects the
+realization by the Court that factual matrix before them is fluid, and
+that the inclusion of very specific provisional measures for the protection
+of rights may not adequately restrain a party from causing damage not
+captured by the wording of those measures. A key example of this arose
+in the Border Area dispute between Costa Rica and Nicaragua, in which
+the utility of measures for non-aggravation was demonstrated over the
+course of several Orders. By way of background, the Border Area case was
+first filed by Costa Rica in 2010, and concerned the alleged ‘incursion into,
+occupation of and use by Nicaragua’s Army of Costa Rican territory as well
+as breaches of Nicaragua’s obligations towards Costa Rica’.*'* Costa Rica
+asserted that in two separate incidents, Nicaraguan troops had occupied
+Costa Rica’s territory in connection with the construction of a canal (or
+
+21
+
+an
+
+Sztucki, Interim Measures, 77, observing that the function of these general clauses appears
+to be the reinforcement of whatever other measures the Court has decided to indicate.
+Further: Palchetti, ‘Provisional Measures to Prevent the Aggravation ofa Dispute’, 637-41.
+712 See e.g. Georgia v Russia, ICJ Reports 2008 p 353, 399:
+
+Each Party shall refrain from any action which might prejudice the rights of the other
+Party in respect of whatever judgment the Court may render in the case, or which
+might aggravate or extend the dispute before the Court or make it more difficult to
+resolve.
+
+213 See e.g. Cameroon v Nigeria, ICJ Reports 1996 p 3, 24; Armed Activities (DRC v Uganda),
+ICJ Reports 2000 p 111, 129, where the Court’s concerns regarding use of force were
+recorded in the operative part of the orders given.
+
+214 Border Area, Costa Rica: Application, 18 November 2010, $1.
+
+AOVETSTEdT Get s.coyY Published online by Cambridge University Press
+MEASURES FOR THE NON-AGGRAVATION OF THE DISPUTE 215
+
+cafio) through said territory and that the canal, if completed, would cause
+significant environmental damage through diversion of the watercourse
+and deforestation of the occupied area. Nicaragua, for its part, asserted
+that the territory in question was actually Nicaraguan, and its actions
+were appropriate with its sovereign right to do with its territory as it saw
+fit. Nicaragua further contested Costa Rica’s description of its activities
+as the cutting of a canal, but submitted that it was merely dredging a
+preexisting natural watercourse so as to return it to its prior state.
+
+In its Order of 8 March 2011, the Court awarded provisional mea-
+sures requiring that, inter alia, each party ‘refrain from sending to, or
+maintaining in the disputed territory, including the cafio, any person-
+nel, whether civilian, police or security’ and further that the parties
+‘refrain from any action which might aggravate or extend the dispute
+before the Court or make it more difficult to resolve’.?!? On 23 May
+2013, Costa Rica filed a motion with the Court requesting modifica-
+tion of the Order under Article 76 of the ICJ Rules. Costa Rica asserted
+that whilst Nicaraguan military personnel may have withdrawn from the
+contested area, Nicaragua continued to maintain an educational pro-
+gramme whereby young Nicaraguan nationals were sent into the zone.
+Nicaragua, in response, asserted that these nationals were private persons
+belonging to the Guardabarranco Environmental Movement, undertak-
+ing ‘environmental sustainability’ activities within the contested area, and
+hence outside of its control.
+
+The Court, in its Order of 16 July 2013, considered that the presence
+of such a private — or at the very least ‘non-military’ — movement was not
+contemplated when it made its earlier order for the protection of rights,
+and thus there was no risk of breach of those measures. However, it did
+not wish to indicate a total lack of concern with what was taking place
+within the area, noting that:
+
+[T]he presence of organized groups of Nicaraguan nationals in the dis-
+puted area carries the risk of incidents which might aggravate the present
+dispute. That situation is exacerbated by the limited size of the area and
+the numbers of Nicaraguan nationals who are regularly present there. The
+Court wishes to express its concerns in this regard.”!©
+
+In this passage, the Court clearly implied that it considered Nicaragua
+to be in breach of the non-aggravation measures contained in the earlier
+
+215 Border Area, ICJ Reports 2011 p 6, 27.
+216 Border Area/San Juan River, ICJ Reports 2013 p 230, 240.
+
+PSTS4T 8S 12.00% Published online by Cambridge University Press
+216 PURPOSE OF PROVISIONAL MEASURES
+
+Order. On this basis, the Court reaffirmed the measures indicated in that
+Order, reminded the parties that such measures were binding and that a
+breach of the Order could be effected by either an act or an omission, e.g.
+by permitting the continued presence of private persons in the disputed
+area.”!’ Finally, the Court noted that its findings were ‘without prejudice
+as to any finding on the merits concerning the Parties’ compliance’ with
+its Order of 8 March 2011, an indication that it was willing to take any
+breach of provisional measures into account at a later date and a warning
+to Nicaragua as to the potential consequences of further omissions.7!®
+
+The Court’s use of measures of non-aggravation in this manner shows
+the potential for such relief to restrain parties that may attempt to circum-
+vent the plain wording of provisional measures. As it happens, Nicaragua’s
+response was to continue to breach these measures, prompting the Costa
+Rica to apply to the Court for an entirely new set of measures for the
+protection of rights pendente lite, with the Court eventually exercising
+its power to award measures well in excess of what Costa Rica actually
+requested, whilst at the same time reaffirming its earlier orders, including
+measures for non-aggravation.”!”
+
+C Dispute Settlement Under UNCLOS
+
+Like the ICJ, dispute settlement bodies under UNCLOS have endorsed the
+power to award measures for non-aggravation despite the fact that such a
+capacity does not appear expressly in the wording of UNCLOS Article 290.
+This tendency appeared early on in the jurisprudence of ITLOS, with the
+Tribunal recommending proprio motuin M/V Saiga (No 2) that the parties
+‘should ensure that no action is taken by their respective authorities or
+by vessels flying their flag which might aggravate or extend the dispute
+submitted to the Tribunal’?”° In his declaration, Judge Vukas reflected
+on the specific need for such measures and protested the lack of binding
+wording in the majority’s formulation thereof:
+
+[T]aking into account the nature of the case, the restraint of the parties
+in respect of actions which might aggravate or extend the dispute is of
+utmost importance. The tragic events which occurred on 28 October
+1997 and afterwards resulted in human suffering and material damage.
+Therefore, the Tribunal should have used the most effective measures in
+
+17 Ibid. —-7!8_-Thid. See also Border Area/San Juan River, ICJ Reports 2013 p 354, 368-9.
+
+219 Thid, 369-70.
+
+220 M/V Saiga (No 2) (St Vincent and the Grenadines v Guinea), Provisional Measures (1999)
+117 ILR 111, 124.
+
+PSTS4T 8S 12.00% Published online by Cambridge University Press
+MEASURES FOR THE NON-AGGRAVATION OF THE DISPUTE 217
+
+order to convince the parties to abstain from any similar or other action
+which might aggravate or extend the dispute pending the final decision
+of the Tribunal. Under the applicable rules, such means are ‘prescribed
+provisional measures’.
+
+Judge Vukas’ sentiments were adopted in the Southern Bluefin Tuna case,
+where both Australia and New Zealand requested ‘the parties ensure that
+no action of any kind [be] taken which might aggravate, extend or render
+more difficult of solution the dispute submitted”?! No comment on this
+application was made by the majority beyond simply making a binding
+order to this effect,”*” though Judge Eiriksson expressed reservations on
+the basis that whilst the general proposition that parties should avoid
+further aggravating a dispute was sound, the measure as drafted was ‘of
+so general a nature that a party cannot be clear when contemplating any
+given action whether or not it falls within its scope.””’ Such reasoning is,
+with respect, specious — if the general proposition per Electricity Company
+that parties should avoid escalating disputes is valid, then an order con-
+verting this principle into an obligation binding on the parties is equally
+unobjectionable.
+
+Measures for the non-aggravation of the dispute were also considered
+and awarded in Ghana/Cote d'Ivoire as a codicil to extensive measures
+for the protection of rights pendente lite. As with the rest of the award,
+the Special Chamber was relatively matter of fact about the measures in
+question, simply stating that measures of non-aggravation ‘should not in
+any way be construed as a waiver of |... ] or an admission of the claims
+of the other party to the dispute’’”* before requiring the parties to ‘refrain
+from any unilateral action that might lead to aggravating the dispute.?°
+
+These cases represent the only occasions in which ITLOS — or any
+other UNCLOS dispute settlement body — has ordered measures for non-
+ageravation. Some further commentary on the power to order such mea-
+sures emerges, however, in the extracurial writings of Judge Laing, who
+links ITLOS practice on measures for non-aggravation to the preexisting
+ICJ jurisprudence on the subject.”° If this is the case, then it may be that
+
+21 Southern Bluefin Tuna (Australia v Japan; New Zealand v Japan), Provisional Measures
+
+(1999) 117 ILR 148, 158.
+
+222 Thid, 165. 23 Thid, 194 (Judge Eiriksson, diss).
+
+224 Ghana/Cote d'Ivoire, ITLOS Case No 23, $103. 7°. Ibid, §108(1)(e).
+
+226 Edward A Laing, ‘A Perspective on Provisional Measures under UNCLOS’ (1998) 29 NYIL
+45, 66-7. Also: Rudiger Wolfrum, “Provisional Measures of the International Tribunal
+for the Law of the Sea’, in P Chandrasekhara Rao and R Khan (eds), The International
+Tribunal for the Law of the Sea: Law and Practice (The Hague: Kluwer, 2001) 173, 177.
+
+we
+
+PSTS4T 8S 12.00% Published online by Cambridge University Press
+218 PURPOSE OF PROVISIONAL MEASURES
+
+the decision of the Court in Pulp Mills has resulted in a similar subor-
+dination of measures for non-escalation to measures for the protection
+of rights pendente lite for the purposes of UNCLOS Article 290, though
+neither ITLOS nor any Annex VII tribunal has taken the opportunity to
+comment on the subject.
+
+D Inter-State Arbitration
+
+The availability of measures of non-aggravation in wider inter-state arbi-
+tration is presently unexplored, but given the identification of the concept
+as a general principle of law in Electricity Company, it is likely that the
+capacity to award such measures — whether at the instigation of the par-
+ties or proprio motu — forms part of the broad suite of powers available
+to international tribunals. In Kishenganga, however, an inquiry of this
+kind was unnecessary, owing to the presence of an express power to order
+such measures in Paragraph 28 of Annexure G.’”” However, the Court of
+Arbitration did not consider this power in detail, instead electing to fix
+its award in its power to avoid prejudice to the final award,”*° notwith-
+standing Pakistan’s extensive submissions on the point.”
+
+E_ Investor-State Arbitration
+
+1 ICSID Arbitration
+
+Unlike the drafters of Article 41 of the ICJ Statute and UNCLOS Arti-
+cle 290, the framers of Article 47 of the ICSID Convention and the
+corresponding ICSID Rules appear to have expressly considered non-
+ageravation in preparing the provision, with Note A to Rule 39 of the
+1968 iteration of the ICSID rules stating that Article 47 ‘is based on the
+principle that once a dispute is submitted to arbitration the parties should
+not take steps that might aggravate or extend their dispute or prejudice
+execution of the award’.”°° Other investor-state arbitration tribunals have
+modified this formula slightly on the basis of the travaux préparatoires to
+the ICSID Convention, referring instead to measures intended ‘to pre-
+serve the status quo as between the parties pending a final award by the
+Tribunal’?!
+
+227 Kishenganga (2011) 150 ILR 311, 343.
+
+28 Tbid, 352-3.” -Thid, 344-5. 78°: (1968) 1 ICSID Reports 63, 99.
+
+231 See e.g. Burlington v Ecuador, ICSID Case No ARB/08/5, §§59-62; City Oriente v Ecuador,
+ICSID Case No ARB/06/21 (Provisional Measures, 19 November 2007) $55.
+
+PSTS4T 8S 12.00% Published online by Cambridge University Press
+eae tN wok at
+via ae fF ie ;
+LIDS VOL ora randa s
+
+MEASURES FOR THE NON-AGGRAVATION OF THE DISPUTE 219
+
+The scope of this power was elaborated in the early case law.**” In
+Amco v Indonesia, the Tribunal rejected the respondent’s request for pro-
+visional measures preventing the claimant from speaking publicly about
+the proceedings on foot. In so doing, the Tribunal stated:
+
+All these remarks do by no means weaken the good and fair practical
+rule, according to which both parties to a legal dispute should refrain,
+in their own interest, to do any thing that could aggravate or extend the
+same, thus rendering the situation possibly more difficult. However, in
+the circumstances of the case, the Tribunal does not find any symptom of
+an intention of the one or the other party to take steps that could have
+such consequences; accordingly, the Tribunal does not deem it appro-
+priate to issue a recommendation to the parties — which, moreover, is
+not requested by Claimants — such recommendation not seeming to be
+presently needed.?*’
+
+Two points regarding the Tribunal’s attitude to measures for non-
+ageravation arise from this passage. In the first place, the Tribunal did not
+conceive of such measures as being dependent on first awarding measures
+for the protection of rights pendente lite. In the second, as in the case of the
+IC] in Certain Criminal Proceedings, the Tribunal hinted that there were
+some additional factors that were to be taken into account in determining
+whether measures for non-aggravation were appropriate, though these
+were not the subject of expansion.7*4
+
+Both points have been elaborated elsewhere. With respect to the first,
+a key difference in some ICSID practice is for tribunals to fix on non-
+ageravation as a general principle of international law as opposed to
+merely a purpose for which provisional measures may be awarded. Con-
+sequently, ICSID tribunals have awarded provisional measures for the
+protection of a right pendente lite where the right in question is the par-
+ties’ right to conduct proceedings without aggravation or escalation of
+the underlying situation, injecting a measure of subjectivity into what
+the ICJ and ITLOS would likely consider to be a purely objective inter-
+est. This much was clearly enunciated in Plama v Bulgaria alongside the
+
+232 ICSID Commentary, 793-5.
+
+33 Amco v Indonesia (1983) 1 ICSID Reports 410, 412. The Tribunal in Holiday Inns v
+Morocco was asked to consider measures for non-escalation by the claimant in that case,
+though it did not address the problem directly: Pierre Lalive, ‘The First “World Bank
+Arbitration (Holiday Inns v Morocco) — Some Legal Problems’ (1981) 51 BYIL 124, 134.
+
+234 Further: Ceskoslovenska Obchodni Banka AS v Slovak Republic, ICSID Case No ARB/97/4
+(Procedural Order No 3, 5 November 1998) 3.
+
+SOPFETST6GAT IS 1 S OOF Published online by Cambridge University Press
+eae tN wok at
+via ae fF ie ;
+TOS VO OLOr ras #
+
+220 PURPOSE OF PROVISIONAL MEASURES
+
+aforementioned relaxation of the link test.*°? Although this view may
+not sit happily alongside modern understandings of that test,”*° if is pre-
+sumed correct, it would be impossible for an ICSID tribunal to reach a
+conclusion similar to that reached by the Court in Pulp Mills.’°’ Plama v
+Bulgaria also sought to give substance to this species of measure, holding
+that the obligation of non-aggravation refers to actions that would affect
+resolution of the dispute. As such, non-aggravation may be seen asa right
+for the preservation of the status quo, with measures to be awarded ‘when
+a change in circumstances threatens the ability of the Arbitral Tribunal to
+grant the relief which a party seeks and the capability of giving effect to
+the relief.?°8
+
+This position is not, however, unchallenged, and some arbitrators have
+seen fit to follow the ICJ in redefining the relationship between the two
+species of interim relief. This is precisely what occurred in CEMEX v
+Venezuela, where a tribunal chaired by a former president of the ICJ,
+Gilbert Guillaume, having rejected the claimant’s request for provisional
+measures for the protection of rights sub judice, relied on Pulp Mills in
+further denying measures for non-aggravation, noting:
+
+Article 47 of the ICSID Convention does give ICSID Arbitral Tribunals
+power to recommend measures directed at the preservation of the rights
+of the parties. In exercising this power, ICSID Tribunals may recommend
+measures in order to avoid the aggravation or extension of the dispute. But
+those ‘non-aggravation’ measures are ancillary measures which cannot
+be recommended in the absence of measures of a purely protective or
+preservative kind.”*”
+
+235 Plama v Bulgaria, ICSID Case No ARB/03/24, $40. Also: Tokios Tokelés v Ukraine, ICSID
+Case No ARB/02/18 (Procedural Order No 3, 20 December 2002) $7; Biwater Gauff v
+Tanzania, Procedural Order No 1, ICSID Case No ARB/05/22, §71; Occidental v Ecuador,
+ICSID Case No ARB/06/11, $97; Burlington v Ecuador, ICSID Case No ARB/08/5, $60;
+Caratube International Oil Company LLP v Kazakhstan, ICSID Case No ARB/08/12 (Provi-
+sional Measures, 31 July 2009) $$120, 127; Millicom v Senegal, ICSID Case No ARB/08/20,
+§45; Churchill Mining v Indonesia, ICSID Case No ARB/12/14, $57. Further: Malintoppi,
+‘Recent ICSID Proceedings’, 168; Mouawad and Silbert, ‘Guide to Interim Measures’, 394.
+
+236 Above SII.C.3.
+
+?37 Federico Campolieti, ‘The Rule of Non-Aggravation of the Dispute in ICSID Practice’
+(2015) 30 ICSID Rev — FIL] 217, 218.
+
+238 Plama v Bulgaria, ICSID Case No ARB/03/24, $45.
+
+239 CEMEX Caracas Investments BV and CEMEX Caracas II Investments BV v Venezuela,
+ICSID Case No ARB/05/15 (Provisional Measures, 3 March 2010) §$63-6. But cf. Quib-
+orax v Bolivia, ICSID Case No ARB/06/2, §$86, 117, where the Pulp Mills objection was
+raised expressly by the respondent. The Tribunal did not address the point directly, but
+did expressly confirm the contradictory view in Plama v Bulgaria.
+
+SOPFETST6GAT IS 1 S OOF Published online by Cambridge University Press
+MEASURES FOR THE NON-AGGRAVATION OF THE DISPUTE 221
+
+This view is not a popular one, but has been adopted by other ICSID
+tribunals.”“? Although perhaps preferable to the status quo in the sense that
+it upholds the conventional understanding of the link test, it is deficient
+in the same manner as Pulp Mills in that it is insensitive to the unique
+historical basis of measures for non-aggravation that permits them to be
+awarded independently of other forms of interim relief.
+
+Later cases have also elaborated on the preconditions for such mea-
+sures. Ultimately, if the view in Plama v Bulgaria is held to be correct, and
+non-aggravation takes the form of another right to be protected pendente
+lite, then the appropriate preconditions are those of urgency and irrepara-
+ble or significant harm.**! A significant case in this respect was Casado
+v Chile, where, in response to a request by the claimant, the Tribunal
+grounded its capacity to award such matters in the case law of the PCIJ
+and ICJ, making express reference to Electricity Company, Anglo-Iranian
+Oil and Armed Activities, as well as to Amco v Indonesia.*” Elaborating
+further, the Tribunal stated that such measures were appropriate where ‘a
+state of tension’ was in evidence as between the parties, and accordingly
+requested that both parties ‘strictly comply with the general principle of
+law [...] that no action of any kind is [to be] taken which might aggra-
+vate or extend the dispute.” A further indication of when such measures
+might be inappropriate was given in SGS v Pakistan, where the claimant’s
+application for such measures was rejected on the basis that both par-
+ties were cooperating, and neither of them had displayed a propensity
+to aggravate the dispute.*“* Conversely, the initiation of bankruptcy pro-
+ceedings against the claimant in Azurix v Argentina was sufficient to justify
+the grant of the measure,** and in Perenco v Ecuador, the seizure of the
+claimant’s assets prompted intervention on this basis.7“° In Biwater Gauff
+v Tanzania, emphasis was placed on the fact that the aggravation in ques-
+tion did not need to be concrete, and that assessing the required risk
+
+‘necessarily involves probabilities, not certainties’.”*”
+
+40 PNGSDP v PNG, ICSID Case No ARB/33/13, $153.
+
+41 City Oriente v Ecuador, Provisional Measures, ICSID Case No ARB/06/21, §$54—5. Fur-
+ther: Campolieti, ‘Non-Aggravation of the Dispute’, 220-3.
+
+242 Casado v Chile (2001) 6 ICSID Reports 373, 392. 4° Ibid, 393, 397.
+
+44 SGS Société Générale de Surveillance SA v Pakistan, Procedural Order No 2 (2002) 8 ICSID
+Reports 388, 397,
+
+45 Azurix Corp v Argentina, ICSID Case No ARB/01/12 (Provisional Measures, 6 August
+2003) $$16—20, 21, 22, 36-47.
+
+?46 Perenco v Ecuador, ICSID Case No ARB/08/6, $46.
+
+47 Biwater Gauff v Tanzania, Procedural Order No 3, ICSID Case No ARB/05/22, $145.
+
+AOVETSTEdT Get s.coyY Published online by Cambridge University Press
+222 PURPOSE OF PROVISIONAL MEASURES
+
+2 UNCITRAL Arbitration
+
+The availability of measures for non-aggravation under the UNCITRAL
+Rules is somewhat more uncertain, perhaps due to a dearth of practice.
+It is interesting to note that no firm tradition of such measures appears
+to have arisen before the Iran—US Claims Tribunal, perhaps owing to
+the fact that disputes before that body ordinarily entailed no immedi-
+ate risk of aggravation — the parties were usually at arm’s length and
+the claimants’ preferred remedy was usually monetary compensation.
+Where some immediate form of contact did persist, it was ordinarily in
+the form of detained goods and other assets, in which case the preferred
+form interim relief was an order for the preservation of those goods pur-
+suant to the bare wording of Article 26(1) of the 1976 UNCITRAL Rules.
+Targeted measures for the restraint of parallel proceedings were also of
+greater utility than measures of non-aggravation.”
+
+Recent practice under the 1976 UNCITRAL Rules has proved more
+fruitful, particularly with respect to the various investor-state arbitrations
+taking place under the auspices of the PCA or on an ad hoc basis. As
+with some ICSID tribunals, such bodies sometimes eschew terminology
+such as ‘aggravate or extend the dispute’ and prefer to speak in terms of
+measures designed to maintain the status quo. In either case, the status
+of the measure as a general prophylactic is the same. Thus, in Chevron
+v Ecuador, the parties were ordered to ‘maintain, as far as possible the
+status quo and not to exacerbate the procedural and substantive disputes
+before the Tribunal”? Conversely, in Paushok v Mongolia, the Tribunal
+ordered that the parties refrain ‘from any actions which would lead to
+further injury and aggravation of the dispute between the parties’*”°
+No indication is given in these decisions as to whether these tribunals
+purport to follow the line of authority emanating from the ICJ, or the
+approach adopted in Plama v Bulgaria and by other ICSID tribunals,
+although the failure by the tribunal in Paushok v Mongolia to identify
+non-aggravation as a particular right that could be subject to protection,
+
+48 Caron, ‘Interim Measures of Protection’, 499-500; Jacomijn J van Hof, Commentary on the
+UNCITRAL Arbitration Rules: The Application by the Iran—US Claims Tribunal (Deventer:
+Kluwer, 1991) 178-9; Baker and Davis, UNCITRAL Arbitration Rules in Practice, 133-8;
+Caron et al., UNCITRAL Commentary, 539-40.
+
+49 Chevron v Ecuador, PCA Case No 2009-23 (First Order on Interim Measures, 14 May
+2010) §1. Also: Chevron v Ecuador, PCA Case No 2009-23 (Second Order on Interim
+Measures, 6 December 2010) $1(i); Chevron v Ecuador, PCA Case No 2009-23 (Third
+Order on Interim Measures, 28 January 2011) $1(i).
+
+250 Paushok v Mongolia, UNCITRAL, $11 (operative).
+
+PSTS4T 8S 12.00% Published online by Cambridge University Press
+CONCLUSIONS 223
+
+as well as its reliance on ICJ jurisprudence, may indicate a tendency
+towards the former. Such conclusions are, however, strictly speculative,
+and it should be noted that under the more relaxed variant of the link
+test incorporated into Article 26(1),*°! either approach could be adopted
+without doctrinal difficulties.
+
+Measures for non-aggravation are undoubtedly available under Article
+26(2)(a) of the 2010 UNCITRAL Rules, which permits relief generally to
+‘maintain or restore the status quo pending resolution of the dispute’.
+
+IV Conclusions
+
+It is by now clear that the LaGrand judgment prompted in various inter-
+national courts and tribunals a desire to increase the complexity of their
+procedure regarding provisional measures. This has resulted in at least
+two significant elaborations with respect to measures for the preserva-
+tion of rights pendente lite. With respect to the first, all of the courts and
+tribunals examined by this study now place additional emphasis (to the
+extent it did not exist already) on the need for a link between the measures
+requested and the rights subject to litigation. Depending on the body in
+question, the concept ofa right subject to litigation and the strength of the
+link so required may vary — but the general principal remains the same.
+
+The second elaboration is more novel and — at least from the point of
+view of certain ICJ cases — mildly heretical. It is now expected that the
+provisional measures calculus will include an assessment of the strength
+of the applicant’s case on the merits. Again, this may vary from tribunal
+to tribunal — and it appears to be the permanent courts and tribunals
+(i.e. the ICJ and ITLOS) that are more reluctant to apply a high level of
+scrutiny at this stage, at least when compared to more ad hoc inter-state
+and investor-state bodies that require that the applicant prove its case
+to a prima facie standard. In this sense, it bears acknowledging that no
+one approach is correct, and that the development of these requirements
+presumably mirrors the institutional needs of each court or tribunal.
+
+A third significant elaboration has concerned measures for the non-
+ageravation of a dispute, and the insistence of the ICJ in Pulp Mills —
+contrary to its earlier decisions in Burkina Faso/Mali and Cameroon v
+Nigeria — that such measures may only be ordered following the award
+of interim relief for the preservation of rights pendente lite. Such an
+approach, it is suggested, is ahistorical, and fails to reflect that the two
+
+251 Above §II.C.3(b).
+
+PSTS4T 8S 12.00% Published online by Cambridge University Press
+224 PURPOSE OF PROVISIONAL MEASURES
+
+forms of measure descend from different traditions of interim relief.
+What is more, it may be seen to — as Judge Burgenthal hinted in Pulp
+Mills — reduce measures for non-aggravation to a mere extrusion of (or
+afterthought to) measures for the protection of rights. Nonetheless, the
+procedure of international courts and tribunals is theirs to do with as they
+wish — and if the subordination of measures for non-aggravation is seen
+to be necessary to increase the legitimacy of binding interim relief, then so
+be it. But it should not be seen to affect the inherent power of other courts
+and tribunal to award measures for non-aggravation independently of
+other measures for interim relief.
+
+ravtG TOU FSFE taiedi eis coy Published online by Cambridge University Press

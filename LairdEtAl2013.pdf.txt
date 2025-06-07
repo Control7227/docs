@@ -1,0 +1,1534 @@
+Chapter 13
+
+Panel 3: Interim Relief in Investment
+Treaty Arbitration
+
+Featured Speakers: lan A. Laird
+(Munir) A.F.M. Maniruzzaman
+Don Wallace, Jr.
+David Branson
+Claudia Frutos-Peterson
+
+[Begin Panel 3.]
+
+MR. SABAHI: Our third panel deals with interim measures and
+investment treaty arbitration.
+
+The moderator needs no introduction, he is Ian Laird. Ian is Co-
+Chair of Crowell & Moring's International Dispute Resolution Group, and
+he's well-known in international investment treaty arbitration circles. He's
+cofounder and Editor-in-Chief of the InvestmentClaims.com Website,
+which I am sure anyone who does investment arbitration uses. And he is
+Co-Editor of the book series, “Investment Treaty Arbitration and
+International Law,” with Volume 7 now published by Juris Publishing
+which is based on the annual Juris Conference on Investment Treaty
+Arbitration held here in Washington, D.C.
+
+Ian is currently serving as an adjunct professor of law at Georgetown
+University Law Center.
+
+Ian has extensive experience acting as counsel in investment treaty
+arbitration cases under NAFTA, DR-CAFTA, and under a number of BITs,
+most recently has been involved in cases involving El Salvador, Lithuania,
+Kazakhstan, Mongolia, and Turkey.
+
+And prior to coming to D.C., he was Chief of Staff to a Canadian
+Cabinet Minister and Senior Political Aide to Ontario's Minister of Energy
+as well as having run political campaigns.
+
+And thank you, Ian, it's all yours.
+
+Ian Laird, Moderator
+Executive Summary:
+
+The Pope & Talbot v. Canada NAFTA Chapter 11 arbitration
+demonstrated a particular answer to the issue of how an arbitral tribunal
+should handle a sovereign who is using its right to regulate the opposite
+party in the arbitral proceedings in a harassing, punitive and “made-for-
+arbitration” manner. In that case, the Claimant made a motion for interim
+
+235
+
+236 INTERIM & EMERGENCY RELIEF IN INT’L ARBITRATION
+
+measure to direct Canada to cease and desist from pursuing an audit of the
+Claimant in which the Government of Canada was threatening to
+eliminate the Claimant's softwood lumber quota all together. While the
+Pope & Talbot tribunal declined to issue the interim measure to preserve the
+status quo, it made a number of strong observations regarding Canada's
+conduct, including that it found Canada's measure extreme and unusual
+and the audit to be seriously flawed and an unreliable basis for further
+action. In essence, the Tribunal made a diplomatic gesture concerning the
+facts with the result that Canada did not in fact act on the audit, did not
+eliminate the Claimant's quota and did not exacerbate the dispute.
+
+MR. LAIRD: Well, thank you very much, Borzu, and welcome back
+everyone.
+
+This panel has a particular resonance for me because I was involved
+in an interim measures motion when I was a young lawyer and working
+on one of my first international arbitrations - a NAFTA arbitration under
+the 1976 UNCITRAL Rules. So, as many of you will recall in some of the
+slides that Benno put up earlier, Article 26 of the 1976 UNCITRAL
+Arbitration Rules was pretty rudimentary in the sense that it allowed for
+an order of the tribunal for an interim measure, but really did not have the
+kind of detail that we've seen now included in the latest 2010 arbitration
+rules to define what that means.
+
+So, it was in one of my first NAFTA cases that we made an interim
+measures motion that went right to the heart of the case. It was a case called
+Pope & Talbot v. Canada, and this was a softwood lumber case. There were
+many disputes over softwood lumber, not only through the state-to-state
+dispute chapters of the NAFTA, the cases went to the WTO and there were a
+number of investor-state arbitration cases under NAFTA Chapter 11. And
+in this case--this was one of the first years I was practicing arbitration as a
+young associate, we filed the arbitration and within about a month or two,
+Canada demanded an audit of our client. Audits happen frequently enough
+when one of these very complex quota regimes occur, so the client took it in
+stride, but the audit become much more intrusive and, being the lawyers on
+the file, we pushed back a little bit for authorization and the terms of the
+audit and so forth. From that point, it really got out of control in many
+ways, and it became an issue that required an interim measures motion in
+the eyes of the claimant. Because the motion related to an audit, it became
+clear that the Government of Canada was not only going to interfere with
+the quota of Pope & Talbot, which was part of the issue of the main case, but
+it was considering and threatening to eliminate their quota through the
+mechanism of this audit. And so, we made some fairly serious allegations
+that this was a “made-for-arbitration” form of harassment, and we made an
+interim measures motion saying, basically, to Canada, to cease and desist
+with this audit and that the tribunal cannot act on this audit whatever the
+
+INTERIM RELIEF IN INVESTMENT TREATY ARBITRATION 237
+
+result is. Basically, the claimant was seeking a maintenance of the status quo
+during the arbitration.
+
+But as we know, this is NAFTA, this is investor-state arbitration, and
+it's a little different from commercial arbitration and I think we're going to
+address some of these issues with our panel today. It's a little different
+because of that sovereign element. It begs the question--how does a
+tribunal deal with a sovereign who is, by all intents and purposes, using its
+rights to audit, using its rights to regulate the opposite party, during the
+arbitration process?
+
+Well, the end result was, and I'll write about this in more detail in the
+paper that accompanies the book, that the tribunal declined the requested
+interim measure application. However, the Pope tribunal's approach was
+quite different than the Chevron tribunal's approach, which Dr.
+Maniruzzaman will talk about. In the case of the Pope tribunal, it was
+under the UNCITRAL rules, as well, but the tribunal declined to order
+Canada to stand down. It did however make a number of very strong
+comments saying that it found the measures of Canada extreme and
+unusual. In particular, I quote, “the Tribunal feels compelled to state that
+the verification review and the report thereon were seriously flawed and
+are not a reliable basis for further action.” The tribunal then went on to
+say that if anything arose out of the measures that were at issue in the
+motion, that it would reconsider and look at the issue again.
+
+So, the result was not, in a sense, the tribunal telling Canada what to
+do, but much more a diplomatic kind of statement as to the facts, and the
+result was that Canada in fact did institute a de facto status quo. They did
+not act on their audit; they did not eliminate the quota; they did not
+exacerbate the case with any further actions.
+
+And in fact, all of the facts that I've been describing to you around the
+Pope interim measures motion became a main issue in the final award
+against Canada, because a number of letters came out in the course of the
+final hearing that supported the fact that the audit was intended to be
+punitive (and parenthetically this goes to the question, more generally, as
+to whether hearings are valuable? In civil law systems, you might say that
+you could just do it all on paper. We common lawyers like to have a
+hearing, we like to cross-examine people). The back story is this--the head
+of the softwood lumber division, who was in charge of the audit and the
+whole process at issue in the arbitration, admitted that there were a couple
+of memos and letters he had written in exactly this audit period to the
+Minister about these issues. Claimant had actually requested those
+documents earlier and for whatever reason they had not been produced
+(although counsel admitted they had been reviewed). These papers were
+basically what one could call “smoking guns” because, during that time,
+the Director had been recommending this complete elimination of the
+quota and basically making allegations of criminal conduct and other
+issues to the Minister.
+238 INTERIM & EMERGENCY RELIEF IN INT’L ARBITRATION
+
+In any event, I wanted to tell that little story because it really helps to
+show a different approach and how far we have developed in the past 15
+years. Also, since we've been talking about new puppy dogs, I certainly
+was a very new puppy at that time of the Pope case.
+
+We have a very experienced panel here today, and we will now dive
+into some of the more picayune and detailed issues related to interim
+measures in investment arbitration.
+
+First, we are going to start with somebody who is very experienced in
+this field, Professor Maniruzzaman, from the University of Portsmouth
+Law School, and he is going to continue on with some of the issues that
+I've highlighted but in more detail with regard to the overlapping element
+of state sovereignty and interim measures and their impact in the investor-
+state arbitration sphere.
+
+And I want to thank the Professor very much for coming this long
+way and taking time to be with us. In the interests of time, I'm not going
+to read his numerous accomplishments, but I think you'll know that he has
+been very active in the field of investor-state arbitration and has not only
+been teaching at Portsmouth for many years, he was at Cambridge, also,
+and studied there under Professor Bowett and has had a very direct and
+active role at the Dundee Center, as well.
+
+So, it's a real privilege to have you here today, Professor, and I'll ask
+you to take the microphone.
+
+Prof. Munir Maniruzzaman, Interim Measures of Protection in
+International Investment Arbitration: Challenge to State Sovereignty?
+
+Executive Summary:
+
+The key issues to consider concerning the relationship between state
+sovereignty and interim measures are whether sovereignty poses a
+challenge to the authority of arbitral tribunals in ordering interim
+measures in aid of arbitration and whether the arbitral tribunal can order
+interim measures that are “binding” on a state party. Sovereignty can be
+examined through three perspectives: classical, teleological and objective.
+The classical perspective is how the notion of sovereignty is expressed in
+the text and the drafting history of the constituent documents, namely
+Article 41 of the ICJ Statute, Article 47 of the ICSID Convention, Article
+39(1) of the ICSID Arbitration Rules authorizing tribunals to issue interim
+measures. The teleological notion is concerned with how the arbitration
+process achieves the notion of restrictive sovereignty via arbitral and
+judicial decisions. The objective perspective concerns the question of how
+the question of interim measures should be looked at so as to pay due
+respect to state sovereignty interests. Examining the issue of sovereignty
+from a classical point of view shows that constituent documents are
+premised on the idea that these documents do not provide that
+
+INTERIM RELIEF IN INVESTMENT TREATY ARBITRATION 239
+
+preliminary measures be binding on the states concerned, as exemplified
+by the use of the word “recommended” as opposed to the “prescribed” in
+Article 47 of the ICSID Convention. Similarly, Article 41 of the ICJ statute,
+on which Article 47 was directly modeled, uses the word “indicate” with
+respect to interim measures instead of “order”. However, the status of
+interim measures against states has evolved from its original formulations
+in the constituent documents as a result of their interpretation and
+application in judicial and arbitral practice. A number of ICJ and ICSID
+tribunals would eventually hold that provisional measures are legally
+binding on the states. Yet, it is important for tribunals to take sovereignty
+needs of states into account in light of the recent trend among Latin
+America countries of exiting the ICSID Convention and BITs.
+
+PROF. MANIRUZZAMAN: Thank you very much for your kind
+words, Ian. I thank very cordially the leadership of the International Law
+Institute here for inviting me. Of course, I belong to the IDR Group and
+we are jointly organizing the conference. It's a pleasure to be here in
+Washington, D.C. ona bright, sunny day. Hopefully, every time I come I'll
+see bright, sunny days. Washington could be my sunshine!
+
+Right. The topic that I will be discussing, as Ian has alluded to, is the
+state's involvement in arbitration and the implication of interim measures.
+
+But a caveat: I'll not be using PowerPoint, but whatever I'll be saying
+will not be less powerful. I have prepared a paper, so I'll be looking at it
+briskly and summarizing my views here and there, the main issues in the
+field and, of course, there will be a lot of reasons for the debate.
+
+But anyway, without wasting any more time, let's look at the issues
+around whether interim measures in international investment arbitration
+are a challenge to state sovereignty.
+
+I'm a practical academic, basically, so I'd be trying to understand the
+issues from both the academic point of view as well as from the practical
+point of view. I'll be understanding “sovereignty” in different senses. I
+mean, I have classified the set of activities in relation to interim measures
+and the implications and the reactions of states and also private parties. I
+have boxed them in different ways as you can say, I'll be looking at
+sovereignty through various lenses such as the classical perspectives of
+state sovereignty, the teleological perspectives of state sovereignty, and the
+objective perspectives of state sovereignty.
+
+I'll briefly explain what they are, but let's first look at the issues and
+their implications.
+
+In aid of an arbitration, tribunals often have to order interim
+measures of protection against any party to the dispute concerned.
+
+In arbitral jurisprudence, arbitration laws and rules, as well as in
+juristic views, the expressions such as “provisional measures,” “interim
+measures,” “conservatory measures,” “protective measures,” and
+
+240 INTERIM & EMERGENCY RELIEF IN INT’L ARBITRATION
+
+“injunctions,” are used in the same sense. In this paper, they will be used
+interchangeably.
+
+In investor-state arbitration, the status of the state party as sovereign
+often raises various issues in various respects in the context of ordering
+interim measures in connection with an arbitration; arbitral tribunals have
+to ponder over various considerations that may affect the sovereignty of
+the state party.
+
+It is well-recognized that all parties to an arbitration are treated
+equally, but the state party has some special characteristics as may be
+noticed that a private party counterpart does not have. Thus, in
+arbitration, the issues such as states' public interest, sovereign immunity,
+public law powers, eminent domain, or international obligations et cetera
+could arise with a sovereign state as a party.
+
+This paper explores whether, in an investor-state arbitration, state
+sovereignty poses a challenge to the arbitral tribunal in ordering interim
+measures in aid of arbitration. It also examines whether the arbitral
+tribunal can order interim measures that are binding on the state party,
+and whether the sovereign status of the state party in practical terms may
+influence the considerations of arbitral tribunal while deciding on the
+grant of interim measures against the state party.
+
+In examining these issues, the notion of sovereignty has been looked
+at, as mentioned earlier, through various lenses or perspectives, namely
+classical, teleological, and objective. This is the main focus of this talk.
+
+Now, the principal sets of rules that we find in practice of investor
+and state arbitration dealing with interim measures are ICSID
+Convention's Article 47 and Rule 39 of ICSID Arbitration Rules and also
+Article 26 of the UNCITRAL Arbitration Rules. I won't go into a detailed
+analysis of them, but I'll just mention briefly the implications of various
+wordings there on the issuance of interim measures. An investor-state
+arbitral tribunal's authority to order provisional measures is usually based
+on the parties' consent. However, Article 47 of the ICSID Convention and
+Article 26.1 of the UNCITRAL Arbitral Rules, both in the 1976 and the 2010
+version, it may be implied that the tribunals have inherent power to grant
+interim measures. Article 1134 of NAFTA Chapter 11 expressly provides
+that a tribunal may order an interim measure of protection. In light of the
+expression, “except as the parties otherwise agree,” used in Article 47 of
+the ICSID Convention, it can be said that the Parties can mutually design
+their required interim measures as they deem appropriate or extend or
+limit the tribunal's authority to recommend interim measures and draft the
+arbitration agreements accordingly.
+
+It is noteworthy that with regard to the authority of the arbitral
+tribunals, various terms have been used in the ICSID Convention and in
+various arbitral rules, such as “recommend” in Article 47, ICSID
+Convention, “recommended” in Article 39.1 of the ICSID Arbitration
+Rules, “grant” in Article 26.1, UNCITRAL Arbitration Rules (2010
+INTERIM RELIEF IN INVESTMENT TREATY ARBITRATION 241
+
+Revision), and so on and so forth. I mean, this difference in wording is
+very important in practice as arbitrators may interpret them differently.
+
+With respect to the sovereignty of a state party and interim measures,
+it is safe to say that the status of interim measures against a state has
+evolved from its original formulations in the constituent documents of
+international judicial and arbitral tribunals through judicial and arbitral
+practice to the current debate on the matter. The classical perspective of
+sovereignty is concerned here with how states reflected their mark on the
+drafting of those constituent documents in the sense of the orthodox
+notion of sovereignty.
+
+It should be noted that in negotiating and drafting such constituent
+documents, that is, the ICSID Convention and the ICJ statute, the state
+parties were directly involved through their representations, hence
+sticking to the orthodox notion of sovereignty, unlike other cases such as
+the UNCITRAL Arbitration Rules. The teleological perspective of
+sovereignty is concerned with how the functionality of arbitration can be
+maintained by fulfilling its purpose with the notion of restrictive
+sovereignty as reflected in judicial and arbitral decisions and juristic views.
+
+The objective perspective of sovereignty shows how the sovereignty
+of the state party should be looked at objectively in the context of interim
+measures so that the arbitral tribunals should be respectful of the state's
+basic need to exercise its sovereignty for its self-preservation and thereby
+they do not stand in its way.
+
+Now, looking at the classical notion, that is, the classical perspective
+of state sovereignty, Article 47 of the ICSID Convention owes its origin to
+Article 41 of the statute of the ICJ; both provisions are premised on the
+same idea that the provisional measures are not mandated to be binding
+on the states concerned. The drafters of those documents had in mind that
+the sovereignty of the state should not be directly challenged. The drafting
+history of the documents bears testimony to this fact.
+
+A well-known writer in the field, I mean, Professor Schreuer, the
+author of “The ICSID Convention: A Commentary,” notes that the
+Convention's legislative history shows clearly that a conscious decision
+was made not to grant the tribunal--that is, to ICSID tribunals--the power
+to order binding provisional measures. It has thus been pointed out by
+one writer that it is generally accepted that the choice of the word
+“recommends” as opposed to the word “prescribed,” which was the
+original sort of words proposed by some states, originated from the
+concern that the drafters of the convention be seen as respectful of national
+sovereignty by not granting power to private tribunals to order a state to
+do or not to do something purely provisionally.
+
+Now, the word “recommends” was deliberately preferred to the
+word “prescribed,” that's the original suggestion by some states and
+consequently, it is likely that a recommendation under Article 47 is not
+binding.
+242 INTERIM & EMERGENCY RELIEF IN INT’L ARBITRATION
+
+Even in respect of the power of the domestic courts to enforce
+provisional measures emanating from ICSID arbitration, Mr. Broches, the
+lead drafter of the ICSID Convention, was said to point out that there was
+no way for a private investor to obtain their specific enforcement against
+the state.
+
+It is thus clear that the sovereignty of the state party was considered
+to be a factor for not making ICSID provisional measures binding on it.
+However, the ICSID tribunal, in its landmark decision in the Maffezini
+Case, that is, Maffezini v. Spain in 1999, pronounced the binding character
+of provisional measures recommended by a tribunal.
+
+It is well-recognized that Article 47 of the ICSID convention was
+inspired by and modeled after Article 41 of the statute of the ICJ, which
+provides that the court has the power to indicate if it considers that
+circumstances require any provisional measures which ought to be taken
+to preserve the rights of a party.
+
+So, here, you see, in Article 41 of the Statute of the ICJ, the word
+“indicate” has been used rather than “order,” for the ICJ to issue any
+interim measures. Thus, except for the words “recommend” in Article 47
+of the ICSID Convention and “indicate” in Article 41 of the statute of the
+ICJ, the relevant parts of both the provisions are identical.
+
+It should be noted that traditionally ICSID tribunals have followed
+the ICJ jurisprudence in respect of issues concerning interim measures or
+protection like many others. The reason could be that both the institutions
+are based on international treaties and are concerned with public
+international issues, though, in their details, they differ from each other.
+
+There has been a great debate on the issue of the binding character of
+provisional measures indicated by ICJ. Having noted various authorities,
+Lawrence Collins, observed that there can be little doubt, however that the
+preponderant view is that an indication of interim measures is not binding.
+
+However, it was not until 2001 when the ICJ, for the first time, in its
+historic decision in LaGrand definitively pronounced on the fate of such
+indications of provisional measures that they create legal obligations.
+
+So, that is for the first time the IC] pronounced that interim measures
+should be binding on states.
+
+Now, as that has moved on also in the case of investor-state
+arbitrations defying ICSID practice that interim measures are not binding
+on the state. As mentioned before, for the first time in an ICSID case (i.e.
+the Maffezini case), interim measures were considered to be binding.
+Various arbitral tribunals have followed suit, Tokios Tokelés v. Ukraine,
+Occidental Petroleum, and City Orient and Roussalis v. Romania, and Perenco
+v. Ecuador. In all these cases, interim measures were declared to be
+binding, and also recently in the UNCITRAL set of cases (i.e. under the
+UNCITRAL Rules 1976) Chevron Corporation and Texaco Petroleum Company
+v. Republic of Ecuador where first interim measure order was issued and
+then it was converted into an interim award considered binding. So, that
+INTERIM RELIEF IN INVESTMENT TREATY ARBITRATION 243
+
+is not the ICSID practice. That is the UNCITRAL practice where an order
+as well as an interim award can be granted for interim measures, again
+you see the UNCITRAL Rules are used in investor-state arbitrations; and
+again, that's a different scenario. However, the issue remains that the
+state, as a party, has to be taken quite seriously because it has some public
+interests and states are not like any other ordinary contracting parties,
+states, you know, fulfill various public interests as a sovereign party.
+
+So, there are issues that a sovereign has to deal with and arbitral
+tribunals need to be considerate to take those issues into account;
+otherwise problems might arise. Investor-state arbitration so far has, in
+the majority cases, got support from the international community and also
+from states, but if international arbitral tribunals ignore the needs of states,
+then of course, the recent trend that you see in Latin American countries
+which are pulling out from the ICSID and also BITs will be copied
+elsewhere. Hopefully that trend should stop and there will be more
+reasons to think seriously about the specific ways how the state
+sovereignty should be dealt with, not only in respect of interim measure
+issues but also in various other respects that might arise when sovereignty
+poses as a big issue. There, thus remains more research to be done to
+answer many such issues.
+
+Thank you.
+
+MR. LAIRD: Well, thank you very much, Professor.
+
+We'll try to hold questions until the end.
+
+I wanted to ask our next speaker, Professor Don Wallace, Jr., whom I
+think you know well. He introduced the conference this morning.
+
+Don is not only the Chair of the ILI, he is Professor Emeritus at the
+Georgetown University Law Center. He has been counsel, he has been an
+arbitrator, as well as an academic for many years, and has worked on
+many investor-state arbitration cases. In fact, he continues to teach a
+seminar with Mark Bravin and Dr. Sabahi at Georgetown on investor-state
+arbitration, and they are the authors of one of the leading texts, titled,
+appropriately, “Investor-State Arbitration,” published by Oxford
+University Press.
+
+So, that is to say, thank you very much, Professor, for agreeing to be
+on this panel, and if I could turn over the mike to you and listen to your
+words.
+
+Prof. Don Wallace Jr., Interim Measures: Criminal Investigations
+Executive Summary:
+
+The right of a state to engage in criminal prosecution of investors
+involved in illegal activities is central to its sovereign powers. A new
+equilibrium has emerged in international arbitration of significant
+deference to the exercise of state regulatory power. In other words, in
+
+244 INTERIM & EMERGENCY RELIEF IN INT’L ARBITRATION
+
+issuance of interim measures a balance has been struck between
+preserving the rights of the Claimant and the Respondent. Article 26 of the
+ICSID Convention is the source of the Claimant's right to protect the
+integrity of the arbitral proceedings. Indeed, the arbitrators should not be
+hampered in the exercise of their jurisdiction to prevent the Respondent
+from interfering with the proceedings. However, at the same time neither
+the ICSID Convention nor BITs expressly enjoin a state from exercising its
+criminal jurisdiction. In light of these conflicting priorities, there is a high
+standard for burden of proof the Claimant needs to meet for the tribunal to
+enjoin criminal prosecutions and tribunals have to exercise an exquisite
+carefulness concerning that issue since the power to prosecute crime goes
+to the heart of state sovereignty. Ultimately, in light of the new
+equilibrium of tribunals deferring more to government with respect to
+state regulations, arbitrators have been seriously wary about issuing
+interim measures to enjoin criminal prosecutions and the determination is
+in practice largely factual.
+
+PROF. WALLACE: Thanks a lot, Ian.
+
+I don't use PowerPoint, I do bullets, but I think we've made a
+PowerPoint of my bullets, and Borzu, can I impose upon you to figure out
+how it works.
+
+Okay. As I said, I don't use PowerPoint. I'll try to keep myself to ten
+minutes.
+
+Munir just spoke about sovereignty. The topic of this little talk is the
+right of a state to prosecute investors involved in illegal activities. I would
+say that is probably central to sovereign powers.
+
+I'm not going to distinguish between ICSID Rules, ICSID Additional
+Facility, or UNCITRAL Rules, or any others. I'm just going to talk about
+the general topic.
+
+The general criteria for interim measures in investment are similar to
+commercial arbitration: irreparable harm, et cetera and so forth. However,
+there is an interesting expression which is relevant to this discussion, I
+think, in the ICSID Convention, Article 47, one of the purposes of interim
+measures is the preservation of rights. Of course, we have the claimant or
+the respondent.
+
+And another requirement is what I call here the procedural right to
+continue, in other words, to preserve the integrity of the proceeding. And
+so, both parties have to be able to participate and continue.
+
+Now, point two is different. I see you've taken the numbers
+away. This new equilibrium is not from the area of interim measures.
+This is the new equilibrium in investment arbitration, and to say it's
+new is a little dramatic, but you know, in the beginning, everyone
+thought investors won all cases. More recently it has turned out that
+investors do not win all cases, and probably one of the reasons is the
+
+INTERIM RELIEF IN INVESTMENT TREATY ARBITRATION 245
+
+rise I would say, in deference to the state. Borzu and I teach a course
+with Mark and we had a paper on indirect expropriation, regulatory
+takings, and it's reasonably clear that you see in the CAFTA Rules,
+you'll see it in the new model of BIT, U.S. BIT, that there's a deference--
+well, at least--yes, there's a sort of deference. Space, appreciation is
+given to the regulatory state power. And I think of economic
+regulations, regulations for health, safety, et cetera. I would say that,
+within that, you certainly have the core of the police power, which is
+the power to prosecute, and I think this probably does affect, really,
+where the arbitral tribunals will come out.
+
+I should rapidly say that both David and I are counsel to the
+Government of Laos and this very issue will before the arbitrators
+shortly and I told David I better be careful not to say something which
+will be quoted against us, so I'm going to be a little bit maybe pro-
+respondent.
+
+But so, the third point is the one--I'm sorry they're not numbered-is
+this preservation of rights, in other words, to preserve the rights of both
+claimants and respondents. Contention: Is there a right not to be
+investigated or prosecuted, because in a sense, that's what the claimant is
+arguing, that one cannot investigate or prosecute crimes by the investors,
+and I'll add at the end, or the respondent's officials themselves.
+
+And putting it that way is a little contentious, but if you think about
+it, now, the heart is the right to continue to not upset the integrity of the
+proceeding, and if you look at the fourth point I cite ICSID Article 26, and
+that's an issue that comes up here. ICSID Article 26 says that the ICSID
+proceeding is the exclusive, if you will, venue that the--this is ICSID, now,
+this is not UNCITRAL--that the parties are not to resort to the courts. And
+some have argued, with respect to this matter of criminal investigation,
+that the respondent cannot resort to criminal investigation or prosecution,
+because that's a remedy outside of Article 26. I don't think that's probably
+what was intended. I think they're thinking of the ICSID--and from the
+ICSID, now--is the exclusive site for the civil proceedings and not the
+criminal, but that's an argument that has been made. And I quote from a
+case which, in point of fact, allowed--prohibited criminal proceedings, but
+nonetheless, I quote from it, and this is point four:
+
+“Neither the ICSID Convention’--and we're talking about ICSID
+now, not UNCITRAL, though I think the rules are similar, nor the BIT, in
+that case--”Neither the ICSID Convention nor the BIT contain any rule
+enjoining a state from exercising criminal jurisdiction.”
+
+I mean, on the face of it, there's nothing in the overall rules or the
+rules with respect to interim measures that prevents a criminal
+prosecution, nor do they exempt suspected criminals from prosecution by
+virtue of being investors.
+246 INTERIM & EMERGENCY RELIEF IN INT’L ARBITRATION
+
+I mean, to be honest, the government can clearly say, “We cannot
+proceed to investigate and prosecute a crime.” Of course, the counter-
+argument from the claimant will be, “Yes, but you're going to do this in
+order to screw up our chances to win this case,” but the language is clear
+in most of these cases. There is nothing which says the government can't
+investigate and prosecute.
+
+To be sure, I add, and this is from one of the cases, the arbitrators
+should not be hampered in the exercise of their function and one needs to
+protect the jurisdiction of the tribunal. In other words, the arbitrators want
+to hear this case fully. They don't want the government respondent
+interfering by basically putting pressure on the investors or employees, et
+cetera, but nonetheless, the rule, if you will, within the norms of interim
+measures is there's nothing which prevents a government from acting.
+
+I suppose the real issue is one of fact and therefore burden of proof.
+In other words, what is the heart of the proposed investigation and
+prosecution? Does it somehow impact on the facts of the case? Would
+prosecution interfere with the arbitrators? Would it not?
+
+I think back to Bill Clinton--you remember Clinton versus--what was
+it?--Jones, who said, “You can't let this case go forward. I won't be able to
+function as President.” But you know, you can do two things at once. I
+mean, the arbitrators can hear this case in a dispassionate way and still
+have the government prosecuting.
+
+Point six, and I think now we have to press a button.
+
+In sum, and, again, quoting from one of the few cases which address
+this issue, criminal investigations and measures by a state--and I add, well,
+surely not out of bounds, in other words, governments require special
+considerations. In other words, what I'm trying to say here is there is a
+high standard for interim measures in commercial and investment
+arbitration, it's rather akin to our injunction practice, irreparable harm,
+likelihood of success, and so forth, but I think the few courts which have
+addressed this say there's an even higher standard on the plaintiff, if you
+will, the claimant for the reasons suggested really by the Professor, which
+is that you are now at the heart of the sovereign power.
+
+And the one--it's not wholly clear what the great--how should I put
+it?--existential difference is, ontological difference between commercial
+and investment arbitration, but the people who have had cold feet about
+investment arbitration say it shouldn't be exactly like commercial
+arbitrations. Well, here, you have the sovereign as the respondent. Of
+course you can have that in commercial arbitration, too. Many
+construction cases at the ICC involved sovereign defendants.
+
+But nonetheless, the suggestion is that quite apart from the general
+criteria for these measures, it says a most obvious and undisputed part of
+the sovereign right of a state is to implement and enforce its national law
+on its territory.
+INTERIM RELIEF IN INVESTMENT TREATY ARBITRATION 247
+
+And this is a quote: “This Tribunal feels that a particularly high
+threshold must be overcome before an ICSID tribunal can indeed
+recommend provisional measures,” and I think this tribunal did it, but the
+point being you really have to sweat if you're an arbitrator to allow a
+government not to proceed to investigate a crime. And by the way that all
+the arguments--you've got to move fast because the evidence will be
+destroyed, the statute of limitations will run, you know, all of those. But
+so, I'm saying, I think there's a kind of an exquisite carefulness that
+arbitrators have to exercise if they enjoin criminal prosecutions, an
+understanding that they may be related to the merits of the case.
+
+My final point is this: Even if an arbitrator is tempted to enjoin, ie.,
+the recommendation or order proscribed, I think, was the language that
+was going to be used in the first draft of the ICSID Rules, a criminal
+investigation/ prosecution of the investor, what about the government
+officials themselves? Now, of course, put them outside the political issues.
+That is my last point: Investigation and prosecution of respondent
+government officials, would arbitrators dare to do that? And quite
+frankly, you have a change in government, quite common, which is maybe
+why some of these arbitrations didn't go forward at all, and can an
+arbitrator prevent a government from investigating its own people? What
+I'm trying to suggest is that particularly in the light of the new
+equilibrium, which is to defer more to governments, even with respect to
+fairly innocuous regulations, regulations, for instance, in environment and
+health, where we defer to some extent, as you can see in the notes to
+CAFTA, for example, BIT agreements--not a BIT, really, it's an MIT or
+something. It seems to me that when you get to criminal prosecutions, you
+really have to defer to the government and, as I say, maybe the comical
+case would almost be if you try to arbitrate or prohibit a government from
+investigating and prosecuting its own officials. I submit not, but this a
+narrow topic. It is not particularly adjudicated. There are very few cases.
+
+Even when the arbitrators have enjoined a criminal prosecution from
+going forward, they begin by saying, we don't really want to allow this
+lightly, we are really worried about it. And I said, I think it became
+factual, and the arbitrators will have to persuade themselves that the
+criminal investigation can go forward without it interfering with their
+proper arbitral process.
+
+So, I think it will be facts and burdens of proof and, if David and I are
+successful, we will make some law in this area.
+
+Thank you.
+
+MR. LAIRD: Thank you very much, Professor.
+
+And apropos of that, we have next David Branson who, interestingly,
+and he noted in his email to me when I asked for his bio, he didn't describe
+all the fantastic accomplishments he has had for, I guess, over 30 years in
+the arbitration field.
+248 INTERIM & EMERGENCY RELIEF IN INT’L ARBITRATION
+
+He related to me his very interesting activities for his Laos client. He
+has two arbitrations coming up. He was retained in November 2012, and
+the final hearings are set for June 2014. So, it sounds like a very interesting
+case from little tidbits we have already heard.
+
+But more generally, David is a Director here at the ILI of the ADR
+Center and has been a great supporter of the ILI for many years, and it is a
+real privilege to have David here to talk more on the subject of interim
+measures in investor-state arbitration.
+
+So, thank you, David.
+
+David Branson, Provisional Measures and the Prevention of the
+Application of a Sovereign's Tax Code to the Investor
+
+Executive Summary:
+
+The case of Lao Holdings, N.V. v. Lao People's Democratic Republic
+under ICSID Additional Facility rules illustrates that in deciding whether
+to file for provisional measures to restrain a State from engaging in
+regulatory actions, which in that particular case involved the drastic
+increase of the tax rate on gaming revenue, it is important to analyze the
+underlying political reasons for such actions and assess whether the new
+measures would realistically be enforced. In Lao Holdings, the Claimant
+opened a casino in 2009 in Laos. Per the tax code at the time, the gaming
+excise tax on revenue was 15 percent per year. However, the Claimant and
+Responded had a flat tax agreement to expire on December 31st, 2013,
+according to which the Claimant would be paying only $745,000 per
+annum. At the end of 2011, the National Assembly passed a new tax code
+under which the excise tax on gaming revenue was increased to 80%. At
+the same time, the Claimant was unsuccessful in extending its flat tax rate.
+
+In August 2012, the Claimant filed two BIT arbitrations not related to
+the casino that it was operating. In April 2013, the Claimant filed for
+provisional measures, demanding the tribunal bar the application of the
+80% tax rate pending the outcome of the arbitration and extend the flat tax
+provision past its expiration date until there was a final decision. The
+Claimant argued this would maintain the status quo.
+
+The Respondent, represented inter alia by Mr. Branson, did not object
+to this provisional measure because the counsel analyzed the reasons for the
+radical tax rate increase and concluded that the new higher tax rate would
+not be enforced. The Claimant's casino was on the border with Thailand and
+was aimed at foreign clients. The Respondent agreed to accept the
+Claimant's provisional measures if the Claimant put the 15% tax rate in an
+ESCROW account. The Claimant's counsel in response wrote prolix briefs
+and provided volumes of evidence that 80% tax rate would bankrupt the
+Claimant and argued that no ESCROW is necessary since the Respondent
+can seize the casino if the Claimant defaulted. The tribunal found the 15%
+
+INTERIM RELIEF IN INVESTMENT TREATY ARBITRATION 249
+
+tax rate to be acceptable and set the monthly escrow sum at that amount as a
+condition for the provisional measures. That sum would have to revert to
+the government, regardless of whether the Claimant wins the case.
+However, if the Claimants had done nothing, the government would
+not have been able to respond in the six-month period of time anyway.
+Even if it attempted to assess the 80% tax on invoicing, the government
+would have to request the courts to enforce the invoice. As a result, by
+filing for provisional measures and letting the tribunal set an ESCROW
+amount, the Claimant was simply faced with extra expenses, not including
+the additional legal fees, it would have otherwise not have had to pay.
+Thus, the lesson is that in asking for provisional measures against a State's
+threatened actions, it is important to assess the reality of such measures
+being enforced within the local regulatory system to spare the unnecessary
+costs associated with requesting provisional relief from investment treaty
+tribunals. Editorial Note: The parties in the case have reached a settlement.
+
+MR. BRANSON: Thank you very much.
+
+I had a short bio because faux humility is so unbecoming, anyway,
+and I'm too old to be humble.
+
+I'm going to do something different: I'm going to set the stage for
+what happened in this Laos arbitration with regard to provisional
+measures, and then I'm going to take a few minutes and ask this side of a
+room to make a recommendation to me, the client, on what they should
+ask for on provisional measures, and then I'll ask this side of the room to
+represent the government and say how you would react.
+
+Now, it's best if we start--we gave the associates a chance to speak
+first, because we don't want to embarrass the partners.
+
+Okay, here's the stage: The claimant opened a gambling casino in
+2009. The current tax code in 2009 set the gaming excise tax at 15 percent
+and the VAT of 10. Now, the 15 percent is on revenue, not profit, but the
+claimant was granted a flat tax agreement for a period of five years. The
+flat tax amount was set at $745,000 per annum and the flat tax agreement
+expired on December 31st, 2013.
+
+In early 2011, three years before the flat tax would expire, the
+claimant learned the government was planning to amend the tax code.
+The first proposal was to increase the gaming tax to 30 percent. Again, on
+revenues. The claimant sought to extend the FTA at a similar tax rate as in
+the original. At the end of 2011, the tax code was amended and the FTA
+was not extended.
+
+The National Assembly passed the new tax code in December 2011.
+The excise tax on gaming revenue was set at 80 percent--that's revenue,
+plus there was a 10 percent VAT on top of that.
+
+The claimant was unsuccessful at having the FTA extended. In
+August 2012, the claimant filed two BIT treaty arbitrations, one under the
+
+250 INTERIM & EMERGENCY RELIEF IN INT’L ARBITRATION
+
+PRC Laos BIT 1993, and the other under the Netherlands BIT, 2005. The
+PRC BIT only allows claims for expropriation.
+
+The PRC notice of arbitration alleged that three projects were
+expropriated, none related to the casino that was operating.
+
+The Netherlands BIT notice of arbitration made two unfair and
+inequitable treaty claims, but there was no mention of the 80 percent tax.
+
+In April 2013, the claimant filed for provisional measures, demanding
+the tribunal bar the application of the 80 percent tax pending the outcome.
+
+We responded there wasn't any claim in the notice of arbitration, so
+they have to amend their notice before we have to respond.
+
+Now, the claimant then agreed to amend its pleading to assert the tax
+and a schedule was set calling for a hearing on September 1, 2013.
+
+Now, here is what I want the claimants to tell me: All right, the
+notice of arbitration is filed in 2012, you have a status conference with the
+arbitrators in the spring of 2013 and they tell you that you can have a
+provisional measure hearing in September of 2013. The merits hearing is
+set for June of 2014. So, what relief do you ask for if you want to move for
+provisional measures?
+
+[Pause. ]
+
+MR. BRANSON: You don't know because you work for the
+government.
+
+Okay, I'll let a senior, brilliant partner answer the question.
+
+SPEAKER: I would ask for an extension of the flat tax, because
+obviously the imposition of the tax is going to wipe out what remaining
+investments my long-suffering client has.
+
+MR. BRANSON: Okay. So, Alex says, extend the--he wants to have
+the arbitrators order that the flat tax agreement should be extended
+through the end of the arbitration while they consider the merits of the
+validity of the 80-percent tax, right?
+
+Okay. Who agrees with that? Who would think of some other type
+of remedy that they could ask for?
+
+SPEAKER: So, you might ask that you could pay for the flat tax at
+the end of 2013 but then go back to the tax rate that existed at the time of
+investment through the end of the arbitration.
+
+MR. BRANSON: So, you would--as a claimant, you wouldn't be
+piggy and ask for the extension of the flat tax agreement through 2014.
+You would say, “We're willing to pay the tax code rate of 15 percent
+through the pending of the percent.
+
+Now, would you do that instead of asking for Alex's more severe
+relief?
+
+SPEAKER: [Off microphone.] Because, I assume that I'll be arguing
+to manage expectations where, at the end of the flat tax period, I would be
+paying 15 percent--so, I don't know enough about tax--
+
+MR. BRANSON: That's all--these are the only facts: There is an 80
+percent tax and there used to be a 15 percent tax.
+INTERIM RELIEF IN INVESTMENT TREATY ARBITRATION 251
+
+SPEAKER: Then, I would manage expectations at the time I made
+the investment was 15 percent tax rate, I would--
+
+MR. BRANSON: So, your position really is you want to be
+reasonable to the arbitrators. You don't want to ask for too much.
+
+What would be the justification, Alex, for asking for an extension of
+the flat tax agreement?
+
+SPEAKER: Remind me what the flat tax agreement provided for.
+
+MR. BRANSON: Oh, it's just a--without regard to revenue, the
+casino simply pays 67,000 a month for five years. It doesn't matter
+whether they had a billion dollars of revenue or no revenue.
+
+SPEAKER: Do, we know what percentage that approximates?
+
+MR. BRANSON: Yes, by this--well, in the beginning, nobody knew,
+because there was no prior income stream. By this time, the casino was
+grossing about seventy-five million a year. So, it was paying less than 1
+percent in tax.
+
+SPEAKER: So, part of my reasoning in thinking about the 15 percent
+tax rate is that you're essentially trying to preserve the status quo.
+
+So, in the absence of this new tax measure, the rate would revert to
+the 15 percent. So, I'm trying to be reasonable but I'm also trying to ask the
+tribunal to preserve the same affairs absent the new tax regime.
+
+SPEAKER: David, forgive me by not focusing on the facts--when
+was the agreement going to expire?
+
+MR. BRANSON: The end of 2013. And the arbitration final hearing
+is here.
+
+Let me ask you this--
+
+SPEAKER: How about asking for the agreement to remain in place
+through the end of 2013 and then you revert to the tax of 15 percent?
+
+MR. BRANSON: Okay. Well, everybody agreed the agreement
+stayed in place through the end of 2013. So, the only question is, what
+happens on January 1, 2014?
+
+SPEAKER: I think Rachael may be right.
+
+MR. BRANSON: That's what the arbitrator would say. You're
+supposed to be the claimant.
+
+SPEAKER: I would put the money that has to be paid in an
+ESCROW account until the hearing.
+
+MR. BRANSON: How much money?
+
+SPEAKER: The full payment; otherwise what are you--
+
+MR. BRANSON: The 80 percent? Okay.
+
+Let's go to the other side. What should the respondent do in this
+case? The other side has made a motion for provisional measures.
+
+Who wants to tell me what the respondent should do? The
+application was made the way Alex described it. They wanted provisional
+measures and they wanted to have no tax after 2014, but, alternatively, to
+extend the flat tax agreement for the life of the arbitration. What should
+the respondent do?
+252 INTERIM & EMERGENCY RELIEF IN INT’L ARBITRATION
+
+SPEAKER: Just really quick, David, because I want to revive Alex's
+point because I think you would argue that there should have been an
+extension of the FTA is what I think I would try to argue as a claimant if
+you can argue those facts. There's not enough facts here to say whether
+there was an improper denial of an extension of the FTA, especially if there
+were other FTAs granted to other people similarly situated, but that would
+get you back to Alex's flat tax argument, but I think what Aurelia says is
+entirely right, because I think that you're--as a respondent, my initial
+reaction would be, this is the tax, they're paying the tax, I'm a sovereign,
+I'm allowed to pass this sort of tax, there's not been a showing that the tax
+is improper at that point, you should pay it.
+
+Alternatively, if you're not going to pay it, put it into ESCROW,
+because at the end of this, what I'm going to find out is you're going to
+take your investment, you're going to go gambling in Manila where things
+are really taking off, and I'm going to be stuck with my revenue that I
+should have gotten over the course of time.
+
+So, I think initially I would say pay it, but as an alternative I would
+certainly take Aurelia's suggestion.
+
+MR. BRANSON: So, let me ask this question: Who thinks the 80
+percent tax is defensible?
+
+MR. GERNANDT: Can I say, coming from Sweden?
+
+[Laughter. ]
+
+MR. BRANSON: But that's on income. This is on revenue.
+
+MR. GERNANDT: Yes, but we are cutting our taxes, now.
+
+MR. BRANSON: I'll show you what now happened.
+
+The claimant argued the tribunal should order that the claimant
+should be allowed to extend the FTA payment past January until there was
+a final decision. The claimant argued this would maintain the status quo.
+
+Brigitte Stern looked at the counsel for the claimant and said, “No,
+the status quo was that the flat tax agreement ends December 31, 2013.”
+The status quo would be you pay 80 percent tax. So, the claimant then had
+another argument.
+
+Well, what we did, we didn't object to provisional measures. The
+reason we didn't object to it is because I decided when I first saw the 80
+percent tax that nobody would ever enforce it. You can't have an 80
+percent tax on revenues, particularly because there were two other casinos
+that didn't pay tax. Well, one of them had a flat tax agreement and paid
+less than this one and the other one was on a military reservation and
+didn't pay tax. So, nobody is going to enforce this 80 percent tax, but
+developing governments don't react quickly. It took us a long time to
+figure out why there was an 80-percent tax. And it turned out that there
+was an 80 percent tax because this casino was in the second-largest town in
+Laos, Savannakhet; it was on the border with Thailand.
+
+There is a law in Laos that Laotian people cannot gamble, and it's
+illegal for the gaming house to let them come in and gamble. However, this
+INTERIM RELIEF IN INVESTMENT TREATY ARBITRATION 253
+
+casino operator let Laotian people come in and gamble for five years. Laos
+is a very poor country. People can't afford to gamble. The bankruptcies, the
+divorces, there were murders. It was causing great havoc.
+
+So, what we did, by the time we got to a week before the hearing,
+which was in September, I convinced the government that we weren't going
+to enforce the 80 percent tax, but for the purposes of the hearing we would
+go to a 15 percent tax. So, we said, as long as they put the 15 percent in
+ESCROW, we would accept the provisional measures. So, at the hearing--
+now the other thing we did--by the way, when you're a claimant and you
+ask for something like this, you have to realize what could happen.
+
+The claimant spent about $500,000 in legal fees writing briefs about
+this, 50 pages of briefs saying these are the standards for provisional
+measures. I wrote three pages in total, and I said, of course they're entitled
+to provisional measures in certain circumstances. This isn't one of them
+because they haven't proven that they'll be bankrupt. There's no evidence.
+They just said, it's 80 percent, it's too much. And then, my last one said,
+we'll give them 15 percent.
+
+So, they came to the hearing and they introduced two exhibits at the
+hearing to prove that they would go bankrupt. So, they gave us the P&L
+statement for 2013 which showed that they would have revenues of 65
+million. So, I said, “Thank you very much. 15 percent of 65 million is 10
+million. That's what you owe. Put 10 million into the ESCROW account
+and the government will be happy.” They also introduced the Sands-
+Macao annual report and I have no idea why they did it but I read the
+whole thing and in one page it said that, in Macao, the excise tax on
+revenue was 39 percent. So, our 15 is totally reasonable.
+
+Now, so, they introduced their 2013 revenue statement and showed
+they would gross 65 million and then they showed all their expenses and if
+they applied the 80 percent tax they would go bankrupt. So, we, thank
+you very much, we said the monthly ESCROW should be $800,000. The
+claimant then argued that no ESCROW was necessary, because if it later
+defaulted on tax payments, we could seize the casino. I thought that's an
+extreme way to collect tax.
+
+However, the tribunal stated that because the 15 percent was
+acceptable and they said the claimant's own financial analysis would yield
+a tax liability of 10 million, taking into account the claimant's assets, it set
+the amount at 429,000 due each month.
+
+They started in January putting $429,000 into an ESCROW account in
+Singapore. It has to revert to the government, doesn't matter whether we
+win or lose the case. Why? Because when we filed on the merits, we said
+we're going to repeal the 80 percent tax. The next National Assembly
+meets in June two months from now and they will repeal the tax and
+replace it with a 30 percent tax.
+
+So, in the meantime, the ESCROW account now has 1.7 million and
+it's all going to revert to the government. So, what did the claimant get?
+254 INTERIM & EMERGENCY RELIEF IN INT’L ARBITRATION
+
+They got to put 450,000 a month into an ESCROW account. If they had
+done nothing, the government would not have been able to respond in this
+six-month period of time, because they know and we know that if the
+government assesses the 80 percent tax on a monthly basis by invoicing,
+they can't collect it. In the Lao's system, and the claimant knew this from
+prior experience, the government would have to go to court to enforce the
+invoice, and that would take a year-and-a-half. So, the possibility of the
+government ever collecting any tax after January 1, 2014 was nil.
+
+By filing for provisional measures and letting the tribunal set an
+ESCROW amount of whatever it was simply giving away money that they
+didn't have to give away.
+
+That's it.
+
+Now, I think the lesson is when you ask for something like
+provisional measures, you really have to think it through. What are you
+asking for? What are you going to get? Just because you ask to extend the
+flat tax agreement doesn't mean rational people are going to extend it.
+
+In this case, the arbitrators--in fact, Teddy made a good point about
+what is the--should the flat tax agreement have been extended in a normal
+negotiation? The flat tax agreement had a term in it. The last sentence of the
+agreement said the parties at the end of the five years will meet and
+negotiate for a new agreement in good faith. So, claimant argued that that
+meant you had to extend it, but the Chair of this Tribunal is a Canadian
+Supreme Court Justice and he looked at the lawyer for the claimant and he
+said, “That sentence is an agreement to agree. It's not a binding obligation.”
+
+So, by asking for provisional measures, they're going to end up, if the
+arbitration takes all of 2014 for the arbitrators to render their award, they'll
+end up with $5 million in an ESCROW account that they wouldn't have
+put in there.
+
+Thank you.
+
+PROF. WALLACE: After we win on the merits.
+
+MR. BRANSON: Of course we're going to win on the merits.
+
+Mr. Wallace is going to win that part of the case. I just deal with
+these little things.
+
+MR. LAIRD: Thank you very much, David. We look forward to
+seeing how things evolve in the Laos arbitrations and we'll follow that
+closely and see what happens in 2014-2015.
+
+Our last speaker is Dr. Claudia Frutos-Peterson, who is a partner in
+the Washington, D.C. office of Curtis, Mallet-Prevost, Colt & Mosle and
+works with Dr. Sabahi.
+
+She was formerly counsel at ICSID from 2001 to 2009. So, some of
+you may have met her in that context. Now, she is representing
+governments in investor-state arbitration. She is an adjunct professor at
+American University, Washington College of Law, and she lectures there
+on commercial arbitration and investor-state arbitration.
+INTERIM RELIEF IN INVESTMENT TREATY ARBITRATION 255
+
+She's going to talk about irreparable harm in the CEMEX case as the
+basis of her talk.
+
+Claudia Frutos-Peterson, Provisional Measures and the Notion of
+Irreparable Harm: the Cemex Case
+
+Executive Summary:
+
+It is safe to say the investor-state arbitration tribunals have granted
+provisional measures when it has been proven that they are urgent and
+necessary to avoid “irreparable harm” under Article 47 of the ICSID
+Convention and Article 39 of the ICSID Arbitration Rules. However,
+several decisions do not follow precisely those criteria, with a number of
+tribunals departing from the “irreparable harm” requirement and
+adopting the lower standard of “harm not adequately reparable by an
+award of damages.” The Burlington v. Ecuador tribunal decided to follow
+that standard derived from the UNCITRAL Model Law and weighed the
+prejudice to both parties. Perenco v. Ecuador and City Oriente v. Ecuador
+tribunals went so far as to question the existence of the “irreparable harm”
+requirement under Article 47 of the ICSID Convention and Article 39 of
+the Arbitration Rules and played down the “necessity” requirement in
+favor of “urgency.” City Oriente in particular concluded that it is not
+essential that interim measures be “necessary” and that harm to be
+prevented by them must “significant” rather than “irreparable”. However,
+the CEMEX decision rendered in the wake of Burlington, Perenco and City
+Oriente surveyed and analyzed previous case law and concluded that
+ICSID tribunals, including Burlington and Perenco, have effectively
+followed the “irreparable harm” criterion for necessity of interim measures
+and that this is the generally accepted standard for issuing such measures
+in both the International Court of Justice (ICJ) jurisprudence and ICSID
+tribunal practice which justifiably follows ICJ interim measures case law.
+In light of the CEMEX decision and post-CEMEX cases confirming the
+CEMEX holding, the trend of the less-demanding standard of assessment
+of risk for issuing interim measures derived from the UNCITRAL system
+influencing ICSID arbitration is overstated.
+
+DR. FRUTOS-PETERSON: Thank you, Ian.
+
+Today, I want to explore a little bit about irreparable harm as one of
+the requirements for an ICSID tribunal to grant provisional measures. But
+unfortunately, my presentation will not be as entertaining as David's
+presentation.
+
+As you know, there is a debate on whether or not irreparable harm is
+a requirement for an ICSID tribunal to grant provisional measures. I will
+submit that it is a requirement. I think it is clear under Article 47 of the
+ICSID Convention and also the ICSID case law that tribunals have
+
+256 INTERIM & EMERGENCY RELIEF IN INT’L ARBITRATION
+
+followed the interpretation that the International Court of Justice has
+rendered with respect to provisional measures.
+
+So, and to do this, I want to bring to your attention, and discuss a
+little bit, the CEMEX decision on provisional measures, which was
+rendered by the Tribunal in the CEMEX v. Venezuela case, and in particular
+because I think the CEMEX decision is one of the decisions that clearly
+analyze not only the different requirements that are necessary for an ICSID
+tribunal to grant provisional measures but also the standard that needs to
+be applied when interpreting irreparable harm.
+
+I think the CEMEX decision is a good example of how tribunals could
+make the analysis on the provisional measures requirements under Article
+47 of the ICSID Convention.
+
+In my opinion--and I apologize, I was not here this morning, so I did
+not have an opportunity to hear the presentations, but maybe you had a
+chance to discuss the requirements on provisional measures under
+international commercial arbitration, and contrast that approach--because,
+in my view, there is a difference--with investor-state arbitration cases
+under ICSID.
+
+But I think it is safe to say, from the discussions we are having here
+today, that ICSID Tribunals have granted, in the context of investment
+arbitration, provisional measures when it has been proven that there is
+urgency and necessity to avoid irreparable harm, just to use the words of
+the Occidental versus Ecuador Tribunal.
+
+However, there are a few decisions that have been rendered in the
+context of the ICSID Convention that do not follow precisely those criteria.
+These are the cases of Burlington v. Ecuador, Perenco v. Ecuador, City Oriente
+v. Ecuador, all of these cases rendered under the ICSID system.
+
+However, it is really important to put things in context. For example,
+when you read the Burlington decision, without really going into the facts
+of the case, you have the impression that the Tribunal departed from the
+applicability of the irreparable harm as interpreted in the Occidental v.
+Ecuador case, which was decided before the Burlington case.
+
+The Burlington Tribunal indicated that they were going to adopt --and
+these are the words of the tribunal—”the standard of harm not adequately
+reparable by an award of damages, and the Tribunal also said, and I quote,
+“to use the words of the UNCITRAL Model Law.” The Tribunal further
+indicated that they were going to weigh the interest of both parties to
+assess the necessity requirement. So, when you look into this, you have
+the impression that the Tribunal is not applying the highest standard test
+that the big majority of ICSID tribunals have followed in provisional
+measure applications.
+
+It is interesting that the Burlington Tribunal took the time to try to
+distinguish the previous case law, in particular, the case of Occidental. And
+in that respect the Tribunal made the point that its case was a different
+case, that it was not a case of damages as it was argued in the Occidental
+INTERIM RELIEF IN INVESTMENT TREATY ARBITRATION 257
+
+case. According to the Tribunal, the Burlington case was different because
+the facts were different. In Burlington, the claimants still had an
+investment in Ecuador, and if the measure was to be taken by Ecuador—in
+other words, if Ecuador were to enforce the invoices—the payments of
+which they had requested from the claimants, that will represent a risk of
+the destruction of the ongoing investment and of its revenue-producing
+potentially, for both parties.
+
+So, as you can see, the Tribunal took the position of not only looking
+at the standard from the point of view of the UNCITRAL Model Law but it
+also balanced the interests of both parties.
+
+In Perenco, the facts of the case are similar to the facts in Burlington —
+because these are cases that occurred when Ecuador was taking certain
+measures in the hydrocarbon sector. In Perenco, the Tribunal analyzed the
+language of Article 47 of the ICSID Convention and ICSID Arbitration
+Rule 39 concluding that, even though these articles were based on Article
+41 of the status of the International Court of Justice, it is not expressly clear
+that there is a requirement such as irreparable harm. The Perenco Tribunal
+said that Article 47 does not lay down a test of irreparable loss and the
+authorities do not warrant so narrow an interpretation.
+
+The Tribunal based its reasoning on its analysis of urgency as the
+only requirement. And in that respect the Tribunal said, and I quote:
+“provisional measures may only be granted where they are urgent because
+they cannot be necessary if, for the time being, there is no demonstrable
+need for them. Provisional measures will be granted if they are necessary
+at the time of the decision to preserve the effectiveness and integrity of the
+proceedings and avoid severe aggravation of the dispute.”
+
+So, again, the Tribunal took a slightly different position in the sense
+that, not only they were saying, “What do you mean? There is nothing in
+the text of Article 47. We should then concentrate on the urgency of the
+measure.” For the Perenco Tribunal necessity will also apply but the
+importance of the matter is how urgent the matter really is to grant and
+preserve the rights of the parties.
+
+Finally, we have City Oriente v. Ecuador. In that case, the Tribunal was
+very straightforward in its interpretation of the requirements. The
+Tribunal said, “The only requirement arising from the wording of Rule 39
+is the traditional urgency requirement.” This requirement is analyzed by
+the Tribunal in several paragraphs of its decision, and then the Tribunal—
+by recognizing urgency, just as the Perenco decision did, asked the
+question whether there is a requirement in addition to urgency to be
+fulfilled, in other words whether provisional measures must be necessary
+to prevent irreparable harm.
+
+The City Oriente Tribunal concluded that it is not essential that
+provisional measures are necessary to prevent irreparable harm, but that
+the harm must be significant and that it would need to exceed greatly the
+damages caused to the party affected thereby.
+258 INTERIM & EMERGENCY RELIEF IN INT’L ARBITRATION
+
+In light of these cases, there are some commentators that have raised
+the question of whether there is really a requirement such as irreparable
+harm in the reading of Article 47 of the ICSID Convention.
+
+As I said, I take the position that there is one, but before I move to the
+discussion of the CEMEX decision, I wanted to say that, when preparing
+for this presentation, I of course read the article by Professor Gabrielle
+Kaufmann-Kohler and Aurelia Antonietti, here with us.
+
+The article is, of course, a very comprehensive article, and if you
+haven't read it, I really invite you to read it, because it really analyzes the
+case law on the subject of provisional measures.
+
+What I think is interesting from the article is that the authors based
+their analysis on two systems, the ICSID arbitration system and the
+UNCITRAL arbitration system as those are the most prominent systems
+for investment arbitration.
+
+By looking into those systems, the authors, in my opinion, seem to be
+establishing that ICSID tribunals have applied a stricter approach to the
+definition of irreparable harm that departs from the interpretation that the
+International Court of Justice has made in that respect.
+
+And they raise the question of whether a less-demanding standard
+used in international commercial arbitration or in investor-state arbitration
+under the UNCITRAL Model Law—or under the UNCITRAL Rules,
+would influence the practice of international arbitration under the ICSID
+system.
+
+And remember, when we are talking about the standard under the
+UNCITRAL Rules, we are talking about harm not adequately reparable by
+an award of damages which, as I just mentioned to you, is what the
+Burlington Tribunal decided to follow, even though it was a case under the
+ICSID Convention.
+
+So, in my opinion, when we talk about what is going on the subject of
+provisional measures in investment arbitration, I think, that’s the center of
+the discussion, in the sense of whether the standard applied in
+international commercial arbitration, which is not as rigid as what we have
+in investor-state arbitration under the ICSID system, is really something
+that is influencing the investor-state arbitration system under ICSID.
+
+I personally think that’s not the case. As I was saying, Professor
+Kaufmann-Kohler and Aurelia Antonietti, are wondering whether those
+decisions are going in that direction, whether we will see a change in trend.
+
+In my view, the CEMEX Tribunal was confronted with that question
+in the sense that when they decided the case, the decisions in Burlington
+and Perenco were already rendered. So, when you analyze the CEMEX
+decision you see that the Tribunal started from the point of view that
+Article 47 of the ICSID Convention has been inspired by Article 41 of the
+Statute of the International Court of Justice. The Tribunal then analyzes
+what are the criteria that the International Court of Justice has applied
+when indicating or taking a measure on provisional measures.
+INTERIM RELIEF IN INVESTMENT TREATY ARBITRATION 259
+
+For the CEMEX Tribunal it is clear that the ICJ has followed the
+criteria of urgency and necessity, and when assessing necessity, one needs
+to assess the risk to avoid irreparable harm.
+
+The Tribunal referred to the Nuclear Test decision and a couple of
+other decisions from the ICJ that support that position.
+
+After that, the Tribunal analyzes some of the prior ICSID decisions on
+provisional measures, in particular the ones that I have mentioned today,
+and in that respect, the Tribunal concludes that, at the end of the day, even
+if Burlington and Perenco seemed to have applied a more relaxed kind of
+test, if we want to call it that way, or not as rigid as we have seen in ICSID
+arbitration, the effects are the same. So, in so many ways, for CEMEX
+those tribunals recognize that you couldn't grant a provisional measure
+unless there is irreparable harm.
+
+I checked the ICSID decisions rendered after CEMEX, to see how
+CEMEX—the line of interpretation discussed in CEMEX, was or was not
+followed by subsequent ICSID Tribunals. Until this point, the case law
+continues to be well settled in the sense that tribunals continue to talk
+about irreparable harm in the way that has been interpreted by the
+CEMEX Tribunal. They continue to cite the standard used by the Occidental
+Tribunal: “urgency and necessity to avoid irreparable harm.”
+
+In Abaclat, for example, the Tribunal took the position that, even if
+one would consider that Article 47 of the ICSID Convention does not
+establish specific requirements for provisional measures, that Article gives
+the Tribunal a lot of freedom for consideration. The Abaclat Tribunal
+concluded that irreparable harm is one of the criteria that the Tribunal
+needs to take into consideration when issuing a decision on provisional
+measures.
+
+Those are the ideas that I had in mind to bring to the discussion. It
+would be great if we can have some sort of roundtable during the
+questions and answers to continue the discussion on these issues.
+
+Thank you.
+
+MR. LAIRD: So, thank you very much, Claudia. That was a really
+good way to finish off the panel, to root us in the case law and establish
+where the standards seem to have developed.
+
+I think we have time for a few questions and discussion. It's been
+such a good panel that I wouldn't want to not have a bit of input and
+reaction from the audience.
+
+PANEL3:;O0 &A
+
+QUESTION: An actual clarification of the case, David: Wasn't the
+expropriation done in 65 percent instead of--the expropriation, I'm sorry,
+wasn't that 65 percent? So, originally, after the flat tax, it would revert
+back to 15 percent, right? I might be wrong.
+260 INTERIM & EMERGENCY RELIEF IN INT’L ARBITRATION
+
+MR. BRANSON: Well, the tax code had changed in 2011. And so, if
+you applied the tax code in 2014, it would be 80 percent.
+
+We volunteered to accept 15 percent for the purposes of the
+ESCROW engagement during the course of the arbitration. But at the end
+of the arbitration, whatever the tax code is, will be applied. We're going to
+change the tax code to make it 30 percent.
+
+QUESTION: And that's revenue again?
+
+MR. BRANSON: That's revenue. It's an excise tax, plus 10 percent
+VAT, right.
+
+But that's--in the gaming industry, that's not an unusual tax, 39
+percent, 40 percent.
+
+MR. DE GRAMONT: So, this is a question for Professor Wallace.
+
+There's at least one case where a tribunal found that a criminal
+prosecution investigation violated the FET (fair and equitable treatment)
+standard, that's the Rompetrol v. Romania case.
+
+And I'm wondering if the facts of that case came before a tribunal on
+an application for provisional remedies, whether that particular fact
+pattern or perhaps a more extreme fact pattern might be such that a
+tribunal might grant provisional remedies in the context of a criminal
+prosecution.
+
+PROF. WALLACE: I think I protected myself by saying I'm ignorant,
+and I did say it's a factual question. In other words, assuming “ix no pace”
+[phonetic] to Claudia, assuming the irreparable harm standard, the
+question is, will the claimants be irreparably harmed if the prosecution
+goes forward? And that's a fact question. It depends on what they're
+going to prosecute, it depends how it interferes with the claimant's
+preparation of the case.
+
+And there is one case--I think, is it Quiborax v. Bolivia where they did
+say the prosecution would cause irreparable harm because they were
+prosecuting the claimants--it involved forgery, the very thing which was
+the basis of the claim. They said, no, it's not forgery. The government said
+it is forgery and we're going to go after you.
+
+So, I think it really depends--and I don't even know the facts that well
+in our own case, quite frankly, as to—I think it's factual. But I would say--
+because I mentioned this very high standard. It's a super-high standard
+over and above irreparable harm. It's the heart of sovereignty. I'm trying
+to remember, you know, patriotism is the last refuge of the scoundrel, so
+sovereignty, which I don't know what it means, but it is used a lot in 2014,
+so, presumably the tax power is greater than even the ordinary regulating
+the environment, for which we also show deference. So, it would really be
+a factual question. Can the prosecution--can the claim go forward in the
+presence of a criminal prosecution, and I think the arbitrators have to bend
+over backwards to say it can, but that's the burden of proof which I
+mentioned, that the burden of proof will be on the claimant to show that
+this will so foul up their claim.
+INTERIM RELIEF IN INVESTMENT TREATY ARBITRATION 261
+
+And David has pointed out before that they can't collect taxes that
+quickly. Is it clear they can prosecute that quickly? Probably yes, but
+investigate —I really do think it is a fact question, but the presumption, it
+seems to me, has to be in favor of the state, that it should be able to go
+forward. It is an essential function to be able to enforce your laws, but
+there are—and every arbitrator says that, but they say, in this case, we will
+enjoin--because they're going to get— because the prosecution is so close to
+the facts—the facts that it's dealing with, are the facts that the claimant
+wishes to establish otherwise.
+
+So, my own judgment, if I were an arbitrator is it's a fact question, it's
+a presumption, it's against the claimant, but that presumption can be
+overcome if there is a “high threshold,” which is the language used in one
+of these cases, that is surmounted.
+
+MR. BRANSON: Can I add one thing.
+
+One of the interesting things about considering the state taking
+criminal prosecution action while an arbitration is pending is that the
+statute of limitations for the criminal activity goes on for years. The
+arbitration is going to be over.
+
+So, what does the tribunal think it's going to do in our case if they
+say, well, for the next six months, the government can't investigate
+criminal bribery that occurred in Laos?
+
+PROF. WALLACE: One of the principal defenses of the government
+would be that this is an illegal investment, do you follow me? Its seven
+investments, seven projects, that do not comply—you know, these
+standards do not comply with the local law and therefore are, in a sense,
+really impregnated with corruption, et cetera, from the beginning. So, the
+investigation and prosecution are not wholly unrelated, quite frankly, to
+the heart of the government's defense.
+
+So, we'll see whether Justice Binnie, I guess, who is tough as hell,
+how he'll look at this, but I think it would be a good litigation-oriented
+judge who should decide this matter. Actually, we are seeking an
+amendment of the provisional order. So, the question of who has the
+burden of proof might be —
+
+MR. BRANSON: This will be decided on May 12th.
+
+MR. PALIWAL: I'm Suyash Paliwal with White & Case. My
+question builds a little bit on Claudia's comments and then some of the
+other comments about the irreparable harm standard and, in general, the
+relationship between Article 47 and Article 41 of the ICJ statute.
+
+If there is a difference in standard whether or not the irreparable
+harm is a requirement, should there be a different standard when one of
+the parties is an individual investor or private party compared to a state-
+to-state arbitration?
+
+Do you feel that there is a need for an irreparable harm standard in
+one situation but maybe not so much the other just because of the different
+interests of the parties?
+262 INTERIM & EMERGENCY RELIEF IN INT’L ARBITRATION
+
+PROF. WALLACE: I mean, the decision has been--we're not
+legislators, maybe you wish to be. I think the decision has been, hasn't it,
+in the ICSID Rule, the term “irreparable harm” is used.
+
+Now, stepping back grosso modo, what should it be?
+
+Claudia.
+
+[Laughter. ]
+
+DR. FRUTOS-PETERSON: Thank you.
+
+I think you can sense my answer. My answer is—no, those are the
+rules of the game. With the recent decision in the Pulp Mills case, the Court
+was quite clear and really, if there was any doubt about it before or even in
+connection with the decisions rendered by the Permanent Court of
+International Justice, I think this case clarifies this issue.
+
+MR. MANIRUZZAMAN: To add to Claudia's comments, well, I
+mean, if there is an opportunity for monetary damages, there cannot be
+any irreparable harm, because that is well-established in the ICSID
+jurisprudence as well as the ICJ jurisprudence.
+
+I mean, if you can compensate for the harm, there is no question of
+irreparable harm.
+
+DR. YESILIRMAK: I think, in answer to your question, Professor,
+no, it should not be used.
+
+PROF. WALLACE: What should not be used?
+
+DR. YESILIRMAK: Well, the standard of irreparable harm should
+not be used for investor-state arbitration. It goes to your comment, as well,
+because on one side, we have a state, with immense resources, and on the
+other side we don't have always an investor with immense resources. So,
+we have to protect investors. I believe drafters of the rules, I believe, were
+not as bold as drafters of the ICSID Convention. They should have kept
+the standard law.
+
+PROF. WALLACE: You said, in a sense, it can be high because there
+would be no damage, but because evidence can be destroyed, et cetera, but
+you're saying it should be law.
+
+DR. YESILIRMAK: It should have been law left —
+
+PROF. WALLACE: What difference to the standard?
+
+DR. YESILIRMAK: Not irreparable harm, it's too high.
+
+Next time, hopefully, we will discuss that.
+
+MR. LAIRD: Okay, on behalf of the panel, thank you for your
+attention and excellent questions, and I'd like to ask everyone to thank our
+excellent third panel.
+
+[Applause. ]
+
+[End of third panel.]
+
+[Brief recess. |

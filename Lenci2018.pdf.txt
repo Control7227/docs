@@ -1,0 +1,1041 @@
+CHAPTER 2
+
+General Principles of Law on the Legal Force of
+Provisional Measures in International Investment
+Arbitration
+
+Federico Lenci
+
+General principles of law are often presented as a quite recent source in public
+international law. However, since the 19th century international arbitral tribunals
+applied certain principles which were considered to be the expression of general
+principles. Such source fulfils an important function in the investment regime as
+well. Indeed, general principles of law fulfil a ‘gate-keeping’ function by way of a
+legitimacy control on arbitral rule-making power, meaning that the evolution and/or
+consolidation of the arbitral case law shall not be incompatible with the principles
+which are the expression of the main legal systems of the world. An example of such
+role is given with regard to the issue of provisional measures, in particular their legal
+force.
+
+In the present chapter it is argued that, despite the departure in ICSID case law from
+the ordinary meaning of Art. 47 of the 1cs1D Convention providing for the tribunal’s
+power to issue merely hortatory provisional measures, such departure is legitimised by
+1CSID member States’ acquiescence thereto amounting to an informal modification of
+the treaty — as Prof. Gazzini and Prof. Kolb convincingly argue — and by the fact that
+it is not incompatible with the principles which are the expression of the main legal
+systems of the world.
+
+If arbitration is a ‘mechanism with teeth, provisional measures are its front
+teeth.
+
+1 Some Remarks on General Principles of Law and Their Role in the
+Debate on the Sources of Law in the Investment Regime
+
+General principles of law are often presented as a quite recent source in public
+international law, having been introduced for the first time in the early 1920s,
+in particular in the PcIj Statute. However, this proposition does not seem to be
+entirely accurate. Indeed, throughout the 19th century international arbitral tri-
+bunals derived the applicable rules also from the principles which such tribunals
+
+© KONINKLIJKE BRILL NV, LEIDEN, 2018 | DOI 10.1163/9789004368385_003
+
+26 LENCI
+
+considered to be the expression of general principles.! Moreover, as indicated
+by Balladore Pallieri, no State had ever objected nor even hesitated about the
+appropriateness of its inclusion in the PctJ Statute.” Said inclusion is consid-
+ered to be a victory of natural law theorists against the positivists. Since it was
+established by a positive norm, namely treaty law, it obliged many positiv-
+ists to either reconsider their theories on this point or to deem Art. 38, para.
+1, lett. c of the pc1y Statute as an exceptional norm, being the principles of
+law excluded in their views from the true sources of international law.? Actu-
+ally, the origins of this source were identified in the widespread conceptions
+which existed in the majority of national legislations.* However, the impact
+of said ‘victory’ of natural law theorists should by no means be overestimat-
+ed, since the preponderant role of treaty and custom has not been seriously
+questioned since the early period of codification of the general principles,®
+
+1 Albert de La Pradelle, La Justice Internationale. Cours pour le doctorat en droit des gens de
+la Faculté de droit de Paris (19e lecon, Paris 1933) 3—5: ‘Est-il donc exact qu'une disposition
+nouvelle ait été ici introduite? Peut-on admettre que, dans la période antérieure au statut
+de la Cour, les tribunaux arbitraux n’avaient pas a connaitre des principes généraux du droit
+pour en faire application? Raisonner ainsi, c’est manifestement une erreur. En effet, l’histoire
+de la jurisprudence internationale montre d’une maniére tout a fait nette que, pendant tout
+le XIXe siécle, il a été fait application de principes que la jurisprudence considérait comme
+étant l’expression des principes généraux. [...] Car ce texte a été élaboré par le Comité des
+Dix, dans des conditions dont jai déja eu l'occasion de vous parler, et il n'est jamais entré dans
+la pensée des jurisconsultes qui le composaient, qu’ils pouvaient, par une semblable disposi-
+tion, introduire une innovation quelconque. Leur pensée — et, puisque j’en ai été le témoin, je
+crois étre bien qualifié pour l’'apprécier — était simplement de recueillir le droit international
+déja existant.’
+
+See also the declaration made by the President of the Committee of Jurists: ‘The applica-
+tion in practice of the rules mentioned by the President, is moreover constant in interna-
+tional jurisdictions’ (Cour permanente de justice internationale, Comité consultatif des juristes,
+Procés-Verbaux des séances du Comité, 310, available at the IcJ institutional website: http://
+www.icj-cij.org/files/permanent-court-of-international-justice/serie_D/D_proceedings_of_
+committee_annexes_16june_24july_1920.pdf — last accessed 9 March 2018).
+
+2 Giorgio Balladore Pallieri, / principi generali del diritto riconosciuti dalle nazioni civili nellart.
+38 dello Statuto della Corte permanente di giustizia internazionale (Torino, Istituto giuridico
+della Regia Universita 1931) 65.
+
+3 For some critical remarks of this approach, see Mario Scerni, | principi generali di diritto ri-
+conosciuti dalle nazioni civili nella giurisprudenza della Corte permanente di giustizia inter-
+nazionale (Padova, Cedam 1932) 31 ff.
+
+Giorgio Balladore Pallieri, quoted supra footnote 2, 14.
+
+5 Hersch Lauterpacht, Private Law Sources and Analogies of International Law (with Special Ref-
+erence to International Arbitration) (London, Longmans, Green and Co. Ltd. 1927) 67; Mario
+Scerni, quoted supra footnote 3, 40 f:: ‘Se il caso concreto da risolvere é tale, che il sistema
+
+Federico Lenci - 9789004368385
+Downloaded from Brill.com1 0/09/2020 03:27:55PM
+via Leiden University
+THE LEGAL FORCE OF PROVISIONAL MEASURES 27
+
+although according to some authors they constituted the very essence of in-
+ternational law.®
+
+Such an inclusion entailed a significant consequence on the representation
+of international law: indeed, instead of constituting a mosaic of merely volun-
+tary norms establishing rights and duties between States and thus a plurality
+of international legal orders,’ international law had to be conceived as a so-
+cial system aiming at the achievement of the superior goals of humanity. This
+quality of international law had already been suggested by some authors, in
+particular by Bluntschli. In his Le Droit international codifié, Bluntschli gave
+a definition of international law as not being limited to govern the relations
+between States, but rather as aiming at the protection of general rights of
+individuals:
+
+Le droit international est l'ensemble des faits et des principes reconnus
+qui réunissent les divers Etats en association juridique et humanitaire, et
+qui assurent en outre aux citoyens des divers Etats une protection com-
+mune pour les droits généraux résultant de leur qualité d’homme.®
+
+Bluntschli’s conception of international law embodies this fundamental func-
+tion towards individuals which has to be performed by States, in particular
+by civilised nations, which ‘sont plus particuliérement appelées a développer le
+
+risultante dalle convenzioni e dagli usi, comunque interpretato ed elaborato, non da modo
+
+di trovare la norma apposita, allora e soltanto [italics in the original text, A/N] allora la Corte
+
+potra invocare il n. 3 dell’art. 38 e giudicare secondo “i principi generali di diritto riconosciuti
+
+dalle nazioni civili.”
+
+6 See, inter alios, Albert de La Pradelle, quoted supra footnote 1, 10 f.: ‘En réalité, les principes
+généraux de droit ne sont pas une source supplémentaire, mais bien la source méme du droit
+international.
+
+7 Giorgio Balladore Pallieri, quoted supra footnote 2, 6 and references cited therein.
+
+8 Johann Caspar Bluntschli, Le droit international codifié (Paris, Guillaumin 1886) 55.
+
+g In that period, the distinction between ‘civilised’ and ‘uncivilised’ nations still existed. How-
+ever, in Bluntschli’s conception, far from constituting a privileged group of nations, the
+‘civilised’ nations on the contrary had a particular duty to contribute to the human advance-
+ment of international society, for the benefit of the individuals. This conception was far from
+evident: some authors suggested that International Law was a favourable body of law which
+only applied to the relations between ‘civilised’ nations. As Carlos Calvo (Derecho internacio-
+nal tedrico y practico de Europa y América (Tomo primero, Paris, D’Amyot 1868, 70) reminds:
+‘Muchos autores han calificado el derecho internacional como publico européo, 6 han
+limitado su significacion a los pueblos cristianos 6 que marchan a la cabeza de la civilizaci6n’
+[footnotes omitted].
+
+The shift from right/privilege to duty is quite striking.
+
+Federico Lenci - 9789004368385
+Downloaded from Brill.com1 0/09/2020 03:27:55PM
+via Leiden University
+28 LENCI
+
+sentiment des droits communs a l’humanité.© From these passages it is easy to
+recognise the intellectual basis of what would become, a few decades later, Art.
+38, para. 1, lett. c of the Pcry Statute.
+
+Some igth century international lawyers, in particular those of English na-
+tionality" and those of the German Historical School of Jurisprudence, identi-
+fied a source which bore a certain resemblance with the general principles of
+law as to foundation and method of ascertainment, namely Roman Law. Indeed,
+said source had found widespread application in different national legal systems
+of the world and therefore it was considered as deriving from the intellect.
+
+The rationale for the inclusion of the general principles of law in the list of
+Art. 38 of the pcIJ Statute is well known: in particular, Baron Descamps, Presi-
+dent of the Committee of Jurists who drafted the pci Statute, had insisted on
+the necessity to avoid the potential risk of non liquet? and finally had managed
+to put his colleagues within the Committee on his side. Therefore, the function
+of this source is that of filling gaps between international law rules, completing —
+together with conventional and customary norms — the system of the main
+sources in the international legal order.'*
+
+This chapter focuses on the function fulfilled by general principles of law
+concerning provisional measures in international investment arbitration, with
+particular regard to a specific issue within this topic, namely their legal force.
+The purpose consists in an attempt at clarification of the relationship between
+the role of the case law of international tribunals and the contribution of the
+general principles of law in the investment regime concerning provisional
+measures.
+
+The theoretical legal framework of the present study is that international
+investment arbitration is inscribed within public international law.
+
+The analysis of the sources of this rapidly developing area of international
+law is of utmost relevance: indeed, the sources have a direct impact on the
+framework of the investment regime and on shape and content of the norms
+
+10 Johann Caspar Bluntschli, quoted supra footnote 8, 57.
+
+11 Robert Phillimore, Commentaries Upon International Law (2nd edition, London, Butter-
+worths 1879) 34; John Westlake, International Law (Vol. 1, Cambridge, CUP 1904) 15.
+
+12 Carlos Calvo, quoted supra footnote 9, 80.
+
+13 Cour permanente de justice internationale, Comité consultatif des juristes, Procés-Verbaux
+des séances du Comité, 318 and annex ‘Speech of Baron Descamps on the Rules of Law to
+be applied, 322-325 (available at the IcjJ institutional website quoted supra footnote 1).
+
+14 Indeed, the list in said Art. 38 also contains, in para. 1, lett. d ‘subject to the provisions of
+Article 59, Judicial decisions and the teachings of the most highly qualified publicists of
+the various nations, as subsidiary means for the determination of rules of law’. Further-
+
+more, such list is by no means complete: as an example, it does not contain unilateral acts.
+
+Federico Lenci - 9789004368385
+Downloaded from Brill.com1 0/09/2020 03:27:55PM
+via Leiden University
+THE LEGAL FORCE OF PROVISIONAL MEASURES 29
+
+which stakeholders will interpret and apply.’ In this connection, it is submit-
+ted that general principles of law play a fundamental role in increasing the
+overall legitimacy of investor-State arbitration, in the form of control on arbi-
+tral rule-making power.
+
+2 Application of the Method Set Forth by Art. 38, Para. 1, Lett. c
+of the 1cy Statute to Provisional Measures in International
+Investment Arbitration
+
+It is common knowledge that the institution of provisional measures does not
+constitute a novel phenomenon within the mechanisms of international dis-
+pute settlement. As a matter of fact, this type of incidental proceedings derives
+its origin from the common — though differentiated — practice in national legal
+orders. To analyse the evolution from national to international fora in this re-
+spect and distinguish every characteristic and consequent peculiarities is not
+the purpose of the present study: indeed, while the domestic/international di-
+vide between legal orders may play a role as a descriptive tool, the exercise of
+drawing analogies!® thereupon shall be conducted with caution in this field!”
+and may lead to limited results as to the type of provisional measure, as the
+‘compulsory/voluntary’ jurisdiction binomial would impair the capability to
+grasp the peculiar features of the institution in international proceedings.!®
+
+15 On the relevance of general principles of law to the substance of the investment regime,
+see Stephan Schill, ‘General Principles of Law and International Investment Law’ in Tarci-
+sio Gazzini and Eric De Brabandere (eds), International Investment Law. The Sources of
+Rights and Obligations (Martinus Nijhoff Publishers 2012) 136-138.
+
+16 Hersch Lauterpacht, quoted supra footnote 5.
+
+17.‘ In this sense, see Shabtai Rosenne, Provisional Measures in International Law. The Inter-
+national Court of Justice and the International Tribunal for the Law of the Sea (Oxford, OUP
+2005) 4.
+
+18 As noted by Jerzy Sztucky, Interim Measures in The Hague Court (Kluwer 1983) 15 f:: ‘In
+other words, for all practical purposes, national courts are never confronted with the
+need to pronounce on interim protection in uncertainty as to whether there will be any
+instance competent to adjudicate upon the merits [...] On the international level the situ-
+ation is different. First of all, the competence of international tribunals is always more or
+less narrowly defined ratione materiae. Even in the exceptional case of the Court whose
+jurisdiction potentially extends to the whole area of international law, it is considerably
+limited in practice by the scope of consent of the prospective litigants’ and at p. 3: ‘In-
+deed, beyond the most general propositions as to the purpose of interim measures, such
+as those quoted earlier [in particular, to prevent any development from rendering the
+
+judgment nugatory, A/N], there is no universal common pattern of provisional measures
+
+Federico Lenci - 9789004368385
+Downloaded from Brill.com1 0/09/2020 03:27:55PM
+via Leiden University
+30 LENCI
+
+In cases where specific provisions on provisional measures as to conditions,
+purposes and types of measures are lacking in the applicable treaty text, it is
+argued that a two-steps approach is warranted as to their proper application in
+international investment arbitration.
+
+The first step shall consist in the analysis of the case law of investor-State
+arbitral tribunals concerning provisional measures, coupled’? with that of the
+analogies and differences emerging from public international law courts and
+tribunals.
+
+As asecond step, general principles enter into play. Indeed, they fulfil a func-
+tion which may be considered from the negative perspective, meaning that the
+evolution and/or consolidation of the arbitral case law shall not be incompat-
+ible with the principles which are the expression of the main legal systems of
+the world. Such a threshold is undoubtedly lower than the one which could
+hypothetically be applied in this regard, namely that issuing or denying a given
+provisional measure in a specific case should be consistent with the general
+principles of law.
+
+I shall give an example of the practical application of such second step.
+A worldwide Mareva injunction consists in an interlocutory order, restraining
+the addressee from disposing of assets held in any part of the world. It is a very
+
+in domestic legislation, which might be borrowed for general application on the inter-
+national level. Even if there were such a pattern, one would have to be very cautious in
+drawing municipal law analogies in international law, since the conditions for exercising
+judicial power on the international level are quite different from those existing in domes-
+tic legal systems’ [footnotes omitted].
+
+On the arbitrariness to which the misapplication of this source may lead, see Angelo
+Piero Sereni, Principi generali di diritto e processo internazionale (Milano, Giuffré 1955) 8:
+‘E da notare, in alcuni di tali studi, la tendenza ad affermare l’esistenza di “principi” che
+in realta non sussistono o ad ampliarne arbitrariamente il contenuto e la portata, caden-
+dosi cosi in una forma di giusnaturalismo dottrinale che é, a mio sommesso avviso, non
+soltanto errata ma anche contraria ad una sana e realistica valutazione ed allo sviluppo
+del diritto internazionale’ Sereni demonstrated and concluded in this monograph (pp.
+16—93) that there are no general principles of law under Art. 38, para. 1, lett. c Icj Statute
+in the whole field of procedure and evidence.
+
+19 Indeed, this is a valuable source of materials from where general principles of law can be
+derived, through the intermediation of the analysis drawn by international courts and tri-
+bunals. See, in this sense, Bin Cheng, General Principles of Law as Applied by International
+Courts and Tribunals (Cambridge, CUP 1953) 1 and Jerome Elkind, Interim Protection.
+A Functional Approach (Martinus Nijhoff Publishers 1981) 15; see also the recent mono-
+graph Charles T. Kotuby, Jr., Luke A. Sobota, General Principles of Law and International
+Due Process (OUP 2017).
+
+Federico Lenci - 9789004368385
+Downloaded from Brill.com1 0/09/2020 03:27:55PM
+via Leiden University
+THE LEGAL FORCE OF PROVISIONAL MEASURES 31
+
+powerful tool, indeed.2° However, should an investment tribunal be confront-
+ed with the question whether it has the power to issue such a provisional mea-
+sure an inescapable step would be to assess whether the latter is part of the
+general principles of law according to Art. 38, para. 1, lett. c of the Icy Statute.
+In other words, before issuing said measure, the investment tribunal should as-
+sess whether the main legal systems of the world recognise it. Then, is it so? Ac-
+cording to a survey conducted by the EU Commission in the context of judicial
+cooperation and provisional measures — thus, within the limited scope of EU
+jurisdictions — while worldwide Mareva injunctions are generally recognised
+in common law countries (plus France and Germany), they are not available in
+many civil law countries, namely Austria, Belgium, Finland, Greece, Italy, Lux-
+embourg, The Netherlands, Portugal, Spain and Sweden.?! As a consequence,
+in the current state of national legislations as indicated above, the issuance of
+worldwide Mareva injunctions by an investment tribunal would be contrary to
+the general principles of law.
+
+Said role as a ‘gate-keeper’ of the rule-making power of the international
+adjudicatory organ is a key factor in increasing the legitimacy of the process
+and fulfilling the function of law as an instrument of social ordering.
+
+3 General Principles of Law on Provisional Measures before the
+Adjudicator: The Legal Force of Provisional Measures
+
+Before addressing the issue of the legal force of provisional measures, refer-
+ence to the consolidation of arbitral precedents in investment arbitration is
+deemed appropriate. Starting from the beginning of the new millennium, we
+are witnessing a true ‘baby-boom’* of international investment arbitration.
+Said phenomenon is due to a combination of factors, among which - as a
+temporal sequence — the following general steps: fall of the communist
+
+20 + On the potentially prejudicial effect on third parties and the jurisprudence of English
+Courts see Lawrence Collins, Provisional and Protective Measures in International Litiga-
+tion (Recueil des cours de ‘Académie de La Haye, Vol. 234, No. 3, Martinus Nijhoff Publish-
+ers 1992) 117 ff.
+
+21 EU Commission, Provisional Measures: Classification and the Trans-border Context, 04,
+available online: http://ec.europa.eu/civiljustice/publications/docs/prov_measures_1_
+en.pdf (last accessed 9 March 2018).
+
+22 The expression has been introduced by Stanimir Alexandrov in a leading article on the
+theme: ‘The “Baby Boom” of Treaty-Based Arbitrations and the Jurisdiction of Ics1pD Tri-
+bunals. Shareholders as “Investors” and Jurisdiction Ratione Temporis’ [2005] 4 The Law
+and Practice of International Courts and Tribunals 19.
+
+Federico Lenci - 9789004368385
+Downloaded from Brill.com1 0/09/2020 03:27:55PM
+via Leiden University
+32 LENCI
+
+ideology and, consequently, generalised endorsement of the Washington
+consensus;** worldwide proliferation of a web of BITs, generally providing for
+international arbitration under the auspices of ICSID or ad hoc arbitration un-
+der the UNCITRAL rules as main dispute settlement mechanisms in addition
+to recourse to local courts; in such an investment-friendly climate — or, at least,
+apparently so — the flow of outward investments increases significantly,**
+bringing with it the related increased ratio of disputes, for the main reason
+that these systems proved to be effective and relatively less costly in terms of
+legal certainty, time and expenses.
+
+Arbitrators in the investment framework constantly refer to previous deci-
+sions either in support of their interpretation and application of the law, or in
+order to oppose their solutions, or thirdly to harmonise and propose new paths:
+in each of these three approaches, arbitrators contribute to the development
+of international investment arbitration through consolidation of the adjudica-
+tion process. As a matter of fact, investment tribunals tend to follow previous
+decisions even if they do not deem to be compelled to do so.”° It should also
+be kept in mind that arbitrators are inclined to refer to previous decisions due
+to the submissions of the parties, which try to substantiate their case through
+an abundant — sometimes excessive*® — reference to previous decisions. It is
+argued that — with some exceptions, particularly in the ranks of commercial
+arbitrators — they consider their role as being not limited to the arbitral settle-
+ment of the dispute?’ before them: they deem that their role is also that of
+setting the general investment framework, a task which is beneficial not only
+
+23 For an in-depth analysis from the special perspective of the eminent negotiator of Us
+BITs in the 1980s and 1990s, Kenneth Vandevelde, Bilateral Investment Treaties: History,
+Policy and Interpretation (Oxford, OUP 2010).
+
+24 Adetailed account thereof is provided for by José Alvarez, The Public International Law Re-
+gime Governing International Investment (Recueil des cours de l’‘Académie de La Haye, Vol.
+344, Martinus Nijhoff Publishers 2009, also published in pocketbook form, AIL, 2011) 17.
+
+25 Diego Fernandez Arroyo, ‘Los precedentes y la formacion de una jurisprudencia arbitral’
+in Emmanuel Gaillard and, Diego Fernandez Arroyo (eds), Cuestiones claves del arbitraje
+internacional (Bogota and D.c. 2013) 236: ‘Sin embargo, ni los autores ni los arbitros pare-
+cen convencidos de la obligacién de seguir la jurisprudencia. Los arbitros la siguen, como
+veremos, pero en general lo hacen sin creer que estén obligados a ello.’
+
+26 Emmanuel Gaillard, ‘Foreword’ in Emmanuel Gaillard and Yas Banifatemi (eds), Prec-
+edent in International Arbitration (New York 2008) 3.
+
+27 By ‘arbitral settlement of the dispute’ reference is made to the first, fundamental but not
+final, step towards the real settlement of the dispute, ie. the moment in which either
+the claimant manages to enforce the award declaring in its favour, or the award denying
+compensation or — less frequently — restitutio in integrum to it acquires its res iudicata
+state and the respondent manages to cover its expenses and legal fees.
+
+Federico Lenci - 9789004368385
+Downloaded from Brill.com1 0/09/2020 03:27:55PM
+via Leiden University
+THE LEGAL FORCE OF PROVISIONAL MEASURES 33
+
+to the parties of that specific dispute, but to the whole international invest-
+ment community (investors and host States alike). Such element sets a sig-
+nificant divide between international investment arbitration on the one side,
+international commercial arbitration on the other: indeed, it has been demon-
+strated that, as far as the latter is concerned, arbitrators refer significantly less
+often to previous decisions.?®
+
+Paraphrasing Professor Gaillard, who aptly says that ‘arbitration is a mecha-
+nism with teeth,2? I submit that provisional measures are arbitration’s front
+teeth.
+
+In order to address the issue of the legal force of provisional measures in
+international investment arbitration, ie. whether they have a binding or hor-
+tatory force, and whether the general principles of law play a role therein it is
+deemed appropriate to start from ICSID arbitration. The relevant provision
+is embodied in Art. 47 of the IcsID Convention,*° which reads as follows:
+
+28 Gabrielle Kaufmann-Kohler, ‘Arbitral Precedent: Dream, Necessity or Excuse?’ [2006] Ar-
+bitration International 362 f; in the same sense and referring to the author abovemen-
+tioned see also Diego Fernandez Arroyo, quoted supra footnote 25, 241: ‘Los resultados
+de la investigacion dirigida por una profesional de dilatada experiencia — que es ademas
+una de las personas que mas se ha ocupado de este tema — al menos, reflejan que si en
+general la autoridad reconocida al precedente jurisprudencial depende de las materias y
+de las cuestiones especificas tratadas, en el arbitraje comercial internacional lato sensu
+los arbitros hacen lo que quieren 0, segun las circonstancias, lo que pueden, siendo la pro-
+porcion de casos en los que se citan laudos anteriores relativamente pequenia’ [footnotes
+omitted].
+
+29 Economist, Now Try Collecting, article on the $50bln-award in the Yukos case, published
+on 2 August 2014, whose first lines read as follows: ‘Russia breached its obligations under
+an energy treaty when it seized the assets of Yukos in 2006; so it must pay the former oil
+giant’s majority shareholders $50 billion. The award, made on July 28th by an interna-
+tional arbitration court in The Hague, was 20 times the previous record for such a case.
+The investors’ lead lawyer, Emmanuel Gaillard of Shearman & Sterling, says it shows that
+arbitration is “a mechanism with teeth.”
+
+30 _—_In the literature see, in particular, Sam Luttrell, ‘Ics1D Provisional Measures ‘In the
+Round’ [2015] Arbitration International 393; Dan Sarooshi, ‘Provisional Measures and
+Investment Treaty Arbitration’ [2013] Arbitration International 361; Gabrielle Kaufmann-
+Kohler, Aurélia Antonietti, ‘Interim Relief in International Investments Agreements, in
+Katia Yannaca-Small (ed), Arbitration under International Investment Agreements: An
+analysis of the Key Procedural, Jurisdictional and Substantive Issues (Oxford, OUP 2010) 767
+ff; Loretta Malintoppi, ‘Provisional Measures in Recent IcsID Proceedings: What Parties
+Request and What Tribunals Order, in Cristina Binder, Ursula Kriebaum, August Reinisch,
+Stephan Wittich (eds), International Investment Law for the 21st Century. Essays in Honour
+of Christoph Schreuer (Oxford, OUP 2009) 157; Rodrigo Gil, ‘IcsID Provisional Measures to
+Enjoin Parallel Domestic Litigation’ [2009] World Arbitration & Mediation Review 535 ff;
+
+Federico Lenci - 9789004368385
+Downloaded from Brill.com1 0/09/2020 03:27:55PM
+via Leiden University
+34 LENCI
+
+Except as the parties otherwise agree, the Tribunal may, if it considers
+that the circumstances so require, recommend any provisional measures
+which should be taken to preserve the respective rights of either party
+[emphasis added, A/N].
+
+Following the objective interpretation of the ordinary meaning of the treaty
+text pursuant to Art. 31, para. 1 of the VCLT, one may be inclined to dismiss in
+limine the issue, concluding that IcsID tribunals are not empowered to issue
+binding provisional measures. Additionally, may I refer to the travaux prépara-
+toires of the Convention:*! indeed, the Working Paper, the Preliminary Draft
+and the First Draft provided for the arbitrators’ authority to prescribe*? provi-
+sional measures.*? As noted in Prof. Schreuer’s Commentary, the delegate from
+China opposed such an extended power, due to the concern that the State party
+to the dispute might be unable to abide by the provisional measures prescribed
+for reasons of ‘necessity on national policy.* Following a vote thereupon, the
+term ‘recommend’ substituted the term ‘prescribe’ by a large majority.*5
+
+Under these circumstances, le débat serait clos. Indeed, one may fail to
+understand a departure from such a clear meaning of the treaty text and its
+drafting history.2° However, in the last eighteen years ICSID tribunals have de-
+veloped a very interesting case law in this regard.
+
+The first case in the IcsID framework where the word ‘recommend’ was explic-
+itly deemed to be of equivalent value to the word ‘order’ was Maffezini v. Spain.>”
+
+Régis Bismuth, ‘Anatomy of the Law and Practice of Interim Protective Measures in Inter-
+national Investment Arbitration’ [2009] Journal of International Arbitration 773 ff; Paul
+Friedland, ‘Provisional Measures and csp Arbitration’ [1986] Arbitration International
+335 ff.
+
+31 Fora thorough analysis of the drafting history of the Convention in relation with provi-
+sional measures, see Charles Brower and Ronald Goodman, ‘Provisional Measures and
+the Protection of IcsID Jurisdictional Exclusivity against Municipal Proceedings’ [1991]
+ICSID Review 440 ff.
+
+32 The term ‘prescribe’ is contained in Art. 290 of the UNCLOS.
+
+33 World Bank Publication, History of the 1cs1p Convention (Vol. No. 1, D.C. 1970) 206.
+
+34 Christoph Schreuer et al, The 1cs1p Convention. A Commentary (2nd edition, Oxford, OUP
+2009) 764 (referring to the History quoted supra footnote 33 (Vol. No. 2) 515, 518, 655, 813.
+
+35 History of the 1cs1p Convention, quoted supra footnote 33 (Vol. No. 2) 814 ff.
+
+36 _— In this sense, see Tarcisio Gazzini and Robert Kolb, ‘Provisional Measures in IcsID Arbi-
+tration from “Wonderland Jurisprudence” to Informal Modification of Treaties’ [2017] The
+Law and Practice of International Courts and Tribunals 177-80.
+
+37. Emilio Agustin Maffezini v. Kingdom of Spain, 1cStD case No. ARB/g7/7, Decision on Pro-
+visional Measures dated 28 October 1999, para. 9 (reported in Spanish, the only official
+version): ‘9. Si bien existe una diferencia semantica entre la expresiédn “recomendar”
+
+empleada en la Regla 39 [ée., the ancillary provision on provisional measures which is
+
+Federico Lenci - 9789004368385
+Downloaded from Brill.com1 0/09/2020 03:27:55PM
+via Leiden University
+THE LEGAL FORCE OF PROVISIONAL MEASURES 35
+
+This decision was harshly criticised: by way of example, one of its most deli-
+cate comments was that the Maffezini case evidenced that ‘this concern of the
+drafters of the Convention [ée. to avoid attributing the power to issue binding
+provisional measures to ICSID tribunals, A/N] was set aside by less respectful
+ICSID tribunals.38
+
+Such decision has to be inserted in a broader context, in which dates and
+the temporal succession of events play a significant role. One year before said
+decision, the cj had made an important step forward as to the binding force
+of provisional measures, explicitly referring to its power to order provisional
+measures — whose teleological legal argument was later developed in the judg-
+ment in the LaGrand case — while issuing an indication of provisional mea-
+sures whereby the United States should halt the procedure which were to lead
+to the execution of a Paraguayan citizen named Breard.%9
+
+It is noted that the Court was induced to refer to an increased power*® (al-
+though the Court refrained from adopting it fully) due to obvious humanitarian
+
+contained in Art. 39 of the 1cs1D Arbitration Rules, A/N] y la expresion “dictar” utilizada
+en otras partes de las Reglas para describir la facultad del Tribunal para exigir a una parte
+que realice una accion determinada, dicha diferencia es mas aparente que real. Incluso
+debe observarse que el texto de esa Regla en castellano utiliza, ademas, la expresion “dic-
+tacion.” El] Tribunal no considera que las partes en el Convenio hayan querido establecer
+una diferencia substancial en el efecto de estas dos palabras. La autoridad del Tribunal
+para decidir sobre la adopcién de medidas provisionales no es menos obligatoria que la
+de un laudo arbitral definitivo. Por consiguiente, para los efectos de la presente Resolu-
+cidn Procesal, el Tribunal estima que la palabra “recomendar” tiene un valor equivalente
+
+ym?
+
+al de la palabra “dictar.” In its most relevant part, the unofficial English version reads: ‘
+[...] the Tribunal deems the word “recommend” to be of equivalent value as the word “or-
+der.” All references to the text of the IcSID cases are available at the ICsID institutional
+website.
+
+38 Yves Fortier, ‘Interim Measures: An Arbitrator’s Provisional Views’ [2008] FL 6.
+
+39 Vienna Convention on Consular Relations (Paraguay v. United States of America), Provi-
+sional Measures, Order of 9 April 1998, 1c] Reports 1998, 248 ff., (see in particular paras. 36
+and 41). See also LaGrand case (Germany v. United States), Provisional Measures, Order of 3
+March 1999, 1c] Reports 1999, 15 f., (in particular paras. 23 and 29).
+
+40 According to art. 41, para.1 1cJ Statute (Art. 41, para. 1 PCIJ Statute was integrally repro-
+duced in the rcy Statute): “The Court shall have the power to indicate, if it considers
+that the circumstances so require, any provisional measures which ought to be taken to
+preserve the respective rights of either party’ [‘La Cour a le pouvoir d’indiquer, si elle
+estime que les circonstances l’exigent, quelles mesures conservatoires du droit de chacun
+doivent étre prises a titre provisoire’ |.”
+
+It has been noted that there is a slight difference in terms of force of provisional mea-
+sures (Shabtai Rosenne, quoted supra footnote 17, 29). Indeed, the term ‘ought to be taken’
+seems to be less compulsory than ‘doivent étre prises’; in addition, a clearer indication of
+the fact that the English version was drafted in a more deferential fashion in this sense is
+
+Federico Lenci - 9789004368385
+Downloaded from Brill.com1 0/09/2020 03:27:55PM
+via Leiden University
+36 LENCI
+
+reasons, since in that case — followed within a period of less than five years by
+the LaGrand* and Avena** cases — human life was at stake. The Maffezini case
+
+given by the second paragraph of the article at issue, wherein reference is made to mea-
+sures which are ‘suggested, whereas in the French version there is no such soft expres-
+sion. The IcJ stated in the LaGrand case that the two texts were not in ‘total harmony’
+(LaGrand case (Germany v. United States), Judgment of 27 June 2001, 1c] Reports 2001, 466,
+501, para. 101).
+
+The text of this article historically derives from art. 4 of the Bryan treaties with China,
+France and Sweden (Shabtai Rosenne, quoted supra footnote 17, 24): “The Court shall
+have the power to indicate, if it considers that the circumstances so require, any provi-
+sional measures which ought to be taken to preserve the respective rights of either party.
+Pending the final decision, notice of the measures suggested shall forthwith be given to
+the parties and the Council’ [‘In case the cause of the dispute should consist of certain
+acts already committed or about to be committed, the Commission shall, as soon as pos-
+sible, indicate what measures to preserve the rights of each party ought in its opinion to
+be taken provisionally and pending the delivery of its report’ ].’
+
+However, the first part of the two articles differs: in art. 41 of the PclJ Statute reference
+to the temporal framework in which these measures can be issued is lacking. The Bryan-
+treaty version was manifestly linked to the main concern for which provisional measures
+were provided for, namely the risk of the use of force pendente lite. Actually, on the occa-
+sion of the Drafting Committee’s twenty-eight meeting on 20 July 1920, Raul Fernandes,
+one of its members, had successfully proposed to reproduce the provision contained in
+the Bryan treaties in its integrality. However, later on Professor Ricci-Busatti, italian repre-
+sentative thereto, finally managed to persuade the majority that the temporal limitation
+at issue should be removed, in order to extend the breadth of provisional measures (PCI,
+Advisory Committee of Jurists, Documents Presented to the Committee Relating to Exist-
+ing Plans for the Establishment of a Permanent Court of International Justice, 1920, final
+text as approved by the Sub-Committee, 169).
+
+41 —_LaGrand case (Germany v. United States), Judgment of 27 June 2001, 1cJ Reports 2001, 466,
+501, para. 101. See also paras. 103 and 109, in which the Court referred to ‘the existence of
+a principle which has already been recognized by the Permanent Court of International
+Justice when it spoke of “the principle universally accepted by international tribunals
+and likewise laid down in many conventions ... to the effect that the parties to a case must
+abstain from any measure capable of exercising a prejudicial effect in regard to the execu-
+tion of the decision to be given, and, in general, not allow any step of any kind to be taken
+which might aggravate or extend the dispute” (Electricity Company of Sofia and Bulgaria,
+Order of 5 December 1939, P.c.1.J., Series A/B, No. 79, p. 199).
+
+[...] 109. Thus, the Court has reached the conclusion that orders on provisional mea-
+sures under Article 41 have binding effect.’
+
+42 Avenaand Other Mexican Nationals (Mexico v. United States of America), Provisional Mea-
+sures, Order of 5 February 2003, Icy Reports 2003, 77 ff., para. 59.
+
+Federico Lenci - 9789004368385
+Downloaded from Brill.com1 0/09/2020 03:27:55PM
+via Leiden University
+THE LEGAL FORCE OF PROVISIONAL MEASURES 37
+
+is a clear example of the extent to which Ics1D tribunals are influenced (at an
+increasing pace) by the construction of public international law as interpreted
+and applied by the cj. Such a cross-fertilisation,** so far unilateral,** is one
+of the manifestations of the fact that the investment framework is inscribed
+within public international law.
+
+In addition, the precise meaning of the travaux préparatoires has to be ex-
+plained in more detail. Indeed, the debate about the legal force of provisional
+measures was determined by the opportunity to incorporate decisions grant-
+ing provisional measures in the form of an interim award, for the purpose of
+enforcement. Eventually, such option was rejected and the legal force of said
+decisions reduced.* It is quite easy to understand the intersection between the
+plan of the legal force of provisional measures and that of their enforcement.
+Curiously indeed, the same dynamic occurred in the debate upon the estab-
+lishment of the Pcij, where eventually the term ‘indicate’ substituted the term
+‘order.*° Therefore, the drafting history of the recommend/order binomial is to
+be read as favouring the interpretation of the binding legal force of provisional
+measures, to which nobody within the Drafting Committee had objected.
+
+Other references are contained in its ancillary instrument, namely the Arbi-
+tration Rules, adopted by the Administrative Council of the Centre according
+to Art. 6, para. 1 lett. c of the IcsID Convention: Art. 39 provides that
+
+(1) At any time after the institution of the proceeding, a party may request
+that provisional measures for the preservation of its rights be recom-
+mended by the Tribunal. The request shall specify the rights to be pre-
+served, the measures the recommendation of which is requested, and the
+circumstances that require such measures.
+
+(2) The Tribunal shall give priority to the consideration of a request made
+pursuant to paragraph (1).
+
+43 On the issue of cross-fertilisation in relation to the perspective of the theory of inherent
+powers, see Chester Brown, “The Inherent Powers of International Courts and Tribunals’
+[2005] BYBIL 195 ff; see, more generally from the same author, A Common Law of Interna-
+tional Adjudication (Oxford, OUP 2007).
+
+44 On the issue of one-way reference by IcsID tribunals to the jurisprudence of the Icy,
+see Alain Pellet, ‘The Case Law of the Icy in Investment Arbitration’ [2013] Ics1D Review
+229 ff.
+
+45 History of the 1cs1p Convention, quoted supra footnote 33 (Vol. No. 2) 338 ff. See also Paul
+Friedland, ‘Ics1p and Court-Ordered Provisional Remedies: An Update’ [1988] Arbitra-
+tion International 163; Christoph Schreuer et al, quoted supra footnote 34, 765 f.
+
+46 See Cour permanente de justice internationale, Comité consultatif des juristes, Procés-
+Verbaux des séances du Comité, quoted supra footnote 1, 278.
+
+Federico Lenci - 9789004368385
+Downloaded from Brill.com1 0/09/2020 03:27:55PM
+via Leiden University
+38 LENCI
+
+(3) The Tribunal may also recommend provisional measures on its own ini-
+tiative or recommend measures other than those specified in a request. It
+may at any time modify or revoke its recommendations.
+
+(4) The Tribunal shall only recommend provisional measures, or modify or
+revoke its recommendations, after giving each party an opportunity of
+presenting its observations.
+
+(5) Ifa party makes a request pursuant to paragraph (1) before the constitu-
+tion of the Tribunal, the Secretary-General shall, on the application of
+either party, fix time limits for the parties to present observations on the
+request, so that the request and observations may be considered by the
+Tribunal promptly upon its constitution.
+
+(6) Nothing in this Rule shall prevent the parties, provided that they have so
+stipulated in the agreement recording their consent, from requesting any
+judicial or other authority to order provisional measures, prior to or after
+the institution of the proceeding, for the preservation of their respective
+rights and interests.
+
+In this regard, it has to be noted that the term recommend is contained in para-
+graphs 1, 3 and 4, ce. in the early provisions; instead, in the other two paragraphs
+(paragraph 5, included in 2006; paragraph 6, included in 1985) such reference
+is lacking. On the contrary, paragraph 6 adopts the term order in relation to
+domestic courts, to which the parties may have recourse with requests for pro-
+visional measures (provided the existence of a written agreement to that ef-
+fect). | consider such inclusions as a further indication of the binding force of
+ICSID provisional measures: the different character of imperium may otherwise
+produce a harmful effect to the general framework of this dispute settlement
+mechanism. Such difference of imperium would mean that in the context of
+concurrent jurisdiction there would be a threat to the integrity of proceedings
+and to the very adjudicatory function of the arbitral tribunal, since the arbitral
+tribunal would be subordinated to the authority of domestic courts in relation
+to fundamental aspects of fair administration of justice. This would run con-
+trary to one of the main features of Icsi1D tribunals, namely their autonomy
+from external, potentially politically-biased, interference.
+
+Art. 47 of the 1cs1pD Additional Facility (ar) Arbitration Rules*’ provides for
+both orders and recommendations:
+
+47 On 27 September 1978, the Administrative Council of the Centre authorized the Secre-
+tariat to administer at the request of the parties concerned certain proceedings between
+States and nationals of other States falling outside the scope of the Ics1D Convention. It
+concerns three groups of proceedings: 1 — conciliation or arbitration proceedings for the
+
+Federico Lenci - 9789004368385
+Downloaded from Brill.com1 0/09/2020 03:27:55PM
+via Leiden University
+THE LEGAL FORCE OF PROVISIONAL MEASURES 39
+
+(1) Unless the arbitration agreement otherwise provides, either party may at
+any time during the proceeding request that provisional measures for the
+preservation of its rights be ordered by the Tribunal. The Tribunal shall
+give priority to the consideration of such a request.
+
+(2) The Tribunal may also recommend provisional measures on its own ini-
+tiative or recommend measures other than those specified in a request. It
+may at any time modify or revoke its recommendations.
+
+(3) The Tribunal shall order or recommend provisional measures, or any
+modification or revocation thereof, only after giving each party an op-
+portunity of presenting its observations.
+
+(4) The parties may apply to any competent judicial authority for interim or
+conservatory measures. By doing so they shall not be held to infringe the
+agreement to arbitrate or to affect the powers of the Tribunal.
+
+The origin of these Rules prevents an automatically analogic reading of its text
+in combination with the Ics1ID Convention and the Arbitration Rules; however,
+it constitutes a relevant element in the appropriate construction of the evolv-
+ing nature of arbitrators’ interim powers. These indications shall be inserted in
+the broader context of public international law adjudication, comprising the
+law and practice of the Icy, ITLOS, ECtHR and Iran-us Claims tribunals. In this
+regard, it has been submitted that a general principle of international law has
+emerged from such evolutions.*8
+
+Arbitral tribunals in some cases do not even feel the necessity to refer in
+detail to previous decisions in order to establish their binding power: for ex-
+ample, the Ics1D tribunal in Tethyan Copper v. Pakistan, immediately after
+quoting Art. 47 of the IcsID Convention, affirmed in the same paragraph that
+‘thus, there is no question that the Tribunal has the authority to order pro-
+visional measures to preserve a party’s right’;*9 it is also worth mentioning
+that the tribunal in Perenco v. Ecuador referred to IcsID tribunals’ inherent
+
+settlement of investment disputes arising between parties one of which is not a Contract-
+ing State or a national of a Contracting State; 2 — conciliation or arbitration proceedings
+between parties at least one of which is a Contracting State or a national of a Contracting
+State for the settlement of disputes that do not directly arise out of an investment; 3 —
+fact-finding proceedings.
+
+48 Antonios Tzanakopoulos, ‘Provisional Measures Indicated by International Courts: Emer-
+gence of a General Principle of International Law’ [2004] Revue Hellénique de Droit in-
+ternational 53.
+
+49  Tethyan Copper v. Pakistan, 1cSID case no. ARB/12/1, Decision on Claimant’s request for
+provisional measures dated 13 December 2012, para. 114 (see also para. 120, on the fact that
+the power to order provisional measures is generally recognized); see also Tokios Tokelés,
+
+Federico Lenci - 9789004368385
+Downloaded from Brill.com1 0/09/2020 03:27:55PM
+via Leiden University
+40 LENCI
+
+power, coupled with a vast collection of precedents in public international law
+adjudication.>°
+
+It is also noted that so far parties to IcSID arbitration have not raised the
+issue of manifest excess of powers on this aspect as a ground for annulment
+pursuant to Art. 52 (1) (b) of the Ics1D Convention, which may be considered
+as a further element of acceptance of arbitrators’ binding power.
+
+As to the attitude of IcsID member States with regard to such departure
+from the ordinary meaning of the treaty text of Art. 47 of the Ics1D Conven-
+tion in arbitral case law, Prof. Gazzini and Prof. Kolb convincingly argue that
+the lack of reaction to or the acquiescence in such case law has led to an in-
+formal modification of Art. 47 in the sense of allowing the issuance of binding
+provisional measures.°!
+
+In this regard, the fact that an adjudicatory organ has the power to issue
+binding provisional measures constitutes a general principle of law, as the
+large majority of the legal systems of the world indicate.
+
+Therefore, despite the departure in ICSID case law from the ordinary mean-
+ing of Art. 47 of the IcsID Convention providing for the tribunal’s power to
+issue merely hortatory provisional measures, such departure is legitimised by
+ICSID member States’ acquiescence thereto amounting to an informal modi-
+fication of the treaty and by the fact that it is not incompatible with the prin-
+ciples which are the expression of the main legal systems of the world.
+
+Turning to ad hoc international investment arbitration, Art. 26 of the 2010
+UNCITRAL Arbitration Rules provides for interim measures, an expression
+analogous to that of provisional measures in the IcsID framework. This version
+has been significantly expanded in comparison to the corresponding article in
+the 1976 UNCITRAL Arbitration Rules. Mr. Castello, who actively participated
+in both working groups that carried out the reform of the UNCITRAL Arbitra-
+tion Rules and the Model Law,°? explains that the main reason consisted in
+the necessity to seek cooperation from domestic courts where said measures
+had to be decided upon and/or enforced and to their idiosyncrasy to do so if
+the scope of the arbitrator’s power was broad (since they read it as unclear).*3
+
+ICSID case no. ARB/o2/18, Order no. 1 on Claimant’s request for provisional measures
+dated 1 July 2003, para. 4.
+
+50  Perenco v. Ecuador, 1cS1D case no. ARB/o8/6, Decision on provisional measures dated 8
+May 2009, paras. 67-77.
+
+51 ‘Tarcisio Gazzini and Robert Kolb, quoted supra footnote 36, 180-183.
+
+52  Art.17 of the Model Law deals with interim measures.
+
+53 James Castello, ‘Generalizing about the Virtues of Specificity: The Surprising Evolution of
+the Longest Article in the UNCITRAL Model Law’ [2012] World Arbitration and Mediation
+
+Federico Lenci - 9789004368385
+Downloaded from Brill.com1 0/09/2020 03:27:55PM
+via Leiden University
+THE LEGAL FORCE OF PROVISIONAL MEASURES 41
+
+Conditions, purposes and atypicalness of provisional measures are con-
+tained, respectively, in paragraph 3,54 paragraph 2 letters (a)-(b)-(c)-(d)>° and
+paragraph 2, alinea 1.°°
+
+The binding force of interim measures is not expressly affirmed in the first
+paragraph in a clear form: indeed, the arbitral tribunal may grant interim mea-
+sures; however, paragraph 2 contains a description of the content of interim
+measures, specifying that the tribunal orders said measures. The form in which
+the measure is granted — be it an award or an order — may have an impact on
+its enforceability, not on its binding force, which appears to be more clearly
+expressed than its counterpart in the Ics1D framework.>”
+
+The form containing a decision on interim measures is not provided for
+in Art. 26. Undoubtedly, interim measures issued in the form of awards are
+more likely to be enforceable than orders, since the 1958 New York Convention
+on the recognition and enforcement of foreign arbitral awards only refers to
+‘awards.°® A reason for such a reticence with regard to the form of the deci-
+sion on interim measures was due to the fact that, since awards are final, this
+
+Review 7; Ibid., ‘Unveiling the 2010 UNCITRAL Arbitration Rules’ [2010] Dispute Resolu-
+
+tion Journal 21.
+
+54 ‘The party requesting an interim measure under paragraphs 2 (a) to (c) sh:
+
+(a) Harm not adequately reparable by an award of damages is likely to result if the mea-
+sure is not ordered, and such harm substantially outweighs the harm that is likely to
+result to the party against whom the measure is directed if the measure is granted; and
+
+(b) There is a reasonable possibility that the requesting party will succeed on the merits
+of the claim. The determination on this possibility shall not affect the discretion of the
+arbitral tribunal in making any subsequent determination.
+
+55 ‘(a) Maintain or restore the status quo pending determination of the dispute;
+
+(b) Take action that would prevent, or refrain from taking action that is likely to cause, (i)
+current or imminent harm or (ii) prejudice to the arbitral process itself;
+
+(c) Provide a means of preserving assets out of which a subsequent award may be satis-
+fied; or
+
+(d) Preserve evidence that may be relevant and material to the resolution of the dispute.
+
+56 ‘2. An interim measure is any temporary measure by which, at any time prior to the issu-
+ance of the award by which the dispute is finally decided, the arbitral tribunal orders a
+party, for example and without limitation, to: [...]’ [italics added, A/N].
+
+57 Robert Volterra, ‘Provisional Measures (Interim Measures) and Investment Treaty Arbi-
+tration under IcsID and UNCITRAL: Developments and Trends’ in Andrea Bjorklund,
+lan Laird and Sergey Ripinsky (eds), Investment Treaty Law. Current Issues 111 (London
+2009) 23 f.
+
+58 See David Caron and Lee Caplan, The UNCITRAL Arbitration Rules. A Commentary (2nd
+edition, Oxford, OUP 2013) 524.
+
+Federico Lenci - 9789004368385
+Downloaded from Brill.com1 0/09/2020 03:27:55PM
+via Leiden University
+42 LENCI
+
+element would run contrary to the typical provisional and modifiable charac-
+ter of interim measures, able to lead to some confusion in connection with Art.
+26, para. 5.°9 According to Prof. Caron and Mr. Caplan, such a view is ‘overly
+formalistic, since there is no discussion on the fact that interim measures can
+be granted in the form of an award.®°
+
+In some cases, the text of the applicable treaty can shed some light on the
+point of the binding force: it constitutes one of the manifestations of the phe-
+nomenon called treatification of provisional measures, where the treaty plays
+the role of lex specialis in relation to the relevant arbitration rules (mainly,
+ICSID and UNCITRAL); said phenomenon will arguably become increasingly
+relevant in future treaty negotiations and, consequently, arbitrations. An
+example in this sense has been given by the EnCana Corp. v. Government of
+Ecuador case.®* Claimant sought interim measures to prevent freezing of assets
+of EnCana subsidiaries and its legal representative pending arbitration. Two
+different provisions dealt with interim measures: the UNCITRAL Arbitration
+Rules (in particular, the 1976 version) and Art. x111(8) of the applicable BIT,
+namely the one between Canada and Ecuador. Art. x111(8) provides:
+
+A tribunal may order an interim measure of protection to preserve the
+rights of a disputing party, or to ensure that the tribunal's jurisdiction is
+made fully effective, including an order to preserve evidence in the pos-
+session or control of a disputing party or to protect the tribunal’s jurisdic-
+tion. A tribunal may not order attachment or enjoin the application of
+the measure alleged to constitute a breach of this Agreement. For pur-
+poses of this paragraph, an order includes a recommendation.
+
+The arbitral tribunal found that, since the treaty provision was specifically ap-
+plicable to investments by Canadian corporations in Ecuador (and vice ver-
+sa), it prevailed over the general power contained in Art. 26 of the UNCITRAL
+Arbitration Rules.®? The clear meaning of the BIT provision indicated that it
+had the authority to issue binding interim measures.
+
+59 Art. 26, para. 5, reads: ‘The arbitral tribunal may modify, suspend or terminate an interim
+measure it has granted, upon application of any party or, in exceptional circumstances
+and upon prior notice to the parties, on the arbitral tribunal's own initiative’ See UNCIT-
+RAL, 47th Session, UN Doc. A/CN.9/614, no. 2, 11, para. 51.
+
+60 _ David Caron and Lee Caplan, quoted supra footnote 58, 525.
+
+61 EnCana Corp. v. Government of Ecuador, Interim award dated 31 January 2004, LCIA ad-
+ministered, UNCITRAL Arbitration Rules.
+
+62 Award, para. 10.
+
+Federico Lenci - 9789004368385
+Downloaded from Brill.com1 0/09/2020 03:27:55PM
+via Leiden University
+THE LEGAL FORCE OF PROVISIONAL MEASURES 43
+
+In Chevron Corp. v. Republic of Ecuador, the arbitral tribunal, after denying a
+different degree of normativity of its decision according to the form adopted,®
+declared that ‘this order shall be immediately final and binding upon all Par-
+ties, subject only to any subsequent variation made by the Tribunal (upon ei-
+ther its own initiative or any Party’s request).’64
+
+The practice of the Iran-us Claims Tribunal has confirmed the binding pow-
+er of interim measures under the UNCITRAL Rules, generally relying upon the
+theory of inherent powers:® the theory plays the dual role of establishing ju-
+risdiction to issue such measures and at the same time affirming binding force.
+In Rockwell v. Iran, the arbitral tribunal extended the scope of the precedent
+E-Systems v. Iran®® — which had affirmed the theory for the first time in the case
+law of this tribunal — stating that this inherent power is in no way restricted
+by the terms of Art. 26 of the UNCITRAL Arbitration Rules.®’ Such practice is
+consolidated in the Iran-us Claims Tribunal.®*
+
+63 Chevron Corp. v. Republic of Ecuador, Order for interim measures dated 9 February 2011,
+PCA administered, 1976 UNCITRAL Arbitration Rules, Us-Ecuador BIT, lett. (C): ‘As to
+form, the Tribunal records that, whilst this decision under Article 26 of the UNCITRAL
+Rules is made in the form of an order and not an interim award, given the urgency re-
+quired for such decision, the Tribunal may decide (upon its own initiative or any Par-
+ty’s request) to confirm such order at a later date in the form of an interim award under
+Articles 26 and 32 of the UNCITRAL Rules, without the Tribunal hereby intending conclu-
+sively to determine the status of this decision, one way or the other, as an award under the
+1958 New York Convention.
+
+64 _ Ibid., lett. (1).
+
+65 Andrea Carlevaris, La tutela cautelare nellarbitrato internazionale (Padova 2006) 237:
+‘Per evitare le difficolta derivanti dall’esatta determinazione dei propri poteri sulla base
+dell’art. 26, il Tribunale non si é generalmente limitato a giustificare la propria compe-
+tenza in materia cautelare con riferimento alla norma in esame, e ha frequentemente
+fatto ricorso ad argomenti diversi, primo tra i quali — come gia altrove osservato — quello
+fondato sulla nozione di “inherent powers.”
+
+66  ~E-Systems, Inc. v. The Government of the Islamic Republic of Iran, case no. 388, Award no.
+ITM 13-388-FT. This case, as well as the following ones concerning the activity of the
+Iran-us Claims tribunal, are drawn and re-elaborated starting from extracts contained in
+David Caron and Lee Caplan, quoted supra footnote 58, 533 ff.
+
+67 Rockwell Intl Systems, Inc. v. The Islamic Republic of Iran, Ministry of Defence, Award no.
+ITM 20 dated 6 June 1983, 430 f., reprinted in 2 Iran-US CTR 369, 371.
+
+68 See also RcA Global Communications, Inc. v. Islamic Republic of Iran, Award no. ITM 30-
+160-1 dated 31 October 1983, 5, reprinted in 4 lran-us CTR 9, u.f.; Islamic Republic of Iran v.
+United States of America, cases nos. A/4 and A/15, Award no. ITL 33-A-4/A-15(I11)-2 dated
+1 February 1984, 5, reprinted in 5 lran-US CTR 131-133 (1984-1).
+
+Federico Lenci - 9789004368385
+Downloaded from Brill.com1 0/09/2020 03:27:55PM
+via Leiden University
+44 LENCI
+4 Conclusion
+
+General principles of law fulfil an important function in increasing the overall
+legitimacy of investor-State arbitration, in the form of control on arbitral rule-
+making power.
+
+Their role may be considered from the negative perspective, meaning that
+the evolution and/or consolidation of arbitral case law may be subject to a
+scrutiny of non-incompatibility with the principles which are the expression
+of the main legal systems of the world.
+
+With regard to the legal force of provisional measures issued by ICsID tri-
+bunals, despite the departure in ICsSID case law from the ordinary meaning
+of Art. 47 of the 1csID Convention providing for the tribunal’s power to issue
+merely hortatory provisional measures, such departure is legitimised by Ics1D
+member States’ acquiescence thereto amounting to an informal modification
+of the treaty®® and by the fact that it is not incompatible with the principles
+which are the expression of the main legal systems of the world.
+
+The evolution in ICcsID arbitration’s case law towards the binding force of
+provisional measures is an example of the function as a ‘gate-keeper’ fulfilled
+by the general principles of law in the investment framework.
+
+69 — Tarcisio Gazzini and Robert Kolb, quoted supra footnote 36, 180-183.
+
+Federico Lenci - 9789004368385
+Downloaded from Brill.com1 0/09/2020 03:27:55PM
+via Leiden University

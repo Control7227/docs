@@ -1,0 +1,1412 @@
+Kopie von Freshfields , abgerufen am 16.10.2020 05:13 - Quelle: beck-online DIE DATENBANK
+
+Keller, Wendler: Is there a Common Approach to Provisional Measures? - An SchiedsVZ
+Overview of ICSID Case Law 2011, 183
+
+Is there a Common Approach to Provisional Measures? — An Overview of
+ICSID Case Law
+
+By Dr. Moritz Keller, LL.M. and Carsten Wendler Lopez, LL.M., Frankfurt/Cologne*
+
+The relevance of provisional measures in international investment arbitration has
+significantly increased over the last years. Tribunals are often requested to decide over
+essential issues prior to rendering their final award. As is true for any issue in
+international investment arbitration, the law is developing fast. So far, the standard for
+provisional measures seems to be unsettled. This essay examines the recent ICSID case
+law in order to shed some light on the different approaches and new developments. In
+particular, this contribution studies the requirements for provisional measures and the
+
+rights that can be protected.
+
+Die Bedeutung von einstweiligen MaBnahmen in der internationalen
+Investitionsschiedsgerichtbarkeit hat entscheidend zugenommen. Schiedsgerichte
+werden immer haufiger angerufen, um Uber wichtige Sachverhalte noch vor Erlass des
+Schiedsspruches zu entscheiden. Charakteristisch fur die internationale
+Investitionsschiedsgerichtbarkeit, schreitet auch hier die Entwicklung schnell voran,
+wobei noch Uneinigkeit uber die Anforderungen fur den Erlass von einstweiligen
+MaBnahmen zu bestehen scheint. Dieser Artikel untersucht die jungsten ICSID
+Schiedsspriiche, um die verschiedenen Ansatze zu durchleuchten. Dabei erforscht der
+Beitrag insbesondere die Voraussetzungen fiir einstweilige MaBnahmen sowie die
+
+Rechte, die durch solche geschutzt werden konnen.
+I. Introduction
+
+Investment arbitration proceedings tend to go on for several years and, at the same time, usually
+deal with issues of financial and sometimes also political importance. It is only natural that some of
+the issues between the parties will need to be decided prior to the Tribunal rendering the final
+award. While more and more requests for provisional measures have become public as investment
+arbitration is becoming increasingly popular, the requirements for such provisional measures do not
+
+appear to be agreed upon.
+
+Keller, Wendler: Is there a Common Approach to Provisional Measures? -
+
+An Overview of ICSID Case Law(SchiedsVZ 2011, 183) 184
+Although it is established ICSID1 case law that a Tribunal can recommend provisional measures
+where the requested measures are necessary and urgent to protect the rights in dispute, these
+requirements are far from being interpreted unanimously. A prominent example is the question
+whether the harm that provisional measures are meant to prevent must be irreparable or (merely)
+significant. A trilogy of recent ICSID cases abandoned the standard of irreparable harm in order to
+establish necessity2. In addition, a recent decision rendered under the UNCITRAL Arbitration Rules3
+also developed a broader interpretation of the powers available to a Tribunal to grant provisional
+measures and applied a more flexible standard based on “very substantial prejudice” as opposed to
+harm not reparable by damages4. Nevertheless, the Cemex v. Venezuelas Tribunal was
+
+unimpressed by the development and returned to the standard of irreparable harm.
+
+These new events provide fuel to the debate on the appropriate standard for provisional measures.
+
+The aim of this article is to shed some light on the new development on provisional measures and
+
+https: //beck-online.beck.de/Bcid/Y-300-Z-SCHIEDSVZ-B-2011-S-183-N-1
+1 von 22 16.10.2020
+Kopie von Freshfields , abgerufen am 16.10.2020 05:13 - Quelle: beck-online DIE DATENBANK
+
+to offer some thought provoking impulse. Addressing the unsolved issues, ICSID Tribunals often
+relied on case law of the International Court of Justice (ICJ), the principles derived therefrom and
+on other international arbitration cases such as cases decided by the US-Iran Claims Tribunal or
+under the UNCITRAL Rules. Since this article focuses on ICSID arbitration, reference to the ICJ or
+other arbitration rules will be made when appropriate along the analysis, rather than providing an
+
+outline of such development separately.
+
+This essay is structured as follows: First, the different approaches to the requirements for a
+recommendation of provisional measures will be analyzed on the basis of the applicable provisions
+(II.). Subsequently, the binding nature and enforcement of a decision on provisional measures are
+
+addressed (III.), before a short summary concludes the article (IV.).
+II. Requirements for Provisional Measures under ICSID Case Law
+
+The framework for provisional measures in ICSID proceedings is laid out in Art. 476 of the ICSID
+Convention7 and Rule 398 of the ICSID Arbitration Rulesg. As follows from the wording of Art. 47 of
+the ICSID Convention “any provisional measure” might be recommended by the Arbitral Tribunal
+sua sponte or on request by the parties. Rule 39 of the ICSID Rules does not narrow the Tribunal's
+discretion in its wording. Any Tribunal thus - after having assumed prima facie jurisdiction to hear
+the case (1.) -— has to consider that the circumstances require such provisional measures to be
+granted (2.). Another requirement follows from the wording of Art. 47 of the ICSID Convention that
+
+provisional measures “should be taken to preserve the respective rights of either party"(3).
+1. Prima Facie Jurisdiction
+
+Parties in past and present proceedings repeatedly raised jurisdictional objections stating that the
+Tribunal lacks jurisdiction to hear the case on the merits and would thus consequently not have
+
+jurisdiction to issue a recommendation for provisional measures.
+
+Most Tribunals have pointed out — in line with IC) jurisprudenceio — that a Tribunal does not need
+to be convinced that it has jurisdiction to hear the case on the merits to issue a recommendation
+for provisional measures, but that prima facie jurisdiction shall suffice11. In Pey Casado v. Chile,
+
+the Tribunal emphasized
+
+Keller, Wendler: Is there a Common Approach to Provisional Measures? -
+
+An Overview of ICSID Case Law(SchiedsVZ 2011, 183) Mats
+that the preliminary examination by the Secretary-General under Article 36 of the ICSID
+Convention would usually establish prima facie jurisdiction alreadyi2. However, most Tribunals did
+conduct their own analysis on whether prima facie jurisdiction existed13. In doing so the Tribunals
+analyzed the request for arbitration in order to find an indication for the parties agreement to
+arbitrate. For instance, in Burlington v. Ecuador and Occidental v. Ecuador the Tribunals referred to
+the relevant arbitration clause in order to conclude that prima facie jurisdiction was established14.
+In Perenco v. Ecuador, besides referring to the arbitration clause of the BIT, the Tribunal also
+considered the definitions of investment, investor and nationality, and briefly analyzed the consent
+of the investoris5. The Tribunal in Quiborax v. Bolivia even clarified that on the date the Request for
+Arbitration was filed and registered by the ICSID Secretariat, Bolivia was still a signatory to the
+ICSID Conventionié.
+
+2. Circumstances that Require Provisional Measures
+
+If the Tribunal has assumed jurisdiction to recommend provisional measures, it will then scrutinize
+
+whether the circumstances of the case require provisional measures. A coherent body of case law
+
+https: //beck-online.beck.de/Bcid/Y-300-Z-SCHIEDSVZ-B-2011-S-183-N-1
+2 von 22 16.10.2020
+Kopie von Freshfields , abgerufen am 16.10.2020 05:13 - Quelle: beck-online DIE DATENBANK
+
+providing what is needed to establish “circumstances that require provisional measures” is — as of
+today — nowhere to be seen. Within the drafting sessions of the ICSID Rules several calls for the
+implementation of cautionary yet clarifying requirements such as “compelling reasons",
+
+“exceptional cases” or “absolute necessity” did not succeed17.
+
+It appears, nevertheless, that most Tribunals agree that “provisional measures are extraordinary
+measures which should not be recommended lightly"18. Tribunals rely unanimously on the
+requirement of urgency and necessity of the provisional measuresi9. Opinions, however, differ
+
+when it comes to fill both requirements with life2o.
+a) Urgency and Necessity of Provisional Measures
+
+For a start, Tribunals do not always distinguish between urgency and necessity. In fact, many
+
+Tribunals mingle both criteria21.
+aa) Urgency
+
+Article 47 of the Convention fails to give a Tribunal guidance on how to apply the standard. Hence,
+Tribunals have relied on the jurisprudence of the ICJ in order to define urgency. In the words of the
+ICJ the requirement of urgency is met when “there is a real risk that action prejudicial to the rights
+of either party might be taken before the Court has given its final decision"22. Following this line of
+reasoning ICSID Tribunals found, generally speaking, a provisional measure urgent as soon as the
+
+decision over such measure could not wait until the final award23.
+
+Note that the degree of urgency may depend on the circumstances of the case, in particular, on the
+
+nature
+
+Keller, Wendler: Is there a Common Approach to Provisional Measures? -
+
+An Overview of ICSID Case Law(SchiedsVZ 2011, 183) 186
+of the requested measure24. Thus, there might even be circumstances where the situation is urgent
+by definition. The City Oriente v. Ecuador25 Tribunal, for instance, held that where “the issue is to
+protect the jurisdictional powers of the Tribunal and the integrity of the arbitration and the final
+award, then the urgency requirement is met by the own very nature of the issue"26. The Burlington
+Tribunal confirmed that “when the measures are intended to protect against the aggravation of the
+dispute during the proceedings, the urgency requirement is fulfilled by definition"27. This was, in a
+similar manner, confirmed for the duty to protect the procedural integrity by the Quiborax
+
+Tribunalzs.
+bb) Necessity
+
+To establish whether necessity is given, ICSID case law relies on a risk assessment. In the words of
+the Cemex Tribunal necessity requires an “assessment of the risk of damage which provisional
+measures are intended to avert’29. At the same time, the question of the precise test to be fulfilled
+to establish necessity remains unsettled since the nature of the relevant harm might be interpreted
+differently. Hence, some Tribunals have required “irreparable harm” while other Tribunals have
+relied on a further weighing of interests and were satisfied with harm that was not irreparable but
+
+(merely) significant to come to a finding of necessity.
+(a) The Standard of Irreparable Harm
+
+A majority of ICISD Tribunals have referred to the requirement of irreparable harm when analyzing
+
+necessity30.
+
+https: //beck-online.beck.de/Bcid/Y-300-Z-SCHIEDSVZ-B-2011-S-183-N-1
+3 von 22 16.10.2020
+Kopie von Freshfields , abgerufen am 16.10.2020 05:13 - Quelle: beck-online DIE DATENBANK
+
+(aa) The Requirement of Irreparable Harm
+
+The Tribunal in Tokios Tokelés v. Ukraine31, relying on jurisprudence from the ICJ, pointed out that
+measures are necessary “where the actions of a party are capable of causing or of threatening
+irreparable prejudice to the rights invoked"32. Applying this standard, the Tribunal negated that the
+Ukraine's tax investigations or criminal proceedings against the Claimant's founder and key
+manager did indeed constitute a case of necessity33. In Plama v. Bulgaria34, the Tribunal was asked
+to grant provisional measures ordering to discontinue all pending proceedings before Bulgarian
+Courts and Bulgarian authorities. In its analysis, it adopted the notion stated in Tokios Tokelés and
+held that “/t/he need for provisional measures must be urgent and necessary to preserve the status
+
+quo or avoid the occurrence of irreparable harm or damage"35.
+
+In Occidental, the Claimants sought reinstatement of their rights and indemnification for all
+damages after the Respondent terminated agreements for the exploration and exploitation of an oil
+field. In its reasoning, the Tribunal confirmed the requirement of an irreparable harm36 and
+established that such future harm must be imminent and not merely “potential or hypothetical"37.
+Moreover, the Tribunal clarified that such irreparable harm standard would not only refer to the risk
+
+of harm with respect to the applicant but to both parties.
+
+In the latest ICSID case dealing with provisional measures, the CEMEX Tribunal refers to the ICSID
+case law and acknowledges that “/t/raditionally, ICSID Arbitral Tribunals [...] base their decision on
+the criteria of irreparable harm or damage"3s. After analysing the most recent ICSID awards on
+provisional measures39, “the Tribunal sees no reason not to retain the generally accepted standard
+of ‘irreparable harm’ as criterion for the ‘necessity’ required by Article 47 of the ICSID
+
+Convention"40.
+(bb) The Meaning of Irreparable Harm
+
+Although the mentioned Tribunals consistently refer to the term “irreparable harm” in order to find
+necessity, the question remains what “irreparable” really encompasses. Mostly, Tribunals have
+
+considered whether the imminent harm could be compensated by an award of damages.
+
+The findings of the Metalclad v. Mexico41 Tribunal shed some light on the meaning: It found that a
+provisional measure may only be granted if it is required to protect the applicant's rights from “an
+injury that cannot be made good by subsequent payment of damages”"42. The Tribunal rejected a
+declaration that the Claimant shall refrain from providing information about the proceedings to the
+public, since the Tribunal could not find any prejudice to the Respondent's rights, “Jet alone serious
+
+or irreversible damage"43. In Plama,
+
+Keller, Wendler: Is there a Common Approach to Provisional Measures? -
+
+An Overview of ICSID Case Law(SchiedsVZ 2011, 183) 187
+the Tribunal confirmed that harm was not irreparable if it could be compensated by payment of
+damages44. The Tribunal accordingly found that the Claimant could be compensated for any
+consequences of the various pending proceedings before Bulgarian Courts and Bulgarian
+authorities. Hence, the Tribunal rejected to recommend provisional measures to discontinue the
+mentioned parallel proceedings. The Tribunal in Occidenta/ provided additional foundation for the
+analysis by the Metalclad and Plama Tribunals: The Tribunal held that the mitigation of damages is
+not the principal objective for provisional measures, since in such case provisional measures would
+be necessary in almost any case45. In the view of the Tribunal the harm in such case “/s only more
+damages, and this is the harm of a type which can be compensated by monetary compensation, so
+
+there is neither necessity nor urgency to grant a provisional measure to prevent such harm'"46.
+
+https: //beck-online.beck.de/Bcid/Y-300-Z-SCHIEDSVZ-B-2011-S-183-N-1
+4 von 22 16.10.2020
+Kopie von Freshfields , abgerufen am 16.10.2020 05:13 - Quelle: beck-online DIE DATENBANK
+
+Most recently, the Tribunal in CEMEX confirmed the notion that when the harm can be compensated
+by a damage award, then such harm is not “irreparable”and there can be “neither necessity, nor
+urgency to grant the requested provisional measures"47. In this case, the Claimants argued that
+the seizure of three oil vessels, which were previously owned by CEMEX Venezuela, would lead to
+“an additional loss of almost $50 millions beyond what is currently being claimed in the
+arbitration"48. However, the Tribunal found that such circumstances could only amount to a
+financial loss, which “could be readily compensated by a damages award”49. Hence, the Tribunal
+rejected the request to order the Respondent to cease any seizure of former assets of CEMEX
+
+Venezuela, including the three oil vessels.
+
+Note that for a long time it seemed that such high standard could hardly be met. In one of the
+latest ICSID cases dealing with provisional measures, the Quiborax Tribunal found the irreparable
+harm standard met by holding that the “harm caused to the integrity of the ICSID proceedings,
+particularly with respect to a party's access to evidence or integrity of the evidence could not be
+remedied by an award of damages"50. In the view of the Tribunal, the criminal proceedings initiated
+by Bolivia limited Quiborax' access to evidence by sequestering the corporate records and by
+exercising undue pressure against potential witnesses. It appears as if the standard is more likely
+to be met when the harm goes beyond the investment and the relevant potential loss in fact
+
+threatens the proceedings.
+
+The question arises, in any event, under which specific circumstances the standard of irreparable
+harm would be fulfilled. Since an investor could arguably even be compensated for the destruction
+of an investment, it remains unclear where to draw the line. The CEMEX Tribunal has, nevertheless,
+seen the destruction of an investment, an ongoing concern, as a situation in which an investor
+
+could not be compensated for the loss suffereds51.
+(b) Significant harm by weighing of interests
+
+Recently and most notably three ICSID Tribunals rejected the “irreparable harm”standard. All three
+cases have been brought on the basis of individual contracts and not on the basis of BITs. The facts
+of the cases are very similar. The Claimants are oil companies who entered into oil production
+share contracts with Ecuador to explore and exploit oil fields on Ecuadorian territory. After the
+conclusion of the contracts, Ecuador introduced new laws and decrees imposing taxes (first 50%,
+then 99%) on revenues from the exploration and exploitation of oil fields, thereby obliging the
+respective Claimants to pay an additional share of their profits to Ecuador, contrary to the parties’
+contractual agreement. The Claimants challenged the taxation in arbitration proceedings based on
+the contracts still in force while operations were still ongoing. In addition, the Claimants requested
+provisional measures ordering Ecuador to refrain from demanding payment and enforcing the new
+
+tax law. All three Tribunals finally recommended provisional measures.
+
+In the first of the three cases, City Oriente, the Tribunal found that a requirement that provisional
+measures can be ordered only as a means to prevent irreparable harm follows neither from the
+wording of Rule 39 of the ICSID Arbitration Rules nor of Art. 47 of the ICSID Conventions2. The
+Tribunal emphasized that the only requirement arising from the wording of Rule 39 was that of
+urgencys3. Although the Tribunal confirmed that provisional measures were not to be ordered
+lightly, it refused to apply the irreparable harm standard and introduced a weighing of interests in
+order to assess whether the harm is “significant and [...] it exceeds greatly the damage caused to
+the party affected thereby”54. In the view of the Tribunal such balancing would consist of a “careful
+consideration of the interests at stake, weighing the harm spared the petitioner and the damage
+inflicted on the other party’55. Having in mind that the main relief sought by the Claimant was
+
+specific contract performance, the Tribunal saw a high risk that the contract may be terminated by
+
+https: //beck-online.beck.de/Bcid/Y-300-Z-SCHIEDSVZ-B-2011-S-183-N-1
+5 von 22 16.10.2020
+Kopie von Freshfields , abgerufen am 16.10.2020 05:13 - Quelle: beck-online DIE DATENBANK
+
+Ecuador thereby prejudicing the enforcement of a final award. In addition, it found that the sums
+claimed by Ecuador might at this stage of the proceedings exceed Claimant's financial capabilities,
+
+a harm it found more serious than the potential delay of payment to Ecuadorse.
+
+In Perenco, the Tribunal acknowledged that most authorities recognized the standard of irreparable
+
+loss
+
+Keller, Wendler: Is there a Common Approach to Provisional Measures? -
+
+An Overview of ICSID Case Law(SchiedsVZ 2011, 183) Mee
+and that, where the caused loss cannot be compensated by an award of damages, the requirement
+is likely to be fulfilled. However, the Tribunal emphasized that the test does not follow from Article
+47 and accordingly rejected to apply the standards7. The Tribunal came to the conclusion that a
+seizure of the Claimant's assets could jeopardise the Claimant's ability to proceed with the
+investment. It underlined that, if Perenco's business would come to an end, “such injury could not
+[...] be adequately compensated by an award of damages should its claim be ultimately upheld"ss.
+Thus, even though the Tribunal rejected the irreparable harm test, it appears as if the facts
+nevertheless fulfilled such standard. One important consideration in order to distinguish the case
+from Occidental was - as in City Oriente - that the relevant contract was not terminated for which
+reason the Claimant based its claim on specific contract performances9. It seems that the Tribunal
+also focused on protecting the ongoing investment and on apprehending “that Perenco's business in
+
+Ecuador would be crippled, if not destroyed"6o.
+
+The Burlington Tribunal also rejected the standard of irreparable harm and referred to the standard
+of “harm not adequately reparable by an award of damages” used by the UNCITRAL Model Lawéi.
+In order to assess necessity the Tribunal introduced the balancing of “the degree of harm the
+applicant would suffer but for the measure"62. Moreover, the Tribunal also emphasized that it would
+“weigh the interests of both sides in assessing necessity"63. Once more the Tribunal found that the
+situation of having a contract in force was distinguishable from Occidental since the risk of harm
+was not only more damages but the “destruction of an ongoing investment and of its revenue
+producing potential which benefits both the investor and the State’64. Thus, it recognized the risk
+of losses, which could lead to the cessation of the ongoing operation. Hence, the Tribunal came to
+the conclusion that “adequately structured” provisional measures were in the interest of both
+
+parties65 and recommended the establishment of an escrow accountéé.
+
+The approach adopted by the Tribunal in the recent case of Railroad Development Corporation
+(RDC) v. Guatemala67 was somewhat different but still in the same line of reasoning. The Tribunal
+arrived at the conclusion that — since the ICSID Convention is silent on the requirements for an
+ICSID Tribunal to recommend provisional measures — the applicable standard is one of
+reasonablenessés. Thus, a Tribunal has to consider all circumstances of the request, specifically
+taking into account the rights to be protected and their susceptibility to irreversible damages in
+case provisional measures are not recommendedég. Applying the standard of reasonableness, the
+Tribunal rejected to recommend provisional measures to preserve certain categories of documents
+allegedly material for RDC's claim. In its opinion the request “would place an unfair burden on the
+Government because of its excessive breadth and no need or urgency has been proven to justify
+
+the recommendation"70.
+(c) Flexible standard under UNCITRAL Rules
+
+The recent UNCITRAL case Sergei Paushok v. Mongolia71 developed yet another approach. The
+
+Tribunal found that “irreparable harm” in international law has a flexible meaning72. As in City
+
+https: //beck-online.beck.de/Bcid/Y-300-Z-SCHIEDSVZ-B-2011-S-183-N-1
+6 von 22 16.10.2020
+Kopie von Freshfields , abgerufen am 16.10.2020 05:13 - Quelle: beck-online DIE DATENBANK
+
+Oriente, Perenco and Burlington the investor challenged new tax laws impairing its investment a
+
+profit tax of 68% on the amount exceeding the gold sales price of USD 500 per ounce.
+
+Upfront, the Tribunal emphasized that the wording of the relevant provision under the UNCITRAL
+Rules, i.e. Article 26(1), “leaves a wider discretion to the Tribunal in the awarding of provisional
+measures (‘any interim measures it deems necessary in respect of the subject-matter of the
+disputes’) than under Article 47 of the ICSID Rules (‘provisional measures for the preservation of
+its rights’)"73. Acknowledging the approach in Occidental and Plama, the Paushok Tribunal rejected
+the notion that the possibility of monetary compensation necessarily eliminates necessity for
+provisional measures74. The Tribunal relied on the Behring Case of the U.S.-Iran Claims Tribunal
+stating that in international law “irreparable prejudice” does not require that the harm be not
+remediable by an award of damages75. By referring to Article 17A of the UNCITRAL Model Law the
+Tribunal concluded “that [...] ‘irreparable harm’ in international law has a flexible meaning”. In the
+view of the Tribunal, Article 17A does not require irreparable harm, but merely harm “not
+adequately reparable by an award of damages"76. Applying this standard, the Tribunal came to the
+conclusion that Claimants would face a “very substantial prejudice” in form of insolvency and thus a
+
+complete loss of the investment77. In the opinion of the Tribunal
+
+Keller, Wendler: Is there a Common Approach to Provisional Measures? -
+
+An Overview of ICSID Case Law(SchiedsVZ 2011, 183) 189
+this justifies provisional measures in form of suspending the payment of the profit tax although the
+profit tax amounts merely to an aggravation of debts and recourse in damages remains available to
+
+the Claimantsz7s.
+b) Proportionality
+
+It is noteworthy that, in one way or the other, some Tribunals tend to rely on some form of
+proportionality when granting provisional measures. When the standard consists of weighing the
+interests at stake and balancing the harms inflicted on both parties, such proportionality is included
+in the applied standard79. In other cases, proportionality amounts to an extra test in order to
+
+assure that granting provisional measures does not lead to unreasonable resultsso.
+c) Conclusion
+
+Bearing in mind that in international arbitration the doctrine of stare decisis is not applicable and
+there exists no power of precedent as such, a common approach to provisional measures has not
+yet been developed. Some Tribunals raise the bar higher than others: While most ICSID Tribunals
+still tend to apply the irreparable harm standard, there has been a visible tendency to slightly
+deviate from the standard: A few recent ICSID Tribunals rejected the standard in order to protect
+an ongoing investment. The two most recent ICSID decisions on provisional measures CEMEX and
+Quiborax could have been the turning point for the potential development of a common approach to
+provisional measures. While both considered the different standards, both Tribunals nevertheless
+applied the irreparable harm test, thereby leaving the question to the future development of case
+
+law.
+
+The CEMEX Tribunal - while examining the new approaches established in Burlington, Perenco and
+Paushok - emphasized that even in the cases where the test of irreparable harm was rejected, the
+facts of the cases nevertheless met such test, for which reason it insisted on the standard. In
+
+Quiborax, the Tribunal seemed to be reluctant to take a stance. While it acknowledged the Parties
+
+disagreement whether the harm must be “serious or irreparable"s1, it merely stated that
+
+https: //beck-online.beck.de/Bcid/Y-300-Z-SCHIEDSVZ-B-2011-S-183-N-1
+7 von 22 16.10.2020
+Kopie von Freshfields , abgerufen am 16.10.2020 05:13 - Quelle: beck-online DIE DATENBANK
+
+“irreparable harm is harm that cannot be repaired by an award of damages"32. This appears to be
+the language of the standard, but the Tribunal refers to Art. 17A of the UNCITRAL Model Law and
+
+bases its interpretation on exactly those ICSID Tribunals who actually rejected the standards3.
+
+It can be observed that the essential difference between both groups of cases is whether there is a
+threat to an ongoing investment or the proceedings. Where the investment is still ongoing,
+significant weight should be given to protecting such investment through provisional measures,
+while after the termination of an investment, monetary damages will likely suffices4. In addition,
+Tribunals will not accept any obstruction of the proceedings. While emphasizing the factual
+circumstances and in particular the question whether the investment is still a going concern will be
+of significant importance, the question remains whether the “right” abstract definition of the
+
+required standard of harm is in fact rather of theoretical relevance.
+
+To answer this question, one would need a crystal ball: The decisive issue will be, how the
+Tribunals will apply the different standards in practice, in particular the standard of irreparable
+harm. One could, for example, argue that even the destruction of an ongoing investment could be
+reparable by damages. Further circumstances where it is likewise difficult to determine whether
+harm is reparable by damages or not are easily imaginable. Is a lost investment opportunity
+reparable by damages? It could be argued that the opportunity should be protected in the same
+way an ongoing investment is protected. The given examples show that a clear and consistent test
+
+for necessity could provide helpful guidance for parties, counsel and arbitrators alike.
+3. Rights to be Preserved
+
+Any analysis of the requirements of urgency and necessity needs to consider the right sought to be
+preserved by the provisional measures. While the scope of protected rights seems reasonably clear,
+the protection of the general right to non-aggravation of the dispute is a particularly prominent
+topic of the discussion as is the protection of the exclusivity of ICSID arbitration. Moreover, ICSID
+Tribunals have also come to different conclusions when dealing with the right to specific
+
+performance of a contract.
+a) General Scope
+
+In general, the rights protected under Rule 39 of the Arbitration Rules and Article 47 of the ICSID
+
+Convention are meant to be those of the status quo, i.e. at that point in time existing rightsss.
+
+The first Tribunal, which took a stand regarding the scope of the rights protected, was the Tribunal
+in AMCO v. Indonesias6. The Tribunal decided that a provisional measure must affect the rights in
+dispute and found that the publication of an article in a Hong Kong newspaper could not threaten
+
+any right in disputes7. Finally, the Tribunal rejected to interfere with the publication of information.
+
+The Tribunal in Maffezini v. Spainss adopted a more restrictive approach by demanding that the
+
+request for
+
+Keller, Wendler: Is there a Common Approach to Provisional Measures? -
+
+An Overview of ICSID Case Law(SchiedsVZ 2011, 183) 190
+provisional measures relates to the subject matter of the case before the Tribunals9. In applying
+this standard, the Maffezini Tribunal denied to impose a provisional measure in the form of a
+recommendation to require the Claimant to provide a guarantee or a bond in the amount of the
+
+costs expected to be incurred in the arbitration.
+
+This restrictive approach appears to be too limited and has not been followed by subsequent
+
+Tribunals90. Nowadays, most Tribunals apply the criterion adopted by the Plama Tribunal, i.e. the
+
+https: //beck-online.beck.de/Bcid/Y-300-Z-SCHIEDSVZ-B-2011-S-183-N-1
+8 von 22 16.10.2020
+Kopie von Freshfields , abgerufen am 16.10.2020 05:13 - Quelle: beck-online DIE DATENBANK
+
+right to be preserved must bear a relation with the dispute. The Tribunal held that “/.../ the rights
+to be preserved by provisional measures are circumscribed by the requesting party's claims and
+requests for relief. They may be general rights, such as the rights to due process or the right not to
+have the dispute aggravated, but those general rights must be related to specific disputes in
+arbitration [...]".91 In the past, measures recommended or rejected by Tribunals under the ICSID
+
+Convention and Rules included measures relating to the:
+preservation of evidence/production of documents92
+
+e econfidentiality of the proceeding93
+
+aggravation of the dispute94
+
+e ethe right to have the ICSID arbitration be the exclusive remedy for the dispute under Art. 26 of
+the ICSID Conventiongs
+
+security for costs96
+
+e ereinstatement of contractual terms of co-operation97
+
+preservation of contractual terms in light of a new law and regulations9s
+e erefrain from exercising a contractual right related to the dispute99
+procedural integrity of the arbitration proceedings100
+
+e eseizure of former assets of a party101.
+b) General Right to Non-Aggravation of the Dispute
+
+One right has specifically been the topic of debate: ICSID Tribunals repeatedly had to rule on
+requests asking the opposing party to abstain from every act likely to aggravate the dispute or to
+
+render the execution of the award more difficult.
+
+While the existence of the right to non-aggravation of the dispute appears to be generally accepted
+since the case of the Electricity Company of Sofia and Bulgariaio2, the ICSID rulings differ
+significantly. The exact requirements for a recommendation for provisional measures regarding the
+right to non-aggravation of the dispute have apparently not yet been established103. The first
+ICSID Tribunal, in Holiday Inns v. Morocco, affirmed the principle of non-aggravation of the dispute
+for international investment arbitration1o4. In AMCO, the Tribunal confirmed “the good and fair
+practical rule, according to which both Parties to a legal dispute should refrain, in their own
+interest, to do anything that could aggravate or exacerbate the same, thus rendering its solution
+possibly more difficult’105. Applying this standard to the facts the Tribunal found that an already
+published newspaper article in Hong Kong bore no potential to aggravate or exacerbate the dispute
+and rejected the requestio6. The Tribunal in Pey Casado, on the other hand, issued a
+recommendation for provisional measures relying on several purely hypothetical situations
+providing for risks of aggravation or extension of the dispute by the respective partiesio7. It
+referred to the standard used by the International Court of Justice in the Ang/o-Iranian Oil
+Company Case “that no action is taken which might prejudice the rights of the other Party in
+respect of carrying out of [the judgement] which the [Arbitration Tribunal] may subsequently
+
+render” and “that no action of any kind is taken which might aggravate or extend the dispute" 108.
+
+In Plama, the Tribunal favoured a more limited standard and found that the parties should only be
+protected against actions that would make the resolution of the dispute more difficult, but not
+
+against actions
+
+Keller, Wendler: Is there a Common Approach to Provisional Measures? - 191
+
+https: //beck-online.beck.de/Bcid/Y-300-Z-SCHIEDSVZ-B-2011-S-183-N-1
+9 von 22 16.10.2020
+Kopie von Freshfields , abgerufen am 16.10.2020 05:13 - Quelle: beck-online DIE DATENBANK
+
+An Overview of ICSID Case Law(SchiedsVZ 2011, 183)
+
+merely aggravating the dispute in a general sense109. The Tribunal was not satisfied that the
+parallel bankruptcy proceeding would fulfil the requirementiio. Both the Tribunals in Burlington and
+Quiborax considered the application of the standard adopted by Plama to be somewhat limited and
+reaffirmed that an aggravation of the dispute arises where its solution becomes possibly more
+difficulti11. The Burlington Tribunal issued provisional measures to protect the ongoing investment
+and found that “it [is] most likely that the conflict will escalate and there is a risk that the
+
+relationship between the foreign investor and Ecuador may come to an end’112.
+c) Pending Parallel Proceedings v. Exclusivity of ICSID arbitration
+
+ICSID Tribunals have often been requested to recommend provisional measures to preserve the
+
+exclusivity of ICSID arbitration provided for in Article 26 of the ICSID Convention113.
+
+Already in Holiday Inns, the Tribunal had to decide how to deal with parallel proceedings before
+domestic courts114. Although the Tribunal did not recommend a provisional measure as such, it
+invited both Parties “/.../ to abstain from any measure incompatible with the upholding of the
+Contract and to make sure that the action already taken should not result in any consequences in
+the future which would go against such upholding’115. In the case of SGS v. Pakistanii6, the
+Tribunal issued a recommendation that Pakistan should not take any step to initiate a complaint for
+contempt within court proceedings in Pakistan and, moreover, parallel arbitration proceedings in
+Pakistan should be stayed until the ICSID Tribunal had decided on its jurisdictionii7. The Tribunal
+in Tokios Tokelés issued a similar, though broader recommendation for provisional measures calling
+for the parties to refrain from “any proceedings, judicial or other [...] which might prejudice the
+rendering or implementing of an eventual decision or award of this Tribunal or aggravate the
+exiting dispute [.../’118. In a later order, the Tokios Tokelés Tribunal, also extended the scope for
+provisional measures stating that parallel proceedings may be subject to provisional measures,
+even if they are “not part of the legal dispute arising directly out of the Claimant's investment’119.
+
+The Tribunal emphasized that the action at issue had to be merely related to the subject matter120.
+
+In contrast, the Tribunal in CSOB v. the Slovak Republici2z1 recommended the suspension of local
+bankruptcy proceedings, since those domestic proceedings might have let to the determination of
+issues that were subject matter of the ICSID arbitration122. As mentioned before, in Plama, the
+Tribunal rejected to recommend the stay of bankruptcy proceedings as the parties were not
+identical to the arbitration proceedings — the bankruptcy proceedings were brought by private
+parties and not by the State123. The Tribunal emphasized that the subject matter of the parallel
+proceedings were different from the one before the Tribunal, contrary to the CSOB case. Similarly,
+the Tribunal in Pey Casado declined a request for provisional measures as the parties of the
+domestic proceedings were not the same and thus the content of the proceedings was not
+identicali24: The recent decision in Quiborax held that the exclusivity of the ICSID proceedings
+does not need to be protected if the issues fall outside the scope of ICSID125, thereby reaffirming
+
+the limitation of the scope of provisional measures. Accordingly, the
+
+Keller, Wendler: Is there a Common Approach to Provisional Measures? -
+An Overview of ICSID Case Law(SchiedsVZ 2011, 183) 192
+
+Tribunal found the exclusivity of the ICSID proceedings not threatened by criminal proceedings and
+
+refrained from granting provisional measures in relation thereto126.
+
+In any event, the mere fact that the exclusivity of ICSID arbitration proceedings is at stake will in
+
+most cases be sufficient in itself to establish that provisional measures are necessary127. This would
+
+https: //beck-online.beck.de/Bcid/Y-300-Z-SCHIEDSVZ-B-2011-S-183-N-1
+10 von 22 16.10.2020
+Kopie von Freshfields , abgerufen am 16.10.2020 05:13 - Quelle: beck-online DIE DATENBANK
+
+also explain why early ICSID Tribunals did not focus on the requirements of urgency and necessity
+
+when dealing with pending proceedings12s.
+
+d) Specific Performance of Contracts
+
+There is a general consensus, that the rights for which provisional measures can be invoked to
+protect are not limited in any way129. Thus, contractual rights are - among other rights — generally
+protected as well. However, with regard to the issue of specific performance of contractual rights,
+
+existing case law has come to different conclusions.
+
+aa) Protecting the Status Quo
+
+Several Tribunals have argued that provisional measures can be employed solely for the protection
+of rights and not for the enforcement of rightsi30. Recommendations sought shall, following this
+line of reasoning, have the effect of maintaining the status quo. Hence, Tribunals have in the past
+denied applications for provisional measures arguing that granting a recommendation would, in
+
+effect, equal an order for specific performance of the contracti31.
+
+In Occidental, the Claimants sought the protection of specific performance of a participation
+contract for the exploration and exploitation of an oil field, which had been terminated by the
+Respondent. In order to preserve their rights to specific performance, the Claimants requested
+provisional measures in form of an advanced notice for any transfer to a third party of the
+operation of the oil field at issue of the arbitration. The Tribunal denied the request on the basis
+that the Claimants failed to establish such right prima facie. The Tribunal pointed out that specific
+performance of a contract terminated by a State exercising its sovereignty must be deemed legally
+impossible132. In addition, the Tribunal noted that a reinstatement of a foreign investor in its
+concession after a termination by the State “would constitute a reparation disproportional to its
+
+interference with the sovereignty of the State when compared to monetary compensation’133.
+
+bb) No Restrictions on the Relief Sought
+
+The Tribunal in City Oriente reached a different conclusion and issued provisional measures
+ordering Ecuador to refrain from any action to collect the outstanding amounts of the new imposed
+taxes disputed in the arbitration134. The Tribunal explicitly underlined that City Oriente had prima
+facie a right to seek specific performance of a contract under Ecuadorian law and, thus, rebutted
+Ecuador's argument that the decision actually protected a non-existing right under Ecuadorian
+lawi35. Moreover, the Tribunal found that it did not anticipate the merits of the case and was
+therefore not restrained from its decision by reasons of res judicata136. In addition, the Tribunal
+noted that unlike the case before the Occidenta/ Tribunal, the City Oriente case had not been
+brought under an investment treaty, but rather under Ecuadorian contract law1i37. Since the
+contract was still in force, any finding of the Occidental Tribunal that performance of a contract
+cannot be claimed if the contract was previously terminated by the State by virtue of its sovereign
+
+powers thus was deemed irrelevant in City Oriente138.
+
+Likewise, in the Burlington case the relevant contract was still in force, for which reason the
+Tribunal found it “unnecessary to consider” the view that under international law the right to
+specific performance is not available where a concession agreement has been terminated or
+cancelled by a sovereign State139. The Tribunal referred to Article 35 of the ILC Articles on State
+Responsibility and to a provision of the Ecuadorian Civil Code in order to show that international law
+
+and Ecuadorian law provide for specific
+
+https: //beck-online.beck.de/Bcid/Y-300-Z-SCHIEDSVZ-B-2011-S-183-N-1
+11 von 22 16.10.2020
+Kopie von Freshfields , abgerufen am 16.10.2020 05:13 - Quelle: beck-online DIE DATENBANK
+
+Keller, Wendler: Is there a Common Approach to Provisional Measures? -
+
+An Overview of ICSID Case Law(SchiedsVZ 2011, 183) 193
+performancei4o. Since the claim for specific performance was a contract claim and since the
+contract was still being performed, the Tribunal found that prima facie a right to specific
+
+performance might existi41 and moved on to examine the requirements of urgency and necessity.
+e) Summary
+
+It can be seen that in general all rights relating to the dispute can be protected by means of
+provisional measures, while the scope of the right to non-aggravation of the dispute in particular is
+a subject of debate between Tribunals. In addition, it remains unclear whether or not relief similar
+to or amounting to the specific performance of a contract can be granted. The decisions do not
+contradict themselves. The Tribunals concur that a right to specific performance of a contract might
+exist in general, but that in each case a right to specific performance must be established prima
+facie. Tribunals tend not to recognize the right to specific performance to a contract already
+terminated by the State exercising its sovereignty, while they might arguably grant provisional
+
+measures in case the contract is still in force.
+III. Legally Binding and Enforceable
+
+After the Tribunal has rendered a decision, the parties might need to enforce the decision on the
+opposing party. The wording of Article 47 of the ICSID Convention and Rule 39 of the ICSID Rules
+(“recommend” and “recommended” respectively as opposed to order) seems to indicate that a
+decision is rather not legally binding142. The negotiation history of the ICSID Convention reveals
+major difficulties by the drafters to agree upon a more binding language. As Schreuer has
+emphasized “a conscious decision was made not to grant the tribunal the power to order binding
+
+provisional measures"143.
+
+In 1999, the Maffezini Tribunal took the position that a recommendation under Art. 47 of the ICSID
+Convention is no less binding than a final award relying on the Spanish version of the Convention
+which employs the term “dictacion” [ordering] of the provisional measuresi44. The Tribunal
+acknowledged the semantic difference between the word ‘recommend’ and ‘order’, however, found
+the difference “more apparent than real”. The decision has been followed by several other
+Tribunalsi45, which could then also employ a decision by the ICJ on Article 41 of the ICJ statute
+which is in large part identical to Article 47 of the ICSID Convention146. In the LaGrand Case
+(Germany v. United States of America) the IC] found that provisional measures are —
+
+notwithstanding the term “indicate” within Article 41 of the ICJ Statute - indeed binding:
+
+“It follows from the object and purpose of the Statute, as well as from the terms of Article 41 when
+read in their context, that the power to indicate provisional measures entails that such measures
+should be binding, inasmuch as the power in question is based on the necessity, when the
+circumstances call for it, to safeguard, and to avoid prejudice to, the rights of the parties as
+determined by the final judgment of the Court. The contention that provisional measures indicated
+under Article 41 might not be binding would be contrary to the object and purpose of that
+
+Article”147.
+
+By now, it appears to be well established in ICSID case law that recommendations are legally
+compulsory and, as such, rather orders than recommendations in a literal sensei4s. Nevertheless,
+since it is clear that a decision on provisional measures does not constitute an award149, the
+
+provisions on enforcement of awards within the ICSID Convention do not apply, at least not
+
+https: //beck-online.beck.de/Bcid/Y-300-Z-SCHIEDSVZ-B-2011-S-183-N-1
+12 von 22 16.10.2020
+Kopie von Freshfields , abgerufen am 16.10.2020 05:13 - Quelle: beck-online DIE DATENBANK
+
+directly. Since established case law assumes that provisional measures are as binding as final
+awards, it might be arguable that Article 54 should be applicable by analogy in order to obtain
+recognition of the provisional measure before the relevant domestic courti50. Enforcement under
+Article 54 on the other hand, even by analogy, appears impossible since the provision is limited to
+the pecuniary obligation. However, so far no Tribunal has dealt with the problem of enforceability.
+Hence, the question if and how a decision on provisional measures will be enforced remains open as
+
+of todayi51. In practice, state parties will often obey as a
+
+Keller, Wendler: Is there a Common Approach to Provisional Measures? -
+
+An Overview of ICSID Case Law(SchiedsVZ 2011, 183) 194
+Tribunal might consider a party's default to comply with provisional measures when issuing the final
+awardis2. Lastly, ICSID Tribunals may at least avail themselves of the practical scope to impose
+
+sanctions against a party failing to comply with the recommendation153.
+IV. Conclusion
+
+To summarize, a party will have to show a level of necessity and urgency, a right protected under
+the applicable provisions at issue, and prima facie jurisdiction of the Tribunal to succeed with an
+application for provisional measures under ICSID case law. Although a common approach to
+provisional measures under ICSID case law seems to be in the making, Tribunals still disagree
+about the specific circumstances requiring provisional measures. While the test of irreparable harm
+to prove the necessity of a provisional measure might have lost some support by Tribunals, recent
+case law shows that the question of the prevailing standard is far from being resolved. It remains
+to be seen which approach will be adopted by investment arbitration Tribunals in the future.
+Several other issues, such as the circumstances in which the duty not to aggravate the dispute
+becomes relevant, or whether or not the protection of the right to specific performance of a
+contract - terminated or still in force - can be sought by means of a recommendation for
+provisional measures, also continue to be unsettled and will be the topic of further debates. Any
+future development sharpening the general requirements, ideally with a large consensus, will be
+beneficial for the involved parties and thus strengthen the reliability and importance of investment
+
+arbitration as dispute resolution mechanism.
+
+* Dr. Moritz Keller, LL.M. (Wisconsin) is an associate with Freshfields Bruckhaus Deringer LLP
+(Frankfurt), Carsten Wendler Lopez, LL.M. (NYU) is a PhD candidate at the International
+Investment Law Centre Cologne (IILCC) at the University of Cologne and currently Visiting Scholar
+at UC Berkeley, Boalt Hall. The authors would like to thank Noiana Marigo for her valuable
+comments and insights. The views expressed in this article, and any errors, remain the authors’
+own.
+
+1 International Centre for the Settlement of Investment Disputes, Washington D.C.
+
+2 City Oriente Ltd v. Ecuador, ICSID Case No. ARB/06/21, Decision on revocation of provisional
+measures of 13 May 2008; Perenco Ecuador Ltd v. Republic of Ecuador and Empresa Estatal
+Petrdleos del Ecuador (Petroecuador), ICSID Case No. ARB/08/6, Decision on Provisional Measures,
+8 May 2009; Burlington Resources Inc. and others v. Republic of Ecuador and Empresa Estatal
+Petrdleos del Ecuador (PetroEcuador), ICSID Case No. ARB/08/5, Procedural Order No. 1 on
+Burlington Oriente's Request for Provisional Measures, 29 June 2009. Burlington was represented
+by Freshfields Bruckhaus Deringer LLP.
+
+3 United Nations Commission on International Trade Law (UNCITRAL) Arbitration Rules, adopted 28
+April 1976, General Assembly Resolution 31/98.
+
+https: //beck-online.beck.de/Bcid/Y-300-Z-SCHIEDSVZ-B-2011-S-183-N-1
+13 von 22 16.10.2020
+Kopie von Freshfields , abgerufen am 16.10.2020 05:13 - Quelle: beck-online DIE DATENBANK
+
+4 See Sergei Paushok, CJSC Golden East Company and CJSC Vostokneftegaz Company v. The
+Government of Mongolia, UNCITRAL Case, Order on Interim Measures, 2 September 2008, paras.
+63-78.
+
+5 See CEMEX Caracas Investments B.V. and CEMEX Caracas II Investments B.V. v. Bolivarian
+Republic of Venezuela, ICSID Case No. ARB/08/15, Decision on the Claimants’ Request for
+Provisional Measures, 3 March 2010.
+
+6 “Article 47Except as the parties otherwise agree, the Tribunal may, if it considers that the
+circumstances so require, recommend any provisional measures which should be taken to preserve
+the respective rights of either party.”
+
+7 Convention on the Settlement of Investment Disputes between States and Nationals of other
+States.
+
+8 “Rule 39Provisional Measures(1) At any time after the institution of the proceeding, a party may
+request that provisional measures for the preservation of its rights be recommended by the
+Tribunal. The request shall specify the rights to be preserved, the measures the recommendation of
+which is requested, and the circumstances that require such measures.(2) The Tribunal shall give
+priority to the consideration of a request made pursuant to paragraph (1).(3) The Tribunal may also
+recommend provisional measures on its own initiative or recommend measures other than those
+specified in a request. It may at any time modify or revoke its recommendations.(4) The Tribunal
+shall only recommend provisional measures, or modify or revoke its recommendations, after giving
+each party an opportunity of presenting its observations.(5) If a party makes a request pursuant to
+paragraph (1) before the constitution of the Tribunal, the Secretary-General shall, on the
+application of either party, fix time limits for the parties to present observations on the request, so
+that the request and observations may be considered by the Tribunal promptly upon its
+constitution.(6) Nothing in this Rule shall prevent the parties, provided that they have so stipulated
+in the agreement recording their consent, from requesting any judicial or other authority to order
+provisional measures, prior to or after the institution of the proceeding, for the preservation of their
+respective rights and interests.”
+
+9 ICSID Rules of Procedure for Arbitration Proceedings.
+
+10 See e.g. Military Paramilitary Activities in and against Nicaragua (Nicaragua v. United States of
+America), Provisional Measures, Order of May 10, 1984, I.C.J. Reports 1984, p. 169, para. 24.
+
+11 Occidental Petroleum Corporation and Occidental Exploration and Production Company v.
+Ecuador, ICSID Case No. ARB/06/11, Decision on provisional measures of 17 August 2007, para.
+55; SGS Société Générale de Surveillance SA v. Islamic Republic of Pakistan, ICSID Case No.
+ARB/01/13; City Oriente Ltd v. Ecuador, ICSID Case No. ARB/06/21, Decision on provisional
+measures of 19 November 2007, para. 50; Pey Casado and President Allende Foundation v.
+Republic of Chile, ICSID Case No. ARB/98/2, Decision on the Request for Provisional Measures of
+25 September 2001, para. 6 et seq. See also Charles M. Brower/Ronald E.M. Goodman, Provisional
+Measures and the Protection of ICSID Jurisdictional Exclusivity Against Municipal Proceedings,
+ICSID Review - Foreign Investment Law Journal (1991), p. 431, 452 et seq.; Arshed Massod,
+Provisional Measures of Protection under the World Bank Convention, Delhi Law Review, p. 138,
+144-145 relying on the screening done by the center under Article 36 of the Convention. Note that
+the Tribunal in Tokios Tokelés did not mention the requirement of prima facie jurisdiction, but
+emphasized that the determination on the provisional measure did not prejudge jurisdiction, see
+Tokios Tokelés v. Ukraine, ICSID Case No. ARB/O2/18, Procedural Order No. 1 of 1 July 2003.
+
+12 See Pey Casado (see above at 11), para. 8. See also Christoph Schreuer et al., The ICSID
+Convention: A Commentary, 2nd Edition, 2009, Article 47, para. 48, “/The registration of a request
+for arbitration under Art. 36(3)] provides a useful basis for [the tribunal's] power to recommend
+provisional measures".
+
+13 See for example Perenco (see above at 2), para. 39, where the Tribunal stated that “/i/t is not
+enough” that the Secretary-General has registered the Request for Arbitration under Article 36 (3)
+of the ICSID Convention.
+
+14 See Burlington (see above at 2), para. 50; also, see Occidental (see above at 11), para. 55.
+
+https: //beck-online.beck.de/Bcid/Y-300-Z-SCHIEDSVZ-B-2011-S-183-N-1
+14 von 22 16.10.2020
+Kopie von Freshfields , abgerufen am 16.10.2020 05:13 - Quelle: beck-online DIE DATENBANK
+
+15 See Perenco (see above at 2), paras. 39 - 40.
+
+16 Quiborax S.A., Non Metallic Minerals S.A. and Allan Fosk Kaplun v. Plurinational State of Bolivia,
+ICSID Case No. ARB/06/2, Decision on Provisional Measures, 26 February 2010, para. 109. Note
+that on 2 May 2007, Bolivia withdrew from the ICSID Convention. In accordance with Art. 71 of the
+ICSID Convention, the denunciation took effect six months after.
+
+17 See Charles N. Brower/Ronald E.M. Goodman, Provisional Measures and the Protection of ICSID
+Jurisdictional Exclusivity Against Municipal Proceedings, ICSID Review - Foreign Investment Law
+Journal (1991), p. 431, 444. See also Christoph H. Schreuer et al., The ICSID Convention A
+Commentary, 2nd Edition, 2009, Article 47, para. 63; Ceskoslovenska Obchodni Banka AS v.
+Slovakia, ICSID Case No. ARB/97/4, Procedural Order No. 3 of 5 November 1998, rejecting the
+Claimant's submission that there must be “compelling circumstances” or circumstances of “absolute
+necessity” in order to grant provisional measures.
+
+18 Emilio Agustin Maffezini v. Kingdom of Spain, ICSID Case No. ARB/97/7, Procedural Order No. 2
+of 28 October 1999, para. 10. This notion has been cited by many subsequent tribunals, e.g. Plama
+Consortium Limited v. Republic of Bulgaria, ICISD Case No. ARB/03/24, Order, 6 September 2005,
+para. 38; Phoenix Action Ltd. v. Czech Republic, ICSID Case No. ARB/O6/5, Order, 6 April 2007,
+para. 33; Occidental (see above at 11); CEMEX (see above at 5). See also Sergei Paushok (see
+above at 4), stating that “/i/t is not contested that interim measures are extraordinary measures
+not to be granted lightly, as stated in a number of arbitral awards rendered under various
+arbitration rules”.
+
+19 In addition to the decisions cited above see Plama (see above at 18), para. 39; Phoenix (see
+above at 18), para. 33; Saipem v. Bangladesh, Decision on Jurisdiction, 21 March 2007, paras.
+174, 182, 185; Occidental (see above at 11), para. 59; City Oriente (see above at 11), para. 54;
+Perenco (see above at 2), para. 43; Burlington (see above at 2), para. 51; CEMEX (see above at
+5), para. 41; Tokios Tokelés v. Ukraine, ICSID Case No. ARB/02/18, Procedural Order No. 3 of 18
+January 2005, para. 8. It is noteworthy that in the drafting sessions of the ICSID Convention the
+reference to urgency and imminent danger was rejected, see Christoph H. Schreuer et al., The
+ICSID Convention: A Commentary, 2nd Edition, 2009, Article 47, para. 63.
+
+20 See also Francisco Orrego Vicufia, The Evolving Nature of Provisional Measures, in: Fernandez-
+Ballesteros, M.A./Arias, D. (eds.), Liber Amicorum Bernardo Cremades, 2010, p. 952, “the scope of
+rights to be protected, urgency and harm are still much debated”.
+
+21 See for example, Occidental (see above at 11), paras. 88 - 91, where the Tribunal comes to the
+conclusion that the Claimants have failed to “make out their case of urgent necessity”. However,
+the Tribunal refrained from providing distinct definitions for urgency and necessity. It seems that
+urgent necessity means “imminent danger of harm”. See also Perenco (see above at 2), para. 43,
+“provisional measures may only be granted where they are urgent, because they cannot be
+necessary if, for the time being, there is no demonstrable need for them”.
+
+22 Passage through the Great Belt (Finland v. Denmark), Provisional Measures, Order of 29 July
+1991, ICJ Reports 1991, 17; this passage was quoted by Tokios Tokelés (see above at 19), para. 8.
+See also Certain Criminal Proceedings in France (Republic of the Congo v. France), Provisional
+Measures, Order of 17 June 2003, ICJ Reports 2003, 107; Pulp Mills on the River Uruguay
+(Argentina v. Uruguay), Preliminary Objections, Order of 23 January 2007, 11.
+
+23 See Christoph H. Schreuer et al., ICSID Convention: A Commentary, 2nd Edition, 2009, Article
+47 para. 63 (“it is clear that provisional measures will only be appropriate where a question cannot
+await the outcome of the award”), note that this quote was referred to in Biwater Gauff v.
+Tanzania, Procedural Order No. 1, 31 March 2006, para. 68 (the Tribunal quoted the First
+Edition).For ICSID jurisprudence see e.g. Azurix Corp v. Argentina, ICSID Case No. ARB/01/12,
+Decision on Provisional Measures, 6 August 2003, para. 33 (‘imminent possibility that the rights of
+a party be prejudiced before the tribunal has rendered its award"); Biwater Gauff v. Tanzania, see
+above at 76 (“where a party can prove that there is a need to obtain the requested measure at a
+certain point in the procedure before the issuance of an award"); Tokios Tokelés (see above at 19),
+para. 8 (“where actions prejudicial to the rights of either party is likely to be taken before such final
+
+https: //beck-online.beck.de/Bcid/Y-300-Z-SCHIEDSVZ-B-2011-S-183-N-1
+15 von 22 16.10.2020
+Kopie von Freshfields , abgerufen am 16.10.2020 05:13 - Quelle: beck-online DIE DATENBANK
+
+decision is taken"), City Oriente (see above at 11), para. 67 (“provisional measures are only
+appropriate if it is impossible to wait for specific issues to be settled at the merits stage”). See also
+Gabrielle Kaufmann-Kohler and Aurélia Antonietti, Interim Relief in International Investment
+Agreements, in: Katia Yannaca-Small (ed.), Arbitration under International Investment
+Agreements, p. 507, 536.
+
+24 See Biwater (see above at 23), para. 76.
+
+25 See City Oriente (see above at 11).
+
+26 See City Oriente (see above at 11), para. 69.
+
+27 See Burlington (see above at 2), para. 74, with reference to City Oriente (see above at 2).
+28 See Quiborax (see above at 16), para. 153.
+
+29 See CEMEX (see above at 5), para. 42. See also Burlington (see above at 2), para. 51 (“an
+assessment of the risk of harm to be avoided by the measures"). For the same wording see
+Quiborax (see above at 16), para. 113.
+
+30 See Christoph H. Schreuer et al., The ICSID Convention: A Commentary, 2nd Edition, 2009,
+Article 47, para. 64, stating “ICSID Arbitration Practice shows that Tribunals will only grant
+provisional measures if they are found to be necessary, urgent and required in order to avoid
+irreparable harm".
+
+31 See Tokios Tokelés (see above at 19).
+
+32 See Tokios Tokelés (see above at 19), para. 8, emphasis added. See also Phoenix (see above at
+18), para. 33: “the action of a party capable of causing or of threatening to cause irreparable
+prejudice to the rights involved".
+
+33 In addition, the Tribunal did not even see the claimant's rights relating to the dispute before the
+Tribunal affected by the measures taken by Ukraine. It should be noted that the Tribunal — with
+then a different President - did issue a recommendation for provisional measures on 1 July 2003.
+See Tokios Tokelés (see above at 11).
+
+34 See Plama (see above at 18).
+35 See Plama (see above at 18), para. 38, emphasis added.
+
+36 See Occidental (see above at 11), para. 59 (“the circumstances under which provisional
+measures are required under Article 47 of the ICSID Convention are those in which the measures
+are necessary to preserve a party's right and when the need is urgent in order to avoid irreparable
+harm”); see also para. 61 (“in order for an international tribunal to grant provisional measures,
+there must exist both a right to be preserved and circumstances of necessity and urgency to avoid
+irreparable harm”, emphasis in original) and para. 87 (“An order for provisional measures will only
+be made where such measures are found to be necessary and urgent in order to avoid imminent
+and irreparable harm.” Emphasis added).
+
+37 See Occidental (see above at 11), para. 89. “Provisional measures are not meant to protect
+against any potential or hypothetical harm susceptible to result from uncertain actions. Rather they
+are meant to protect the requesting party from imminent harm.”
+
+38 See CEMEX (see above at 5), para. 44.
+
+39 The Tribunal refers in detail to Plama (see above at 18), Phoenix (see above at 18), Occidental
+(see above at 11), Burlington (see above at 2), and Perenco (see above at 2).
+
+40 See CEMEX (see above at 5), para. 56.
+
+41 Metalclad Corporation v. United Mexican States, ICSID Case No. ARB(AF)/97/1, Decision on a
+request by the respondent for an order prohibiting the claimant from revealing information
+regarding ICSID Case No. ARB(AF)/97/1, 27 October 1997.
+
+42 See Metalclad (see above at 41), para. 8.
+
+43 See Metalclad (see above at 41), para. 8.
+
+https: //beck-online.beck.de/Bcid/Y-300-Z-SCHIEDSVZ-B-2011-S-183-N-1
+16 von 22 16.10.2020
+Kopie von Freshfields , abgerufen am 16.10.2020 05:13 - Quelle: beck-online DIE DATENBANK
+
+44 See Plama (see above at 18), para. 46, “The Tribunal accepts Respondent's argument that harm
+is not irreparable if it can be compensated for by damages, which is the case in the present
+arbitration and which, moreover, is the only remedy Claimant seeks.”
+
+45 See Occidental (see above at 11), paras. 59 et seq., in particular para. 97, “/p/rovisional
+measures are not designed to merely mitigate the final amount of damages".
+
+46 See Occidental (see above at 11), paras. 92 and 99. See also the concurring opinion in City
+Oriente (see above at 2), para. 60 et seq. establishing that in case of claims for the performance of
+a contract other remedies than damages would be available and, thus, provisional measures are
+then possible.
+
+47 See CEMEX (see above at 5), para. 58.
+
+48 See CEMEX (see above at 5), para. 57.
+
+49 See CEMEX (see above at 5), para. 58.
+
+50 Quiborax (see above at 15), para. 157.
+
+51 CEMEX (see above at 4), paras. 55 — 56.
+
+52 See City Oriente (see above at 2), paras. 67 et seq.
+
+53 See City Oriente (see above at 2), para. 70. The Tribunal referred to the urgency analysis by the
+Tribunal in the Decision dated 19 November 2007 (see above at 11), paras. 67 et seq.
+
+54 See City Oriente (see above at 2), para. 72.
+
+55 See City Oriente (see above at 2), para. 72. The Tribunal in Saipem (see above at 19), para. 175
+employed a similar wording.
+
+56 City Oriente, (see above at 2), paras. 76-78.
+57 See Perenco (see above at 2), para. 43.
+58 Perenco (see above at 2), para. 46.
+
+59 See Perenco (see above at 2), para. 48. The Tribunal quoted the Occidental Tribunal (see above
+at 11): “It is well established that where a State has, in the exercise of its sovereign powers, put an
+end to a contract or license, or any other foreign investor's entitlement, specific performance must
+be deemed legally impossible", para. 79.
+
+60 See Perenco (see above at 2), para. 53.
+
+61 See Burlington (see above at 2), para. 82. Emphasis added.
+62 See Burlington (see above at 2), para. 78.
+
+63 See Burlington (see above at 2), para. 82.
+
+64 See Burlington (see above at 2), para. 83.
+
+65 See Burlington (see above at 2), para. 85.
+
+66 See Burlington (see above at 2), para. 87.
+
+67 Railroad Development Corporation v. Republic of Guatemala, ICSID Case No. ARB/0O7/23,
+Decision on Provisional Measures, 15 October 2008.
+
+68 See Railroad (see above at 67), para. 34.
+
+69 See Railroad (see above at 68), para. 34.
+
+70 See Railroad (see above at 68), para. 36.
+
+71 Sergei Paushok ( see above at 4).
+
+72 See Sergei Paushok ( see above at 4), para. 69.
+
+73 See Sergei Paushok (see above at 4), para. 36. It is noteworthy that the Tribunal states that it is
+internationally recognized that there are 5 requirements for interim measures, i.e. (1) prima facie
+jurisdiction, (2) prima facie establishment of the case, (3) urgency, (4) necessity and (5)
+proportionality.
+
+https: //beck-online.beck.de/Bcid/Y-300-Z-SCHIEDSVZ-B-2011-S-183-N-1
+17 von 22 16.10.2020
+Kopie von Freshfields , abgerufen am 16.10.2020 05:13 - Quelle: beck-online DIE DATENBANK
+
+74 See Sergei Paushok (see above at 4), para. 65, 68. Note again that the Tribunal refers to
+“interim measures” under the UNCITRAL Rules.
+
+75 See Sergei Paushok, (see above at 4), para. 68. In addition, the Tribunal quotes K.P. Berger who
+requires only “'substantial’ (but not necessarily ‘irreparable’ as known in common law doctrine)
+prejudice”, Berger, K.P., International Economic Arbitration, 1993, 336.
+
+Mw
+
+76 The relevant part of Article 17A of the UNCITRAL MODEL LAW reads as follows:“Article 17A.
+Conditions for granting interim measures(1) The party requesting an interim measure under article
+17(2)(a), (b) and (c) shall satisfy the arbitral tribunal that:(a) Harm not adequately reparable by
+an award of damages is likely to result if the measure is not ordered, and such harm substantially
+outweighs the harm that is likely to result to the party against whom the measure is directed if the
+measure is granted; [...].”
+
+77 See Sergei Paushok (see above at 4), para. 77.
+78 See Sergei Paushok (see above at 4), para. 78.
+
+79 See for example City Oriente (see above at 2), para. 72 (“weighing the harm spared the
+petitioner and the damage inflicted in the other party”). The Tribunal in Saipem (see above at 19),
+para. 175 employed a similar wording. See also Burlington (see above at 2), para. 82 (“/The
+Tribunal] will also weigh the interests of both sides in assessing necessity."). See also Railroad (see
+above at 68), para. 34, applying the standard of reasonableness.
+
+80 See e.g. Quiborax (see above at 16), para. 158. See also Sergei Paushok (see above at 4), para.
+79 et seq.
+
+81 Quiborax (see above at 15), para. 155.
+82 Quiborax (see above at 15), para. 156.
+
+83 Quiborax (see above at 15), para. 156. Since the Tribunal found the standard to be met, it did
+not have to solve the dispute about the applicable standard.
+
+84 See also CEMEX (see above at 4), paras. 55-56. The CEMEX Tribunal finds that even though
+Tribunals have relied on other criteria than irreparable harm, in fact they based their decision on
+the fact that “the destruction of the ongoing concern that constituted the investment, would have
+created an irreparable harm.”
+
+85 See Christoph H. Schreuer et al., The ICSID Convention: A Commentary, 2nd Edition, 2009,
+Article 47, para. 73.
+
+86 Amco Asia Corporation and Others v. the Republic of Indonesia, ICSID Case No. ARB/81/01,
+Decision on Request for Provisional Measures of 9 December 1983, 1 ICSID Rep., p. 410-411.
+
+87 See Amco (see above at 86).
+88 See Maffezini (see above at 18).
+89 See Maffezini (see above at 18), para. 23.
+
+90 Gabrielle Kaufmann-Kohler and Aurélia Antonietti, “Interim Relief in International Investment
+Agreements”, 515, in: Arbitration under International Investment Agreements — A guide to the key
+issues, Yannaca-Small, K. (ed.), Oxford University Press 2010. However, it is interesting to note
+that in Occidental the rights to be protected were precisely the subject-matter of the arbitration,
+see Occidental (see above at 11), para. 63.
+
+91 See Plama (see above at 18), para. 40. The Tribunal concluded that the Plama's claims and
+requests for relief were limited to damages under the Energy Charta Treaty. Thus, the Tribunal
+found the local proceedings of no threat to the ICSID arbitration, since Plama's claim for damages
+before the ICSID Tribunal would not be affected. See also Saipem (see above at 19), para. 179;
+Quiborax (see above at 16), paras. 117 et seq.; Burlington (see above at 2), para. 60: “In the
+Tribunal's view, the rights to be preserved by provisional measures are not limited to those which
+form the subject-matter of the dispute or substantive rights as referred to by the Respondents, but
+may extend to procedural rights, including the general right to the status quo and to the non-
+aggravation of the dispute. These /atter rights are thus self-standing rights.”
+
+https: //beck-online.beck.de/Bcid/Y-300-Z-SCHIEDSVZ-B-2011-S-183-N-1
+18 von 22 16.10.2020
+Kopie von Freshfields , abgerufen am 16.10.2020 05:13 - Quelle: beck-online DIE DATENBANK
+
+92 See Biwater (see above at 23); Vacuum Salt Products Limited v. Government of the Republic of
+Ghana, ICSID Case No. ARB/92/1; Agip Spa v. the Government of the People's Republic of the
+Congo, ICSID Case No. ARB/77/1, 1 ICSID Rep., p. 306, 310-311; Railroad (see above at 68);
+Quiborax (see above at 16).
+
+93 See Biwater Gauff (Tanzania) Ltd. v. United Republic of Tanzania, ICSID Case No. ARB/05/22,
+Procedural Order No. 3 of 29 September 2006; Amco (see above at 86).
+
+94 See Biwater (see above at 93); see Amco (see above at 86); Quiborax (see above at 16);
+CEMEX (see above at 5).
+
+95 See cases discussed below.
+
+96 See Maffezini (see above at 18); Pey Casado (see above at 11), both denying the requests for
+different reasons.
+
+97 See Occidental (see above at 11).
+
+98 See City Oriente (see above at 11); Burlington (see above at 2); Perenco (see above at 2).
+99 See Saipem (see above at 19), para. 179 et seq.
+
+100 See Quiborax (see above at 16).
+
+101 See CEMEX (see above at 5).
+
+102 See Electricity Company of Sofia and Bulgaria (Belgium v. Bulgaria), Judgment of 5 December
+1939, PCIJ series A/B, No 79, p. 199. See also the LaGrand case (Germany v. United States),
+Judgment of 27 June 2001, para. 103, ICJ Reports 2001, p.466. ICSID Tribunals have frequently
+relied upon these cases, see e.g. Pey Casado (see above at 11), para. 67 et seq.; Burlington (see
+above at 2), para. 62; Quiborax (see above at 16), para. 134.
+
+103 Some Tribunals apply a necessity-requirement while others seem to rather decide on the basis
+of a general consideration of the case. See also Paul D. Friedland, Provisional measures and ICSID
+arbitration, Arb. Int. (1986), p. 335, 338 discussing which conduct might be taken into
+consideration.
+
+104 The decision in Holiday Inns v. Morocco has not been published. This essay relies on the report
+made by Lalive in Pierre Lalive, The First ‘World Bank’ Arbitration (Holiday Inns v. Morocco) - Some
+Legal Problems, 51 British Year Book of International Law, reprinted in 1 ICSID Reports, p. 645 et
+seq.
+
+105 See Amco (see above at 86).
+106 See Amco (see above at 86).
+
+107 See Pey Casado (see above at 11), para. 73 et seq. In Tokios Tokelés (see above at 11), para.
+7 the Tribunal considered the risk of parallel administrative or judicial proceedings calling for
+provisional measures not to aggravate the dispute.
+
+108 See Pey Casado (see above at 11), para. 77.
+
+109 See Plama (see above at 18), para. 45. The considerations in City Oriente (see above at 2),
+para. 62 et seq. are inconclusive.
+
+110 See Plama (see above at 18), para. 46. As mentioned supra the Plama Tribunal found harm that
+could be compensated by an award of monetary damages is not sufficient ground for granting
+provisional measures.
+
+111 See Burlington (see above at 2), paras. 61-68; Quiborax (see above at 16), paras. 135 et seq.
+112 See Burlington (see above at 2), para. 65.
+
+113 Art. 26 of the ICSID Convention reads:“Article 26Consent of the parties to arbitration under this
+Convention shall, unless otherwise stated, be deemed consent to such arbitration to the exclusion
+of any other remedy. A Contracting State may require the exhaustion of local administrative or
+judicial remedies as a condition of its consent to arbitration under this Convention.”For an early
+debate on whether provisional measures can be granted in parallel proceedings see Bertrand P.
+Marchais, ICSID Tribunals and Provisional Measures — Introductory Note to Decisions of the
+Tribunals of Antwerp and Geneva in MINE v. Guinea, ICSID Review - Foreign Investment Law
+
+https: //beck-online.beck.de/Bcid/Y-300-Z-SCHIEDSVZ-B-2011-S-183-N-1
+19 von 22 16.10.2020
+Kopie von Freshfields , abgerufen am 16.10.2020 05:13 - Quelle: beck-online DIE DATENBANK
+
+Journal 1992, p. 372 et seq.; Paul D. Friedland, ICSID and Court-Ordered Provisional Remedies: An
+Update, Arb. Int. (1988), p. 161 et seq.; Antonio R. Parra, The Practice and Experience of the
+ICSID, p. 37, 37-38 in: Conservatory and Provisional Measures in International Arbitration, 1993
+(also providing an overview on cases with parallel proceedings involved).
+
+114 See Holiday Inns v. Monaco (see above at 104). Morocco gained authorization from the state
+courts to complete the construction of two Holiday Inns hotels and, at the same time, had a judicial
+administrator appointed for another two Holiday Inns already operating in Morocco.
+
+115 See Pierre Lalive, The First ‘World Bank’ Arbitration (Holiday Inns v. Morocco) - Some Legal
+Problems, 51 British Year Book of International Law, reprinted in 1 ICSID Reports, p. 645, 658.
+
+116 See SGS Société Générale (see above at 11).
+
+117 See SGS Société Générale (see above at 11), Procedural Order No. 2 of 16 October 2002: “Y...]
+the Tribunal recommends that the Government of Pakistan not take any step to initiate a complaint
+for contempt. It recommends further that, in the event that any other party, including the Supreme
+Court of Pakistan take all necessary steps to inform the Court of the current standing of this
+proceeding and of the fact that this Tribunal must discharge its duty to determine whether it has
+the jurisdiction to consider the international claim on the merits. The Government of Pakistan
+should ensure that if contempt proceedings are initiated by any party, such proceedings not be
+acted upon. [...] the Tribunal recommends that the Islamabad-based arbitration pending between
+the Government of Pakistan and SGS be stayed until such time, if any, as this Tribunal has issued
+an award declining jurisdiction over the present dispute, and that award is no longer capable of
+being interpreted, revised or annulled pursuant to the ICSID Convention.”A recommendation with a
+similar wording can also be found in the case of Vacuum Salt Products (see above at 92). However,
+as the recommendation embodied a voluntary undertaking by Ghana, it is not technically a
+recommendation for provisional measures. See Vacuum Salt Products Limited (see above at 92),
+para. 16 containing a summary of the events surrounding the provisional measures. See also the
+case of Bayindir Insaat Turizm Ticaret Ve Sanayi A.S. (Turkey) v. Islamic Republic of Pakistan,
+ICSID Case No. ARB/03/29, Award of 14 November 2005 in which a recommendation that Pakistan
+shall make sure that any judgment by Turkish courts obtained by a public Pakistani corporation will
+not be enforced.
+
+118 See Tokios Tokelés (see above at 11). It is noteworthy that the Tribunal also held that the
+jurisdictional requirements of Article 25 ICSID Convention must not be established for provisional
+measures.
+
+119 See Tokios Tokelés (see above at 19), para. 11.
+
+120 See Tokios Tokelés (see above at 19), paras. 12-18. The arrest of assets and the tax
+investigations had ended before the request for provisional measures was filed, and the criminal
+proceedings against O.V. Danylov, the key manager of Taki Spravy (the Claimant's subsidiary in
+Ukraine), were found not to jeopardize the rendering of the ultimate ICSID award.
+
+121 Ceskoslovenska Obchodni Banka AS v. Slovakia, ICSID Case No. ARB/97/4, Procedural Order
+No. 4 of 11 January 1999.
+
+122 See Ceskoslovenska (see above at 121). Another similar recommendation was issued in
+Procedural Order No. 5 of 1 March 2000.
+
+123 See Plama (see above at 18), para. 43.
+
+124 See Pey Casado (see above at 11), para. 40.
+
+125 See Quiborax (see above at 16), paras. 128-131.
+126 See Quiborax (see above at 16), paras. 129-130.
+
+127 The same reasoning has already been argued by Charles N. Brower/Ronald E.M. Goodman,
+Provisional Measures and the Protection of ICSID Jurisdictional Exclusivity Against Municipal
+Proceedings, ICSID Review - Foreign Investment Law Journal (1991), p. 431, 444. As mentioned
+supra nowadays it is established ICSID case law that provisional measures must always be urgent
+and necessary. This was clarified particularly for the right to exclusivity of the ICSID proceedings in
+Ceskoslovenska (see above at 17), “provisional measures [...] require [...] a showing that they are
+
+https: //beck-online.beck.de/Bcid/Y-300-Z-SCHIEDSVZ-B-2011-S-183-N-1
+20 von 22 16.10.2020
+Kopie von Freshfields , abgerufen am 16.10.2020 05:13 - Quelle: beck-online DIE DATENBANK
+
+necessary to preserve the rights of the parties and, further, that the rights to be thus preserved
+include, in principle, the right to the exclusive remedy provided for in Article 26 of the Convention”,
+emphasis added. See also CEMEX (see above at 5), para. 69, establishing “that the continuation of
+the proceedings in the Venezuelan Administrative Court meets the requirements necessary for
+recommending such measures”, emphasis added.
+
+128 See e.g., Holiday Inns v. Kingdom of Morocco, ICSID Case No. ARB/72/1, Order of 2 July 1972;
+Maritime International Nominees Establishment (MINE) (Liechtenstein) v. The Republic of Guinea,
+ICSID Case No. ARB/84/4, 3 International Arbitration Report 1988, p. A2-44; SGS Société Générale
+(see above at 11), Procedural Order No. 2 of 16 October 2002 (Request for Relief No. 3).
+
+129 Tanzania Electric Supply Company Ltd. (TANESCO) v. Independent Power Tanzania Ltd. (IPTL),
+ICSID Case No. ARB/98/8, Appendix A, Decision on the Respondent's Request for Provisional
+Measures of 22 June 2001, para. 12.
+
+130 See Occidental (see above at 11), paras. 12 et seq.; Maffezini (see above at 18), para. 14.
+
+131 See Tanzania (see above at 129), paras. 13 et seq. The Tribunal in Tanzania nevertheless
+underlined that recommendations under Rule 39 might theoretically involve the performance of a
+contract. It argued that as long as a recommendation would effectively preserve a party's right to
+enjoy the benefits of an agreement such recommendation would fall out of the scope of Rule 39.
+
+132 See Occidental (see above at 11), para. 79, “It is well established that where a State has, in the
+exercise of its sovereign powers, put an end to a contract or a license, or any other foreign
+investor's entitlement, specific performance must be deemed legally impossible.”
+
+133 See Occidental (see above at 11), para. 84.
+
+134 See City Oriente (see above at 11), paras. 10 et seq., ‘/...] that Respondents refrain from
+prosecuting the enforced collection of any present or future amounts disputed in this arbitration,
+and that they refrain from initiating a proceeding for the administrative declaration of termination
+of the concession on account of non-payment of said moneys pending the arbitral award.”
+
+135 See City Oriente (see above at 2), paras. 43 et seq.
+136 See City Oriente (see above at 2), paras. 88 et seq.
+
+137 It has to be kept in mind, in addition, that the jurisdiction of the Tribunal in the City Oriente
+case was based on a contract in comparison to the jurisdiction being based on a Treaty or a law in
+other cases.
+
+138 See City Oriente (see above at 2), paras. 42 et seq. Considering the timing issue in Occidental
+and City Oriente, one might even see the controversy only as a question of at what time the status
+quo to be protected has to be established. See also Christoph H. Schreuer et al., The ICSID
+Convention: A Commentary, 2nd Edition, 2009, Article 47, para. 73.
+
+139 See Burlington (see above at 2) , para. 70.
+
+140 See Burlington (see above at 2), para. 70. It is noteworthy that the Tribunal in the similar case
+of Perenco (see above at 2) came to the same conclusion and distinguished its case from
+Occidental (see above at 11) by stressing that the Participation Contract had not been terminated
+or cancelled. However, in Perenco (see above at 2) the Tribunal refrained from using the term
+“specific performance of contracts” in its analysis.
+
+141 See Burlington (see above at 2), para. 71.
+
+142 See the discussion of the drafting history in Charles M. Brower/Ronald E.M. Goodman,
+Provisional Measures and the Protection of ICSID Jurisdictional Exclusivity Against Municipal
+Proceedings, ICSID Review - Foreign Investment Law Journal (1991), p. 431, 440 et seq. See also
+Christoph H. Schreuer et al., The ICSID Convention: A Commentary, 2nd Edition, 2009, Article 47,
+paras. 15-17.
+
+143 Christoph H. Schreuer et al., The ICSID Convention: A Commentary, 2nd Edition, 2009, Article
+47, para. 16.
+
+144 See Maffezini (see above at 18), para. 9.
+
+https: //beck-online.beck.de/Bcid/Y-300-Z-SCHIEDSVZ-B-2011-S-183-N-1
+21 von 22 16.10.2020
+Kopie von Freshfields , abgerufen am 16.10.2020 05:13 - Quelle: beck-online DIE DATENBANK
+
+145 See Tokios Tokelés (see above at 11); City Oriente (see above at 11), para. 52; Pey Casado
+(see above at 11), para. 21.
+
+146 Article 41 of the ICJ Statute reads:“Article 411. The Court shall have the power to indicate, if it
+considers that circumstances so require, any provisional measures which ought to be taken to
+preserve the respective rights of either party.2. Pending the final decision, notice of the measures
+suggested shall forthwith be given to the parties and to the Security Council.”
+
+147 See LaGrand Case (see above at 102), para. 102.
+
+148 See Occidental (see above at 11), paras. 58 et seq.: Tokios Tokelés (see above at 11), para. 4;
+City Oriente (see above at 2), para. 52; Perenco (see above at 2), para. 76, holding that the term
+‘request’ is legally binding. See on the other hand Julian D.M. Lew, ICSID Arbitration: Special
+Features and Recent Developments. in: Horn, N./Kroell, S. (eds.): Arbitrating Foreign Investment
+Disputes. Procedural and Substantive Legal Aspects, p. 267, 271; Lawrence Collins, Provisional and
+Protective Measures in International Litigation, III, 1992, p. 99; Torsten Loercher, ICSID-
+Schiedsgerichtsbarkeit, SchiedsVZ 2005, p. 11, 16; Arshed Massod, Provisional Measures of
+Protection under the World Bank Convention, Delhi Law Review, p. 138, 145-146 (“moral
+authority”); See Antonio R. Parra, The Practice and Experience of the ICSID, p. 37, 41 in:
+Conservatory and Provisional Measures in International Arbitration, 1993 for the opposing view.
+See also Christoph H. Schreuer et al., The ICSID Convention: A Commentary, 2nd Edition, 2009,
+Article 47, paras. 15-22, who argues that the ICSID Convention's legislative history suggests that
+provisional measures have no binding character, however, he points to the doctrine developed by
+ICSID Tribunals under which provisional measures are binding. See also Zannis Mavrogordato and
+Gabriel Sidere, “The Nature and Enforceability of ICSID Provisional Measures”, 75 Arbitration 38,
+(2009), 41-42; most recently also Francisco Orrego Vicuha, “The Evolving Nature of Provisional
+Measures”, in: Fernandez-Ballesteros, M.A./Arias, D. (eds.) Liber Amicorum Bernardo Cremades,
+2010, p. 954, for a binding nature of provisional measures.
+
+149 Christoph H. Schreuer et al., The ICSID Convention: A Commentary, 2nd Edition, 2009, Article
+47, para. 4; Reed/Paulsson/Blackaby, Guide to ICSID Arbitration, 2004, p. 86.
+
+150 See also Zannis Mavrogordato and Gabriel Sidere, “The Nature and Enforceability of ICSID
+Provisional Measures”, 75 Arbitration 38, (2009), pp. 44-46.
+
+151 In AGIP v. Congo, Congo failed to comply with the recommendation. See Georges R. Delaume,
+ICSID Tribunals and Provisional Measures - A Review of the Cases, ICSID Review - Foreign
+Investment Law Journal 1992, p. 392, 393. Nevertheless, the Congo proceedings took place before
+the case law established that recommendations are, in fact, binding on the parties.
+
+152 See Steven P. Finizio, Ethan G. Shenkman and Julian Davis Mortenson, Recent developments in
+investor-state arbitration: effective use of provisional measures, The European Arbitration Review
+2007, p. 15, 16; Arshed Massod, Provisional Measures of Protection under the World Bank
+Convention, Delhi Law Review, p. 138, 146; See also Christoph H. Schreuer et al., The ICSID
+Convention: A Commentary, 2nd Edition, 2009, Article 47, para. 16.
+
+153 See Robert Volterra, “Provisional Measures (Interim Measures) and Investment Treaty
+Arbitration under ICSID and UNCITRAL: Developments and Trends”, in: Bjorklund, A./Laird,
+I//Ripinsky, S. (eds.): Investment Treaty Law: Current Issues III, 2009, p. 22.
+
+https: //beck-online.beck.de/Bcid/Y-300-Z-SCHIEDSVZ-B-2011-S-183-N-1
+22 von 22 16.10.2020

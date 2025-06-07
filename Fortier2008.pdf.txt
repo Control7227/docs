@@ -1,0 +1,662 @@
+ALL rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. or applicable copyright law.
+
+Copyright @ 2009. Brill | Nijhoff.
+
+Interim Measures: An Arbitrator’s Provisional Views
+
+L. Yves Fortier, C.C., Q.C.*
+Chair and Senior Partner, Ogilvy Renault LLP
+Montreal, Canada
+
+INTRODUCTION
+
+The issue of interim measures in investor-State arbitration is of interest to
+arbitrators and practitioners. It is a topic in motion. In this article, I will
+address the following facets of the issue:
+
+1. Are interim measures available in investor-State arbitration to the
+same extent as in international commercial arbitration?
+
+2. In what circumstances are interim measures recommended (or-
+dered) in investor-State arbitrations?
+
+3. Are interim measures sought against a State in an investor-State
+arbitration any different than measures sought against a non-State
+
+party?
+In seeking to shed some light on the issue, I will refer to both the
+
+literature on the topic and my own experience as an arbitrator in investor-
+State arbitrations.
+
+AVAILABILITY OF INTERIM MEASURES IN INVESTOR-STATE
+ARBITRATIONS: THE POWER OF CONSENT
+
+The availability of interim measures in international arbitration, even where
+a State is respondent, is now well-settled. A tribunal’s jurisdiction to order
+provisional measures is, like the parties’ arbitration agreement itself, a
+function of the parties’ consent. When opting for arbitration, be it in the
+context of an investor-State dispute or a purely commercial one, the parties
+
+*With thanks to my colleagues, Alison FitzGerald and Renée Thériault,
+members of Ogilvy Renault’s International Arbitration Team, for their assistance in
+preparing this article.
+
+47
+
+EBSCO : eBook Collection (EBSCOhost) - printed on 6/19/2019 12:35 AM via UNIVERSITEIT LEIDEN
+
+AN: 308329 ; Rovine, Arthur W., Fordham University.; Contemporary Issues in International Arbitration and Mediation
+: The Fordham Papers 2008
+
+Account: s2985883.main.ehost
+ALL rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. or applicable copyright law.
+
+Copyright @ 2009. Brill | Nijhoff.
+
+48 Contemporary Issues in International Arbitration and Mediation
+
+have complete freedom to shape the scope of a tribunal’s jurisdiction to
+order provisional relief. And while parties will be well advised to draft their
+arbitration agreement carefully in this regard, they are always free to carve
+out concurrent jurisdiction of the courts in connection with such relief.
+
+The International Centre for Settlement of Investment Disputes
+(ICSID) Convention and Arbitration Rules, which represent the quintessen-
+tial framework for investor-State arbitration, expressly address the operation
+of the parties’ consent. Article 26 of the convention, provides that
+‘“‘[c]onsent of the parties to arbitration under this Convention shall, unless
+otherwise stated, be deemed consent to such arbitration to the exclusion of
+any other remedy.”’ Regarding provisional measures specifically, Article 47
+of the convention states: “‘Except as the parties otherwise agree, the
+Tribunal may, if it considers that the circumstances so require, recommend
+any provisional measures which should be taken to preserve the respective
+rights of either party.”’
+
+These two provisions have been the subject of much debate, as they
+effectively deem an ICSID tribunal’s jurisdiction to order provisional relief
+to be exclusive. The burden is on the parties to expressly indicate otherwise.
+ICSID Arbitration Rule 39(6) makes that very clear: ‘‘Nothing in this Rule
+shall prevent the parties, provided that they have so stipulated in the
+agreement recording their consent, from requesting any judicial or other
+authority to order provisional measures, prior to or after the institution of
+the proceeding, for the preservation of their respective rights and interests.”’
+
+The exclusivity of an ICSID tribunal’s power to order provisional relief
+is a unique feature of the ICSID Arbitration Rules. Indeed, under other
+recognized arbitration frameworks, it is presumed (be it explicitly or
+implicitly) that courts retain the power to order such relief unless otherwise
+specified.! Chapter 11 of the North American Free Trade Agreement
+(NAFTA), also designed for investor-State arbitration, provides an interest-
+ing contrast. In its early iterations in 1992, NAFTA drafters had in fact
+stipulated that a tribunal could not order provisional measures.? The
+availability of provisional measures under NAFTA Chapter 11 would
+eventually be specified under Article 1134. And while initial versions of this
+provision referred to the availability of provisional measures for the
+protection of the tribunal’s “‘jurisdictional exclusivity,’ this language was
+eventually dropped.* Today, Article 1134 reads, in relevant part, as follows:
+‘A Tribunal may order an interim measure of protection to preserve the
+
+' See, e.g., E. Gaillard & J. Savage eds., Fouchard Gaillard Goldman on International
+Commercial Arbitration § 1320 (1999).
+
+* See Meg Kinnear et al., Investment Disputes Under NAFTA: An Annotated Guide to
+NAFTA Chapter 11 1134-41 (2006).
+
+3 Td.
+
+EBSCO : eBook Collection (EBSCOhost) - printed on 6/19/2019 12:35 AM via UNIVERSITEIT LEIDEN
+
+AN: 308329 ; Rovine, Arthur W., Fordham University.; Contemporary Issues in International Arbitration and Mediation
+: The Fordham Papers 2008
+
+Account: s2985883.main.ehost
+ALL rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. or applicable copyright law.
+
+Copyright @ 2009. Brill | Nijhoff.
+
+Interim Measures 49
+
+rights of a disputing party, or to ensure that the Tribunal’s jurisdiction is
+made fully effective, including an order to preserve evidence in the
+possession or control of a disputing party or to protect the Tribunal’s
+jurisdiction.”
+
+Another unique feature of ICSID and in particular Rule 39 is that it
+refers to the tribunal’s power to “‘recommend”’ provisional measures. This
+language is used in the very first paragraph of Rule 39, which states, ‘‘At any
+time after the institution of the proceeding, a party may request that
+provisional measures for the preservation of its rights be recommended by
+the Tribunal.”’
+
+The reality is that once the parties have provided their consent, at least
+in the context of an ICSID arbitration, the tribunal will have the required
+jurisdiction to order provisional relief in accordance with the terms of Rule
+39. An ICSID tribunal jurisdiction is in fact wide-reaching, far more than a
+tribunal operating under NAFTA Chapter Eleven. For instance, an ICSID
+tribunal may recommend provisional measures on its Own initiative or
+recommend measures other than those specified in a request. Furthermore,
+a tribunal may at any time modify or revoke its recommendations.
+
+One might be inclined to think that such broad powers, especially when
+exercised sua sponte, are potentially incompatible with the involvement of a
+sovereign State. There may also be a heightened sense of méfiance on the
+part of States due to the fact that an ICSID tribunal has the power to
+recommend provisional measures before it has definitely ruled on its
+jurisdiction over the dispute: a finding of prima facie jurisdiction will
+suffice.* And only recently, in 2006, Rule 39 was revised to allow requests for
+provisional measures on an expedited basis as soon as a dispute is registered
+with ICSID, that is, even before the tribunal is constituted.®
+
+While the scope of an ICSID tribunal’s power to order provisional
+measures has widened over time, it is significant that the issue of State
+sovereignty was at the forefront of the drafters’ minds when Rule 39 was
+initially crafted. Their concern in respect of State sovereignty provides the
+explanation for the careful wording of Rule 39, premised as it is on a
+tribunal’s power to “‘recommend”’ provisional measures, as opposed to the
+power to “order,” or language to that effect. As noted by Redfern and
+
+* See, e.g., Holiday Inns v. Morocco, 1978/79 ICSID Ann. Rep. 5, cited in ALR.
+Parra, ““The Practices and Experience of ICSID,”’ in Conservatory and Provisional
+Measures in International Arbitration 37, 42 (ICC Publication No. 519, 1993).
+
+> Paragraph 5 of Rule 39 of the ICSID Arbitration Rules provides as follows: “‘If
+a party makes a request pursuant to (1) before the constitution of the Tribunal, the
+Secretary-General shall, on the application of either party, fix time limits for the
+parties to present observations on the request, so that the request and observations
+may be considered by the Tribunal promptly upon its constitution.”
+
+EBSCO : eBook Collection (EBSCOhost) - printed on 6/19/2019 12:35 AM via UNIVERSITEIT LEIDEN
+
+AN: 308329 ; Rovine, Arthur W., Fordham University.; Contemporary Issues in International Arbitration and Mediation
+: The Fordham Papers 2008
+
+Account: s2985883.main.ehost
+ALL rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. or applicable copyright law.
+
+Copyright @ 2009. Brill | Nijhoff.
+
+50 ~~ Contemporary Issues in International Arbitration and Mediation
+
+Hunter, “‘[t]he use of the word ‘recommend’ in this context stems from the
+concern of the drafters of the ICSID Convention to be seen as respectful of
+national sovereignty by not granting powers to private tribunals to order a
+state to do or not do something on a purely provisional basis.’’® Schreuer
+informs us that “‘a conscious decision was made not to grant the tribunal the
+power to order binding provisional measures.’’”
+
+In the fullness of time, however, this concern of the drafters of the
+convention was set aside by less “‘respectful’’ ICSID tribunals. For instance,
+in the case of Emilio Agustin Maffezini v. Kingdom of Spain, the tribunal stated
+in no uncertain terms: ““The Tribunal’s authority to rule on provisional
+measures is not less binding than that of a final award. Accordingly, for the
+purposes of this order, the tribunal deems the word ‘recommend’ to be of
+equivalent value as the word ‘order’.’’>
+
+The issue of whether provisional measures are binding on States was
+long debated in the International Court of Justice (ICJ) as well. In the
+landmark LaGrand case initiated by Germany against the United States, it
+was argued by the latter that an IC] order on provisional measures, made
+pursuant to Article 41 of the ICJ Statute, was not binding. This argument
+was rejected by the IC] in the following terms:
+
+The context in which Article 41 has to be seen within the Statute is to
+prevent the Court from being hampered in the exercise of its functions
+because the respective rights of the parties to a dispute before the
+Court are not preserved. It follows from the object and purpose of the
+Statute, as well as from the terms of Article 41 when read in their
+context, that the power to indicate provisional measures entails that
+such measures should be binding, inasmuch as the power in question is
+based on the necessity, when the circumstances call for it, to safeguard,
+and to avoid prejudice to, the rights of the parties as determined by the
+final judgment of the Court. The contention that provisional measures
+
+® Alan Redfern & Martin Hunter, Law and Practice of International Commercial
+Arbitration J 7-12 (4th ed. 2004).
+
+? The ICSID Convention: A Commentary 758 (2001), cited in Redfern & Martin,
+supra note 6.
+
+8 Decision on Request for Provisional Measures (Oct. 28, 1999), 16 ICSID Rev.—
+Foreign Inv. Lj. 212, at {9 (2001), cited in Redfern & Martin, supra note 6. See also
+Tokios Tokeles v. Ukraine, ICSID Case No. ARB/02/18, Procedural Order No. 1, § 4
+(July 1, 2003): “It is to be recalled that, according to a well-established principle laid
+down by the jurisprudence of the ICSID tribunals, provisional measures ‘recom-
+mended’ by an ICSID tribunal are legally compulsory; they are in effect ‘ordered’ by
+the tribunal, and the parties are under a legal obligation to comply with them.”’
+
+EBSCO : eBook Collection (EBSCOhost) - printed on 6/19/2019 12:35 AM via UNIVERSITEIT LEIDEN
+
+AN: 308329 ; Rovine, Arthur W., Fordham University.; Contemporary Issues in International Arbitration and Mediation
+: The Fordham Papers 2008
+
+Account: s2985883.main.ehost
+ALL rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. or applicable copyright law.
+
+Copyright @ 2009. Brill | Nijhoff.
+
+Interim Measures 5]
+
+indicated under Article 41 might not be binding would be contrary to
+the object and purpose of that Article.%
+
+INTERIM MEASURES IN INVESTOR-STATE ARBITRATIONS: A FEW
+EXAMPLES
+
+It is clear that interim relief is available in investor-State arbitrations. I will
+now provide examples that illustrate different circumstances where interim
+measures were actually ordered or denied.
+
+Rule 39 does not specify the kinds of measures that a tribunal may
+order, nor does it establish criteria for granting such measures. Paragraph 1
+of Rule 39 simply states that ‘‘a party may request that provisional measures
+for the preservation of its rights be recommended by the tribunal’ and that
+any such request “‘specify the rights to be preserved, the measures the
+recommendation of which is requested, and the circumstances that require
+[the] measures.”’
+
+By contrast, Rule 26 of the UNCITRAL Arbitration Rules provides with
+greater particularity that the tribunal may order any interim measures “‘it
+deems necessary in respect of the subject-matter of the dispute, including
+for the conservation of goods forming the subject-matter in dispute, such as
+ordering their deposit with a third person or the sale of perishable goods.”’
+Similarly, NAFTA Article 1134 provides that a tribunal constituted to hear
+an investment dispute under Chapter 11 of NAFTA may order interim
+measures to preserve the rights of a disputing party, “‘including an order to
+preserve evidence in the possession or control of a disputing party or to
+protect the Tribunal’s jurisdiction.’’!°
+
+Several concepts emerge from a review of these rules. /%rst, an
+unspoken requirement of a request for interim measures is that the tribunal
+seized of the request have prima facie jurisdiction over the dispute. This
+principle is now well established on the basis of IC], Iran-United States
+Claims Tribunal, and ICSID decisions and awards. Although the necessity of
+demonstrating prima facie jurisdiction continues to be challenged in ad hoc
+arbitrations, there is, in my view, no principled basis upon which to
+distinguish between ad hoc and institutional arbitrations in regard to this
+
+9 LaGrand Case (Federal Republic of Germany v. United States), 2001 ILC.
+104, at | 102 (June 27), cited in D.F. Donovan, ““The Scope and Enforceability of
+Provisional Measures in International Commercial Arbitration: A Survey of Jurisdic-
+tions, The Work of UNCITRAL and Proposals for Moving Forward,”’ in A.J. van den
+Berg ed., International Commercial Arbitration: Important Contemporary Questions 119
+(2002).
+
+' Article 1134 also contains an important exclusion precluding a tribunal from
+ordering attachment or enjoining the application of the measure alleged to
+constitute a breach of NAFTA.
+
+EBSCO : eBook Collection (EBSCOhost) - printed on 6/19/2019 12:35 AM via UNIVERSITEIT LEIDEN
+
+AN: 308329 ; Rovine, Arthur W., Fordham University.; Contemporary Issues in International Arbitration and Mediation
+: The Fordham Papers 2008
+
+Account: s2985883.main.ehost
+ALL rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. or applicable copyright law.
+
+Copyright @ 2009. Brill | Nijhoff.
+
+52 Contemporary Issues in International Arbitration and Mediation
+
+threshold requirement. The threshold is a relatively low one, and an
+application for interim measures will not be denied simply because a
+jurisdictional challenge has been raised.
+
+As explained by the IC] in the Msheries Jurisdiction case (1972), a tribunal
+will have prima facie jurisdiction when ‘‘the provision in an instrument
+emanating from both parties to the dispute appears, prima facie, to afford a
+possible basis on which the jurisdiction of the Court might be founded.’’!!
+Judge Schwebel has pointed out that the precise meaning of “‘might’’ in this
+context, that is, whether “‘might”’ means “‘possibly might”’ or “‘might well”
+or ‘“‘might probably,’ is subject to controversy.'* Nevertheless, whatever
+“might”? might mean, this threshold falls far short of requiring a party to
+demonstrate a likelihood of success on the merits.
+
+The second concept apparent from this review is the class or category of
+interim relief available from arbitral tribunals. Interim measures are
+generally designed to fulfill one of three purposes: (1)to facilitate the
+conduct of arbitral proceedings, (2) to facilitate the enforcement of a future
+award, or (3)to preserve the status quo.!* In certain civilian jurisdictions, the
+réferé procedure may also be available to assist creditors in rapidly securing
+enforcement of their rights, either fully or in part, where those rights are
+not seriously in dispute.'* The first two classes of relief are intended to
+ensure the efficiency and efficacy of the arbitral procedure and may
+comprise measures related to the preservation of evidence, the attendance
+of witnesses, or security for costs, among others. These kinds of measures
+are critical to a party’s ability to secure meaningful relief, consistent with the
+parties’ original arbitration agreement. The more controversial measures
+are often those with a protective or conservatory purpose, where a party
+seeks to preserve the status quo ante.
+
+As mentioned earlier, Rule 39(1) of the ICSID Arbitration Rules
+specifies that a party may request “‘provisional measures /or the preservation of
+
+'! Fisheries Jurisdiction Case (Federal Republic of Germany v. Iceland), Interim
+Protection, Order of Aug. 17, 1972, 1972 I.CJ. 30, at { 18; Fisheries Jurisdiction Case
+(United Kingdom of Great Britain and Northern Ireland v. Iceland), Interim
+Protection, Order of Aug. 17, 1972, 1972 L.C.J. 12, at (17. See also Armed Activities
+on the territory of the Condo (New Application: 2002) (Democratic Republic of
+Congo v. Rwanda), Provisional Measures, Order of July 10, 2002, 2002 LC.J. 241,
+{1 58; Case Concerning Pulp Mills on the River Uruguay (Argentina v. Uruguay),
+Request for the Indication of Provisional Measures, Order of July 13, 2006, IC.
+Reports of Judgments, Advisory Opinions and Orders No. 915, {57 (Oct. 2007).
+
+2 Lawrence Collins, Essays in International Litigation and the Conflict of Laws 175
+(1994), citing Judge Schwebel in Military and Paramilitary Activities in and against
+Nicaragua case, 1984 I.C.J. 169, at 207.
+
+'S See Kinnear et al., supra note 2, at 1134-2—1134-3.
+
+'4 Gaillard & Savage eds., supra note 1, at {{ 1339-40.
+
+EBSCO : eBook Collection (EBSCOhost) - printed on 6/19/2019 12:35 AM via UNIVERSITEIT LEIDEN
+
+AN: 308329 ; Rovine, Arthur W., Fordham University.; Contemporary Issues in International Arbitration and Mediation
+: The Fordham Papers 2008
+
+Account: s2985883.main.ehost
+ALL rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. or applicable copyright law.
+
+Copyright @ 2009. Brill | Nijhoff.
+
+Interim Measures 53
+
+its rights [emphasis added].’’ This language has been interpreted by arbitral
+tribunals as requiring that the rights in issue exist at the time the application
+is made. The tribunal in Maffezini v. Spain stated concisely that “*[t]he use of
+the present tense implies that such rights must exist at the time of the
+request, must not be hypothetical, nor are ones to be created (sic) in the
+future.’’!°
+
+In that case, the applicant respondent was seeking an interim measure
+requiring the claimant to post a guaranty or bond in the amount of the costs
+that the respondent expected to incur in defending the case. The tribunal
+rejected the application on the ground the alleged rights were based on
+“hypothetical situations,’’ namely whether the respondent would win the
+case and whether the tribunal would deem the claimant’s case to be of such
+a nature as to require the claimant to pay the respondent’s costs and
+expenses.!® The tribunal concluded that granting the requested relief in
+those circumstances would have risked prejudging the claimant’s case.!”
+
+Interim measures are intended to guarantee the protection of rights
+whose existence might be jeopardized in the absence of such measures.!®
+This is not to say, however, that the rights for which interim protection is
+sought need be proven.!* To be clear, at the interim measures stage of a
+dispute the tribunal need only deal with the nature of the rights claimed,
+not with their actual existence or the merits of the allegations of their
+
+8 Maffezini v. Kingdom of Spain, ICSID Case No. ARB/97/7, Procedural Order
+No. 2, {13 (Oct 28, 1999).
+
+6 Td. at YJ 15-21.
+
+7 Td. at J 21.
+
+'8 See Occidental Petroleum Corporation, Occidental Petroleum and Produc-
+tion Company v. The Republic of Ecuador, ICSID Case No. ARB/06/11, Decision on
+Provisional Measures, { 60 (Aug. 17, 2007). The author of this article is presently the
+chairman of the tribunal in this case. The rights in issue concern the claimants’
+alleged right to specific performance of their oil and gas concession. The claimants
+sought interim measure of protection in connection with this alleged right. The
+request for interim measures was denied.
+
+'9 See LaGrand Case (Federal Republic of Germany v. United States), 2001 I.C,J.
+104, at | 102 (June 27) (‘‘It follows from the object and purpose of the Statute, as
+well as from the terms of Article 41 when read in their context, that the power to
+indicate provisional measures entails that such measures should be_ binding,
+inasmuch as the power in question is based on the necessity, when the circumstances
+call for it, to safeguard, and to avoid prejudice to, the rights of the parties as
+determined by the final judgment of the Court.’’). See also Victor Pey Casado v.
+Chile, ICSID Case No. ARB/98/2, Decision, { 49 (Sept. 25, 2001). The tribunal in
+Pey Casado observed on the basis of the LaGrand reasoning that prior to rendering
+final judgment, the alleged rights for which protection is provisionally sought may
+not be considered proven, real or actual. The English translation of the original
+French and Spanish language versions of this decision is available in 6 JCSID Rep. 375
+(2004).
+
+EBSCO : eBook Collection (EBSCOhost) - printed on 6/19/2019 12:35 AM via UNIVERSITEIT LEIDEN
+
+AN: 308329 ; Rovine, Arthur W., Fordham University.; Contemporary Issues in International Arbitration and Mediation
+: The Fordham Papers 2008
+
+Account: s2985883.main.ehost
+ALL rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. or applicable copyright law.
+
+Copyright @ 2009. Brill | Nijhoff.
+
+54 Contemporary Issues in International Arbitration and Mediation
+
+violation. This was the approach adopted by the tribunal in Vector Pey Casado
+v. Chile, where the tribunal stated,
+
+For its part, the Tribunal can neither prejudge nor even, to put it
+correctly, ‘““assume in an anticipatory fashion: . . .”’ It must therefore
+reason, at this preliminary stage of the arbitration process, on the basis
+not of “‘assumptions”’ but of hypotheses, in particular that by which it may
+come to recognise its own jurisdiction on the substance of the case, and
+in such a case, the hypothesis whereby the rights that the decision may
+recognise for one or the other of the parties in question could be
+placed in danger or compromised by the absence of provisional
+measures.”°
+
+The rights for which interim protection is sought must also reasonably
+relate to the “‘rights in dispute.’’*! In this regard the tribunal in Plama
+Consortium Limited v. Republic of Bulgaria stated that
+
+[t]he rights to be preserved must relate to the requesting party’s ability
+to have its claims and requests for relief in the arbitration fairly
+considered and decided by the arbitral tribunal and for any arbitral
+decision which grants to the Claimant the relief it seeks to be effective
+and able to be carried out.*?
+
+In Plama, the claimant had applied for an interim relief order recommend-
+ing, among other relief, that the respondent immediately discontinue and/
+or cause to be discontinued all pending proceedings relating to the
+arbitration, and refrain from bringing or participating in any future
+proceedings before the Bulgarian courts relating in any way to the
+arbitration.?? The tribunal determined that because the claims and relief
+sought by the claimant in the dispute were limited to damages, the scope of
+the rights relating to the dispute that deserved protection by way of
+provisional measures was necessarily also limited to the damage claims.*4
+The tribunal summarized its conclusions in regard to the claimant’s request
+
+*° Victor Pey Casado v. Chile, ICSID Case No. ARB/98/2, Decision, { 46 (Sept.
+25, 2001). The English translation of the original French and Spanish language
+versions of this decision is available in 6 JCSID Rep. 375 (2004).
+
+71 See Plama Consortium Limited v. Republic of Bulgaria, ICSID Case No. ARB/
+03/24, Order, { 40 (Sept. 6, 2005). See also Maffezini v. Kingdom of Spain, ICSID
+Case No. ARB/97/7, Procedural Order No. 2, §§ 123-125 (Oct. 28, 1999).
+
+2 Plama Consortium Limited v. Republic of Bulgaria, ICSID Case No. ARB/03/
+24, Order, at {40 (Sept. 6, 2005).
+
+*3 Td. at J 2.
+
+*4 Td. at (41.
+
+EBSCO : eBook Collection (EBSCOhost) - printed on 6/19/2019 12:35 AM via UNIVERSITEIT LEIDEN
+
+AN: 308329 ; Rovine, Arthur W., Fordham University.; Contemporary Issues in International Arbitration and Mediation
+: The Fordham Papers 2008
+
+Account: s2985883.main.ehost
+ALL rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. or applicable copyright law.
+
+Copyright @ 2009. Brill | Nijhoff.
+
+Interim Measures 55
+
+for an order recommending that the respondent discontinue all pending
+proceedings as follows:
+
+The Tribunal is reluctant to recommend to a State that it order its
+courts to deny third parties the right to pursue their judicial remedies
+and is not satisfied that if it did so in this case, Respondent would have
+the power to impose its will on an independent judiciary. While under
+general principles of public international law, a state is responsible for
+actions of its courts, Claimant’s Request for Urgent Provisional
+Measures is not based on a claim of denial of justice by those courts for
+which relief is sought.”
+
+These cases clearly show that the circumstances in which provisional
+relief will be ordered to preserve the status quo pending resolution of the
+outcome of the dispute are quite narrowly circumscribed.
+
+This brings me to the thzrd and last concept emerging from my review of
+the rules, that is, interim measures are only to be granted where they are
+necessary to preserve a party’s rights; or where there is an urgent need for
+interim relief in order to avoid irreparable harm from befalling the
+requesting party. In the words of a former president of the IC], Jumeney de
+Aréchaga, interim measures are necessary where the actions of a party “‘are
+capable of causing or threatening irreparable prejudice to the rights
+invoked’’*® and will be deemed urgent where ‘‘action prejudicial to the
+rights of either party is likely to be taken before such final decision is
+given,’’?/
+
+In order to prove irreparable harm, a party must show that the harm
+threatened cannot be compensated by an order for damages. However, in
+the course of making this determination, the tribunal must be careful to
+
+5 Td. at { 43.
+
+76 Aegean Sea Continental Shelf Case (Greece v. Turkey), Interim Measures of
+Protection, Order of Sept. 11, 1976, Separate Opinion of President Jimanez de
+Aréchaga, 1976 LC J. 3, at 11 (The Court denied an indication of interim measures
+sought by Greece prohibiting both Greece and Turkey, absent mutual consent and
+pending final judgment of the Court, from all exploration activity or scientific
+research with respect to the continental shelf areas in dispute).
+
+27 Case Concerning Passage through the Great Belt (Finland v. Denmark),
+Provisional Measures, Order of July 29, 2001, 1991 I.C.J. 12, at 17 (The Court denied
+an indication of interim measures sought by Finland requiring Denmark to refrain
+from continuing or otherwise proceeding with construction works on a bridge
+spanning the strait of Great Belt which would otherwise impede the passage of ships
+to and from Finnish ports and shipyards). See also Tokio Tokelos v. Ukraine, ICSID
+Case No. ARB/02/18, Order No. 3, {8 (Jan. 18, 2005), where the tribunal held that
+there must be a “threat of irreparable harm”’ before provisional measures can be
+ordered.
+
+EBSCO : eBook Collection (EBSCOhost) - printed on 6/19/2019 12:35 AM via UNIVERSITEIT LEIDEN
+
+AN: 308329 ; Rovine, Arthur W., Fordham University.; Contemporary Issues in International Arbitration and Mediation
+: The Fordham Papers 2008
+
+Account: s2985883.main.ehost
+ALL rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. or applicable copyright law.
+
+Copyright @ 2009. Brill | Nijhoff.
+
+56 Contemporary Issues in International Arbitration and Mediation
+
+avoid pre-judging the merits of the dispute.2® As Professor Lew has
+cautioned,
+
+[I]n dealing with a request for an interim measure, an arbitral tribunal
+must refrain from prejudging the merits of the case. By way of
+illustration, an arbitral tribunal will generally refuse to grant such a
+measure, where the request essentially covers what is asked to be
+resolved in the substantial arbitration.”9
+
+In many cases, there is a very fine line between granting relief to ensure that
+a party is not irreparably prejudiced by events during the course of an
+arbitral proceeding and pre-judging the outcome of the dispute. This
+element of the provisional measures test is accordingly the most delicate
+and challenging for an arbitrator to consider when faced with an interim
+measures application, regardless of whether the party likely to be affected is
+a state or a private actor.
+
+CONCLUSION: A DISTINCTION WITHOUT A DIFFERENCE?
+
+The last issue I wish to address concerns the differences, if any, of ordering
+provisional measures against a State entity as opposed to a private entity.
+The commonly held view is that there is no justification for tailoring the
+arbitration process, including matters of provisional relief, on the basis of a
+State’s particular status:
+
+[I]n the field of arbitration of state contracts, the trend has increasingly
+been for the state-party to be treated no differently than its private co-
+contractor. Indeed, as states become more frequently involved in
+commercial activities, special regimes for states and state-owned parties
+often appear incompatible with the requirements of international
+trade, such as the need to ensure the respect of agreements freely
+entered into by the parties.*?
+
+28 See Maffezini v. Kingdom of Spain, ICSID Case No. ARB/97/7, Procedural
+Order No. 2, § 21 (Oct. 28, 1999).
+
+*9 Julian D.M. Lew, ‘‘Commentary on Interim and Conservatory Measures in
+ICC Arbitration Cases’’ (2000) ICC Bull. 11, 23, cated in Redfern & Hunter, supra
+note 6, at {{ 7-30.
+
+°° E. Gaillard & J. Edelstein, “Recent Developments In State Immunity From
+Execution In France: Creighton v. Qatar,’ 15 Mealy’s Intl Arb. Rep. 49 (2000).
+
+EBSCO : eBook Collection (EBSCOhost) - printed on 6/19/2019 12:35 AM via UNIVERSITEIT LEIDEN
+
+AN: 308329 ; Rovine, Arthur W., Fordham University.; Contemporary Issues in International Arbitration and Mediation
+: The Fordham Papers 2008
+
+Account: s2985883.main.ehost
+ALL rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. or applicable copyright law.
+
+Copyright @ 2009. Brill | Nijhoff.
+
+Interim Measures 57
+
+This, of course, is a natural consequence of the principle of party
+equality, a fundamental condition of due process. The only difference lies
+with a State’s expectations regarding the arbitral process:
+
+The expectations of States differ very considerably from those of private
+parties who resort to commercial arbitration. Here it may be as well to
+remember that, unlike the situation of the private party who chooses
+flexibility of the arbitral process as an escape from the strict require-
+ments of litigation, arbitration in any form is for a State a loss of liberty,
+an acceptance of constraints from which it is otherwise free.*!
+
+Nevertheless, as Oscar Schachter has observed, where the request for
+interim measures involves the operation of a natural resources concession,
+“there may be reasons of a material and social character that make it
+‘impossible’ or ‘impracticable’ for the offending State to restore the
+situation to its prior state.’’* This was essentially the concern underpinning
+negotiation of Article 47 of the ICSID Convention. According to Christoph
+Schreuer, China, in particular, expressed concern over the ability of a State
+to comply with a provisional measure for reasons of national policy.*
+Additionally, the ability of a State party to “impose its will’ on an
+independent branch of government, regardless of public international law
+principles of state responsibility, is, as the tribunal in Plama intimated, in
+certain circumstances questionable.*#
+
+It may therefore be that although the binding nature of an interim
+measure recommended by an ICSID tribunal is no longer seriously in
+question, the sovereign character of a State party to an arbitration may, in
+practical terms, influence the manner in which a tribunal disposes of an
+application for interim measures. I end with this provisional view.
+
+31H. Fox, ‘States and the Undertaking to Arbitrate,”’ 37 Intl Comp. L.Q. 1, at 4
+(1988).
+
+32 Oscar Schachter, International Law in Theory and in Practice, 178 Collected
+Courses (Academy of International Law) 188, at 190 (1982).
+
+°3 Christoph Schreuer, The ICSID Convention: A Commentary 758 (2001).
+
++4 Plama Consortium Limited v. Republic of Bulgaria, ICSID Case No. ARB/03/
+24, Order, {40 (Sept. 6, 2005).
+
+EBSCO : eBook Collection (EBSCOhost) - printed on 6/19/2019 12:35 AM via UNIVERSITEIT LEIDEN
+
+AN: 308329 ; Rovine, Arthur W., Fordham University.; Contemporary Issues in International Arbitration and Mediation
+: The Fordham Papers 2008
+
+Account: s2985883.main.ehost
+Copyright @ 2009. Brill | Nijhoff.
+ALL rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. or applicable copyright law.
+
+EBSCO : eBook Collection (EBSCOhost) - printed on 6/19/2019 12:35 AM via UNIVERSITEIT LEIDEN
+
+AN: 308329 ; Rovine, Arthur W., Fordham University.; Contemporary Issues in International Arbitration and Mediation
+: The Fordham Papers 2008
+
+Account: s2985883.main.ehost

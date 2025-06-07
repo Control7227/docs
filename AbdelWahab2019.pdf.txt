@@ -1,0 +1,3949 @@
+
+ARTICLE 47
+Proressor Dr MoHaAMeEn S. ABDEL WaHAB7?®
+
+Except as the parties otherwise agree, the Tribunal may, if it considers that the cir-
+cumstances so require, recommend any provisional measures which should be taken
+
+to preserve the respective rights of either party.
+
+1. INTRODUCTION
+
+Provisional or interim measures are protective, conservatory, interlocutory, preliminary
+or precautionary relief that may be requested, on urgent basis, in the course of pend-
+ing arbitral proceedings to maintain certain status guo and/or protect substantive or
+procedural rights and interests of the parties pending a final resolution of the existing
+dispute, and provided that the conditions required for granting such measures are ful-
+filled. Obviously, an arbitral tribunal’s jurisdiction to grant interim or provisional relief
+is derived from the parties’ direct agreement, the applicable procedural rules and/or the
+
+governing /ex loci arbitri.
+
+As is the case with the overwhelming majority of institutional arbitration rules, the
+ICSID rules, including the newly proposed amendments of 2018,”? empower arbitral
+
+entered into an agreement wherein they expressly consented to jurisdiction over Ecuador's counterclaims. Accordingly,
+the tribunal was not required to enter into a discussion of its jurisdiction over the counterclaims. Second, although
+Ecuador counterclaimed for a total amount of US$2.8 billion, only US$41 million was granted by the tribunal.
+728 ‘The author wishes to thank Nada Gadallah, junior associate at Zulficar & Partners Law Firm, who provided assistance
+with the research, compilation of the reviewed decisions and the preparation of a preliminary draft of the commentary.
+729 ICSID Secretariat, ‘Proposals for Amendment of the ICSID Rules — Consolidated Draft Rules’ (Volume 2), 2 August
+2018 <https://icsid worldbank.org/en/Documents/Amendments_Vol_Two.pdf> (accessed 27 August 2018).
+
+ARTICLE 47
+
+tribunals to grant interim or provisional relief. Interim or provisional relief has been
+labelled as provisional, protective, conservatory, interlocutory, preliminary or precau-
+tionary (collectively referred to as ‘Provisional Measures’ or ‘PM(s)’) depending on the
+
+applicable rules and/or prevailing doctrinal views.”
+
+That said the focus of this commentary is PMs in the context of investment arbitration
+proceedings administered under the auspices of the International Centre for the Settle-
+ment of Investment Disputes (ICSID”) and pursuant to the ICSID rules.
+
+For the purpose of this commentary, no less than 120 ICSID decisions, 540 provisional
+measures applications”! and 400 related documents have been considered (collectively
+referred to as the ‘Reviewed Documents’), in addition to the relevant scholarly writings
+
+and references.
+
+2. PROVISIONAL MEASURES IN CONTEXT: NATURE AND SCOPE
+
+A. The nature of PMs under the ICSID System
+
+The provision governing PMs in the ICSID system is enshrined in Article 47 of the
+ICSID Convention (‘Article 47’) which reads:
+
+Except as the parties otherwise agree, the Tribunal may, if it considers that the cir-
+cumstances so require, recommend any provisional measures which should be taken to
+preserve the respective rights of either party.
+
+This provision is inspired by Article 41 of the Statute of the International Court of Jus-
+tice’? (the ‘ICJ’).”* This provision provided the legal framework but did not specify the
+
+730 For the purposes of this commentary, ‘provisional measures’ will be uniformly used to denote the diverse PMs that have
+been considered, awarded or denied by arbitral tribunals under the ICSID system and rules. Whilst some authors have
+attempted to draw distinctions between the different terms used to denote PMs, others have opposed any distinction
+that lacks basis or precision. See Frederico Lenci, Provisional Measures in International Investment Arbitration (Uni-
+vesita Degli Studi Di Milano 2014) 32.
+
+731 For accuracy, out of the 540 PM applications there are 57 PMs that were not available for review, hence all statistics
+provided herein will be based on the remaining 483 PMs that were considered and reviewed.
+
+732 Victor Pey Casado and President Allende Foundation v. Republic of Chile, CSTD Case No. ARB/98/2, Decision on Provi-
+sional Measures (25 September 2001).
+
+733 Schreuer and others (n 3) 759; Article 41(1) of the ICJ Statute reads as follows: “The Court shall have the power to
+indicate, if it considers that circumstances as so require, any provisional measures which ought to be taken to preserve
+the respective rights of either party. In Border Timbers Limited, Timber Products International (Private) Limited, and
+Hangani Development Co. (Private) Limited v. Republic of Zimbabwe, \CSID Case No. ARB/10/25, Procedural Order
+No. 5 (3 April 2016), the arbitral tribunal, stated: ‘It is well established that Article 47 of the Convention is based on
+Article 41(1) of the ICJ Statute. It is also well established that an ICSID tribunal may, in certain circumstances, have
+
+recourse to the jurisprudence of the ICJ for guidance.’
+
+433
+
+4.483
+
+4,484
+
+4.485
+
+4.486
+
+
+4.487
+
+4.488
+
+Chapter 4 ARBITRATION
+
+types of measures which may be granted and the conditions that must be fulfilled. This
+has led ICSID tribunals to rely, in the first instance, on the jurisprudence of the ICJ to
+guide them in deciding on PMs requests.”* However, as demonstrated below, ICSID
+tribunals do not seem to have adopted a uniform approach when examining requests
+for PMs.’*
+
+It is worth noting that PMs under Article 47 are distinct from: (i) ‘the stay of enforce-
+ment of an award pending a decision on its interpretation under Article 50(2) of the
+Convention; (ii) ‘revisions under Article 51(4) of the Convention; and (iii) ‘annulment’
+under Article 52(5) of the Convention, which provide for other measures under the
+ICSID Convention.”° However, it should be noted that there is no express prohibition
+
+restraining ICSID tribunals from granting PMs under Article 47 in annulment pro-
+737
+
+ceedings or any other ICSID proceedings.
+
+Article 47 of the Convention is further supplemented by ICSID Arbitration Rule 39
+(‘Rule 39’), providing the procedural framework of PMs. More specifically, Rule 39
+
+reads:
+
+(1) At any time after the institution of the proceeding, a party may request that provi-
+sional measures for the preservation of its rights be recommended by the Tribunal. The
+request shall specify the rights to be preserved, the measures the recommendation of
+which is requested, and the circumstances that require such measures.
+
+(2) The Tribunal shall give priority to the consideration of a request made pursuant to
+paragraph (1).
+
+(3) The Tribunal may also recommend provisional measures on its own initiative or
+recommend measures other than those specified in a request. It may at any time modify
+or revoke its recommendations.
+
+(4) The Tribunal shall only recommend provisional measures, or modify or revoke its
+recommendations, after giving each party an opportunity of presenting its observations.
+(5) Ifa party makes a request pursuant to paragraph (1) before the constitution of the
+Tribunal, the Secretary-General shall, on the application of either party, fix time limits
+
+734 City Oriente Limited v. Republic of Ecuador and Empresa Estatal Petréleos del Ecuador (Petroecuador), 1CSID Case No.
+ARB/06/21, Decision on Provisional Measures (19 November 2007) citing the cases of Electricity Company of So-
+fia - Belgium v. Bulgaria, judgment, PCI (Ser. A/B, No. 79, 4 April 1939); LaGrand - Germany v. U.S.A. LaGrand,
+judgment, IC] (27 June 2001). See also Perenco Ecuador Limited v. Republic of Ecuador, CSTD Case No. ARB/08/6,
+Decision on Provisional Measures (8 May 2009), citing Electricity Company of Sofia — Belgium v. Bulgaria, judgment,
+PCT] (Ser. A/B, No. 79, 4 April 1939); LaGrand— Germany v. U.S.A. LaGrand, judgment, ICJ (27 June 2001) para. 103,
+see Anglo-Iranian Oil Co. United Kingdom v. Iran, Interim Protection Order, ICJ Reports 1951 (5 July 1951), 93; Armed
+Activities on the Territory of the Congo (Democratic Republic of the Congo v. Uganda), judgment, ICJ (19 December 2005).
+
+735 Aurélia Antonietti, ‘Le CIRDI et les mesures conservatoires: récentes experiences’ [2005] 7 International Law FO-
+RUM du droit international 42.
+
+736 Schreuer and others (n 3) 760.
+
+737 Convention on the Settlement of Investment Disputes between States and Nationals of Other States (opened for
+signature 18 March 1965, entered into force 14 October 1966) (ICSID Conventior).
+
+434
+
+ARTICLE 47
+
+for the parties to present observations on the request, so that the request and observa-
+tions may be considered by the Tribunal promptly upon its constitution.
+
+(6) Nothing in this Rule shall prevent the parties, provided that they have so stipulated
+in the agreement recording their consent, from requesting any judicial or other author-
+ity to order provisional measures, prior to or after the institution of the proceeding, for
+the preservation of their respective rights and interests.’
+
+Rule 39 was amended on 10 April 2006, through the modification of the first paragraph
+and insertion of a new paragraph now under Rule 39(5), to allow a party seeking PMs
+to introduce his related request at any time after the commencement of the arbitral
+proceedings and even Jefore the constitution of the arbitral tribunal itself. In this latter
+
+case, such a request is to be examined as soon as the arbitral tribunal is constituted.”*
+
+On the nature of the PMs to be considered, the arbitral tribunal in Perenco v. Ecuador
+held that:
+
+Article 47 and Rule 39 recognise that the rights which a party asserts and seeks to
+preserve and protect in an arbitral proceeding may be effectively destroyed or seriously
+prejudiced by the action of the other party taken before a Tribunal is able to reach a final
+decision on the merits of the dispute between them. Thus power is conferred on the
+
+Tribunal to restrain such action in order to preserve the effectiveness and integrity of
+
+the proceeding and avoid severe aggravation of the dispute.”
+
+It is worth noting that Article 46 of the Additional Facility Arbitration Rules (the ‘AF
+Rules’) contains similar but not identical provisions to those in the aforementioned
+Rule 39 of the Rules of Procedure for Arbitration Proceedings (the ‘Arbitration Rules’).
+A noticeable difference between Article 46 of the AF Rules and Rule 39 of the Arbi-
+tration Rules is the wording providing that a party may request that PMs be ‘ordered’
+instead of ‘recommended’ by the arbitral tribunal.
+
+In addition, since PMs do not generally have a res judicata effect, owing to their provi-
+sional or temporary nature, PMs can indeed be modified, withdrawn and/or terminated
+upon request of the parties or by the arbitral tribunal in accordance with Rule 39(3) of
+the Arbitration Rules, especially when the circumstances warranting them change or
+disappear, as in the case when the arbitral tribunal finds, at a later stage, that it lacks
+
+738 The arbitral tribunal in Railroad Development v. Guatemala affirmed that the ICSID Convention is ‘clear in stating
+that the power of the Tribunal to grant provisional measures is not limited to any particular phase of a proceeding’.
+See Railroad Development Corporation v. Republic of Guatemala, CSTD Case No. ARB/07/23, Decision on Provisional
+Measures (15 October 2008).
+
+739 Perenco(n 734) para. 55, p.25.
+
+435
+
+4.489
+
+4.490
+
+4.491
+
+4.492
+
+
+4.493
+
+Chapter 4 ARBITRATION
+
+jurisdiction to hear the dispute,
+
+740
+
+discontinuance of the proceedings in accordance with Rules 43—45.”"1
+
+Most recently in 2018,’” the ICSID proposed certain significant amendments to the
+rules, including the Arbitration Rules, and the newly proposed provision (renumbered as
+
+Rule 50 instead of Rule 39) reads as follows:
+
+Rule 50
+Provisional Measures
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+(6)
+
+740 See Victor Pey Casado and President Allende Foundation v. Republic of Chile, CSTD Case No. ARB/98/2, Decision on
+
+A party may at any time request that the Tribunal recommend provisional meas-
+
+ures to preserve that party’s rights, including measures to:
+
+(a) prevent action that is likely to cause:
+
+(i) current or imminent harm to the other party; or
+(ii) prejudice to the arbitral process;
+
+(b) maintain or restore the status quo pending determination of the dispute; and
+
+(c) preserve evidence that may be relevant to the resolution of the dispute.
+
+The following procedure shall apply:
+
+(a) the request shall specify the rights to be preserved, the measures requested,
+and the circumstances that require such measures;
+
+(b) the Tribunal shall fix time limits for written or oral submissions, as required,
+or the request;
+
+(c) ifa party requests provisional measures before the constitution of the Tribu-
+nal, the Secretary-General shall fix time limits for written submissions on
+the request, so that the Tribunal may consider the request promptly upon its
+constitution; and
+
+(d) the Tribunal shall issue its decision on the request within 30 days after the
+latest of:
+
+(i) the constitution of the Tribunal;
+(ii) the last written submission on the request; or
+(iii) the last oral submission on the request.
+
+In deciding whether to recommend provisional measures, the Tribunal shall con-
+
+sider all relevant circumstances. The Tribunal shall only recommend provisional
+
+measures if it determines that they are urgent and necessary.
+
+The Tribunal may recommend provisional measures on its own initiative. The Tri-
+
+bunal may also recommend provisional measures different from those requested
+
+by a party.
+
+A party must promptly disclose any material change in the circumstances upon
+
+which the Tribunal recommended provisional measures.
+
+The Tribunal may at any time modify or revoke the provisional measures, on its
+
+own initiative or upon a party’s request.
+
+Provisional Measures (25 September 2001) para. 14.
+741 See Schreuer and others (n 3) 775.
+742 See ICSID Secretariat, Proposals for Amendment of the ICSID Rules — Consolidated Draft Rules (n 729).
+
+436
+
+
+or once an arbitral tribunal renders an order on the
+ARTICLE 47
+
+(7) A party may request any judicial or other authority to order provisional measures
+if such recourse is available in the instrument recording the parties’ consent to
+arbitration.
+
+This very recently proposed amendments introduce several notable changes to the cur-
+
+rent scheme and highlight certain new amendments to the provision are:
+
+(a) introducing a time limit for the arbitral tribunal to examine and decide on the re-
+quest for PMs;
+
+(b) allowing the parties to resort to domestic courts to demand provisional measures
+without fear of being in violation of Article 26 regarding the exclusivity of the
+ICSID arbitration, insofar as such recourse is available in the instrument recording
+the parties’ consent to arbitration;
+
+(c) referring explicitly and exclusively to the requirements of urgency and necessity; and
+
+(d) introducing a non-exhaustive list of grounds for granting PMs, with express refer-
+ence to a ‘current or imminent harm’, which puts an end to the heated debate over
+
+whether PMs could be granted to protect a ‘contingent’ right or not.
+B. Timing of PMs requests
+
+The temporary nature of PMs is justified by the urgency and necessity requirements,
+and, as such, they must receive priority attention and be addressed expeditiously. None-
+theless, PMs should not prejudge or prejudice any issues of jurisdiction and/or the
+
+merits.
+
+As mentioned above, under the latest version of Rule 39(1) a party may request PMs at
+any time af or after commencement of the proceedings. An example of this is the case
+of Helnan v. Egypt’® and Nova Group v. Romania,’ where the claimants submitted the
+
+request for arbitration inclusive of the request for a number of provisional measures.’”
+
+It is worth noting that many arbitral institutions have instituted special procedures to
+
+appoint emergency arbitrators to determine PM requests well before the constitution
+
+743 Helnan International Hotels A/S v. Arab Republic of Egypt, \CSTD Case No. ARB/05/19, Decision on Claimant’s Re-
+quest for Provisional Measures (17 May 2006).
+
+744 Nova Group Investments, B.V. v. Romania, ICSID Case No. ARB/16/19, Procedural Order No. 7 (17 March 2017).
+
+745 See also the cases of Gabriel Resources Ltd. and Gabriel Resources (Jersey) Ltd. v. Romania, ICSID Case No. ARB/15/31,
+Procedural Order No. 2 (20 October 2016); Phoenix Action Lid v. Czech Republic, \CSID Case No. ARB/06/5, Deci-
+sion on Provisional Measures (06 April 2007); and Occidental Petroleum Corporation and Occidental Exploration and
+Production Company v. Republic of Ecuador, 1CSID Case No. ARB/06/11, Decision on Provisional Measures (17 August
+2007).
+
+437
+
+4,494
+
+4.495
+
+4.496
+
+4.497
+
+
+4.498
+
+4.499
+
+4.500
+
+Chapter 4 ARBITRATION
+
+of the arbitral tribunal.” However, this goes beyond the purposes of the present com-
+
+mentary which focuses on ICSID rules.
+
+Once constituted, an arbitral tribunal must consider several options in dealing with
+requests for PMs, including: convening a special hearing or issuing an emergency tem-
+porary order pending the filing of both parties’ positions and the examination of the re-
+quested PMs,’or granting or denying the requested PMs on expedited basis, without a
+
+hearing and upon deliberations between all members of the arbitral tribunal.’
+
+By way of illustration, in Rizzani and others v. Kuwait’ the claimant expressed in
+their arbitration request their intent to file a request for provisional measures which
+was already submitted before the constitution of the tribunal. The Secretary-General of
+ICSID decided a briefing schedule to allow both parties to express their observations.
+Shortly thereafter, the respondent filed their provisional measures request for which the
+Secretary-General of ICSID also decided a briefing schedule. Upon its constitution,
+the arbitral tribunal amended the briefing schedules and set a hearing for the provi-
+
+sional measures applications.
+
+Whilst PMs can be requested at any time, tardiness in submitting PM requests could
+
+50 the claimant
+
+adversely impact their consideration. In Teinver and others v. Argentina,
+submitted the PMs request after both parties submitted their post-hearing briefs and
+filed their costs submissions. The claimant requested certain provisional measures”!
+and made further requests on merits.” In denying the PM request, the arbitral tri-
+bunal noted that all procedural steps in this arbitration had been completed and the
+only remaining step is the closure of proceedings and the issuance of the award, which
+‘distinguishes the circumstances of this case from those in the other arbitral decisions
+brought to the Tribunal’s attention and reduces the aspects of the arbitration in respect
+
+of which provisional measures can be sought’.
+
+746 See Article 29 of the ICC Rules (2017), Schedule 4 annexed to the HKIAC Rules (2013), Schedule 1 annexed to the
+SIAC Rules (2016), Appendix IT to the SCC Rules 2017, Rules 71 & 72 of the JCAA Rules (2015), Article 43 of the
+SRIA Rules (2012), Article R-38 of the AAA Rules (2013), Appendix HI to the CIETAC Rules 2015.
+
+747 See Section 5.K below.
+
+748 See Schreuer and others (n 3) 769.
+
+749 Rizzani de Eccher §.p.A., Obrascén Huarte Lain S.A. and Trevi S.p.A. v. State of Kuwait, (CSTD Case No. ARB/17/8,
+Decision on Provisional Measures (23 November 2017).
+
+750 Teinver S.A., Transportes de Cercantas 8.A. and Autobuses Urbanos del Sur S.A. v. Argentine Republic, CSTD Case No.
+ARB/09/1, Decision on Provisional Measures (8 April 2016).
+
+751. ibid.
+
+752. ibid.
+
+753. ibid. Decision on Provisional Measures (8 April 2016), para. 191, p. 73.
+
+438
+
+ARTICLE 47
+
+In Pey Casado v. Chile,’* the tribunal discussed the precedence of PMs over any other
+issue, even the tribunal’s own jurisdiction, and stated that “These measures must there-
+fore be able to be ... recommended ... at any stage of the procedures and therefore also
+before the Arbitral Tribunal has been able to rule on any objections to its jurisdiction or
+the admissibility of the claim on the merits’.
+
+However, it is worth noting that the temporal gap between the submission of PMs
+requests and the determination thereof by the arbitral tribunal is growing bigger due to
+many reasons. First, parties are exceedingly drawn to extensive written observations and
+rebuttals in relation to PMs. Second, arbitral tribunals are increasingly inclined to hold
+
+a hearing on PMs prior to the determination thereof.
+
+To overcome this temporal gap challenge, and to avert the prejudice in delaying the
+determination of PMs, ICSID arbitral tribunals developed a mechanism for granting
+‘Emergency Temporary Orders’, as detailed below,” where the parties are required to
+
+maintain the sfatus guo unchanged pending the decision on PMs requests.
+C. Requesting and/or recommending PMs
+
+In principle, PMs are considered and granted based on a request by one of the parties.
+Under the ICSID Convention, parties may either (i) exclude the possibility/jurisdic-
+tion for the tribunal to grant PMs; or (ii) limit the power of the tribunal to grant PMs
+as the circumstances under which they may be recommended and/or the types of meas-
+ures, which are permissible, are concerned. In Maffezini v. Spain, the arbitral tribunal
+noted that ‘the imposition of a provisional measure is an extraordinary measure’, and
+further asserted that the party requesting the PMs ‘has the burden to demonstrate why
+the Tribunal should grant its application’.”*°
+
+However, the initiative to recommend or order PMs may come from the arbitral tri-
+bunal itself. As mentioned above, Rule 39(3) of the ICISD Rules explicitly contem-
+plates that an arbitral tribunal may recommend PMs at its own initiative. However, in
+most cases the initiative comes from an interested party rather than the arbitral tribunal
+
+754 See Victor Pey Casado (n 740).
+
+755 See Section 5.K below.
+
+756 Emilio Agustin Maffexini v. Kingdom of Spain, ICSTD Case No. ARB/97/7, Procedural Order No. 2 (28 October 1999)
+para. 10, p. 3.
+
+439
+
+4.501
+
+4.502
+
+4.503
+
+4.504
+
+4.505
+
+
+4.506
+
+4.507
+
+Chapter 4 ARBITRATION
+
+itself.’ In Perenco v. Ecuador,’® the arbitral tribunal granted the claimant’s PMs re-
+quest that impairs Ecuador from collecting an enhanced payment required under a
+newly enacted law. However, in order to strike a balance between the rights and inter-
+ests of both parties, the arbitral tribunal — at its own initiative — ordered the claimant
+to deposit the sums due according to the aforementioned law in an escrow account as a
+means of securing the respondent’s contingent right.
+
+3. THE JURISDICTION AND THE POWER TO ORDER PMS
+A. The jurisdiction to order PMs
+
+It is agreed amongst the vast majority of ICSID tribunals that an arbitral tribunal must
+have prima facie jurisdiction over the dispute in order to grant provisional measures.”
+The party requesting PMs is under an obligation to establish the arbitral tribunal’s ju-
+risdiction to consider and grant such PMs. However, certain exceptions to this rule may
+
+exist in certain circumstances as detailed below.””
+
+In Burlington Resources v. Ecuador,” the arbitral tribunal noted that ‘[I]|t is undisputed
+by the Parties that the Arbitral Tribunal has the power to order provisional measures
+prior to ruling on its jurisdiction. The Tribunal will not exercise such power, howev-
+er, unless there is a prima facie basis for jurisdiction’. In Quiborax and Non-Metallic v.
+
+Bolivia,’
+
+although jurisdiction was not disputed, the arbitral tribunal established its
+jurisdiction through asserting all elements of jurisdiction: (i) prima facie jurisdiction
+ratione personae; (ii) prima facie jurisdiction ratione materiae; (iii) prima facie jurisdiction
+ratione temporis, and (iv) prima facie jurisdiction ratione voluntatis. The same approach
+
+was utilized by the arbitral tribunal in CAurchill Mining and others v. Indonesia.”
+
+757 Gabrielle Kaufmann-Kohler and Aurélia Antonietti, Arbitration under International Investment Agreements: An Analysis
+of the Key Procedural, Jurisdictional and Substantive Issues (QUP 2010) 530; see also the analysis of Teinver S.A., Trans-
+portes de Cercantas S.A. and Autobuses Urbanos del Sur §.A. v. Argentine Republic, ICSTD Case No. ARB/09/1, Decision
+on Provisional Measures (8 April 2016).
+
+758 Perenco (n 734).
+
+759 ibid. para. 39-41, pp. 16-17.
+
+760 See RSM Production Corporation v. Saint Lucia, CSTD Case No. ARB/12/10, Decision on Saint Lucia’s Request for
+Provisional Measures (12 December 2013).
+
+761 See Burlington Resources, Inc. and others v. Republic of Ecuador (ICSID Case No. ARB/08/5 Procedural Order No. 1 on
+Burlington Oriente’s Request for Provisional Measures (29 June 2009).
+
+762 Quiborax $.A., Non Metallic Minerals §.A. and Allan Fosk Kaphin. v. Plurinational State of Bolivia, \CSID Case No.
+ARB/06/2, Decision on Provisional Measures (26 February 2010).
+
+763 Churchill Mining PLC v. Republic of Indonesia, ICSTD Case No. ARB/12/14, Procedural Order No. 3 (4 March 2013).
+
+440
+
+ARTICLE 47
+
+In Rizzani and others v. Kuwait,’ the arbitral tribunal established its power to order
+PMs by referring to the parties’ acceptance of this power and the fact that both parties
+
+submitted PMs requests.”
+
+Whilst the general rule is that the party requesting PMs is under the obligation to
+establish the tribunal’s jurisdiction to grant its request, there exist certain exceptional
+circumstances that warrant a more lenient approach, as is the case when the PM is
+‘security for costs’ requested by a State party. This happened in the case of RSM v. Saint
+Lucia, where the arbitral tribunal noted that ‘a tribunal which evidently does not have
+jurisdiction lacks the power to render any decision at all. On the other hand, a respond-
+ent may well have a legitimate interest in obtaining security for costs even in cases
+
+where the tribunal does not have subject matter jurisdiction.”
+B. The power to order PMs
+
+As mentioned above, the default position under Article 47 is that a party may request
+PMs and that ICSID tribunals may also recommend PMs at their own initiative. How-
+ever, the parties may agree otherwise by either (i) excluding the possibility for the tribu-
+nal to grant PMs; or (ii) limiting the tribunal’s power to grant PMs.
+
+Concerning the nature of arbitral tribunals’ power to order PMs,’
+
+the proliferating
+view is that ICSID tribunals have an inherent power to consider and order PMs. This
+is supported by a number of ICSID tribunals which held that they are ‘endowed with
+the inherent powers required to preserve the integrity of its own process — even if the
+remedies open to it are necessarily different from those that might be available to a
+
+domestic court of law in an ICSID Member State’.”
+
+However, the ICSID Rules and Convention clearly provide for an express power to
+
+grant PMs. Thus, arbitral tribunals’ powers to consider and grant PMs, though inherent
+
+764 Rizzani de Eccher §.p.A., Obrascén Huarte Lain S.A. and Trevi S.p.A. v. State of Kuwait, (CSTD Case No. ARB/17/8,
+Decision on Provisional Measures (23 November 2017).
+
+765 ‘The arbitral tribunal stated that ‘Neither the Claimants nor the Respondent has challenged the Tribunal’s power to
+grant provisional measures under Article 47 of the ICSID Convention. As set out above, both Parties have filed their
+respective requests for provisional measures. Both Parties also participated at the Hearing and sought orders for pro-
+visional measures from this Tribunal. In addition, both the Claimants’ and the Respondent’s Counsel accepted, at the
+Hearing on 3 November 2017, that the Tribunal has the authority to decide on their respective provisional measures
+requests. The Tribunal is therefore satisfied that it has the power under Article 47 of the ICSID Convention to rule on
+the Claimants’ and the Respondent’s Applications’. Rizzani (n 764) para. 98, p. 45.
+
+766 RSM (n 760) para. 59, pp. 13-14.
+
+767 See Report for the Biennial Conference in Washington D.C., International Law Association, April 2014, pp. 8-9.
+
+768 See Libananco Holdings Co. Limited v. Republic of Turkey, ICSID Case No. ARB/06/8, Decision on Preliminary Issues
+(23 June 2008).
+
+441
+
+4.508
+
+4.509
+
+4.510
+
+4.511
+
+4.512
+
+
+4.513
+
+4.514
+
+Chapter 4 ARBITRATION
+
+in the rules, are not inherent as part of the tribunals’ general role or functions because:
+(i) an express authorized power was needed under the rules and the Convention; and
+
+769 which shows
+
+(ii) an opt-out mechanism is available under the rules regarding PMs,
+that such the power to order PMs is not inseparable from the general role and functions
+
+of the decision-making process.
+C. The power of annulment committees regarding PMs
+
+From time to time, ICSID annulment committees face situations where one of the
+parties requested PMs under Article 47 and Rule 39. However, almost all the publicly
+accessible provisional measures requested during the annulment proceedings under Ar-
+ticle 47 were either dismissed or rejected.” Committees typically refrain from deciding
+whether or not they have the power to grant PMs requests under Article 47 by stating
+that the request has not satisfied the necessary requisites.
+
+In Border Timbers and others v. Zimbabwe,’ the Committee noted the apparent con-
+tradiction between Article 52(4 and 5)’ of the ICSID Convention and Rule 53 of
+the ICSID Rules.””? While Article 52 seemed to exclude the application of Article 47
+in the annulment proceedings, Rule 53 seemed to apply a number of rules on the an-
+nulment proceedings, amongst which is Rule 39 pertaining to provisional measures.
+However, the Committee did not try to reach a conclusion on this issue as it was of the
+opinion that the request did not satisfy the requirements for granting PMs anyway. This
+same conclusion was reached by the same Committee when faced with PM requests
+
+769 See Loretta Malintoppi, ‘Provisional Measures in Recent ICSID Proceedings: What Parties Request and What Tri-
+bunals Order’ in C. Binder and others (eds), International Investment Law for the 21st Century: Essays in Honour of
+Christoph Schreuer (OUP 2009) 181.
+
+770 Provisional measures were requested under Article 47 in the cases of Libananco Holdings Co. Limited v. Republic of
+Turkey- Annulment proceedings, ICSID Case No. ARB/06/8, Decision on Applicant Request for Provisional Measures
+(7 May 2012); and Border Timbers Limited, Timber Products International (Private) Limited, and Hangani Development
+Co. (Private) Limited v. Republic of Zimbabwe, CSTD Case No. ARB/10/25, Decision on the Applicant’s Application
+for Provisional Measures (17 March 2016). Provisional measures not requested under Article 47 occurred in the cases
+of Ioan Micula, Viorel Micula and others v. Romania- annulment proceedings, ICSTD Case No. ARB/05/20 Decision on
+Provisional Measures (18 August 2014) and Border Timbers Limited, Timber Products International (Private) Limited,
+and Hangani Development Co. (Private) Limited v. Republic of Zimbabwe, ICSID Case No. ARB/10/25, Decision on the
+Applicant’s Urgent Application for Provisional Measures Regarding the Temporary Stay of Execution and the Escrow
+Arrangement (22 August 2017).
+
+771 Border Timbers n 770).
+
+772 Article 52(4) and (5) read as ‘(4) The provisions of Articles 41-45, 48, 49, 53 and 54, and of Chapters VI and VII shall
+apply mutatis mutandis to proceedings before the Committee.
+
+(5) The Committee may, if it considers that the circumstances so require, stay enforcement of the award pending its
+decision. If the applicant requests a stay of enforcement of the award in his application, enforcement shall be stayed
+provisionally until the Committee rules on such request.’
+
+773 Rule 53 reads as “The provisions of these Rules shall apply mutatis mutandis to any procedure relating to the interpreta-
+
+tion, revision or annulment of an award and to the decision of the Tribunal or Committee’.
+
+442
+
+ARTICLE 47
+
+under Articles 50(2) and 52(5) once and Articles 50(2) and 52(5) and Rules 39 and 54
+
+in another application.””
+D. The binding nature of PMs
+
+Since Maffezini v. Spain,’ ICSID tribunals have developed a doctrine giving PMs a
+binding effect on the parties. The drafting history of Article 47 shows that the power of
+an ICSID tribunal is to ‘prescribe’, rather than to merely ‘recommend’ PMs. However,
+following certain States’ objections to the binding nature of PMs, especially against a
+State party, the word ‘prescribe’ was eventually replaced by the word ‘recommend’. ’”%
+This suggests that there was a deliberate intention not to grant arbitral tribunal the
+
+power to order binding PMs.
+
+However, in all cases and regardless of the binding nature of PMs, there is a general
+duty on the parties not to aggravate the dispute or frustrate its outcome. Furthermore,
+the tribunal may take into consideration the parties’ conduct (i.e. voluntary compliance)
+and draw negative inferences when rendering a final and binding award.’” In any event,
+arbitral tribunals seem to have developed an inclination to impose a binding nature on
+
+PMs, with some notable exceptions.
+
+Having reviewed numerous cases and orders regarding PMs, it is evident that arbitral
+tribunals adopt different approaches to the use of the terms ‘recommendations’ vs. ‘or-
+ders’. Sometimes, tribunals avoid express statements that they merely have a power to
+‘recommend’ PMs and other times they adopt vague wording or wording that implies
+
+a binding nature.
+
+In Saipem v. Bangladesh,” the arbitral tribunal did not explicitly address the nature of
+its power to ‘recommend’ or ‘order’ PMs. The tribunal consistently used the word ‘rec-
+ommend’ in the decision named “Decision on jurisdiction and recommendation on pro-
+visional measures’. The title of the decision itself reflects that the arbitral tribunal is of
+
+the opinion that a recommendation on provisional measures is different in nature from
+
+774 See Border Timbers Limited, Timber Products International (Private) Limited, and Hangani Development Co. (Private)
+Limited v. Republic of Zimbabwe, ICSTD Case No. ARB/10/25, Decision on the Applicant’s Application for Provisional
+Measures to Exclude Consideration of the Merits in Part I (13 October 2016) and Decision on the Applicant’s Urgent
+Application for Provisional Measures Regarding the Temporary Stay of Execution and the Escrow Arrangement (22
+August 2017).
+
+775 See Emilio Agustin Maffezini (n 756).
+
+776 Schreuer and others (n 3) 764.
+
+777 See Section 7 below.
+
+778 Saipem S.p.A. v. People’s Republic of Bangladesh, ICSID Case No. ARB/05/7, Decision on Jurisdiction and Recommen-
+dation on Provisional Measures (21 March 2007).
+
+443
+
+4.515
+
+4.516
+
+4.517
+
+4.518
+
+
+4.519
+
+4.520
+
+Chapter 4 ARBITRATION
+
+a ‘decision’.’” In its conclusion, the tribunal decided the following ‘the Tribunal hereby
+recommends that Bangladesh take the steps necessary to ensure that Petrobangla re-
+frain from encashing the Warranty Bond No. PG/USD/12/92 issued by Banque Indo-
+suez’. The same approach was followed in Biwater Gauff v. Tanzania,” where the ar-
+bitral tribunal ‘recommended’ provisional measures, but ‘ordered’ other measures under
+
+Article 43.
+
+In other cases, ICSID tribunals have opted to give PMs a binding effect on the par-
+ties, in disregard to the travaux préparatoires and history of drafting Article 47. The
+first arbitral tribunal to discuss the issue and reach a conclusion of the biding nature
+of PMs under Article 47 was Maffezini v. Spain where the arbitral tribunal concluded
+that the authority of an ICSID tribunal to rule on PMs was ‘no less binding than at of
+a final award. Accordingly, for the purposes of this Order, the Tribunal deems the word
+“recommend” to be of equivalent value as the word “order”.’*' Recently, Some tribunals
+went further in their emphasis on the nature of PMs to note that decisions on PMs are
+‘orders’ not ‘recommendations’.”*? In Occidental v. Ecuador, the arbitral tribunal held that
+“The Tribunal wishes to make clear for the avoidance of doubt that, although Article 47
+of the ICSID Convention uses the word “recommend”, the Tribunal is, in fact, empow-
+
+ered to order provisional measures’.”*
+
+In City Oriente v. Ecuador and Petroecuador, the arbitral tribunal affirmed the binding
+nature of PMs, regardless of the ‘semantic discussion’. The tribunal held that ‘a teleolog-
+ical interpretation of both provisions leads to the conclusion that the provisional meas-
+ures recommended are necessarily binding. The Tribunal may only order such measures
+if their adoption is necessary to preserve the rights of the parties and guarantee that the
+award will fulfill its purpose of providing effective judicial protection. Such goals may
+only be reached if the measures are binding, and they share the exact same binding na-
+ture as the final arbitral award’. The arbitral tribunal also asserted that ‘[I]n any event,
+
+whatever the meaning ascribed to such words, a failure to comply with orders given
+
+779 In making its recommendation, it stated that ‘the Tribunal hereby recommends that Bangladesh take the steps neces-
+sary to ensure that Petrobangla refrain from encashing the Warranty Bond No. PG/USD/12/92 issued by Banque
+Indosuez’.
+
+780 Biwater Gauff (Tanzania) Limited v. United Republic of Tanzania, ICSID Case No. ARB/05/22, Procedural Order No.
+1 (31 March 2006).
+
+781 Maffezini (n 756). The binding nature of PMs expressed in Maffezini was subsequently confirmed in Victor Pey Casado
+(n 740); Tokios Tokelés v. Ukraine, CSTD Case No. ARB/02/18; Occidental Petroleum (n 745); City Oriente Limited v.
+Republic of Ecuador and Empresa Estatal Petréleos del Ecuador (Petroecuador), ICSTD Case No. ARB/06/21, Decision on
+Provisional Measures (19 November 2007); Nowa Group Investments, B.V. v. Romania, ICSTID Case No. ARB/16/19,
+Procedural Order No. 7 (17 March 2017).
+
+782 Burlington Resources (n 761).
+
+783 Occidental Petroleum (n 781) para. 58, p. 27.
+
+784 City Oriente (n 781) para. 52.
+
+444
+
+ARTICLE 47
+
+to Respondents by the Tribunal in accordance with Article 47 of the Convention will
+
+entail a violation of Article 26 thereof, and engage Respondents liability’.”
+
+The proposed amendments to the ICSID Rules”*® use the same word ‘recommend’ to
+refer to the tribunal’s power to grant provisional measures. In as much as it would have
+been clearer and better to use the word ‘order’, it is doubtful that the reiteration of
+‘recommend’ will cause any issue, since consistent case law and practice on the sub-
+ject evidenced that ‘recommend’ and ‘order’ are treated as interchangeable terms, irre-
+spective of any linguistic or terminological distinction. However, clear guidance on the
+consequences of non-compliance with PM orders/recommendations remains unregu-
+lated under the newly proposed amendments to the ICSID Rules. Whilst the newly
+proposed amendments are indeed welcomed and revolutionary, this could have been
+perfected by including express regulation on all aspects of PMs (to streamline practices
+and decisions on PMs). However, the author does recognize the laborious and daunting
+task this would have entailed, since amendments to ICSID Rules would generally in-
+volve colossal efforts on all levels. Thus, the author does commend the priority amend-
+ments proposed to the ICSID Rules and considers this a positive step towards securing
+ICSID’s leading role in administering investment disputes related proceedings.
+
+4. PROVISIONAL MEASURES AND PROTECTED RIGHTS
+
+The pre-requisites for granting PMs are not expressly mentioned in the ICSID Con-
+vention or Rules and so they are based on an empirical review of ICSID case law. That
+said, it is submitted that the conditions for PMs are divided into ‘jurisdictional’ and
+‘substantive’ conditions.’”*” A request for PMs must first establish a prima facie juris-
+diction, then it must specify (i) the rights to be preserved; (ii) the measures for which
+a recommendation is required; and (iii) the circumstances/conditions rendering these
+measures necessary.’** However, ICSID tribunals have not adopted a uniform test when
+dealing with requests for PMs, and the approach of each tribunal largely depends on
+the facts and circumstances of each case. Owing to the absence of a uniform system
+of precedents, arbitral tribunals applied different tests and criteria, which led to dif-
+
+ferent interpretations. Nevertheless, ICJ case law on PMs remained of relevance and
+
+785 ibid. para. 53.
+
+786 ‘Proposals for Amendment of the ICSID Rules — Consolidated Draft Rules’ (n 729).
+
+787 See Lenci (n 730) 203.
+
+788 International Centre for Settlement of Investment Disputes ‘Provisional Measures — ICSID Convention Arbitration
+<https://icsid-worldbank.org/en/Pages/process/Provisional-Measures.aspx> (accessed 14 July 2018); and as the claim-
+ant argues in Teinver (n 757) para. 103.
+
+445
+
+4.521
+
+4.522
+
+
+4.523
+
+4.524
+
+Chapter 4 ARBITRATION
+
+importance.’ For example, in Menzies and Aviation v. Senegal,” the arbitral tribunal
+stated that the ‘the conditions necessary to obtain the grant of provisional measures are
+the following cumulative conditions: (i) The prima facie jurisdiction of the Arbitral Tri-
+bunal; (ii) the prima facie existence of a right to be protected; (iii) the necessity of the
+requested measures; (iv) the urgency of the requested measures; (v) The provisional na-
+
+ture of the measures, i.e. the measures do not prejudge the substance of the dispute.’””?
+
+In Churchill Mining and others, v. Indonesia,’” the arbitral tribunal noted that ‘Accord-
+ing to Rule 39 of the ICSID Arbitration Rules, the request must specify “the rights to
+be preserved, the measures the recommendation of which is requested, and the circum-
+stances that require such measures”. Various ICSID tribunals have interpreted these
+requirements to mean that provisional measures must (i) serve to protect certain rights
+of the applicant, (ii) meet the requirement of urgency; and (iii) the requirement of
+necessity, which implies the existence of a risk of irreparable or substantial harm’. Simi-
+
+larly, in Rizzani and others v. Kuwait,”
+
+where the respondent argued that provisional
+measures may only be granted if the claimants prove: (a) an urgent risk of imminent
+and irreparable harm; (b) a prima facie case on jurisdiction; (c) a prima facie case on the
+merits; (d) that the urgent, irreparable harm to the claimants ‘greatly’ outweighs the
+harm that would be caused to the respondent if the interim measures were granted; and
+(e) that the request does not entail prejudging the merits of the claims. However, the
+arbitral tribunal afhirmed that the requirements for granting PMs are only ‘urgency’ and
+
+‘necessity’.’"4
+
+In any event, it is worth noting that neither the Convention nor the ICSID rules list
+the conditions for PMs and so I provide an analysis of these requisite conditions herein
+
+below after scrutinizing the protected rights and categories of PMs.”
+
+The proposed
+amendments to the ICSID rules explicitly mention ‘urgency’ and ‘necessity’ as condi-
+tions for granting PMs. The proposed amendments state that ‘In deciding whether to
+
+recommend provisional measures, the Tribunal shall consider all relevant circumstances.
+
+789 City Oriente (n 781) citing the cases of Electricity Company of Sofia — Belgium v. Bulgaria, judgment, PCI] (Ser. A/B,
+No. 79, 4 April 1939); LaGrand - Germany v. U.S.A. LaGrand, judgment, ICJ (27 June 2001). See also Perenco (n 734),
+citing Electricity Company of Sofia — Belgium v. Bulgaria, judgment, PCI] (Ser. A/B, No. 79, 4 April 1939); LaGrand -
+Germany v. U.S.A. LaGrand, judgment, ICJ (27 June 2001); see Anglo-Iranian Oil Co. United Kingdom v. Iran, Interim
+Protection Order, ICJ Reports 1951 (July 5, 1951); Armed Activities on the Territory of the Congo (Democratic Republic of
+the Congo v. Uganda), judgment, ICJ (19 December 2005).
+
+790 See Menzies Middle East and Africa $.A. and Aviation Handling Services International Ltd. v. Republic of Senegal, CSTD
+Case No. ARB/15/21, Procedural Order. No. 2 (2 December 2015).
+
+791 ibid. para. 108, p. 28.
+
+792 Churchill Mining (n 763) para. 42, p. 13.
+
+793 Rizzani(n 764).
+
+794 ibid. para. 100, p. 46.
+
+795 See Section 6.
+
+446
+
+ARTICLE 47
+
+The Tribunal shall only recommend provisional measures if it determines that they are
+
+urgent and necessary’.
+
+Whilst not mentioning ‘harm’ as an express condition, the proposed amendments refer
+to ‘imminent or current harm’as an illustrative ground on the basis of which an arbitral
+
+tribunal can consider granting a PM.”
+A. Protection of rights by virtue of PMs - an overview of issues
+
+On the specific issue of what rights merit protection by virtue of PMs, several sub-
+issues require careful scrutiny, including: who requires protection, what rights merit
+
+protection, etc.
+
+At the outset, the ICSID Convention and Rules afford both investors and host States
+the right to request PMs. Under the ICSID Convention, PMs are meant to protect ‘the
+parties’ rights, and they must be rights ‘in dispute”’’ between the parties. They could
+also be procedural or substantive””* in nature. However, PMs should not prejudge or
+prejudice the merits.
+
+In Churchill Mining v. Indonesia,” the arbitral tribunal rejected the respondent’s re-
+quest to order the claimant to ‘refrain from making false, unfounded and misleading
+statements in the media regarding the case in hand’ and ‘not to contact any governmen-
+tal officials to suggest settlement outside the present arbitration.“
+
+In Amco v. Indonesia, the arbitral tribunal faced a similar situation where the respondent
+claimed that the claimant’s statements ‘could potentially have a negative impact on the
+economy’.*"' The Amco tribunal rejected the PMs request on the basis that such state-
+
+ments/media campaigns ‘would not be an influence on rights in dispute’.°”
+
+As is the case with the conditions of PMs, Article 47 does not specify or list the rights
+
+to be protected, and so reliance is to be made on the ICSID tribunals’ decisions aimed
+
+796 Rule 50 of the newly proposed amendments to the ICSID rules states, in pertinent part: ‘(1) A party may at any time
+request that the Tribunal recommend provisional measures to preserve that party’s rights, including measures to: (a)
+ptevent action that is likely to cause: (i) current or imminent harm to the other party; or (ii) prejudice to the arbitral
+ptocess [...]’ See ‘Proposals for Amendment of the ICSID Rules — Consolidated Draft Rules’ (n 729).
+
+797 Churchill Mining (n 763) and Amco Asia Corp €& others v. The Republic of Indonesia (ICSTD Case ARB/81/1, Decision on
+Request for Provisional Measures dated 9 December 19831) as cited in Churchill Mining (n 763) para. 49, p. 15.
+
+798 See Section 4.B.
+
+799 Churchill Mining (n 763).
+
+800 ibid. para. 3, p.1 and para. 59, p. 17.
+
+801 Ameo Asia (n 797) as cited in Churchill Mining (n 763) para. 49, p. 15.
+
+802. ibid.
+
+447
+
+4.525
+
+4.526
+
+4.527
+
+4.528
+
+4.529
+
+4.530
+
+
+4.531
+
+4.532
+
+4.533
+
+Chapter 4 ARBITRATION
+
+at disambiguating the rights to be protected. In Plama v. Bulgaria, the arbitral tribunal
+noted that “The rights to be preserved must relate to the requesting party’s ability to
+have its claims and requests for relief in the arbitration fairly considered and decided
+[...] Thus the rights to be preserved by provisional measures are circumscribed by the re-
+questing party's claims and requests for relief. They may be general rights, such as the rights
+to due process ..., but those general rights must be related to the specific disputes in arbi-
+
+tration, which, in turn, are defined by the Claimant's claims and requests for relief to date.”
+
+Accordingly, for the purpose of granting PMs, the requesting party must prove that
+the PMs requested pertain to a right ‘in dispute’. However, should such rights exist? Can
+they be contingent or conditional? These are questions that have triggered a heated debate
+amongst tribunals and scholars.*™ The ‘traditional view’ is that PMs may only be grant-
+ed in relation to an existing right which is threatened or the preservation of a right that
+is under the risk of being lost or irreparably harmed.*” Nevertheless, this traditional
+
+view does not necessarily capture a uniform practice all throughout ICSID cases.
+
+In Maffezini v. Spain,** the arbitral tribunal highlighted the wording of Rule 39(1)
+granting the claimant the right to request ‘provisional measures for the preservation of
+its rights’. The tribunal analysed the wording of Rule 39 and noted that “The use of the
+present tense implies that such rights must exist at the time of the request, must not be
+hypothetical, nor are ones to be created in the future’ . The arbitral tribunal went further and
+provided examples for ‘existing rights’ as ‘an interest in a piece of property, the owner-
+ship of which is in dispute’.*°”
+
+On the specific standard of an ‘existing’ right, arbitral tribunals have usually accepted
+that a right, worthy of protection, may exist on a ‘prima facie’ basis. For the example, in
+Burlington Resources v. Ecuador, the tribunal noted ‘the Parties’ concurrent view that the
+Tribunal must examine the existence of rights under a prima facie standard ... It cannot
+
+require actual proof, but must be satisfied that the rights exist prima facie’.*°°
+
+803 See Plama Consortium Limited v. Republic of Bulgaria, ICSID Case No. ARB/03/24, Order (6 September 2005) para.
+AO, p. 13.
+
+804 See RSM (n 760); Occidental Petroleum (n 745); City Oriente (n 781), Burlington Resources (n 761); and Maffezini (n
+756).
+
+805 See Malintoppi (n 769) 157.
+
+806 See Maffezini (n 756).
+
+807 ibid. para. 14, p. 3.
+
+808 See Burlington Resources (n 761) para. 53, p. 18. Same views were expressed by the arbitral tribunal in Occidental Pe-
+troleum (n 745) para. 64, p. 29, that “The right to be preserved only has to be asserted as a theoretically existing right, as
+opposed to proven to exist in fact. The Tribunal, at the provisional measures stage, will only deal with the nature of the
+right claimed, not with its existence or the merits of the allegations of its violation In City Oriente v. Ecuador and Petroecua-
+dor, the arbitral tribunal stated that ‘the party requesting the measure need only prove that its claim has the appearance
+of, good right, fumus oni iuris, or, in other words, the petitioner must prove that the rights invoked are plausible’. City Oriente
+
+448
+
+ARTICLE 47
+
+Accordingly, the ‘traditional view’ regarding the existence of the right was not uni-
+formly applied or globally upheld. Some arbitral tribunals did not require the existence
+of the right to be protected as a condition to granting PMs. In RSM w. Saint Lucia,”
+the arbitral tribunal granted the respondent State its security for costs request to protect
+a conditional/contingent right to ‘costs’ in light of the ‘material risk that Claimant will
+be unable or unwilling to comply with a costs award issued against it’.*"° The tribunal
+was divided as to whether a protected right must exist or whether it suffices to have a
+conditional/hypothetical/contingent right. By a majority of views, the arbitral tribunal
+held that a right protected by PMs need not be an existing right, but could be a ‘future
+conditional right’. The majority asserted that ‘the Aypotherical element of the right at is-
+
+sue is one of the inherent characteristics of the regime of provisional measures’.*"
+
+From a purely abstract stance, it is submitted that certain circumstances may warrant
+due consideration of a conditional/hypothetical/contingent right for the purpose of
+PMs. Moreover, arbitral tribunals should carefully consider that the terms ‘conditional’,
+‘contingent’ and ‘theoretical’ are not synonymous, but may all qualify for protection by
+virtue of PMs depending on the circumstances of each case, the purpose of the PM and
+the significant harm that may ensue if the PM is not granted. Thus, arbitral tribunals
+should be flexible in adopting the ‘traditional view’ or the more ‘lenient approach’ de-
+
+pending on the prevailing circumstances.
+B. The categories of rights to be protected by virtue of PMs
+
+As mentioned herein above, there is no exhaustive list of: (i) ‘rights’ that merit protec-
+tion by way of PMs; and (ii) ‘types of PMs’ that may be sought and granted under
+the ICSID Convention and the Rules. Consequently, ICSID tribunals have enjoyed
+considerable discretion in ascertaining and determining the categories of rights to be
+protected and the types of PMs that can be granted, depending on the factual and legal
+
+context of the dispute.*”
+
+The ICSID jurisprudence is still developing in this respect and Article 47 affords
+the parties and tribunals the needed discretion to request PMs as deemed suitable
+
+to achieve the protection of the parties’ respective rights and interests. The arbitral
+
+Limited v. Republic of Ecuador and Empresa Estatal Petréleos del Ecuador (Petroecuador), 1CSID Case No. ARB/06/21,
+Decision on Revocation of Provisional Measures and Other Procedural Matters (13 May 2008).
+
+809 See RSM (n 760).
+
+810 ibid. para. 29, p. 6.
+
+811 ibid. para. 72, p. 17.
+
+812 As stated by the arbitral tribunal in Maffezini ‘lack of precedents in granting a certain PM requested, does not neces-
+sarily lead to the rejection of this request’. See Maffezini (n 756) para. 5, p. 2. Same principle cited and affirmed later by
+Tokios Tokelés v. Ukraine, ICSID Case No. ARB/02/18, Procedural order No. 3 (18 January 2005) para. 11, p. 6.
+
+449
+
+4.534
+
+4.535
+
+4.536
+
+4.537
+
+
+4.538
+
+4.539
+
+4.540
+
+4.541
+
+Chapter 4 ARBITRATION
+
+tribunal in Maffezini v. Spain affirmed that ‘the lack of precedent is not necessarily
+determinative of our competence to order provisional measures in a case where such
+measures fall within the purview of the Arbitration Rules and are required under the
+
+circumstances’ .°%
+
+By way of illustration, security for costs as a PM, which is now frequently requested
+from ICSID tribunals, was granted for the first time in RSM v. Saint Lucia,** which
+evidences the fact that ICSID tribunals can indeed consider granting new PMs that
+have not be granted before insofar as the circumstances of the case so warrant and the
+
+conditions for granting the PM are fulfilled.
+
+On the specific issue of the types of rights that could be protected by the means of PMs,
+ICSID practice has shown that such types vary considerably, but, on a ‘macro level’, can
+broadly fall into two main categories on the basis of the procedural and substantive
+nature of the rights:°?
+
+(a) substantive rights which pertain to the merits of the case, and this includes: pecuni-
+ary and non-pecuniary rights of the parties, such as: a sum of money, a plot of land,
+shares of a company, etc.; and
+
+(b) procedural rights which are intended to safeguard the procedural integrity of the
+proceedings, and this includes: giving access to evidence (through measures like the
+preservation and production of evidence), avoiding parallel domestic proceedings
+and maintaining the confidentiality of the proceedings.
+
+On a ‘micro level’, substantive and procedural rights can be further sub-categorized into
+
+several categories, which shall be addressed below.
+
+(a) The right of the preservation of the status quo and non-aggravation of the
+dispute
+
+The right to the preservation of the status guo and the non-aggravation of the dis-
+pute are amongst the most frequently invoked rights in PM application. Many ICSID
+
+813 See Maffezini (n 756) para. 5, p. 2.
+
+814 RSM (n 760).
+
+815 In Quiborax (n 762) para. 117, p. 33 the arbitral tribunal stated: ‘the rights to be preserved by provisional measures are
+not limited to those which form the subject matter of the dispute, but may extend to procedural rights, including the
+general right to the preservation of the status quo and to the non-aggravation of the dispute [...] these latter rights are
+self-standing rights’. Similarly, in Biwazer Gauff (n 780), the arbitral tribunal stated: “The ambit of this power is very
+broad. The type of rights capable of protection by means of provisional measures are not only substantive rights but also
+procedural rights.’ This was also affirmed by the arbitral tribunals in Burlington Resources (n 761), Plama (n 803).
+
+450
+
+ARTICLE 47
+
+tribunals found that the preservation of the status quo and the non-aggravation are self-
+
+standing rights.*°
+
+The existence of these rights has also been established in the ICJ jurisprudence first,
+then in the ICSID jurisprudence ever since the first ICSID case Holiday Inn v. Moroc-
+co.8"” It was then afiirmed in Amco v. Indonesia where the arbitral tribunal acknowledged
+that ‘the good and fair practical rule, according to which both Parties to a legal dispute
+should refrain, in their own interest, to do anything that could aggravate or exacer-
+bate the same, thus rendering its solution possibly more difficult’.*!* The same view was
+adopted by the arbitral tribunals in Tokios Tokelés v. Ukraine’ and Perenco v. Ecuador.®*
+
+In Quiborax and Non-Metallic v. Bolivia,*' the arbitral tribunal noted that the travaux
+préparatoires of the ICSID Convention referred to the need ‘to preserve the status quo
+between the parties pending [the] final decision on the merits’.°” The tribunal referred
+to the commentary to the 1968 edition of the ICSID Arbitration Rules which ex-
+plained that Article 47 of the Convention ‘is based on the principle that once a dispute
+is submitted to arbitration the parties should not take steps that might aggravate or
+extend their dispute or prejudice the execution of the award’.**
+
+In Palma v. Bulgaria the arbitral tribunal noted that ‘the right to non-aggravation of the
+dispute refers to actions which would make resolution of the dispute by the Tribunal
+more difficult. It is a right to maintenance of the status quo, when a change of circum-
+stances threatens the ability of the Arbitral Tribunal to grant the relief which a party
+seeks and the capability of giving effect to the relief’.*”*
+
+In considering the importance of maintaining the status quo, as a basis for granting
+PMs, one question arises, that is: at what time should the status quo be considered? The
+ICSID Convention offered no answer, though the matter was considered (but not de-
+
+cided) during the drafting process.*”
+
+816 Teinver (n 757); Quiborax (n 762).
+
+817 In ICSID jurisprudence, this principle Holiday Inns S.A. and others v. Morocco, ICSTD Case No. ARB/72/1, Decision of
+the Tribunal (2 July 1972) was first affirmed in and then reiterated in Ameco Asia (n 797). The principle was re-afiirmed
+(albeit with a more limited approach) in Plama (n 803), Occidental Petroleum (n 745); City Oriente (n 781), as cited and
+adopted in Burlington Resources (n 761).
+
+818 Ameo Asia (n 797) as cited in Burlington Resources (n 761).
+
+819 Tokios Tokelés v. Ukraine, ICSID Case No. ARB/02/18, Procedural Order No. 1 (1 July 2003).
+
+820 Perenco (n 734).
+
+821 Quiborax (n 762).
+
+822. ibid. para. 134, p. 38.
+
+823 ibid. The same wording was adopted by the arbitral tribunal in Burlington Resources (n 761) para. 62, p. 20.
+
+824 Plama(n 803) para. 45, p. 15.
+
+825 Schreuer and others (n 3) 778, where the authors state that ‘the question was raised whether the status quo existing dur-
+
+ing the normal execution of the contract or at the time when the controversy arose would be decisive [...] the purpose of
+
+451
+
+4.542
+
+4.543
+
+4.544
+
+4.545
+
+
+4.546
+
+4.547
+
+4.548
+
+4.549
+
+4.550
+
+Chapter 4 ARBITRATION
+
+Whilst some argue that the satus quo is the status existing at the commencement of the
+arbitration proceedings and marked by the registration of the request for arbitration,
+others have offered different views on timing. For example, in City Oriente v. Ecuador
+and Petroecuador, the arbitral tribunal accepted the claimant’s request to maintain the
+status quo prior to the enactment of Law No. 2006—42 enacted in April 2006,* which
+was almost eight months before commencement of the arbitration proceedings in De-
+cember 2006.7
+
+In Teinver and others v. Argentina, the claimants requested the issuance of ‘an emer-
+gency, temporary order to preserve she status quo (i.e., the situation that exists at this date)
+with respect to all the financial statements, until such time as it rules on this Request for
+provisional measures’.*”* In Nova Group v. Romania the arbitral tribunal was of the view
+that ‘the right to preservation of the status quo necessarily “focuses on the situation at
+the time of the measures”, rather than looking either to the past (the investor’s situation
+
+as of a prior date) or to the future (the investor’s goal with respect to a future award)’.*”?
+
+In Quiborax and Non-Metallic v. Bolivia, the arbitral tribunal acknowledged that the
+domestic criminal proceedings ‘exacerbate the climate of hostility’ between the parties,
+however, it noted that there is no current investment of the claimant in the respondent
+State and that the claimant, implicated in the criminal proceedings, does not live in the
+
+respondent State and has not been formally accused.*”
+
+In light of the above, it is clear that arbitral tribunals are prepared to consider differ-
+ent dates from which the status quo could be assessed depending on the type of PMs
+
+requested and the factual circumstances.
+
+(b) The procedural integrity of ICSID proceedings
+Maintaining or safeguarding the procedural integrity of ICSID proceedings has been
+frequently invoked as basis for PMs applications. Most commonly, related PM requests
+
+include: the stay parallel domestic proceedings and/or protections orders to safeguard
+
+the provisional measures must be as far as possible to preserve the status quo at the time when the provisional measures
+were requested’,
+
+826 In City Oriente (n 781) the law in question required oil companies to pay at least 50% share of ‘extraordinary income’,
+and, in October 2007, Ecuador issued another decree increasing the government take from 50% to 99%. See Elisa-
+beth Eljuri and Clovis Trevino, ‘Energy Investment Disputes in Latin America: The Pursuit of Stability’ (2015) 33(2)
+Berkeley Journal of International Law <https://scholarship.law.berkeley.edu/cgi/viewcontent.cgi?referer=https://www.
+google.com.e.g./&httpsredir=1 &article=1506&context=bjil> (accessed 27 August 2018).
+
+827 City Oriente (n 781).
+
+828 Teinver S.A., Transportes de Cercantas §.A. and Autobuses Urbanos del Sur S.A. v. Argentine Republic, CSTD Case No.
+ARB/09/1, Award (21 July 2017) para. 49, p. 10.
+
+829 Nova Group (n 781) para. 264, p. 89.
+
+830 Quiborax (n 762) para. 84, p. 26.
+
+452
+
+ARTICLE 47
+
+the investor’s company or the investors’ personnel and afhliates from any retaliatory
+proceedings or other State acts or omissions that threaten the investor, its personnel,
+
+family members and/or afhiliates.
+
+In Quiborax and Non-Metallic v. Bolivia,**' the investor requested the stay of the parallel
+criminal proceedings and the arbitral tribunal granted the request as it recognized the
+undue pressure exercised against the investor and its potential witnesses and the threat
+this constitutes to the procedural integrity of the ICSID proceedings.*” ‘The arbitral
+tribunal asserted that if measures are intended to protect the procedural integrity of the
+
+arbitration they are urgent by definition." However, if the applicant’s right ‘in dispute’
+
+in the arbitration will not be affected by the outcome of the domestic proceedings, then
+
+no urgency.*#
+
+In Nova v. Romania,** the Tribunal noted that ‘the right of procedural integrity inher-
+ently includes two different components. First, it includes the right of the parties to
+present their respective positions to the tribunal, which includes the absence of undue
+interference with their access to witnesses and evidence, and their ability to instruct and
+assist counsel to marshall these on their behalf. Second, the right to procedural integrity
+
+includes the ability of a tribunal to fashion meaningful relief at the end of the case [..
+| 6
+
+Similarly, other ICSID tribunals have considered measures that pertain to parallel
+domestic proceedings that may or may not threaten the integrity of the ICSID pro-
+ceedings. For example, in Quiborax and Non-Metallic v. Bolivia,**’ Ioan Micula and oth-
+ers v. Romania,*® Tokios Tokelés v. Ukraine?’ and SGS v. Pakistan*™ arbitral tribunals
+have granted the requested PMs by ordering the stay of parallel domestic proceedings.
+Conversely, in Saipem v. Bangladesh, Plama v. Bulgaria,*” Nova Group v. Romania®®
+and Tokios Tokelés v. Ukraine*™ arbitral tribunals have denied the requested PMs on
+
+the basis of respecting the sovereignty of States to ‘pursue criminal proceedings within
+
+831. ibid.
+
+832. ibid. para. 148, p. 41.
+
+833. ibid. para. 151, p. 42.
+
+834 Plama (n 803) para. 46, p. 15.
+
+835 Nova Group (n 781).
+
+836 ibid. para. 235, pp. 74-75.
+
+837 Quiborax (n 762).
+
+838 loan Micula, Viorel Micula and others v. Romania, 1CSTD Case No. ARB/05/20, Award (11 December 2013).
+839 Tokios Tokelés (n 819).
+
+840 SGS Société Générale de Surveillance §.A. v. Islamic Republic of Pakistan (SGS v. Pakistan), ICSTD Case No. ARB/01/13.
+841 Saipem (n 778).
+
+842 Plama(n 803).
+
+843 Nova Group (n 781).
+
+844 Tokios Tokelés v. Ukraine, ICSID Case No. ARB/02/18, Procedural Order No. 3 (18 January 2005).
+
+ary
+
+453
+
+4.551
+
+4.552
+
+4.553
+
+
+4.554
+
+4.555
+
+4.556
+
+Chapter 4 ARBITRATION
+
+its borders’®** or the failure of the applicant to demonstrate how the conditions are
+satisfied.*”
+
+(c) The right of exclusive jurisdiction under Article 26 of the ICSID Convention:
+
+The right to exclusivity of ICSID proceedings stipulated under Article 26 of the IC-
+SID Convention has also been subject to protection by way of provisional measures.°””
+This right is mostly invoked in relation to the stay of parallel domestic proceedings and
+protection orders in relation to domestic proceedings and measures targeting certain
+investor's personnel or affiliates.
+
+In Perenco v. Ecuador,** the claimant requested the non-enforcement of a law that im-
+poses additional pecuniary obligations, which are not stipulated in the contract and also
+requested the stay of parallel domestic proceedings aimed at the application of that law.
+The respondent argued that the claimant can make the required monetary deposit and
+then challenge the enforcement notices before the Ecuadorian courts. However, the
+arbitral tribunal rejected such argument, asserting that the resort to the Ecuadorian
+courts by the respondent or the claimant is inconsistent with Article 26 of the ICSID
+Convention, and that none of the parties may resort to Ecuadorian domestic courts to
+enforce or resist any claim or right which forms part of the subject matter of the ICSID
+
+arbitration.2”
+
+In light of the existing case law, determining what actions or proceedings constitute a
+violation of Article 26 of the ICSID Convention remains to be established with cer-
+tainty. For example, in Churchill Mining v. Indonesia,*® the arbitral tribunal rejected the
+respondent’s request to order the claimant ‘not to contact any governmental officials to
+suggest settlement outside the present arbitration’, and it asserted that ‘parties to arbi-
+tration proceedings are free to engage in settlement negotiations. Article 26 of the ICSID
+Convention [.. .] applies to parallel judicial or arbitral proceedings, not to negotiations .*' In
+Quiborax and Non-Metallic v. Bolivia,®* the claimant requested the stay of the criminal
+proceedings based on the exclusivity of the ICSID proceedings, but the arbitral tribu-
+nal adopted a ‘conservative view’ as to what threatens the right to exclusivity. The said
+tribunal stated that whilst criminal proceedings relate to the ICSID arbitration, such
+
+proceedings do not threaten the exclusivity of the arbitration proceedings under Article
+
+845 Nova Group (n 781) para. 328, p. 119.
+
+846 Tokios Tokelés (n 844) para. 12, p. 6.
+
+847 Teinver (n 757); Quiborax (n 762); Tokios Tokelés (n 819 and n 844).
+848 Perenco (n 734).
+
+849 ibid. para. 61 p. 30.
+
+850 Churchill Mining (n 763).
+
+851. ibid. para. 53, p. 16.
+
+852 Quiborax (n 762).
+
+454
+
+ARTICLE 47
+
+26 of the ICSID Convention. The arbitral tribunal held that the ‘exclusivity of the
+ICSID proceedings applies only to investment disputes, i.e. here to the determination
+of whether Respondent has breached its international obligations under the BIT and
+whether Claimants are entitled to the relief they seek’.**
+
+In light of the prevailing practice before ICSID tribunals, whilst arbitral tribunals fre-
+quently deny the stay of criminal proceedings (either under the category of stay of par-
+allel proceedings or the category of protection orders) on the basis of exclusivity,** they
+tend to grant the stay of criminal proceedings when requested to protect the claimant’s
+personnel and affiliates against threated penalization*®*
+
+in the ICSID arbitration. °°
+
+or impairment to play their role
+
+(d) The right to immunity
+
+By virtue of Articles 21 and 22 of the ICSID Convention,*” certain categories of per-
+sons enjoy immunity against all actions in relation to the ICSID proceedings. ‘This
+includes all the members of the ICSID Administrative Council, arbitrators, the parties
+to the arbitration, their agents, counsel, advocates, witnesses and/or experts. In some
+cases, this immunity was invoked as a right to be protected by means of PMs. In Sem-
+
+*8 the Argentinian Federal Court issued an injunction preventing the
+
+pra v. Argentina,
+witnesses from appearing before the ICSID arbitral tribunal, stating, inzer alia, that the
+claimant’s witness in the ICSID arbitration should refrain from making written state-
+ments or giving testimony at hearings in cases filed against Argentina, and the claimant
+submitted a request for PMs in relation to the witness. Upon examination of the PMs
+request, the arbitral tribunal noted that the witness was duly notified of the injunction
+and did not raise any timely objection and so Articles 21 and 22 of the ICSID Conven-
+tion could not apply to the relationship between the witness and Argentina.*” How-
+
+ever, in granting the requested PM, the tribunal ordered the respondent to refrain from
+
+853. ibid. para. 53, p. 16.
+
+854 Tokios Tokelés (n 844).
+
+855 Quiborax (n 762); City Oriente (n 781).
+
+856 Sempra Energy International v. Argentine Republic, CSTD Case No. ARB/02/16, Award (28 September 2007); and
+Nova Group (n 781). See also Section 5.G,
+
+857 Article 21 reads: “The Chairman, the members of the Administrative Council, persons acting as conciliators or arbitra-
+tors or members of a Committee appointed pursuant to paragraph (3) of Article 52, and the officers and employees of
+the Secretariat (a) shall enjoy immunity from legal process with respect to acts performed by them in the exercise of
+their functions, except when the Centre waives this immunity; (b) not being local nationals, shall enjoy the same immu-
+nities from immigration restrictions, alien registration requirements and national service obligations, the same facilities
+as regards exchange restrictions and the same treatment in respect of travelling facilities as are accorded by Contracting
+States to the representatives, officials and employees of comparable rank of other Contracting States.’ Article 22 reads:
+“The provisions of Article 21 shall apply to persons appearing in proceedings under this Convention as parties, agents,
+counsel, advocates, witnesses or experts; provided, however, that sub-paragraph (b) thereof shall apply only in connec-
+tion with their travel to and from, and their stay at, the place where the proceedings are held.’
+
+858 Sempra (n 856).
+
+859 ibid. para. 3(a), p. 9.
+
+455
+
+4.557
+
+4.558
+
+
+4.559
+
+4.560
+
+Chapter 4 ARBITRATION
+
+any act or omission that may impair the witness’ ability to provide his testimony. The
+arbitral tribunal noted that witnesses enjoy immunity from legal process with respect to
+
+acts performed by them in the proceedings irrespective of their nationality.°°
+
+In Teinver and others v. Argentina,**
+
+the claimant argued that the immunity provided
+applies ipso iure without a specific order of an ICSID tribunal and that it extends to
+not only the claimant but also their legal counsel, their court-appointed receivers and
+their funders. However, the arbitral tribunal decided that the immunity available under
+Articles 21 and 22 of the ICSID Convention does not extend to third party funders.*”
+Although the tribunal stated that it was not convinced that Article 22 applies to the
+funder or extends to the funding agreement on the basis of the limited evidence and
+argument before it, it stated that “The question of the nature and scope of the immunity
+granted to parties, their counsel and the other persons referred to in Article 22 of the
+ICSID Convention is a complex one, particularly when one considers the various per-
+sons to whom immunities may apply in the particularly complex circumstances of this
+case. In the Tribunal’s view, even assuming that only the Funding Agreement were rel-
+evant to the Complaints and criminal investigation, there are serious, plausible grounds
+on which some, if not all, of Claimants, their counsel, their court-appointed receivers
+and their funder are entitled to immunity under Article 22 of the ICSID Convention.
+However, the Tribunal need not decide this question at this stage’.*® The tribunal also
+distinguished the case from the Lidananco v. Turkey case in which the Tribunal found
+that the immunity under Article 22 of the ICSID Convention applied to an escrow
+agent.*
+
+(e) The preservation and production of documents
+
+The preservation and/or the production of documentary evidence has been frequent-
+ly invoked in numerous ICSID arbitrations. Whilst preservation and production of
+documents is normally invoked under Article 43 of the ICSID Convention, which
+provides that the arbitral tribunal may ‘call upon the parties to produce documents or
+other evidence’, Article 47 of the Convention has sometimes been used by parties to
+
+request PMs in order to secure or obtain evidence where the surrounding circumstances
+
+860 ibid. para. 37(5), p. 10.
+
+861 Teinver (n 757).
+
+862. ibid. para. 216, pp. 82-83.
+
+863. ibid. para. 220, p. 84.
+
+864 ibid. where the tribunal stated: ‘the escrow agent in question was part of an arrangement established by the Tribunal to
+permit the production and examination of share certificates relevant to the issues before the Tribunal for examination
+by Respondent. The circumstances of that case were that the tribunal made specific provision for the holding of shares
+to be examined for evidentiary purposes in the arbitration, which are quite different from the circumstances relevant to
+
+the Funding Agreement in this case.’
+
+456
+
+ARTICLE 47
+
+justified such a request.*® In Biwater Gauff'v. Tanzania,*® the claimant requested the
+preservation and the production of certain categories of documents, and the arbitral
+tribunal confirmed that such right is protected by PMs. The tribunal held that ‘[t]he
+purpose of provisional measures is to induce behavior by the parties that is conducive
+to a successful outcome of the proceedings such as securing discovery of evidence’ .**’ The
+tribunal was of the opinion that the requirements of urgency and necessity are met for
+the potential need for the evidence in question as it is likely that the examination of the
+merits will require consideration of evidence that is currently in Tanzania and beyond
+BGT’s possession, custody or control. The tribunal also added that ‘there is a need for
+such evidence to be preserved before the proceedings progress any further (e.g. to enable
+each party properly to plead their respective cases)’.°* In its decision, the arbitral tribu-
+nal granted the PM request, in part, under Article 47 as it found that the surrounding
+circumstances so justify. However, it examined the remaining part under Article 43 and
+validly highlighted that ‘the danger of allowing Article 47 as a method of obtaining dis-
+closure of documents is that this might be deployed to circumvent other procedures — in
+this case the detailed mechanism for two exchanges of document requests. Although
+there may be instances in which document production could be ordered’.6”
+
+In Nova v. Romania,*”
+
+the claimant requested, in¢er alia, the tribunal to order the re- 4.561
+spondent to: (i) preserve all documents potentially relevant to the arbitration in the
+possession of the national body; and (ii) reconstruct any lost data potentially relevant
+to the arbitration in the possession of the national body. The tribunal noted that the
+claimant depended on a news article that the electronic document depository of the
+national body had been destroyed following a crash, but rejected the request on the
+basis of an internal report of the national body assuring that the crash did not affect the
+electronic or the hard copies of the documents. The tribunal was also of the opinion that
+the respondent undertook all reasonable measures necessary and so there was no basis
+
+to grant the order to preserve or recover any data that is relevant to the arbitration.*”
+
+(f) The right to specific performance
+The right to specific performance is rarely invoked under Article 47 of the ICSID Con- 4.562
+vention. In Burlington Resources v. Ecuador,*” the parties disputed the admissibility of
+
+the right to specific performance under both international law and the Ecuadorian law,
+
+865 See Section 5.D.
+
+866 Biwater Gauff(n 780).
+
+867 ibid. para. 21, p. 67.
+
+868 ibid. para. 25, p. 86.
+
+869 ibid. para. 101, p. 29.
+
+870 Nova Group (n 781).
+
+871 ibid. para. 362, p.135.
+
+872 Burlington Resources (n 761).
+
+457
+
+4.563
+
+4.564
+
+Chapter 4 ARBITRATION
+
+and the arbitral tribunal established admissibility in international law and cited Article
+35 of the International Law Commission Articles on State Responsibility providing
+for ‘restitution which includes specific performance unless it is materially impossible or
+
+wholly disproportionate’.*”
+
+In Rizzani and others v. Kuwait,’ the respondent requested the tribunal to order the
+claimant to continue performing the construction works and maintain all bonds re-
+quired by the project, but the arbitral tribunal denied both PM requests in light of
+the absence of irreparable harm and the undertaking given by the claimant that it will
+maintain and extend the bonds for the duration of the project.*”
+
+In City Oriente v. Ecuador,*”*
+
+the claimant made a number of requests to order the
+respondent to refrain from demanding the payment of certain amounts pursuant to
+a newly enacted law and to refrain from unilaterally terminating the contract by ad-
+ministrative proceedings and both requests were granted. The tribunal noted that: ‘In
+the opinion of this Arbitral Tribunal, the provisional measures requested by Claimant are
+necessary to safeguard Claimants rights and the claims it has asserted in this arbitration.
+Indeed, City Oriente is seeking an order to have the Contract performed pursuant to
+its original terms and conditions. Ecuador and Petroecuador understand that the rights
+and obligations arising from the Contract have not been affected or modified as a re-
+sult of the application of Law No 2006-42, which is to be enforced on its own terms.
+Respondents may or may not be right — an issue pertaining to the merits on which the
+Tribunal cannot and should not rule at this time. However, while the matter is being
+resolved, the principle that neither party may aggravate or extend the dispute or take justice
+into their own hands prevails. Consequently, Ecuador and Petroecuador shall continue
+to comply with the obligations that they voluntarily undertook in the Contract, pursu-
+ant to the agreed upon terms, and they must refrain from declaring its termination or
+otherwise modifying its content.”*’’ Concerning the specific issue of the administrative
+termination of the contract by the government, the tribunal noted that ‘Such termina-
+tion proceeding needs to be stayed since, pursuant to the Contract, all disputes between
+
+the parties are to be settled through arbitration [...]’.°”
+
+873. ibid. para. 70, p. 22.
+
+874 Rizzani(n 764).
+
+875 ibid. para. 149, p. 64.
+
+876 City Oriente (n 781).
+
+877 ibid. paras 57-59, pp. 11-12.
+878 ibid. para. 60, p. 13.
+
+458
+
+ARTICLE 47
+
+(g) The right to ICSID arbitration conducted in good faith
+
+Though possibly recognizable as a right to be protected by PMs, it is not frequently
+invoked and the nature and scope of such right has not been sufficiently clarified and
+defined in ICSID awards. It is submitted that such right pertains to the procedural
+integrity of the arbitral proceedings.
+
+In Teinver and others v. Argentina,*” the tribunal did not discuss the notion of the right
+itself; it discussed the arguments of the parties and stipulated a number of observations
+and questions in relation to the nature of the actions of the State and its potential effect
+
+on the procedural integrity of the proceedings. The claimant argued that,
+
+Respondent’s conduct in filing the Complaints and commencing the criminal investi-
+gation breaches its duty to arbitrate in good faith and threatens the integrity of these
+ICSID proceedings. In essence [...] the Complaints and the criminal investigation are
+guerrilla tactics employed in bad faith by Respondent in order to derail this arbitration
+and avoid having to pay an award rendered against it.*°
+
+However, the Respondent argued that it ‘has the right and duty to investigate criminal
+
+conduct where it has a legitimate basis to suspect that the same has occurred’.**!
+
+The tribunal recognized two established principles in international law: first, that the
+‘Respondent clearly has the sovereign right to conduct criminal investigations and it
+will usually require exceptional circumstances to justify the granting of provisional
+measures to suspend criminal proceedings by a State’, and second, ‘where exceptional
+circumstances do exist and threaten the integrity of the arbitration proceedings and
+the principle of due process, provisional measures may be warranted’.**? However, the
+tribunal decided that good faith plays a role in striking the balance between the two
+principles of State sovereignty and the procedural integrity of the ICSID proceedings.
+‘The tribunal also stated that ‘abuse of the sovereign power of a State to pursue criminal
+proceedings may give rise to damage and a claim for the breach of rights protected by a
+
+BIT or international law’.?®
+
+(h) Confidentiality of the proceedings
+Whilst confidentiality is recognized in the context of commercial arbitration subject
+
+to the applicable rules and laws, investment arbitration tribunals functioning under
+
+879 Teinver (n 757).
+880 ibid. para. 188, p. 72.
+881. ibid.
+
+882. ibid. para. 190, p. 73.
+883 ibid.
+
+459
+
+4.565
+
+4.566
+
+4.567
+
+4.568
+
+4.569
+
+
+4.570
+
+4.571
+
+Chapter 4 ARBITRATION
+
+different treaties and rules frequently addressed issues of confidentiality.*** In this re-
+spect, the existence of a general duty of confidentiality in investment arbitration re-
+mains debatable, but the general inclination is that confidentiality may not preclude
+a State or other party from discussing the case in public, and the general public may
+not be deprived of the knowledge and information relating to public affairs.*® This is
+indeed consistent with the modern trends of transparency in treaty-based arbitrations
+that culminated in the conclusion of the United Nations Convention on Transpar-
+ency in Treaty-based Investor-State Arbitration (the ‘2014 Mauritius Convention on
+Transparency’),*** but it has not yet gained the anticipated global support by the major-
+ity of States.
+
+In the specific context of ICSID, confidentiality remains acknowledged and parties
+have requested PMs to protect the confidentiality of proceedings, though calls for more
+transparency are on the rise. ICSID arbitral tribunals have recognized the competing
+requirements of confidentiality and transparency and have held that the Convention
+and the Rules (i) do not prevent the parties from revealing their case;**’ and (ii) do not
+contain an express restriction with regard to the parties’ freedom to speak about the
+arbitration in public. In this regard, the tribunal of Amco v. Indonesia*™ stated that ‘as to
+the “spirit of confidentiality” of the arbitral procedure, it is right to say that the Conven-
+
+tion and the Rules do not prevent the Parties from revealing their case [.. .]’.°°
+
+In the specific cases where arbitral tribunals granted PMs pertaining to the confidenti-
+ality of certain documents or the proceedings, the right of the procedural integrity and
+non-aggravation of the dispute played considerable role in facilitating such orders. For
+
+example, in Biwater Gauffv. Tanzania,”
+
+the claimant requested the confidentiality of
+certain categories of documents on the basis of the procedural integrity of the proceed-
+
+ings and the non-aggravation of the dispute. ‘The arbitral tribunal affirmed that in case
+
+884 Metalclad Corporation v. United Mexican States, |CSID Case No. ARB/(AF)/97/1, Decision on a Request by the Re-
+spondent for an Order Prohibiting the Claimant from Revealing Information Regarding Case ARB/(AF)/97/1 (27
+October 1997) (under NAFTA rules); The Loewen Group, Inc. and Raymond L. Loewen v. USA, ICSTD Case ARB
+(AF) 98/3, Decision on Hearing of Respondent’s Objection to Competence and Jurisdiction (5 January 2001) (under
+NAFTA tules); Ameo Asia (n 797); S.D. Myers Inc v. Canada, Procedural Order No. 16, Ad hoce-UNCITRAL Abbitra-
+tion Rules, signed 13 May 2000 as all cited by Biwater Gauff (Tanzania) Limited v. United Republic of Tanzania, CSTD
+Case No. ARB/05/22, Procedural Order No. 3 (29 September 2006).
+
+885 The Loewen Group (n 884) paras 24-28 as cited by Biwater Gauff (Tanzania) Limited v. United Republic of Tanzania,
+ICSID Case No. ARB/05/22, Procedural Order No. 3 (29 September 2006).
+
+886 United Nations Commission on International Trade Law Status, United Nations Convention on Transpar-
+ency in Treaty-based Investor-State Arbitration (New York, 2014) <www.uncitral.org/uncitral/en/uncitral_texts/
+arbitration/2014Transparency_Convention_status.html> (accessed 8 July 2018).
+
+887 See Amco v. Indonesia, ICSTD Case ARB/81/1, Decision on Provisional Measures (9 December 1983), 1 ICSID Re-
+ports 412, 410, para. 4 as cited by Biwater Gauff(n 885).
+
+888 Ameo v. Indonesia, ICSTD Case ARB/81/1, Award (4 October 2006), para. 16, p. 7.
+
+889 ibid.
+
+890 Biwater Gauff(n 885).
+
+460
+
+ARTICLE 47
+
+the parties agreed on the confidentiality of the proceedings, such agreement will give
+rise to rights ‘that are susceptible of protection by way of provisional measures or other
+appropriate relief’.*”' The arbitral tribunal also referred to the evolution of the ICSID
+rules towards more transparency, stressing that there are only three provisions in the
+ICSID Convention and Administrative and Financial Rules that provide limitation on
+the transparency of the proceedings and they mainly relate to arbitral tribunals and the
+ICSID secretariat and not the parties.°”
+
+(i) The right to enforceable award under Article 53 of the ICSID Convention
+
+This right has not been frequently invoked in the context of PMs and there is no prop-
+erly developed jurisprudence in this regard. Mostly, it has been associated with the
+right not to pre-judge the merits of the case or mentioned after stipulating the right of
+maintenance of the satus quo and non-aggravation of the dispute. However, the newly
+proposed amendments to the ICSID rules explicitly grant the tribunals the right to
+‘prevent action that is likely to cause: (ii) prejudice to the arbitral process’ as a right to be
+
+protected by means of provisional measures.*”
+
+In Teinver and others v. Argentina,*™ the claimant stated that ‘an aspect of the integrity
+of the proceedings is their right to an enforceable award under Article 53 of the ICSID
+Convention’,®® and it supported its argument by stating that ‘the purpose of the Com-
+plaints and criminal investigation is to prevent the enforcement of any award rendered
+against Respondent by de-legitimizing this arbitration and any award’.*”* The arbitral
+tribunal did not deny that such right deserves protection by means of PMs. However,
+the tribunal rejected the argument that such right was at risk, since: (i) the scope of the
+arbitration is different from the scope of the criminal proceedings, and (ii) both parties
+
+agreed that the tribunal shall not be bound by the decisions of national courts.
+
+As mentioned herein above, in Nova v. Romania,®*’ when the claimant invoked the
+right of procedural integrity in its application of PMs, the tribunal noted that the right
+of procedural integrity inherently includes the ability to fashion meaningful relief, if the
+applicant has proven entitlement to relief and this amounts to protecting the effective-
+ness of the award.*** Accordingly, the tribunal granted a protection order in regards to
+
+891 ibid. para. 115, p.29.
+
+892 ibid. para. 123, p. 30.
+
+893 ‘Proposals for Amendment of the ICSID Rules — Consolidated Draft Rules’ (n 729).
+894 Teinver (n 757).
+
+895 ibid. para. 223, p.35.
+
+896 ibid.
+
+897 Nova Group (n 781).
+
+898 ibid. para. 235, pp. 74-75.
+
+461
+
+4.572
+
+4.573
+
+4.574
+
+
+4.575
+
+4.576
+
+4.577
+
+Chapter 4 ARBITRATION
+
+one of the claimant’s ‘key representative and key witness’,*”” recommending ‘Romania
+to withdraw or (or otherwise suspend the operation of ) the transmission of the Euro-
+pean arrest warrant [...] and associated request for extradition [...] and refrain from re-
+issuing or transmitting this or any other European Arrest Warrant or other request for
+extradition [...] related to the subject matter of this arbitration until the Final Award
+
+in this case is rendered’.?”
+
+In Tokios Tokelés v. Ukraine,” the tribunal held that ‘provisional measure may also be
+P y
+granted to protect a party from actions of the other party that threaten to aggravate the
+
+dispute or prejudice the rendering or implementation of an eventual decision or award .””’
+
+5. THETYPES OF PROVISIONAL MEASURES
+
+Besides the specific right(s) to be preserved/protected, a party requesting a PM must
+also specify the measure(s) requested under Rule 39(1). There is no exhaustive list of
+PMs that may be granted by a tribunal since the nature/types of PMs are subject to the
+circumstances of each case and the relevant rights to be protected. Whilst many have
+voiced concerns regarding this void,””’ the absence of a list of the type of PMs that can
+be granted is only natural and logical, since it is difficult to foresee all the situations that
+might arise in practice and for which PMs can be ordered.” That said, I provide herein
+an overview of all the types of PMs that have arisen in practice and which broadly fall
+into (13) categories as discussed below.
+
+A. Maintenance or restoration of the status quo
+
+Maintenance of the status quo is understood to be included in Article 47 of the ICSID
+Convention in the context of referring to the ‘preservation of the respective rights of
+the parties’. This category of PMs includes requests aimed at prohibiting the opposing
+party from taking any action that might alter the status quo of a certain movable or im-
+movable property that is related to the dispute.”” This may usually come as: (i) a general
+request to maintain the status quo between the parties; (ii) a specific request to refrain
+
+899 ibid. para. 135, p.39.
+
+900 ibid. para. 365(A), p. 137.
+
+901 Tokios Tokelés (n 844).
+
+902. ibid. para. 7, p. 4.
+
+903 RSM (n 760).
+
+904 Schreuer and others (n 3) 778.
+
+905 See Phoenix Action Ltd v. Czech Republic, CSTD Case No. ARB/06/5, Decision on Provisional Measures (6 April
+2007).
+
+462
+
+ARTICLE 47
+
+from any action that may change the status of the parties;”” (iii) a request to refrain
+from taking any action with regard to the corporate structure of the investment subject
+of the dispute;”” (iv) a request to refrain from undertaking any action with relation to
+the shares of such investment;”” (v) a request to refrain from modifying or cancelling
+permits granted to the investor or the contract subject to the dispute;”” (vi) a request to
+
+910
+
+take actions to develop a certain property;”"° or (vii) a request to restore the status quo
+
+that was altered by actions of the opposing party.?"!
+
+According to the Reviewed Documents, maintenance or restoration of the status quo
+was requested 24 times out of a total number of 483 PM requests submitted to ICSID
+tribunals representing 4.97 per cent of the total requests. It was only fully granted in
+four cases and partially granted’ in two cases with a success rate of 25 per cent of the
+total requests made under this specific category.
+
+£7
+
+In Helnan International v. Egypt,’ the claimant requested a number of PMs aiming
+at the restoration of the s/atus guo, amongst which: (i) reinstating Helnan as manager
+and operator of the Hotel; (ii) not interfering with Helnan’s continuous right to man-
+age and operate the hotel; and (iii) refraining from all procedures to sell the hotel or
+interfere with Helnan’s right to manage and operate the hotel. In this case, the arbitral
+tribunal denied all requested PMs that were identical to the relief sought by the claim-
+
+ant on the merits and noted that they do not fall within the scope of PMs by nature.
+
+However, in Spyridon Roussalis v. Romania,’ the tribunal granted the claimant request
+to maintain the status guo and issued a decision ‘directing that Claimant does not sell or
+alienate any property belonging to Continent SA, without prejudice to all substantive
+
+issues in dispute’?
+
+906 Burlington Resources (n 761).
+
+907 Azurix Corp. v. The Argentine Republic, ICSTD Case No. ARB/01/12, Award (14 July 2006) para. 13, p. 6.
+
+908 ABCI Investments Limited v. Republic of Tunisia, ICSTD Case No. ARB/04/12, Decision on Jurisdiction (18 February
+2011).
+
+909 International Quantum Resources Limited, Frontier SPRL and Compagnie Miniére de Sakania SPRL v. Democratic Repub-
+lic of the Congo, ICSID Case No. ARB/10/21, Procedural Order No. 1 (1 July 2011).
+
+910 See Tethyan Copper Company Pty Limited v. Islamic Republic of Pakistan, CSTD Case No. ARB/12/1, Decision on
+Claimant Request for Provisional Measures (13 December 2012).
+
+911 See Helnan International Hotels A/S v. Arab Republic of Egypt, CSTD Case No. ARB/05/19, Decision on Claimant’s
+Request for Provisional Measures (17 May 2006).
+
+912 Throughout this commentary, the term ‘partially granted’ in relation to a PM denotes either: (i) limiting the scope of the
+granted PM; or (ii) granting a different PM aimed at protecting the same right.
+
+913. ibid.
+
+914 Spyridon Roussalis v. Romania, ICSID Case No. ARB/06/1, Award (7 December 2011).
+
+915 ibid. para. 24, p. 3.
+
+463
+
+4.578
+
+4.579
+
+4.580
+
+
+4.581
+
+4.582
+
+4.583
+
+4.584
+
+Chapter 4 ARBITRATION
+
+Also, in International Quantum v. Congo,’'® the claimant requested maintenance of the
+status quo through various actions and requests, including: ordering the respondent not
+to transfer permits; to refrain, directly or indirectly through any entity controlled by it
+from cancelling the permits; to submit for tender any mineral deposit located within
+the perimeter of the permits; and to refrain from taking any measure that could further
+affect the rights of Frontier and Comisa under the permits until the Tribunal has is-
+sued a final award. Having considered all requests, the tribunal partially granted the
+requested PMs, noting that: (i) the first item was not decided by the tribunal as the
+respondent declared that it has no intention to cancel permits; (ii) the third and fourth
+items were rejected; and (iii) the second item (i.e. preventing the respondent, directly or
+indirectly through any entity controlled by it from transferring, in whole or in part, any min-
+ing title or right located within the parameters covered by the permits, or granting, issuing
+or transferring any further or other rights within perimeters covered by the permits) was
+
+partially granted.
+B. Non-aggravation of the dispute
+
+It is a well-established general principle under the ICSID system that parties should
+not aggravate or exacerbate their dispute. This category includes requests where the
+status quo is changing or developing and a party is requested not to interfere in this
+status quo in any way that would compromise the developing status quo or aggravate the
+situation between the parties.
+
+According to the Reviewed Documents, non-aggravation of the dispute was requested
+50 times out of a total number of 483 PM requests submitted to ICSID tribunals repre-
+senting 10.35 per cent of the total requests. However, it was only fully granted in seven
+cases and partially granted in 11 cases with a success rate of 36 per cent of the total
+
+requests made under this specific category.
+
+This principle was first recognized in the ICSID jurisprudence in Victor Pey Casado v.
+Chile where the arbitral tribunal stated that its mission was to reduce the tension that
+existed between the parties or at least prevent its aggravation during the proceedings.?"”
+The tribunal also affirmed that ‘each party to a case is obliged to abstain from every act
+
+or omission likely to aggravate the case or to render the execution of the judgment more
+
+difficult’.
+
+916 International Quantum Resources Limited, Frontier SPRL and Compagnie Miniére de Sakania SPRL v. Democratic Repub-
+lic of the Congo, ICSID Case No. ARB/10/21, Procedural Order No. 1 (1 July 2011).
+
+917 Victor Pey Casado(n 740) as cited by Rizzani (n 764).
+
+918 ibid.
+
+464
+
+ARTICLE 47
+
+In Burlington Resources v. Ecuador, the tribunal struck a fair balance in granting the
+claimant’s request. It stated that the ‘Parties shall refrain from any conduct that may
+lead to an aggravation of the dispute until the Award or the reconsideration of this
+order. In particular, Burlington Oriente shall refrain from making good on its threat to
+abandon the project and Ecuador shall refrain from any action that may induce Burl-
+
+ington Oriente to do so’.””
+
+Similarly, in Rizzani and others v. Kuwait, the tribunal stated that the parties are expect-
+ed to be ‘aware of their obligations not to aggravate the dispute in the course of these
+
+arbitration proceedings and that they will act in compliance with those obligations’.
+C. Confidentiality of the ICSID proceedings
+
+Requests to maintain confidentiality under Article 47 are usually based on the right to
+safeguard the procedural integrity of the proceedings and the non-aggravation of the
+dispute.””' The dissemination of information or material related to the arbitration dur-
+ing its pendency may result in the aggravation of the dispute and/or the deterioration
+of the relation between the parties. It may also attract ‘trial by media’ of either parties
+and/or may also trigger the involvement of NGOs and experts through amicus curiae
+applications, and all this may risk the aggravation of the dispute and/or may negatively
+impact the procedural integrity of the proceedings.
+
+According to the Reviewed Documents, confidentiality of the proceedings was re-
+quested 17 times out of a total number of 483 PM requests submitted to ICSID tribu-
+nals representing 3.52 per cent of the total requests. However, it was only fully granted
+in four cases and partially granted in five cases with a success rate of 52.94 per cent of
+the total requests made under this specific category.
+
+In Amco v. Indonesia, the arbitral tribunal affirmed that the ICSID Convention and
+ICSID Rules do not prevent the parties from revealing their case or discussing the arbi-
+tration.”” In World Duty Free v. Kenya,”* the arbitral tribunal discussed, when examin-
+ing the PMs request to make the arbitration proceedings confidential, whether a party
+
+to the arbitration has the right to disseminate the minutes and the audio recordings of
+
+919 Burlington Resources (n 761) section IV Order, para. 8, p. 29.
+
+920 Rizzani(n 764) para. 133, p.57.
+
+921 Biwater Gauff(n 885).
+
+922 See Amco v. Indonesia, 1CSID Case ARB/81/1, Decision on Provisional Measures, 9 December 1983, 1 ICSID Reports
+412, 410, para. 4 as cited by Biwater Gauff(n 885).
+
+923 Ameo v. Indonesia, ICSID Case ARB/81/1, Decision on Provisional Measures, 9 December 1983, 1 ICSID Reports
+412, 410, para. 4 as cited by Biwater Gauff(n 885) para. 126, p. 57.
+
+924 World Duty Free v. Kenya, CSTD Case No. ARB/00/7, award (4 October 2006).
+
+465
+
+4.585
+
+4.586
+
+4.587
+
+4.588
+
+4.589
+
+
+4.590
+
+4.591
+
+4.592
+
+Chapter 4 ARBITRATION
+
+the hearing sessions to the press without permission from the tribunal or an agreement
+with the other party. The tribunal was of the view that ‘when no decision has been taken
+to open the hearings to the public, the records of such hearings should not be dissemi-
+
+nated unilaterally by one of the Parties’.””
+
+D. Preservation and production of evidence/documents
+
+Whilst the preservation and production of documents is regulated under Article 43
+of the ICSID Convention, Article 47 thereof is sometimes also invoked by parties to
+request PMs to secure or obtain evidence. Most requests under this category are to pre-
+serve and produce certain documents that were originally in the possession of the other
+
+party, and it also includes requests to:
+
+(i) preserve documents that already belonged to the requesting party but were seized;
+
+(ii) produce a copy or return the original copy of the seized documents or make them
+available;
+
+(iii) produce certain evidence, such as videos of the raids of premises of claimants;
+
+(iv) produce a list of the seized documents by the respondent;
+
+(v) inform/notify/update the tribunal as to (1) the current status of certain assets/
+seized physical assets; (2) the steps taken to implement the PMs granted; or (3) the
+steps to be taken or already taken as to a disputed asset (e.g. company’s shares); and
+
+(vi) give notice to the claimant or the tribunal before taking certain measures.
+
+According to the Reviewed Documents, preservation and production of documents, as
+a PM, was requested 57 times out of a total number of 483 PM requests submitted to
+ICSID tribunals representing 11.8 per cent of the total requests. However, it was only
+fully granted in 13 cases and partially granted in two cases with a success rate of 26 per
+cent of the total requests made under this specific category.
+
+In Biwater v. Tanzania,”°
+
+the claimant requested the production of documents and cor-
+respondence as a PM under Article 47. The request was granted but the tribunal noted
+that such requests for production of documents should, as a general rule, be considered
+under Article 43 of the Convention, save in exceptional circumstances where they could
+be considered under Article 47.””’ The tribunal found the claimant’s request to preserve
+evidence was reasonable, since the requirements of ‘necessity’ and ‘urgency’ had been
+met and there was a potential need to preserve the evidence to enable the parties to
+
+plead their cases. However, whilst the Biwarer tribunal was very flexible, this is not
+
+925 ibid. para. 16, p. 7.
+926 Biwater Gauff(n 780).
+927 ibid. para. 77, p.23 and paras 100-02, pp. 28-29.
+
+466
+
+ARTICLE 47
+
+always the case. Usually, when tribunals are faced with broad production/preservation of
+document requests in absence of urgency or necessity, they tend to directly reject them
+
+without examining whether such a request could be granted under another provision.”
+
+In Abaclat v. Argentina,” after the withdrawal of a number of claimants from the pro-
+ceedings, they requested the deletion of the information and documents relating to
+such claimants and the respondent requested the protection and the preservation of
+such documents through a PM request. The arbitral tribunal granted this request as
+‘in view of preserving Respondent’s rights of defense and ensuring the integrity of the
+proceedings, the Tribunal considers it appropriate to recommend that Claimants re-
+frain from deleting and/or destroying any information and/or documents relating to
+Claimants having allegedly withdrawn from the proceedings, until further order from
+the Tribunal’.”°
+
+In Railroad Development v. Guatemala,” the claimant requested the preservation of
+four categories of documents, but the arbitral tribunal rejected the request, noting that
+‘the categories of documents requested and reproduced [. . .] are excessively broad and
+
+their relevance difficult to assess’.?*?
+
+E. Stay of parallel domestic and arbitral proceedings
+
+The avoidance or stay of parallel proceedings before domestic courts and/or arbitral
+tribunals forms the largest category of requested PMs in ICSID proceedings.” This
+category of PM requests is mostly founded on the right to exclusive jurisdiction of
+
+ICSID enshrined in Article 26 of the ICSID Convention and it also aims at safeguard-
+ing the procedural integrity of ICSID proceedings and non-aggravation of the dispute.
+
+This category includes a variety of requested measures mostly undertaken by States,
+
+including:
+
+(i) injunctions for the stay or termination of parallel domestic arbitral proceedings;
+and
+
+928 Phoenix Action (n 780); Railroad Development (n 738).
+
+929 Abaclat and others v. Argentine Republic, CSTD Case No. ARB/07/5, Procedural Order No. 11 (27 June 2012) para. 21,
+p.5.
+
+930. ibid.
+
+931 Railroad Development (n 738).
+
+932. ibid. para. 33, p. 16.
+
+933 See Schreuer and others (n 3) 784 citing I. F I. Shihata and A. R. Parra, “The Experience of the International Centre for
+Settlement of Investment Disputes’ (1999) 14 ICSID Rev — FIL] 299, 325-26.
+
+ay
+
+467
+
+4.593
+
+4.594
+
+4.595
+
+4.596
+
+
+4.597
+
+4.598
+
+4.599
+
+4.600
+
+Chapter 4 ARBITRATION
+
+(ii) injunctions for the stay or termination of local judicial (civil, commercial and/or
+criminal) or administrative proceedings and this in turn includes: non-interference
+in the proceedings pending in other States,”** and/or withdrawal of domestic pro-
+
+ceedings before the courts of other States.
+
+According to the Reviewed Documents, stay of parallel domestic and arbitral proceed-
+ings was requested 105 times out of a total number of 483 PM requests submitted to
+ICSID tribunals representing 21.74 per cent of the total requests. However, it was fully
+granted in 21 cases and partially granted in eight cases with a success rate of 26.67 per
+
+cent of the total requests made under this specific category.
+
+In Tokios Tokelés v. Ukraine, the arbitral tribunal affirmed ‘the right guaranteed by Arti-
+cle 26 to have the ICSID arbitration the exclusive remedy for the dispute to the exclu-
+
+sion of any other remedy, whether domestic or international, judicial or administrative.»
+
+Specifically, in relation to the stay of domestic judicial proceedings, this sub-category
+entails the suspension, withdrawal and/or non-initiation of these proceedings insofar
+as the ICSID proceedings are pending.”** Under this sub-category, nighty-seven PM
+requests were made, only 20 were fully granted and eight partially granted.
+
+In the beginning ICSID tribunals were reluctant to grant requests to stay national
+judicial proceedings pending ICSID arbitrations,*”’ but the practice has changed if the
+requesting party has shown good cause and fulfilment of the required conditions, espe-
+cially in light of Article 26 of the ICSID Convention. In Tokios Tokelés v. Ukraine,’?
+the claimant requested the suspension of parallel court proceedings in Ukraine as well
+as the investigations conducted by the Ukrainian tax authorities (i.e. ‘stay of judicial and
+administrative proceedings’). In granting those PMs, the arbitral tribunal relied on
+Article 26 of the ICSID Convention.” The tribunal adopted a broad view as to what
+constitutes ‘parallel domestic proceedings’, and held that ‘According to this basic
+
+934 See the cases of Caratube International Oil Company LLP and Devincci Salah Hourani v. Republic of Kazakhstan, CSTD
+Case No. ARB/13/13, Decision on the Claimant Request for Provisional Measures (4 December 2014); and EuroGas
+Inc. and Belmont Resources Inc. v. Slovak Republic, CSTD Case No. ARB/14/14, Procedural Order No. 7 (5 September
+2016).
+
+935 Tokios Tokelés (n 844) para. 7, p. 4.
+
+936 Tokios Tokelés (n 819) para. 2(b), p. 3.
+
+937 See Malintoppi (n 769) 175.
+
+938 See Holiday Inns (n 817) as cited in Schreuer and others (n 3) paras 101-02, pp. 784-85.
+
+939 Tokios Tokelés (n 819).
+
+940 ibid. The nature of the request is clarified in the subsequent Decision on Jurisdiction dated 29 April 2004.
+
+941 The arbitral tribunal quoted para. 32 of Report of the Executive Directors, which stated that ‘[I]t may be presumed that
+when a State and an investor agree to have recourse to arbitration, and do not reserve the right to have recourse to other
+remedies or require the prior exhaustion of local remedies, the intention of the parties is to have recourse to arbitration
+
+to the exclusion of any other remedy’. Tokios Tokelés (n 819) para. 1, p. 2.
+
+468
+
+ARTICLE 47
+
+principle, ICSID tribunals have repeatedly ruled: (a) that the parties to a dispute over
+which ICSID has jurisdiction must refrain from any measure capable of having a preju-
+dicial effect on the rendering or implementation of an eventual ICSID award or deci-
+sion, and in general refrain from any action of any kind which might aggravate or extend
+the dispute or render its resolution more difficult, and (b) that the parties must withdraw
+or stay any and all judicial proceedings commenced before national jurisdictions and refrain
+from commencing any further such proceedings in connection with the dispute before the IC-
+SID tribunal?” (emphasis added).
+
+In CSOB v. Slovakia,” the arbitral tribunal intelligently opted to add a pre-requisite to
+granting the request PM, that is: informing the national court of the ongoing ICSID
+proceeding in order to give the court an opportunity to voluntarily stay the proceedings
+in accordance with the international treaty obligations that bind Slovakia and the Bra-
+tislava Court.’** However, after denying the claimant’s requested PM twice and upon
+the rejection of the stay of the bankruptcy proceedings by the national court, the ICSID
+tribunal granted the stay of the national proceedings ‘to the extent that such proceed-
+ings might include determinations as to whether “the claimant has a valid claim”.’*
+The tribunal merely referred to Article 26 of the ICSID Convention providing for the
+exclusive jurisdiction of the ICSID tribunals, as a ground for granting the requested
+PM under Article 47."
+
+With respect to the stay ‘parallel domestic criminal proceedings’, ICSID tribunals seem
+to accept a limited power in this respect for a number of reasons: first, criminal proceed-
+ings do not usually fall under the description ‘parallel’ as their subject matter usually
+differs from the subject matter of the ICSID arbitrations. Second, the principle of State
+sovereignty and the right of the State to prosecute criminal activities within its territory
+militate against an unrestrained power by ICSID tribunals in this regard.
+
+Thus, whilst the stay or termination of criminal proceedings remains difficult to attain
+through PMs, ICSID tribunals tend to grant the stay of criminal proceedings to the ex-
+tent needed to urgently protect personnel and entities threatened by criminal proceed-
+ings, insofar as this may negatively impact the pending ICSID proceedings or threaten
+a party's right to have its claims fairly determined. In Teinver and others v. Argentina,
+
+the claimant requested the arbitral tribunal to order Argentina to ‘restore the status
+
+942 ibid. para. 2, pp. 2-3.
+
+943 Ceskoslovensko Obchodni Banka AS v. The Republic of Slovakia, CSTD Case No. ARB/97/4, Procedural Order No. 2 (9
+September 1998), Procedural Order No. 3 (9 November 1998), and Procedural Order No. 4 (11 January 1999).
+
+944 ibid.
+
+945 ibid. Procedural Order No. 4 (11 January 1999), para. 1, p. 2.
+
+946 ibid.
+
+469
+
+4.601
+
+4.602
+
+4.603
+
+
+4.604
+
+4.605
+
+Chapter 4 ARBITRATION
+
+quo ante’ by ceasing and desisting the ‘criminal investigation’. The tribunal held that it
+‘is aware of the distinction which has been drawn by other ICSID tribunals between claims
+under a BIT relating to the protection of an investment and criminal prosecutions brought
+by a State in respect of crimes alleged to have been committed in its territory. The Tribunal is
+also aware of the decisions of other tribunals which have expressed the view that pro-
+visional measures are an extraordinary remedy and that tribunals should exercise particular
+caution when asked to restrain a sovereign States exercise of its right to conduct criminal in-
+vestigations and prosecutions relating to conduct within its territory .°”” However, the same
+tribunal noted that ‘such powers must be exercised in good faith, respecting a claimant’s
+rights to have its claims fairly considered and decided by an arbitral tribunal’ (emphasis
+added). The same tribunal also noted that ‘[.. .] the abuse of the sovereign power of a
+State to pursue criminal proceedings may give rise to damage and a claim for the breach
+
+of rights protected by a BIT or international law’.””
+
+In Quiborax and Non-Metallic v. Bolivia,’ the respondent State initiated criminal pro-
+ceedings against the claimant’s personnel and the claimant requested the stay of crimi-
+nal proceedings on the basis of the following rights: (i) the right to preservation of the
+status quo and the non-aggravation of the dispute; (ii) the right to exclusivity of the
+ICSID proceedings in accordance with Article 26 of the ICSID Convention; and (iii)
+the right to procedural integrity of the arbitration. The tribunal granted the request on
+the basis that ‘the harm that such a stay would cause to Bolivia is proportionately less
+than the harm caused to Claimants if the criminal proceedings were to continue their
+course’,””' yet the tribunal recognized the respondent’s sovereign power to prosecute
+
+criminal conduct on its own territory.’”
+
+Concerning the ‘stay of administrative proceedings’, this sub-category is not frequently
+invoked as PMs before ICSID tribunals and the threshold for granting such stay seems
+to be difficult to meet. Under this sub-category, only frve requests were made, and most-
+
+ly, they were not granted, but the variants of administrative proceedings include:
+
+(a) suspension of the execution, non-execution of or lifting the application of certain
+
+executive/judicial decisions;?*
+
+947 Teinver (n 757) para. 185, p.71.
+
+948 ibid. para. 185, p.71.
+
+949 ibid. para. 190, p. 73.
+
+950 Quiborax (n 762).
+
+951 ibid. para. 165, p. 45. It is indeed interesting how the arbitral tribunal utilized the notion of ‘proportionality’ to assess
+and balance the parties’ competing interests in granting the stay of the criminal proceedings, whilst acknowledging the
+State’s sovereign right to prosecute criminal activities on its territory.
+
+952. ibid. para. 123, p.35.
+
+953 loan Micula, Viorel Micula and others v. Romania, 1CSTD Case No. ARB/05/20, Award (11 December 2013).
+
+470
+
+ARTICLE 47
+
+(b) suspension of certain administrative proceedings that affect the investment subject
+of the dispute;?** and
+(c) suspension/withdrawal of investigations undertaken by national administrative au-
+
+thorities, such as tax authorities.”
+
+In City Oriente v. Ecuador Petroecuador,** the arbitral tribunal granted the requested
+PMs and ordered the respondents to, inter alia, ‘refrain from Instituting or prosecuting,
+if already in place, any judicial proceeding or action of any nature whatsoever against or
+involving City Oriente Limited and/or its officers or employees and arising from or in
+connection with the Contract of March 29, 1995 and/or the effects of the application of Law
+No. 2006-42, the Law Amending the Hydrocarbon Law, to said Contract?’ (emphasis
+added).
+
+In Tokios Tokelés v. Ukraine,’** the arbitral tribunal initially granted the stay of parallel
+domestic proceedings in general, including the court proceedings and the investigation
+undertaken by tax authorities after being convinced that the surrounding circumstances
+so warrant.’ However, a differently constituted tribunal rejected the claimant’s second
+request to suspend the tax investigation undertaken by the Ukrainian tax authority on
+the basis of a narrow technical distinction between ‘proceedings’ and ‘investigations’.””
+Nevertheless, the tribunal affirmed that it does not rule out that investigations may give
+
+rise to a need for PMs if the conditions for granting the same are satisfied.”*'
+F. Stay of pending ICSID proceedings
+
+In a few cases, a party requested the stay of the ICSID arbitration until a certain event
+
+happens, such as: (a) compliance of the other party with certain provisional measures;
+
+954 Tokios Tokelés (n 844).
+
+955 Togo Electricité and GDF-Suex Energie Services v. Republic of Togo, CSTD Case No. ARB/06/7, Award (10 August
+2010).
+
+956 City Oriente (n 781).
+
+957 ibid. p.20.
+
+958 Tokios Tokelés (n 819 and n 844),
+
+959 The wording of Procedural Order No. 1 dated 1 July 2003 granting the stay of parallel proceedings was very vague. It
+neither stipulated the claimants request nor clarified the nature of the proceedings the stay of which was requested. The
+tribunal rather made a general comment that proceedings include judicial and any other proceedings without making
+explicitly mentioning administrative proceedings. Eventually, the tribunal made a general recommendation granting
+the stay of all parallel domestic proceedings. See Tokios Tokelés (n 819).
+
+960 ‘The tribunal stated: ‘the ordinary meaning of “proceedings,” which is “[t]he fact or manner of taking legal action,”
+whereas “investigation” is defined as “[t]he action or process of investigating; systematic examination.” An investiga-
+tion typically precedes the institution of proceedings. As the two words have distinct meanings that do not overlap, we
+conclude that “investigations” are not covered by Order No. 1, and Respondent, therefore, is not presently in violation
+of that Order’. Tokios Tokelés (n 844).
+
+961 ibid. para. 17, p. 8.
+
+471
+
+4.606
+
+4.607
+
+4.608
+
+
+4.609
+
+4.610
+
+4.611
+
+Chapter 4 ARBITRATION
+
+or (b) the conclusion of certain domestic proceedings.” According to the Reviewed
+Documents, stay of ICSID proceedings was requested three times out of a total number
+of 483 PM requests submitted to ICSID tribunals, representing 0.62 per cent of the
+total requests. However, it has not been granted as a PM, hence the success rate is 0 per
+
+cent.
+
+In MOL Hungarian v. Croatia,’ the respondent requested the stay of the present arbi-
+tration proceedings until: (1) the criminal proceedings against the prime minister have
+been fully resolved and concluded, and (2) the UNCITRAL claims have been decided.
+However, the arbitral tribunal rejected this request.” In Lighthouse and others v. Timor-
+Leste,*® the respondent requested that the claimants post security for costs and stay the
+ICSID arbitration until the claimants comply with such request. The arbitral tribunal
+rejected this request and only discussed the request to post security for costs. It is worth
+noting that the newly proposed amendments to the ICSID rules allow such measure
+to be granted in case of failure to post the ordered security.” So, it will be interesting
+to see how and when arbitral tribunals may suspend pending ICSID proceedings for
+
+failure to provide security for costs.
+G. Protection orders
+
+ICSID practice has shown that many PM requests pertain to the protection of certain
+personnel of one party, usually the claimant, from any arbitrary measures taken by the
+other party, usually the State, such as: illegitimate restrictions on a person's rights (i.e.
+restrictions on movement, travel, etc.) or abusive physical measures (i.e. physical harass-
+
+ment, unwarranted confinement, efe. ).
+
+According to the Reviewed Documents, this category of protection orders was request-
+ed 26 times out of a total number of 483 PM requests submitted to ICSID tribunals
+
+representing 5.38 per cent of the total requests but was fully granted six times and
+
+962 See Duke Energy International Peru Investments No. 1 Ltd. v. Republic of Peru (ICSTD Case No. ARB/03/28) as cited in
+Lucy Reed, Jan Paulsson, and Nigel Blackaby, Guide to ICSID Arbitration (2nd edn, Kluwer 2011) 423, Lighthouse Cor-
+poration Pty Ltd and Lighthouse Corporation Ltd, IBC v. Democratic Republic of Timor-Leste, ICSTD Case No. ARB/15/2,
+Procedural Order No. 2 Decision on Respondent’s Application for Provisional Measures (13 February 2016); MOL
+Hungarian Oil and Gas Company Plev. Republic of Croatia, ICSTD Case No. ARB/13/32, Decision on the Respondent’s
+pteliminary objections pursuant to ICSID Arbitration Rule 41(5) (2 December 2014).
+
+963 MOL Hungarian Oil (n 962).
+
+964 ibid.
+
+965 Lighthouse Corporation (n 962).
+
+966 ‘The rule in the 2018 proposed amendments reads as follows ‘Security for Costs (...) (4) Ifa party fails to comply with
+an order for security for costs, the Tribunal may suspend the proceeding until the security is provided. If the proceeding
+is suspended for more than 90 days, the Tribunal may, after consulting with the parties, order the discontinuance of the
+
+proceeding’ (emphasis added).
+
+472
+
+ARTICLE 47
+
+partially granted three times with a success rate of 34.62 per cent of the total requests
+made under this specific category.
+
+In Border Timbers and others v. Zimbabwe,”
+
+the claimant applied for urgent protection
+measures in relation to an alleged plan by the respondent’s ‘Central Intelligence Or-
+ganisation to kill one of the claimants. The arbitral tribunal granted the requested PM
+on its own initiative and ordered the respondent to report twice on the updates on the
+protection measures undertaken by respondent. The tribunal also concluded that ‘the
+measures which the Claimants seek, in the view of the Tribunal, are urgent and neces-
+sary since any action of any member, organ or agent of the Respondent or any person
+or entity instructed by the Respondent which could endanger the life and safety of the
+Claimants [...] is capable of causing irreparable prejudice to their right to participate in the
+
+present proceedings”®* (emphasis added).
+H. Pre-award security/financial guarantee
+
+This category includes all requests to provide financial security to guarantee the pay-
+ment, in whole or in part, of the administrative/legal costs of the arbitration or the
+potential award granting financial relief to the requesting party. The most common
+form of request under this category is the provision of financial guarantees or posting
+of security for costs. However, this category does not include requests to make immedi-
+ate payments based on contractual obligations. It is now common in many cases that a
+party requesting PMs also requests the provision of security for costs as part of its PM
+application. It is even more frequent that pre-award security requests are submitted by
+the respondent States. Traditionally, tribunals usually either postponed this request till
+the conclusion of the arbitration or simply rejected it on the basis that such request does
+not easily qualify as a PM.”
+
+As such, requests for ordering the counterparty to post financial securities/guarantees
+have not been easily granted by ICSID tribunals. Tribunals have been reluctant to grant
+security for costs based on a number of grounds, including: (1) the right to a future
+award is hypothetical; (2) the request includes a hypothetical scenario that the losing
+party will fail to meet a future award on costs or on the merits;?”° and/or (3) Article
+47 of the ICSID Convention did not specify security for costs as a PM that can be
+granted.?”!
+
+967 Border Timbers (n 770).
+
+968 ibid. para. 62, p.17.
+
+969 Nova Group (n 781) para. 365(i), p. 139.
+
+970 RSM (n 760) (dissenting opinion of judge Edward W. Nottingham).
+971 ibid.
+
+473
+
+4.612
+
+4.613
+
+4.614
+
+
+4.615
+
+4.616
+
+4.617
+
+4.618
+
+4.619
+
+Chapter 4 ARBITRATION
+
+According to the Reviewed Documents, this category of PMs was requested 42 times
+out of a total number of 483 PM requests submitted to ICSID tribunals representing
+8.7 per cent of the total requests, but was granted five times only (four of which were
+granted at the initiative of the tribunal and only one was based on a party’s request) with a
+success rate of 11.9 per cent of the total requests made under this specific category.
+
+Security for costs was granted for the first time — based on a party’s request — in 2014
+by the majority of the tribunal in the RSM v. Saint Lucia case.”” However, in Perenco v.
+Ecuador,” where the arbitral tribunal granted the claimant’s PM requests that prevents
+Ecuador from collecting an enhanced payment required under a newly enacted law, the
+tribunal struck a balance between the rights and interests of both parties and took the
+initiative in ordering the claimant to deposit the sums due under the newly enacted law
+
+in an escrow account by way of security.
+I. Non-enforcement of a legislative act
+
+This category includes requests for the stay or the non-enforcement of a legislative act.
+Such legislative act may be a newly promulgated law or ministerial decision of regula-
+
+tory nature, but it is not a commonly requested PM.
+
+According to the Reviewed Documents, this category of PMs was requested 11 times
+out of a total number of 483 PM requests submitted to ICSID tribunals representing
+2.28 per cent of the total requests, but was granted three times only, with a success rate
+of 27 per cent of the total requests made under this specific category.
+
+In City Oriente v. Ecuador,””*
+
+the claimant requested PMs aimed at the non-enforce-
+ment of a newly enacted legislation and the tribunal, in granting the PM, held that
+‘First, the Tribunal reiterates once more its respect for the sovereign powers of the Re-
+
+public of Ecuador and the right to dispose of its natural resources pursuant to any laws
+
+972 ibid. In this specific case, the respondent supported its request for security for costs as PM by the following: (i) the
+claimant had initiated a previous ICSID proceeding where it failed to honour the costs award issued against it and
+failed to pay the advances on costs of the annulment proceedings, leading to its discontinuance; and (ii) the claimant
+initiated a number of litigation and arbitration proceedings after the ICSID arbitration and did not comply with any of
+its awards due to its financial situation; and (iii) the proceedings initiated by the claimant are funded by a third-party,
+who will not comply with claimant’s obligations under a resulting costs award. However, the main reason for granting
+the request was the respondent’s argument that ‘material risk that Claimant will be unable or unwilling to comply with
+a costs award issued against it’. ibid. para. 29, p. 6. The majority of the tribunal also stated that ‘it is well settled that
+provisional measures can be ordered to protect the integrity of the proceedings as a whole’ (emphasis added). ibid. para. 65, p.
+15.
+
+973 Perenco (n 734).
+
+974 City Oriente Limited v. Republic of Ecuador and Empresa Estatal Petréleos del Ecuador (Petroecuador), 1CSID Case No.
+ARB/06/21, Decision on Revocation of Provisional Measures and Other Procedural Matters (13 May 2008).
+
+474
+
+ARTICLE 47
+
+that the Ecuadorian public authorities deem appropriate. The Provisional Measures do
+not interfere with the exercise of those powers. They only establish that, on a provisional
+basis, while the impact of an enacted law is resolved, natural resources continue to be
+exploited pursuant to a Contract granted at the time by Ecuadorian public authorities,
+
+considering it then a valid and effective instrument to regulate its natural resources”
+
+(emphasis added).
+J. Non-surveillance or discontinuance of surveillance
+
+Non-surveillance requests are not very common in ICSID arbitrations, but this cat-
+egory includes: (a) requests to discontinue or refrain from surveillance; (b) the non-in-
+terception of communication of any form between a party, its legal counsel and the wit-
+nesses or any personnel involved in the arbitration. According to the Reviewed Docu-
+ments, this category of PMs was requested eight times out of a total number of 483 PM
+requests submitted to ICSID tribunals representing 1.66 per cent of the total requests,
+but was fully granted two times only and partially granted one time with a success rate
+
+of 37.5 per cent of the total requests made under this specific category.
+
+In Cementownia v. Turkey,’ the claimant requested the tribunal ‘to order several pro-
+visional measures in order to discontinue the alleged surveillance’, and the arbitral tri-
+bunal ordered the respondent to respond with sufficient evidence and to ‘immediately
+discontinue until further notice all forms of surveillance or interference of communications
+directed at Cementownia and its legal counsels..°’’ Upon receipt of respondent’s reply that:
+first, respondent’s legal counsel ‘have not received or used any intercepts or other sur-
+veillance results from the Prosecutor’s Office in conjunction with this arbitration’ and
+second, [e]-mails that are not related to the investigated crime or any other crime, e-
+mails that are duplicative or irrelevant to the investigation are destroyed’, the tribunal
+maintained its order as to the discontinuance of all forms of surveillance directed at the
+
+claimant and their counsel.?”
+K. Emergency temporary orders
+
+Emergency temporary orders ((ETOs’), also known as temporary restraining orders,
+include: (a) emergency interim restraining relief, (b) orders temporarily maintaining the
+status quo or granting the PMs requested pending the decision of the tribunal on the
+PMs. This category of PMs aims at striking a balance between: (i) the urgency of the
+
+975 ibid. para. 90.
+
+976 Cementownia ‘Nowa Huta’ §.A. v. Republic of Turkey, 1CSTD Case No. ARB(AF)/06/2, Award (17 September 2009).
+977 ibid. Procedural Order No. 2 (14 March 2008) as cited in ibid. para. 39, p. 10.
+
+978 ibid. Procedural Order No. 2 (14 March 2008) as cited in ibid. para. 44, pp. 12-13.
+
+475
+
+4.620
+
+4.621
+
+4.622
+
+
+4.623
+
+4.624
+
+4.625
+
+Chapter 4 ARBITRATION
+
+requested PM and the gravity of the other party’s action; and (ii) the established princi-
+ple that ‘provisional measures are extraordinary measures which should not be granted
+lightly’.?”
+
+ETOs represent a new trend aimed at maintaining the status quo pending the tribu-
+nal’s decision on the requested PMs.”*° According to the Reviewed Documents, this
+category of PMs was requested 47 times out of a total number of 483 PM requests
+submitted to ICSID tribunals representing 9.73 per cent of the total requests, but was
+fully granted 20 times and partially granted one time with a success rate of 47 per cent
+of the total requests made under this specific category.
+
+In Burlington Resources v. Ecuador,”*'
+with an ETO and the arbitral tribunal rejected the ETO twice before it granted the
+same. [he tribunal, having been persuaded that the requirements of ‘urgency’ and ‘ne-
+
+the claimant requested a number of PMs along
+
+cessity’ were met, recommended that ‘the Respondents refrain from engaging in any
+conduct that aggravates the dispute between the Parties and/or alters the status quo
+until it decides on the Claimants’ Request for Provisional Measures or it reconsiders the
+
+present recommendation, whichever is first’.”*
+
+In City Oriente v. Ecuador and Petroecuador,’®
+
+the claimant requested a number of PMs
+and the tribunal sent a ‘communication to the parties asking them ‘[to] refrain from en-
+gaging in any conduct ... that may... affect or modify the legal situation existing as of
+such date between the parties under the Contract dated March 29, 1995 ... particularly
+in connection with the effectiveness or administrative termination of said Contract or
+the enforced collection of any moneys’. The tribunal further requested both parties to
+notify it if either intended to ‘take any measure that may violate’ the decision stipulated
+in the communication.” As it stands, the tribunal’s communication can be character-
+ized as an ETO. Subsequently, the tribunal expressly issued another ETO providing
+that ‘the Tribunal hereby orders that, pending a ruling on the provisional measures re-
+quested by City Oriente Limited, the Republic of Ecuador and (Petroecuador) refrain
+from [...]’.”8° Both ETOs were issued by the arbitral tribunal at its own initiative since
+claimant’s PM requests did not include an ETO request.
+
+979 Maffezini (n 756) para. 10, p. 3.
+
+980 In Teinver (n 757) and Award (21 July 2017), whilst claimant’s PM request for preservation of certain documents was
+pending, the respondent amended those documents, thus rendering the PM request moot.
+
+981 Burlington Resources (n 761).
+
+982. ibid. para. 24, p. 9.
+
+983 City Oriente (n 781).
+
+984 ibid. para. 13.
+
+985 ibid.
+
+986 ibid. p.19.
+
+476
+
+ARTICLE 47
+
+L. Reconsideration, revocation and/or modification of granted PMs
+
+This category covers PM requests aimed at the revocation or the modification of the
+already granted PMs. Such requests are examined under Article 47 and the tribunals’
+power to re-examine if there is any change in the circumstances justifying the revoca-
+tion or the modification of the granted PMs is derived from Rule 39(4) of the ICSID
+Rules. This power remains unchanged under the newly proposed amendments to the
+
+ICISD rules.??”
+
+Contrary to all other PMs, this request, along with the request to post security for costs,
+is commonly submitted by the respondent. According to the Reviewed Documents,
+this category of PMs was requested 34 times out of a total number of 483 PM requests
+submitted to ICSID tribunals representing 7 per cent of the total requests. However,
+it was fully granted five times with a success rate of 14.71 per cent of the total requests
+
+made under this specific category.
+
+Normally, arbitral tribunals require change in circumstances that compelling warrant
+reconsideration of the previously granted PMs. Absent such change in circumstances
+and/or compelling reasons to reconsider the granted PMs, tribunals would be very re-
+
+luctant to vary their decisions. In Nova Group v. Romania,”
+
+the respondent requested
+the reconsideration of the already granted PMs ordering the respondent to ‘withdraw
+or (or otherwise suspend the operation of ) the transmission of the European arrest war-
+rant [...] and associated request for extradition [...] and refrain from reissuing or trans-
+mitting this or any other European Arrest Warrant or other request for extradition’.**
+The tribunal rejected the request on the basis that ‘Romania does not suggest that any
+circumstances have changed in the short time since the Tribunal’s issuance of the Deci-
+sion, much less to such a degree as to demonstrate compelling new circumstances that
+would undermine the fundamental basis of that Decision ... Rather, Romania’s appli-
+cation is largely directed at persuading the Tribunal it was wrong in its prior assessment,
+while articulating with more emphasis a few points that Romania presented before,
+but could have developed further in its extensive written and oral pleadings. Neither
+
+presents a compelling basis for a reconsideration request’.””°
+
+Amongst the few cases where the tribunal reconsidered its decision regarding the
+
+granted PMs, is the case of Burlington Resources v. Ecuador,””' where the parties agreed
+
+987 ‘Proposals for Amendment of the ICSID Rules — Consolidated Draft Rules’ (n 729).
+
+988 Nova Group Investments, B.V. v. Romania, ICSID Case No. ARB/16/19, Procedural Order No. 8 (18 April 2017).
+989 ibid. para. 365(A), p. 137.
+
+990 ibid. para. 32, p. 10.
+
+991 Burlington Resources, Inc. and others v. Republic of Ecuador, ICSTD Case No. ARB/08/5, Award (2 June 2010).
+
+477
+
+4.626
+
+4.627
+
+4.628
+
+4.629
+
+
+4.630
+
+4.631
+
+4.632
+
+4.633
+
+Chapter 4 ARBITRATION
+
+that the PMs should be revoked after what the claimant called the expropriation of the
+exploration areas subject of the PMs and what the respondent called the abandoning
+
+the operation of the exploration areas.’””
+M. Miscellaneous requests
+
+This category covers PM requests that do not qualify or fall under any of the above-
+mentioned categories. It includes requests in relation to both substantive and proce-
+dural matters. According to the Reviewed Documents, 59 miscellaneous PMs were
+requested out of a total number of 483 PM requests submitted to ICSID tribunals
+representing 12.22 per cent of the total requests, but only nine were fully granted and
+two partially granted with a success rate of 10.17 per cent of the total requests made
+under this miscellaneous category.
+
+For example, in the case of Abaclat v. Argentina,”*
+
+the respondent requested two PMs,
+namely: (a) scheduling an urgent hearing to examine two witnesses; and (b) the IC-
+SID’s Secretary-General to issue a report on the method it applied to verify the au-
+thenticity of the documentation submitted together with the request for arbitration.
+The arbitral tribunal rejected both requests on the basis that: (a) the respondent failed
+to prove the urgency as to their request of scheduling an urgent hearing; and (b) the
+report related request falls outside the scope of the ICSID Secretary-General’s tasks
+
+and outside the scope of PMs.””*
+
+In Tanzania Electric v. IPTL,*” the respondent requested a number of PMs, including
+the payment of sums due under the disputed contract and the execution of some obli-
+gations under the contract. In rejecting the requests, the arbitral tribunal noted that ‘the
+balance of convenience or [...] the balance of harm, can be a sufficient ground on its
+own for granting this sort of relief — if the nature of the relief is beyond that contemplated
+by Rule 39°
+
+In Saipem v. Bangladesh,” the claimant requested the payment of the retention money,
+which was already granted under a previous ICC award. The tribunal dismissed this
+request as the urgency requirement was not satisfied. The tribunal stated that ‘[it] is nor
+
+inclined to recommend measures guaranteeing an award in favour of Saipem.|...| this could
+
+992 ibid. paras 77-79, pp. 17-18.
+
+993 Abaclat (n 929).
+
+994 ibid. paras 28-29, p. 7.
+
+995 Tanzania Electric Supply Company Limited v. Independent Power Tanzania Limited, ICSID Case No. ARB/98/8, Deci-
+sion on the Respondent’s Request for Provisional Measures (20 December 1999).
+
+996 ibid. para. 17.
+
+997 Saipem (n 778).
+
+478
+
+ARTICLE 47
+
+be viewed as a de facto enforcement of part of the ICC Award.””* In the same case, the
+claimant requested the return for the warranty bond for cancellation and the immediate
+termination of the parallel national domestic litigation or, alternatively, the suspension
+of the aforementioned litigation and avoid the encashment of this bond until the final
+adjudication of the current ICSID arbitration. The tribunal struck a balance of interests
+and granted this request and considered the requirements of ‘urgency’ and ‘necessity’ es-
+tablished, noting that “Bangladesh does not contest Saipem’s contentions and that there
+
+is a risk of irreparable harm if Saipem has to pay the amount of the Warranty Bond’.””
+
+As evident from the above, the tribunal referred to ‘irreparable harm’, when, in fact, 4.634
+the harm could, at best, be characterized as ‘significant harm’ that is capable of being
+remedied by awarding damages. Also, the tribunal did not discuss the request to imme-
+
+diately terminate the parallel domestic litigation not the alternative request to stay such
+litigation until the end of the ICSID arbitration.
+
+In Gabriel Resources v. Romania,’ the claimant requested a number of requests, 4.635
+amongst which are: (i) the non-disclosure of documents produced during domestic
+investigative proceedings and ensure that no information — that came to the knowledge
+of the national bodies as a result of such investigation — becomes available to any per-
+son having any role in respondent’s defence in this arbitration; and (ii) the respondent
+not to proffer any evidence gained through the national bodies investigation without
+prior identification to and leave from the Tribunal with an opportunity for claimants
+to comment on any such request. The tribunal rejected both requests, stating that it has
+evidence on record that no classified and confidential documents have been collected
+and no evidence exists that privileged documents such as communications with counsel
+
+have been illicitly obtained.
+
+6. THE CONDITIONS FOR GRANTING PROVISIONAL MEASURES
+
+Since PMs normally require urgent and necessary intervention on matters that can- 4.636
+not await the rendering of a final award, certain circumstances and conditions must
+
+be fulfilled to grant PMs. Whilst there may not be total consensus on the conditions
+
+998 ibid. para. 185, p. 49.
+
+999 ibid. para. 182, p. 48. The tribunal also noted ‘at the hearing Saipem convincingly showed that there is a risk that it may
+be required to pay to the Italian bank the amount that the Bangladeshi bank may have to pay to Petrobangla’. ibid. para.
+181, p. 48.
+
+1000 Gabriel Resources Ltd. and Gabriel Resources (Jersey) Ltd. v. Romania, CSTD Case No. ARB/15/31, Decision on Claim-
+ants’ Second Request for Provisional Measures (22 November 2016).
+
+479
+
+4.637
+
+4.638
+
+4.639
+
+Chapter 4 ARBITRATION
+
+that must be fulfilled to grant PMs,'°' practice has shown that ICSID tribunals usu-
+ally grant PMs if the requested PMs are: (1) urgent; (2) necessary; (3) intended to avert
+significant/irreparable harm;'” and (4) proportionate (i.e. non-abusive). This is further
+detailed below.
+
+At the outset and on the specific issue of burden of proof, it is for the applicant/request-
+ing party to demonstrate and evidence the fulfilment of the conditions required for
+1003
+
+granting PMs.
+
+In Rizzani and others v. Kuwait,’ the arbitral tribunal afirmed that ‘an order of pro-
+visional measures will only be granted if the measure sought is necessary to preserve a
+party’s rights and where the need is urgently required to avoid serious or irreparable
+harm’. However, it should be noted that the dividing line between the three require-
+ments is not always clear-cut: sometimes tribunals examine ‘urgency’ and ‘necessity’
+
+1005 1006
+
+together,’ other times they examine ‘necessity’ and ‘irreparable harm’ together,
+
+1007
+
+or
+
+‘urgency and ‘irreparable harm together.
+A. Urgency
+
+In their awards, ICSID tribunals have shed some light on the notion of ‘urgency’. The
+degree of urgency required to grant PMs is not specified in Article 47 of the Conven-
+tion nor in Article 39 of the ICSID Rules. However, there are three main views in this
+
+regard, namely: (i) PMs should be granted only in cases of ‘absolute necessity’; (ii) PMs
+
+1001 Arbitral tribunals are not unanimous as to the conditions for granting PMs. Whilst the most established requirement is
+‘urgency’, arbitral tribunals have adopted divergent views regarding other conditions. For example, regarding ‘necessity’,
+this is sometimes discussed independently and other times addressed under ‘urgency’, ‘irreparable harm’, or ignored
+altogether. See Rizzani (n 764).
+
+1002 Recently, some ICSID tribunals have lowered the threshold of ‘irreparable harm by accepting that ‘significant harm’
+suffices for the purpose of assessing the award of PMs. See, e.g., Hydro S.r.1. and others v. Republic of Albania ICSID
+Case No. ARB/15/28) and Nova Group Investments, B.V. v. Romania (ICSID Case No. ARB/16/19). It is also worth
+mentioning that the proposed 2018 amendments to the ICSID rules of arbitration refer to the existence of ‘current or
+imminent harm to the other party’ as stated herein.
+
+1003 Schreuer and others (n 3) 778-79.
+
+1004 Rizzani (n 764) para. 101, p. 46. See also Occidental Petroleum (n 745) para. 59, p.27.
+
+1005 Railroad Development (n 738) para. 34, p. 16.
+
+1006 Burlington Resources (n 761) para. 51, p. 17.
+
+1007 Rizzani (n 764) para. 101 p. 46. In Occidental v. Ecuador the tribunal noted that ‘[I]n order for an international tribunal
+to grant PMs, there must exist both a right to be preserved, circumstances of necessity and urgency to avoid irreparable
+harm’. See Occidental Petroleum (n 745) para. 61, p. 28. Similarly, in Border Timbers and others v. Zimbabwe, the tribunal
+noted that ‘provisional measures should only be granted where they are necessary to preserve a party's rights and urgent
+in order to avoid irreparable harn’. Border Timbers Limited, Timber Products International (Private) Limited, and Hanga-
+ni Development Co. (Private) Limited v. Republic of Zimbabwe, ICSID Case No. ARB/10/25, Procedural Order No. 5 (3
+April 2016) para. 55, p. 16. Also, in Tokios Tokelés v. Ukraine the arbitral tribunal was of the view that ‘the international
+jurisprudence on provisional measures indicates that a provisional measure is necessary where the actions of a party “are
+
+capable of causing or of threatening irreparable prejudice to the rights invoked”. Tokios Tokelés (n 844) para. 8, p.5.
+
+480
+
+ARTICLE 47
+
+should be granted when ‘reasonableness’ so warrants; and (iii) PMs are assessed and
+
+granted on the basis of ICJ jurisprudence.'°”
+
+In Biwater Gauff v. Tanzania, the arbitral tribunal held that ‘the degree of “urgency”
+which is required depends on the circumstances, including the requested provisional
+measures, and may be satisfied where a party can prove that there is a need to ob-
+tain the requested measures at a certain point in the procedure before the issuance
+
+of an award’.
+
+When discussing the same issue, and after quoting the tribunal of
+Biwater,'*" the tribunal noted that the requirement of ‘urgency’ is closely related to the
+‘non-aggravation of the dispute’ stating that ‘Indeed, when the measures are intended
+to protect against the aggravation of the dispute during the proceedings, the urgency
+requirement is fulfilled by definition’.’°" The tribunal of Biwarer also added that the
+
+level of urgency required depends on the type of measure requested.'°”
+
+In Border Timbers and others v. Zimbabwe, the arbitral tribunal relied on an ICJ
+precedent, '°"
+‘action prejudicial to the rights of either party is likely to be taken before such final decision ts
+
+given.
+
+where ‘the ICJ unanimously determined that a measure is urgent when
+
+In Hydro and others v. Albania,’ the arbitral tribunal referred to the claimants citation
+of Biwater Gauff v. Tanzania, and Quiborax and Non-Metallic v. Bolivia, in relation to
+the definition of urgency and concluded that: [it] accepts that the extradition proceed-
+ings may take some time, perhaps weeks or even months. However, if the [.. .] authori-
+ties decide to extradite, it would take some time for the Claimants to seek further orders
+from this Tribunal and extradition may be an accomplished fact by the time an order is
+made. The Tribunal therefore considers that there is an imminent risk to the Claimants’
+
+ability to effectively participate in this arbitration’.'°'°
+
+1008 Burlington Resources (n 761). See also Teinver (n 757), para. 233 and Border Timbers (n 1007).
+
+1009 Biwater Gauff(n 780) para. 76, p. 23.
+
+1010 Burlington Resources (n 761).
+
+1011 ibid. para. 74, p. 24. See also Perenco v. Ecuador, where the arbitral tribunal held that ‘Provisional measures may only
+be granted where they are urgent, [...] Provisional measures will be granted if necessary, at the time of the decision, to
+pteserve the effectiveness and integrity of the proceedings and avoid severe aggravation of the dispute’. Perenco (n 734)
+para. 43, p. 18.
+
+1012 Biwater Gauff(n 780) para. 76, p. 23.
+
+1013 Border Timbers (n 1007) para. 57, p. 16.
+
+1014 Case Concerning Passage Through the Great Belt (Finland v. Denmark), Request for the Indication of Provisional Meas-
+ures dated 29 July 1991) para. 23 as cited by Tokios Tokelés (n 844) para. 8, p. 5.
+
+1015 Hydro S.r.1. and others v. Republic of Albania, CSTD Case No. ARB/15/28, Order on Provisional Measures (3 March
+2016).
+
+1016 ibid. para. 3.29, p. 22.
+
+481
+
+4.640
+
+4.641
+
+4.642
+
+
+4.643
+
+4.644
+
+4.645
+
+4.646
+
+4.647
+
+Chapter 4 ARBITRATION
+
+In City Oriente v. Ecuador and Petroecuador, the arbitral tribunal recognized that ‘Nei-
+ther the Convention nor the Rules make express reference to the urgency requirement’,
+yet it ‘seems evident that provisional measures are only appropriate if it is impossible to
+
+wait for a specific issue to be settled at the merits stage’.!°"”
+
+In Tokios Tokelés v. Ukraine, the arbitral tribunal was of the view that ‘[t]he circum-
+stances under which provisional measures are required under Article 47 are those in
+which the measures are necessary to preserve a party’s rights and that need is urgent’.
+The tribunal elaborated that ‘A measure is urgent where “action prejudicial to the rights
+
+of either party is likely to be taken before such final decision is taken”.'°"
+
+On the other hand, in Railroad Development v. Guatemala, the arbitral tribunal noted
+that ‘the standard to be applied is one of reasonableness, after consideration of all the
+circumstances of the request and after taking into account the rights to be protect-
+ed and their susceptibility to irreversible damage should the tribunal fail to issue a
+
+recommendation ’.!°!’
+
+While there is no uniform definition for ‘urgency’, it is indeed submitted, as expressed
+in Biwater Gauff v. Tanzania," that ‘the degree of “urgency” required to grant provi-
+sional measures is dependent on a number of factors, including: (i) the gravity of action/
+event the PM is supposed to counter; (ii) the relevance and the type of right the PM
+is meant to protect; (iii) the conduct of both parties (e.g. hostile or cooperative). For
+example, if the action or even the PM it is supposed to counter is so grave that it will
+affect a party’s right to present their case or obtain an enforceable award, a PM request
+is urgent by definition. Given the explicit reference to the requirement of urgency in the
+
+1021
+
+newly proposed amendments to ICSID Rules,"”* one can expect significant develop-
+
+ments in the jurisprudence towards a more uniform criterion.
+B. Necessity
+
+As stated herein above, necessity, as a condition to granting PMs, is usually consid-
+ered in the context of other conditions. Many arbitral tribunals discussing necessity
+
+1017 City Oriente (n 781) para. 67.
+
+1018 Tokios Tokelés (n 844) para. 8, p. 5. See also Occidental v. Ecuador Occidental v. Ecuador where the tribunal held that ‘A
+measure is urgent where “action prejudicial to the rights of either party is likely to be taken before such final decision is
+given”. Occidental Petroleum (n 745) para. 59, p. 27.
+
+1019 Railroad Development (n 738) para. 34, p. 17.
+
+1020 Biwater Gauff(n 780).
+
+1021 ‘Proposals for Amendment of the ICSID Rules — Consolidated Draft Rules’ (n 729).
+
+482
+
+ARTICLE 47
+
+have adopted the criterion of ‘irreparable harm’ as settled by the ICJ.'°” For example,
+in Border Timbers and Others v. Zimbabwe,” the arbitral tribunal referred to an ICJ
+precedent'™* where President Jiménez de Aréchaga in a separate opinion opined that
+‘a provisional measure is necessary when the actions of a party are capable of causing
+or of threatening irreparable prejudice to the rights invoked’. However, some arbitral
+tribunals have adopted different criteria as detailed below.
+
+In Perenco v. Ecuador,”
+
+the arbitral tribunal was of the opinion that provisional meas-
+ures ‘must be necessary, because that is what “require” means, and measures will be not
+necessary where a party can be adequately compensated by an award of damages if it
+successfully vindicates its rights when the case is finally decided. Thus, as the Respond-
+ents correctly submit, many of the authorities express the test in terms of “irreparable
+loss”. Where action by one party may cause loss to the other which may not be capable
+of being made good by an eventual award of damages, the test in the Article is likely to
+be met. But the Article does not lay down a test of irreparable loss and the authorities
+
+do not warrant so narrow a construction .!°*°
+
+Some tribunals adopt a lower threshold of necessity. For example, in Biwater Gauff
+
+v. Tanzania,’
+
+the claimant argued that ‘it has been denied access to key evidence
+relevant to its claims for damages: the administrative, financial, legal, commercial and
+engineering records contained in the offices of its investment’s vehicle, City Water. If
+BGT’s right to the preservation and production of evidence is not protected, so it is
+argued, this will have a direct impact on BGT’ ability to pursue its claims for damages in this
+arbitration and the Arbitral Tribunal’ ability to decide such claims fairly. This is not harm of
+a type which can be compensated by damages, for the very reason that it goes to BGT’s abil-
+ity to effectively present its claim for damages’.'* In granting the request, the tribunal
+considered the requirement of necessity satisfied, as ‘there is a need for such evidence
+to be preserved before the proceedings progress any further (e.g. to enable each party
+
+properly to plead their respective cases)’.!°”
+
+1022 See Border Timbers Limited (n 1007) para. 58, p.17; RSM (n 760) para. 58, p. 13; Rizzani (n 764), para. 144, p. 62; Case
+Concerning Passage Through the Great Belt (n 1014) para. 23 as cited by Tokios Tokelés (n 844) para. 8, p.5 and Aegean
+Sea Continental Shelf Case (Greece v. Turkey), Request for the Indication of Interim Measures of Protection, Order (11
+September 1976), Separate Opinion of President Jiménez de Aréchaga, 1976 ICJ Rep 3 at 11 as cited by Occidental
+Petroleum (n 745) para. 59, p. 27.
+
+1023 Border Timbers (n 1007) para. 58, p. 17.
+
+1024 Aegean Sea Continental Shelf Case (n 1022) as cited by Occidental Petroleum (n 745) para. 59, p. 27.
+
+1025 See Perenco (n 734).
+
+1026 ibid. para. 43, p. 18.
+
+1027 Biwater Gauff (n 780).
+
+1028 ibid. para. 45, pp. 15-16.
+
+1029 ibid. para. 86, p. 25.
+
+483
+
+4.648
+
+4.649
+
+
+4.650
+
+4.651
+
+4.652
+
+4.653
+
+4.654
+
+4.655
+
+Chapter 4 ARBITRATION
+
+It should be noted that the reference to ‘current or imminent harm’ rather than ‘irrepa-
+rable harm’, in the newly proposed amendments to the rules, will likely play a role in
+lowering the threshold and streamlining the practice regarding the ‘urgency’ and ‘neces-
+
+sity requirements.
+C. Irreparable and/or significant harm
+
+Neither Article 47 nor Rule 39 provide for any express reference to the conditions for
+PMs, including, but not limited to, the threshold of ‘irreparable’ or ‘significant’ harm.
+However, traditionally, ICSID arbitral tribunals followed the ICJ in upholding the re-
+quirement of ‘irreparable harm’ as a condition to granting PMs, and this is usually ap-
+plied as either a stand-alone condition or a requisite crizerion for assessment of ‘urgency’
+and/or ‘necessity’. Nevertheless, some arbitral tribunals opted for the less stringent no-
+tion of ‘significant harm’.
+
+With respect to ‘irreparable harm’, such condition used to be applied stringently to the
+extent that harm, which the PM is intended to avoid, ought to be irreversible and ir-
+reparable through monetary relief. However, as a proactive transition towards ‘significant
+(rather than irreparable) harm’, arbitral tribunals have introduced the notions of ‘rea-
+sonableness’, ‘proportionality’ and/or ‘balance of convenience’ to assess ‘irreparable harm’.
+
+In Railroad Development Corporation v. Guatemala,”
+
+the arbitral tribunal analysed the
+circumstances of the case to determine whether the requested measures were justified
+in terms of necessity and urgency and held that ‘Since no qualifications to the powers
+of an ICSID Tribunal to recommend PMs found their way in the text of the ICSID
+Convention, the standard to be applied is one of reasonableness, after consideration of all
+the circumstances of the request and after taking into account the rights to be protected
+and their susceptibility to irreversible damage should the tribunal fail to issue a recom-
+
+mendation’' (emphasis added).
+
+Similarly, in Rizzani and others v. Kuwait,'°” the arbitral tribunal held that ‘an order of
+provisional measures will only be granted if the measure sought is necessary to preserve a
+
+party’s rights and where the need is urgently required to avoid serious or irreparable harm’.
+
+In Quiborax and Non-Metallic v. Bolivia,"* the arbitral tribunal actually applied the ‘sig-
+nificant harm criterion with clear references to ‘proportionality’ (i.e. the harm suffered by
+
+1030 Aegean Sea Continental Shelf Case (n 1022) as cited by Occidental Petroleum (n 745) para. 59, p. 27.
+1031 See Railroad (n 738) para. 34.
+
+1032 Rizzani (n 764).
+
+1033 Quiborax (n 762).
+
+484
+
+ARTICLE 47
+
+the requesting party outweighs the harm that is likely to result to the party against whom
+the PM is directed) and the ‘balance of competing harms’. In this regard, the tribunal
+stated “The Tribunal considers that an irreparable harm is a harm that cannot be repaired
+by an award of damages. Such a standard has been adopted by several ICSID tribunals
+and embodied in Art. 17A of the UNCITRAL Model Law. That provision requires the
+party requesting an interim measure to satisfy the tribunal that: Harm not adequately re-
+paired by an award of damages is likely to result if the measure is not ordered, and such harm
+substantially outweighs the harm that is likely to result to the party against whom the
+measure is directed if the measure is granted [. ..] Tribunal must thus da/ance the harm
+caused to Claimants by the criminal proceedings and the harm that would be caused to
+
+Respondent if the proceedings were stayed or terminated’!°™ (emphasis added).
+
+In Plama v. Bulgaria it was asserted that the need for PMs must be urgent and neces-
+sary to preserve the s¢azus quo or to avoid irreparable harm to the rights of a party.'°* As
+such, the need to grant a measure is assessed on a “balance of convenience’ basis as the
+tribunal usually balances the degree of ‘irreparable harm’ suffered by the applicant if the
+
+requested measure was not granted.'°%°
+
+Concerning ‘significant harm’, the first arbitral tribunal in an international law context
+to adopt this notion was the ad oc tribunal of Paushok v. Mongolia,'°*’ which applied
+the UNICTRAL arbitration rules. Subsequently, said notion was adopted by ICSID
+
+tribunals.
+
+In City Oriente v. Ecuador and Petroecuador,'** the arbitral tribunal denied the existence
+of the requirement to ‘prevent an irreparable harm’, asserting that the ‘only requirement
+arising from the wording of Rule 39 is the traditional urgency requirement’.’””’ The
+tribunal affirmed that Rule 39 only refers to ‘circumstances that require such measures’
+and explained that ‘/i/¢ is not so essential that provisional measures be necessary /0 pre-
+vent irreparable harm, but that the arm spared the petitioner by such measures must be
+significant and that it exceeds greatly the damage caused to the party affected thereby |. . .]
+there are variations in approach or the precise wording used by the ICSID tribunals as
+to whether the requirement is that of “irreparable harm”, or whether a demonstration
+of “serious” harm will suffice. Regardless of what the exact terminology should be, the
+Tribunal agrees with the reasoning of the tribunal in PNG v Papua New Guinea that the
+
+1034 ibid. para. 158, p. 43.
+
+1035 See Plama (n 803) 553, para. 38.
+
+1036 See Kaufmann-Kohler and Antonietti (n 757) 539.
+
+1037 Sergei Paushok, C{SC Golden East Company and C]SCVostokneftegaz Company v. ‘The Government of Mongolia, ad hoc
+arbitration under the rules of UNICTRAL as cited in Plama (n 803).
+
+1038 City Oriente (n 974) para. 70.
+
+1039 ibid.
+
+485
+
+4.656
+
+4.657
+
+4.658
+
+
+4.659
+
+4.660
+
+4.661
+
+4.662
+
+4.663
+
+Chapter 4 ARBITRATION
+
+term “irreparable” harm must be understood as requiring a material risk of “serious or grave
+damage” to the requesting party, and not harm that is literally “irreparable”. The degree of
+“seriousness” or “gravity” required wi// necessarily vary from case to case, depending on the
+
+circumstances of each case and the nature of the relief requested’ (emphasis added).
+
+In Burlington Resources v. Ecuador,’ the arbitral tribunal affirmed that ‘the risk of
+harm must be assessed with respect to the rights of both parties’, and it also quoted
+the tribunal in the City Orient Case when it established that ‘[I]t is nor so essential that
+provisional measures be necessary to prevent irreparable harm, but that the arm spared
+the petitioner by such measures must be significant and that it exceeds greatly the damage
+caused to the party affected thereby’.'°”
+
+Thus, the traditional condition of ‘irreparable harm’ has been gradually subjected to the
+criteria of ‘proportionality’, ‘reasonableness’ and/or “balance of convenience’ and then
+transformed into ‘significant harm’, in the absence of clear and express criteria under
+Articles 47 of the ICSID Convention and Rule 39 of the ICSID Rules.
+
+D. Proportionality
+
+In recent cases, ‘proportionality’ has appeared amongst the conditions for PMs, mainly
+in relation to the notion of ‘irreparable harm’ as detailed herein above. However, the
+
+jurisprudence in this context remains to be developed.
+
+In Nova Group v. Romania,'* the arbitral tribunal agreed with the parties that it should
+grant PMs only when such measures are ‘(a) necessary to preserve rights, (b) urgently
+required, and (c) the particular measures requested are proportionate, in the sense that
+they do not impose such undue burdens on the other party as to outweigh, in a balance
+of equities, the justification for granting them [...] any assessment of a request for
+provisional measures would need to consider if the particular measures requested are
+proportionate, in the sense that the applicant's need for them is not overweighed by the hard-
+ships to which the other party would be subjected to if the measures are granted.“
+
+Similarly, in Hydro and others v. Albania,’ the tribunal stated that ‘In granting provi-
+
+sional measures, the Tribunal must consider the proportionality of the provisional measures
+
+1040 ibid. para. 72.
+
+1041 Burlington Resources (n 761) para. 81, p. 25.
+1042 ibid. para. 81, p. 26.
+
+1043 Nova Group (n 781).
+
+1044 ibid. para. 237, p. 76.
+
+1045 Aydro S.r.2. (n 1015).
+
+486
+
+ARTICLE 47
+
+requested. Specifically, the Tribunal must da/ance the harm caused to the Claimants by
+the criminal proceedings and the harm that would be caused to the Respondent if those
+
+proceedings were stayed’.'°"
+
+Accordingly, ‘proportionality’ manifested itself as a balancing factor, where the test is 4.664
+simply one of balancing harms and interests to ensure that the requesting party’s harm
+unequivocally outweighs any harm or prejudice suffered by the party against whom the
+measure is taken. In essence, this implies aversion of ‘abuse of right’ in the context of
+
+PMs.
+
+E. No prejudgment of the merits
+
+Since Article 47 of the ICSID Convention deals with PMs, it is not expected or envis- 4.665
+aged that arbitral tribunals will decide on issues pertaining to the merits of the dis-
+pute. Arbitral tribunals considering PMs remain focused on the requested PMs which
+should not impact or cause any prejudgment of the merits of the dispute. This goes to
+
+the very essence of PMs and their temporary non-final nature.
+
+In Saipem v. Bangladesh, the claimant requested the payment of the retention money 4.666
+which was already granted under a previous ICC award. The arbitral tribunal dismissed
+
+this request on the basis that the urgency condition was not met and also stated that ‘the
+Tribunal is not inclined to recommend measures guaranteeing an award in favour of Saipem.
+Indeed, as correctly put by Bangladesh, this could be viewed as a de facto enforcement of
+
+part of the ICC Award" (emphasis added).
+
+Also, in Helnan International v. Egypt,’ the claimant requested a number of PMs that 4.667
+involved substantive issues pertaining to the merits of the dispute, and so the arbitral
+tribunal rejected the requested PMs and stated that ‘the Provisional Measure requested
+by Helnan and the final relief it seeks, if not strictly identical, are the same to a large ex-
+tent”
+
+Gauff v. Tanzania,” the arbitral tribunal asserted that ‘the Tribunal has to strike a
+
+and so this would be tantamount to prejudging the merits. Similarly, in Biwater
+
+careful balance between the urgency of a request for provisional measures and the need
+
+not to prejudge merits of the case’'°”' (emphasis added).
+
+1046 ibid. para. 3.37, p. 24.
+
+1047 Saipem (n 778) para. 185, p. 49.
+1048 Helnan (n 911).
+
+1049 ibid. para. 32, p. 9.
+
+1050 Biwater Gauff(n 780).
+
+1051 ibid. para. 67, pp. 20-21.
+
+487
+
+4.668
+
+4.669
+
+4.670
+
+Chapter 4 ARBITRATION
+
+By and large and in specific reference to the above five connected conditions, it is im-
+portant to note that each party to any PM applications should be afforded a reasonable
+Opportunity to present its observations in relation to the requested PMs. Whilst this is
+not expressly mentioned in Article 47, it is enshrined in ICSID Rule 39(4) and remains
+essential to the safeguarding of the requirements of due process. However, it should be
+noted that it suffices to afford the parties an opportunity to submit their observations,
+irrespective of whether the parties have actually availed themselves of such afforded
+
+opportunity.
+
+7. CONCLUDING REMARKS: THE PAST PRESENT AND FUTURE OF PMS
+
+Evidently, Article 47 is broadly worded to achieve a balance between the competing in-
+terests of States and investors. This is neither surprising nor unintended, since PMs are
+in a constant state of flux and so arbitral tribunals are expected to develop harmonious
+jurisprudence on the conditions, rights and types of PMs. This entails affording tribu-
+nals the power and authority to develop this area of law with sufficient certainty subject
+to general guiding parameters rather than engage in an impossible task of amending
+the ICSID Convention every now and then. Thus, the ICSID Rules are of great im-
+portance in this regard, since they can offer the needed guidance in relation to PMs
+and their parameters. Given the established practices concerning PMs and the wealth
+of decisions dealing with PMs, time has come to consider certain express uniform rules
+on the conditions of PMs, their categories and the related rights worthy of protection.
+It is in such spirit that the 2018 newly proposed amendments to the ICSID Rules offer
+
+1053
+
+enlightening guidance on PMs.
+
+On the specificity of Article 47, the legislative history of the provision shows that dis-
+cussions took place as to the ICSID tribunals’ powers to award damages to the ag-
+grieved party as a consequence of non-compliance with the ordered/recommended
+PMs.'°4 However, the reference to damages was rejected and not included in the Con-
+vention or the Rules.'°* Thus, whilst tribunals repeatedly stated that non-compliance
+with an arbitral tribunal’s PM recommendation would be taken into account when
+
+1052 City Oriente (n 781).
+
+1053 ‘Proposals for Amendment of the ICSID Rules — Consolidated Draft Rules’ (n 729).
+
+1054 See Schreuer and others (n 3) 764.
+
+1055 Quiborax S.A., Non Metallic Minerals 8.A. and Allan Fosk Kaphin. v. Plurinational State of Bolivia, |CSTD Case No.
+ARB/06/2, Award (16 September 2015) para. 546, p. 180 citing Aron Broches, Chairman of the Legal Committee,
+Convention on the Settlement of Investment Disputes Between States and Nationals of Other States: Documents
+Concerning the Origin and the Formulation of the Convention, Vol. II, Part 2, International Centre for Settlement of
+Investment Disputes (ed.), 1968.
+
+488
+
+ARTICLE 47
+
+rendering the final award," tribunals were reluctant to take actions or grant damages
+
+against recalcitrant parties.'°°’
+
+Having considered no less than 120 ICSID decisions, 540 provisional measures ap-
+plications and 400 related documents, it is abundantly clear that there is no exhaustive
+list of protected rights or the types of PMs that could be granted. Arbitral tribunals
+and parties contributed to developing PM conditions, types and rights. Throughout
+this commentary, the author has identified 13 categories of PMs,'°* 9 categories of
+
+protected rights’?
+
+and intertwined conditions for granting PMs.
+
+However, it is submitted that more certainty, clarity and predictability as to the condi-
+tions of PMs are needed in light of the overlap between urgency, necessity, significant
+harm, proportionality and no prejudgment of the merits. Arbitral tribunals should also be
+more cautious and detailed in examining and deciding on PMs, to enable the parties to
+
+carefully understand the basis according to which the PMs are granted or denied.
+
+It has been seen that whilst there is no uniform definition for ‘urgency’, ‘the degree of
+“urgency” required to grant provisional measures is dependent on a number of fac-
+tors, including: (i) the gravity of action/event the PM is supposed to counter; (ii) the
+relevance and the type of right the PM is meant to protect; (iii) the conduct of both
+parties (e.g. Aostile or cooperative).'° By way of illustration, if the event which the PM is
+supposed to counter is so grave that it will affect a party’s right to present their case or
+obtain an enforceable award, a PM request is urgent by definition.
+
+1056 See Schreuer and others (n 3) 759.
+
+1057In Quiborax (n 1055) the respondent did not comply with the tribunal’s recommendation to stay the criminal pro-
+ceedings against the claimant for the period of the arbitration. Accordingly, the claimant ‘request[ed] and called for
+the Tribunal to declare that the Respondent’s conduct in this arbitration “constitute[s] breaches of the Respondent’s
+obligation to provide fair and equitable treatment, not take arbitrary or discriminatory measures, and its general duty
+to arbitrate fairly and in good faith” (ibid. para. 531, p. 175). The tribunal agreed with the claimant that ‘by failing to
+comply with those provisional measures, the Respondent has breached Article 47 of the ICSID Convention (ibid. para.
+582, p. 193). However, the tribunal held that it ‘does not find that the Respondent’s failure to comply with the Decision
+on Provisional Measures amounts to a breach of its duty to arbitrate in good faith’ (ibid. para. 583, p. 193).
+
+1058 These categories as discussed above are: (i) the right of the preservation of the status quo and non-aggravation of the dis-
+pute; (ii) the right to maintaining the procedural integrity of ICSID proceedings; (iii) the right of exclusive jurisdiction;
+(iv) the right to immunity; (v) the preservation and production of documents; (vi) the right to specific performance;
+(vii) the right to having the ICSID arbitration conducted in good faith; (viii) the right to confidentiality of the proceed-
+ings; and (ix) the right to an enforceable award.
+
+1059 These categories as discussed above are: (i) maintenance or restoration of the status quo; (ii) non-aggravation of the
+dispute; (iii) confidentiality of the ICSID proceedings; (iv) preservation and production of evidence/documents; (v)
+stay of parallel domestic and arbitral proceedings; (vi) stay of pending ICSID proceedings; (vii) protection orders; (viii)
+pte-award security/financial guarantee; (ix) non-enforcement ofa legislative act; (x) non-surveillance or discontinuance
+of surveillance; (xi) emergency temporary orders; (xii) reconsideration, revocation and/or modification of granted PMs;
+and (xiii) miscellaneous requests.
+
+1060 Biwater Gauff(n 780).
+
+489
+
+4.671
+
+4.672
+
+4.673
+
+
+4.674
+
+4.675
+
+4.676
+
+4.677
+
+Chapter 4 ARBITRATION
+
+Given the explicit reference to the requirement of urgency in the newly proposed
+amendments to ICSID Rules,’ one can expect significant developments in the juris-
+prudence towards a more uniform criterion. It should also be noted that the reference
+to ‘current or imminent harm’ rather than ‘irreparable harm’, in the newly proposed
+amendments to the rules, will likely play a role in lowering the threshold and streamlin-
+
+ing the practice regarding the ‘urgency’ and ‘necessity’ requirements.
+
+As things stand at present, PMs are not self-executing and are usually issued in the
+form of procedural orders (not awards), so they do not enjoy a res judicata effect and
+are not final. Even though such PMs are not final, ICSID tribunals have developed
+a practice giving PMs a binding effect on the parties since Maffezini v. Spain." In
+City Oriente v. Ecuador and Petroecuador, the tribunal affirmed that ‘a failure to comply
+with orders given to Respondents by the Tribunal in accordance with Article 47 of
+the Convention will entail a violation of Article 26 thereof, and engage Respondents’
+liability’.1°° Similarly, in Quiborax and Non-Metallic v. Bolivia, the tribunal held that
+‘the ordinary meaning of this provision [Article 47], especially the terms “recommend”
+and “should be taken” do not convey the notion of a binding order .. . Similarly, the
+travaux préparatoires of the ICSID Convention, to the extent relevant as supplemen-
+tary means of interpretation, show that an earlier draft using the word “prescribe” was
+then changed to “recommend”’.'° However, the tribunal asserted the binding nature of
+PMs based on ‘consistent line of cases and the evolution of international law evidenced
+in ICJ and ECtHR jurisprudence’ and the ICSID tribunals as well.’
+
+Moreover, it is submitted that PMs can indeed be considered and granted in annulment
+and other ICSID proceedings, if the circumstances so warrant, and it is expected that the
+categories of PMs will increase and evolve to include new forms. That said, and in light of
+the dynamic nature of PMs, arbitral tribunals have developed the category of ‘ETOs’, thus
+
+creating an exception to the condition that parties must be heard first before granting PMs.
+
+Furthermore, it has been seen that the arbitral tribunal of RMS v. Saint Lucia, grant-
+ed security for costs (based on a party’s request), thus, introducing a new type of PMs to
+the ICSID jurisprudence where a hypothetical/contingent right (e.g. the right to future
+
+award) may exceptionally merit protection by means of PMs. This decision paved the
+
+1061 ‘Proposals for Amendment of the ICSID Rules — Consolidated Draft Rules’ (n 729).
+
+1062 Maffezini (n 756); Schreuer and others (n 3) 759.
+
+1063 City Oriente (n 781) para. 53.
+
+1064 Quiborax (n 1055) para. 578, p. 191.
+
+1065 ibid. where the tribunal expressly stated “Despite this, ICSID tribunals have consistently found that they have the pow-
+et to make binding orders for provisional measures. The rationale is that these decisions derive their mandatory force
+from the function of provisional remedies, which is to secure the applicant’s rights while the proceedings are pending’.
+
+1066 RSM (n 760).
+
+490
+
+ARTICLE 47
+
+way for other ICSID tribunals to grant security for costs. It is this novel and in-depth
+consideration of the issues of security for costs and third-party funding (newly labelled
+as ‘arbitration finance’) in RSM v. Saint Lucia’ that must have played considerable role
+in introducing separate and stand-alone provisions on security for costs and disclosure
+of third party funding in the 2018 newly proposed amendments to the ICSID Rules.!°*
+
+Under the specific category of ‘Stay of pending ICSID Proceedings’, it has been noted
+that PM requests under this category have not been successful, yet it is worth noting
+that the 2018 newly proposed amendments to the ICSID rules allow such measure to
+be granted in case of failure to post the ordered security.'°” So, it will be interesting to
+see how and when arbitral tribunals may suspend pending ICSID proceedings for fail-
+
+ure to provide security for costs.
+
+On a different note and in the specific context of ‘attribution’, law and practice have
+
+shown that the conduct of a State organ (whether executive, legislative or judicial) could
+
+1067 ibid.
+
+1068 The newly proposed Rule 51 on ‘Security for Costs’ states: ‘(1) A party may request that the Tribunal order the other
+party to provide security for the costs of the proceeding and determine the appropriate terms for provision of the
+security. (2) The following procedure shall apply: (a) the request shall specify the circumstances that require security
+for costs; (b) the Tribunal shall fix time limits for written or oral submissions, as required, on the request; (c) if a party
+requests security for costs before the constitution of the Tribunal, the Secretary-General shall fix time limits for written
+submissions on the request, so that the Tribunal may consider the request promptly upon its constitution; and (d) the
+Tribunal shall issue its decision on the request within 30 days after the latest of: (i) the constitution of the Tribunal, (ii)
+the last written submission on the request; or (iii) the last oral submission on the request. (3) In determining whether
+to order a party to provide security for costs, the Tribunal shall consider the party’s ability to comply with an adverse
+decision on costs and any other relevant circumstances. (4) Ifa party fails to comply with an order for security for costs,
+the Tribunal may suspend the proceeding until the security is provided. If the proceeding is suspended for more than 90
+days, the Tribunal may, after consulting with the parties, order the discontinuance of the proceeding. (5) A party must
+promptly disclose any material change in the circumstances upon which the Tribunal ordered security for costs. (6) The
+Tribunal may at any time modify or revoke its order for security for costs, on its own initiative or upon a party’s request.’
+
+The newly proposed Rule 21 on ‘Disclosure of Third-party Funding’ states: ‘(1) “Third-party funding” is the provi-
+sion of funds or other material support for the pursuit or defense of a proceeding, by a natural or juridical person that is
+not a party to the dispute (“third-party funder”), to a party to the proceeding, an affiliate of that party, or a law firm rep-
+resenting that party. Such funds or material support may be provided: (a) through a donation or grant; or (b) in return
+for a premium or in exchange for remuneration or reimbursement wholly or partially dependent on the outcome of the
+proceeding. (2) A party shall file a written notice disclosing that it has third-party funding and the name of the third-
+party funder. Such notice shall be sent to the Secretariat immediately upon registration of the Request for arbitration, or
+upon concluding a third-party funding arrangement after registration. (3) Each party shall have a continuing obligation
+to disclose any changes to the information referred to in paragraph (2) occurring after the initial disclosure, includ-
+ing termination of the funding arrangement.’ For a detailed analysis of the issues of third party funding and security
+for costs, including in investment arbitration, see the [CCA-Queen Mary Task Force Report on Third-Party Funding in
+International Arbitration, ICCA Reports No.4 (2018) <https://www.arbitration-icca.org/media/10/40280243154551/
+icca_reports_4_tpf_final_for_print_5_april.pdf> (accessed 30 August 2018).
+
+1069 The rule in the 2018 proposed amendments reads as follows ‘Security for Costs (...) (4) Ifa party fails to comply with
+an order for security for costs, the Tribunal may suspend the proceeding until the security is provided. If the proceeding
+is suspended for more than 90 days, the Tribunal may, after consulting with the parties, order the discontinuance of the
+
+proceeding’ (emphasis added).
+
+491
+
+4.678
+
+4.679
+
+
+4.680
+
+Chapter 4 ARBITRATION
+
+be attributable to the State under certain circumstances.'°” Thus, a State, which is usu-
+ally represented by its executive organ in an ICSID arbitration, might have PMs rec-
+ommended against acts or omissions of other organs, including judicial authorities, as
+in the case of CSOB v. Slovakia.”
+
+In light of the Reviewed Documents, the author finds it useful to provide herein be-
+low some statistics pertinent to ICSID PMs, namely: (i) a statistical chart of PMs in
+ICSID cases (Figure 1); (ii) a statistical chart capturing the success rate of the diverse
+categories of PMs (Figure 2);'°” and (iii) a statistical chart showing the most relevant
+
+sectors for PM applications (Figure 3).
+
+4.97%
+
+7.03%
+
+21.74%
+
+5.38% 0.62%
+
+Maintenance or restoration of the status quo
+Il Non-aggravation of the dispute
+Confidentiality of the ICSID proceedings
+:+ Preservation and production of evidence/documents
+Stay of parallel domestic and arbitral proceedings
+= Stay of pending ICSID proceedings
+§§ Protection orders
+1! Pre-award security/ financial guarantee
+M Non-enforcement of a legislative act
+FF Non-surveillance or discontinuance of surveillance
+Mi Emergency temporary orders
+@ Reconsideration, revocation and/or modification of granted PMs
+
+BI Miscellaneous requests
+
+Figure 4.1 Statistical overview of PMs in ICSID cases
+
+1070 International Law Commission's Draft Articles on Responsibility of States for Internationally Wrongful Acts, With
+Commentaries [2001], Yearbook of the International Law Commission, Vol. I, Part 2 <http://legal.un.org/ile/texts/
+instruments/english/commentaries/9_6_2001.pdf> (accessed 27 August 2018).
+
+1071 See Ceskoslovensko Obchodni Banka AS v. The Republic of Slovakia (ICSID Case No. ARB/97/4); and Schreuer and oth-
+ers (n 3) 797.
+
+1072 Figures 4.1 and 4.2 reflect the percentages detailed throughout this commentary when analysing the different types/
+categories of PMs.
+
+1073 As per Figure 4.3, the sector in which the highest number of PM requests have been made is the ‘Oil, Gas & Mining’
+sector, with 168 PM requests in 37 cases mostly involving Latin American States. These PM requests were mostly:
+
+(i) stay of parallel domestic proceedings, (ii) non-enforcement of a legislative act, (iii) non-pecuniary PMs including
+
+492
+
+ARTICLE 47
+
+50%
+
+37.50%
+
+40% 260
+
+34.62%
+
+30% 26% 26.67%
+
+20%
+
+14.71%
+10.17%
+
+11.90%
+10%
+
+0%
+
+Oil & Gas Mining i Gaming Industry
+[| Electric Power & Other Energy g_ Water, Sanitation & Flood Protection
+Finance i Metal Industry
++ Information & Communication -" Blood Treatment & Processing Facility
+Services & Tirade % Glass Production
+= Transportation 8% Other Industry - Textile Industry Enterprise
+@ Other Industry - Food Production & Other Industry - Chemical Products Enterprise
+.' Agriculture, Fishing & Forestry @ Cocoa Production
+® Construction IB Proppant Production - Other Industry
+H Tourism
+
+Figure 4.3 Sectors involving the most requests
+
+493
+
+4.681
+
+4.682
+
+4.683
+
+Chapter 4 ARBITRATION
+
+By and large, as stated herein, the 2018 newly proposed amendments to the ICSID Rules
+
+stipulate certain conditions for PMs, provide non-exhaustive illustrations of the rights
+
+to be protected,"
+
+tribunals to decide on the PM requests and oblige the parties to notify arbitral tribunals
+1075
+
+set out the procedures to be followed, specify the deadlines for the
+with any material changes in the circumstances that impact the recommended PMs.
+
+The said amendments took into consideration the wealth of decisions pertaining to
+PMs, since said amendments make express references to ‘urgency’, ‘necessity’ and ‘cur-
+rent or imminent harm’ without packaging them as a closed list of conditions, hence
+the open possibility for tribunals to continue to positively develop the jurisprudence
+under the aegis of the ICSID Rules and the letter and spirit of the ICSID Convention.
+It is also worth noting that the 2018 newly proposed amendments offer an innovative
+temporal parameter, where arbitral tribunals would be required to render its decision on
+the request within 30 days after the latest of: (i) the constitution of the Tribunal, (ii) the
+last written submission on the request; or (iii) the last oral submission on the request. This is a
+very positive development to streamline practices, control time and costs and cater for
+the much-needed urgency of PMs.
+
+Finally, the author does recognize the laborious and daunting task of amending the
+ICSID Rules as well as the colossal efforts that such task entails on all levels. Neverthe-
+less, the proposed amendments to the ICSID Rules are a positive step towards securing
+ICSID’s leading role in administering international investment disputes. As eloquently
+stated by Meg Kinnear: ‘[g]iven that ICSID administers over 70% of all international
+investment disputes, the amendment process offers a significant opportunity to intro-
+duce practical improvements to ISDS that will have an impact in the near term’.'°”
+Indeed such amendments, including those pertaining to PMs, will mark the glistening
+
+path for ICSID arbitrations.
+
+refraining from changing the stazus quo or aggravating the dispute, and (iv) pre-award financial security. Moreover, the
+sectors which scored highest on the number of PM requests (after the ‘Oil, Gas & Mining’ sector) are: the ‘Electric
+Power & Other Energy’ sector with 61 PM requests in 17 cases, ‘Information & Communication sector with 40 PM
+requests in nine cases, followed by the ‘Finance’ sector with 34 PM requests in 11 cases, ‘Services & Trade’ sector with
+34 PM requests in seven cases, food production sector with 34 PMs requests in two cases and then the ‘transport’ sector
+with 33 PM requests in nine cases.
+
+1074 The examples stipulated in Rule 50 of the 2018 newly proposed amendments reflect the most established, frequently
+invoked and accepted rights and PMs, namely: (i) preventing action that is likely to cause: current or imminent harm to
+the other party; or prejudice to the arbitral process; (ii) maintaining or restoring the s¢atws guo pending determination of
+the dispute; and (iii) preserving evidence that may be relevant to the resolution of the dispute. ibid. See Rule 50 of the
+2018 newly proposed amendments of the ICSID Rules.
+
+1075 ibid.
+
+1076 Meg Kinnear, ‘Moving with the Times: Amending the ICSID Rules [2018], Columbia FDI Perspectives: Perspec-
+tives on Topical Foreign Direct Investment Issues No. 233’ <http://ccsi.columbia.edu/files/2016/10/No-233-Kinnear-
+FINAL. pdf> (accessed 03 September 2018).
+
+494
+

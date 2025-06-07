@@ -1,0 +1,1922 @@
+ICSID Review, Vol. 31, No. 3 (2016), pp. 549-575
+doi: 10.1093/icsidreview/siw024
+
+SPECIAL FOCUS ISSUE
+
+The Authority of Investment Treaty
+Tribunals to Issue Orders Restraining
+Domestic Court Proceedings
+
+Daniel Kalderimis?
+
+Abstract—This article considers the authority of investment treaty tribunals to issue
+provisional measures affecting domestic courts or, as they are more commonly known,
+‘anti-suit injunctions’. In particular, the article examines provisional measures of the kind
+ordered in the Chevron v Ecuador dispute, essentially to prevent the aggravation of an
+alleged denial of justice. It is contended that there is something distinctive about
+injunctive relief restraining another court or tribunal which is not necessarily captured by
+applying the standard provisional measures formula. It is further contended that
+measures restraining the continuation or enforcement of domestic court proceedings on
+the basis of the non-aggravation principle raise special considerations of comity and a
+concomitant need for care. The same considerations do not arise, at least not to the same
+degree, with respect to measures which seek to restrain domestic court proceedings in
+order to preserve the exclusivity or procedural integrity of investment treaty arbitration
+proceedings. The article concludes that there is an important difference between
+jurisdiction and authority. Investment treaty arbitration is one legal system amongst
+many, and cannot afford to appear insensitive to the concerns of domestic legal orders.
+That is so even where a serious breach of international law appears to be taking place.
+Investment treaty arbitration tribunals should be wary of applying a generic provisional
+measures test without first explaining and justifying a tailored anti-suit injunction analysis,
+which sets a principled and appropriately high bar for intervention.
+
+‘John Marshall has made his decision; now let him enforce it!? E Miles ‘After John
+Marshall’s Decision: Worcester v Georgia and the Nullification Crisis’ (1973) 39 J South
+Hist 519, 519.
+
+I. INTRODUCTION
+
+A. A Digression ...
+
+The quotation above will be familiar to many. It is US President Andrew Jackson’s
+apocryphal response* to the United States Supreme Court’s 1832 decision in
+
+' Partner, Chapman Tripp, Wellington, New Zealand. Email: daniel.kalderimis@chapmantripp.com. The author
+thanks Ollie Neas, solicitor at Chapman Tripp, for his research and editorial assistance. The responsibility for any
+errors remains with the author alone.
+
+2 It appears his actual response was equally dismissive but less epigrammatical: “The decision of the Supreme
+Court has fell still born ... and they find that it cannot coerce Georgia to yield to its mandate.’ Paul F Boller and John
+George, They Never Said It: A Book of False Quotes, Misquotes & False Attributions (OUP 1989) 53.
+
+© The Author 2016. Published by Oxford University Press on behalf of ICSID. All rights reserved.
+For permissions, please email: journals.permissions@oup.com
+
+6LOZ eUNr gO UO Jesn AUedW0D adIAIaS spjaljJysas4 - seo.unosay UOHeUWOJU] Ag LGyP/EZ/6PS/E/L Ee AoeuIsqe-e|olUe/MalAaUpIsol/WOo dno‘siuuapeoek//:sdyy WOJJ pepeojuMog
+BSO IGSID Rewew VOL. 34
+
+Worcester v Georgia,’ in which the Court, led by Chief Justice Marshall, held that
+Georgia state laws purporting to regulate Cherokee tribal lands were unconstitu-
+tional because they violated federal treaties and laws. Both President Jackson and
+(seorgia ignored the decision. Sammuecl Worcester, a missionary, was released from
+imprisonment only through a pardon. The Cherokee Nation was relocated from
+Georgia to Oklahoma along the Trail of Tears.*
+
+The case, and its sad history, is a reminder that jurisdiction and authority are
+not the same thing. It is one thing for a court to pronounce its decision and
+another for that decision to be accepted and effective.? From an adjudicatory
+perspective, jurisdiction concerns only the question of ‘can I’? Authority involves
+considering also how the decision will be received, including whether it will be
+viewed as legitimate and appropriate by relevant stakeholders. It requires asking
+‘should P and, if so, “how should TP’?
+
+B. Purpose of This Article
+
+This article considers the authority of investment treaty tribunals to restrain domestic
+court proceedings. In practical terms, this is a topic mostly concerned with interim
+rather than final relief. Although the article will touch upon the powers of investment
+treaty tribunals to issue non-pecuniary relief generally, it will focus—as has the case
+law to date---on the authority of invesument treaty cribunals, and especially cribunals
+under the International Centre for the Settlement of Investment Disputes (CSID),
+to issue provisional or interim measures affecting domestic courts.
+
+The power of tribunals to issue provisional measures, including with respect to
+domestic courts, has been admirably and recently surveyed in the literarure.° This
+article does not rephcate those surveys. Instead, it examines provisional measures
+of the kind ordered in the epic and extraordinary Chevron uv Ecuador dispute,
+essentially to prevent the aggravation of an alleged denial of justice.’
+
+The article secks to use the Chevron provisional measures case as a working
+example from which to develop a theory of the appropriate limits of provisional
+measures restraining domestic court proceedings. It is contended first that there is
+something distinctive about injunctive relief restraining another court or tribunal
+
+2 Worcester v Georgia 31 US (6 Pet) 515 832).
+* Matthew Sundquist, ‘Wércesier v. Georgia: A Breakdown in the Separation of Powers’ (2610) 35 Am Indian LR
+“ Viewed through a longer lens, it is also perhaps a reminder that authority can be gained, if not at first, then over
+time. Nine months after the Worcester decision, when South Carolina asserted its power to nullify certain federal laws
+without recourse to federal appeal, Jackson, although still a firm proponent of States’ rights, issued a proclamation
+confirming the US Supreme Court’s ultimate power to decide constitutional questions. ‘Proclamation No 26
+Respecting the Nullifying Laws of South Carolina’ (10 December 1832), crted in in A Century of Lawmaking for a New
+Nation: U.S. Congressional Documents and Debates, 1774-1875, vol 4 (Government Printing Office 1904) 771,
+© See eg Sam Luttrell ‘ICSD Provisional Measures “In The Round” (2015) 31 Arb Intl 394%; Dan Sarcoshi,
+‘Provisional Measures and Investment Treaty Arbitration’ (2013) 29 Arb Intl 361; Caline Mouawad and Elizabeth
+Subert, ‘A Cruide to Interim Measures in Investoar-State Arbitration’ (2013) 29(3) Arb Intl 381; Michael D
+Goldhaber, “The Rise of Arbitral Power over Domestic Courts’ (2013) | SCL 374; Alan Tsang, “Transnational Rules
+on interim Measures in International Courts and Arbirrations’ (2011) 14 Intl Arb LR 35; Zannis Mavrogordato and
+Gabriel Sidere, “The Nature and Enforceability of ICSID Provisional Measures’ (2009) 75(1) Aroirration 38.
+* Chevron Corporation (USA} and Texaco Petroleum Company v Republic of Ecuador, WMCITRAL, PCA Case No
+44877 (commenced 21 December 2006).
+
+FALL 2616 Orders Restraining Domestic Court Proceedings 551
+
+that is not necessarily captured by applying the standard provisional measures
+formula. It is further contended that measures restraining the continuation or
+enforcement of domestic court proceedings on the basis of the non-aggravation
+principle raise special considerations of comity and a concomitant need for care.
+The same considerations do not arise, at least not to the sarne degree, with respect
+to measures that seek to restrain domestic court proceedings in order to preserve the
+exclusivity or procedural integrity of the investment treaty arbitration proceedings.
+Since there is something distinctive about injunctive relief that seeks to restrain
+another court or tribunal, it seerms both more convernent and more accurate to
+eschew the general language of provisional or interim measures for the specific
+expression: ‘anti-suit injunction’ (ASD.° By ASI, this article contemplates any
+order that sceks to restrain, directly or indirectly, temporarily or permanently, the
+continuation or enforcement of proceedings of another tribunal or court.”
+
+©. Structure of This Article
+
+This article will first set out the background to the Chevron v Ecuador dispute,
+before summarizing the use of ASIs in public international law generally and in
+investment treaty arbitration jurisprudence specifically. Ik will then consider the
+use of ASIs in transnational litigation, where the underlying policy considerations
+are not dissimilar, although the context is different. It finally comes back to offer
+some comments on the approach of the Chevron Tribunal to the difficult case
+before it.
+
+IL THE ASIis IN CHEVRON v ECUADOR
+
+The origin, and subsequent twists and turns, of the Chevron v Ecuador dispute are
+becoming increasingly familar to international lawyers, not least because they have
+now been related at the outset of numerous court judgments around the world.
+The summary that follows is deliberately brief and no doubt fails to do justice to
+the complexity of the case and its various proceedings.
+
+In 1964, Texaco Petroleum Company (TexPet), a subsidiary of Texaco
+Incorporated, comamenced oil exploration and drilling in the Oriente region of
+Eastern Ecuador and, the following year, started operating a petroleum concession
+for a consortium. In 1974, PetroEcuador, a State-owned enterprise of Ecuador,
+obtained a 25 percent share in the consortium. This stake increased over time. In
+1990, TexPet ceased operating the consortium, and in 1992, TexPet rehnguished
+all of its interests in the consortrnim and left Ecuador.
+
+In 1993, Ecuadorian plaintiffs, representing some 30,000 inhabitants of the
+Oriente region, filed a class action lawsuit against Texaco in the Southern District
+of New York.'? In 1994, Peruvian plaintiffs, representing some 25,000 residents of
+Peru, residing downstrearn from the Oriente region, filed a separate class action
+
+® Gary Born uses the phrase ‘antisuit order’ to describe a ‘particularly delicate form of provisional measure’. Gary
+Born, Imernational Commercial Arburation, vol % (2nd edn, Wolters Kluwer 2014) 2501.
+
+Whatever its jursdictional basis, which could include Convention on the Settlement of Investment Disputes
+between States and Nationals of Other States (opened for signature 18 March 1965, entered into force 14 October
+1966) GCSID Convention) art 47 [and LCSD Rules of Procedure for Arbitration Proceedings (April 2006) GCS
+Arbitration Rules) r 39} or Arbitration Rules of the United Nations Commission on International Trade Law (1976)
+CUNCITRAL Arbitration Rules) art 26. See generally, Thomas T Raphael, The Anu-Suit injunction (OUP 2068).
+
+19 Acuinda v Texaco Inc, Dkt No 93 Civ 7527 (SDNY 3 November 1993).
+
+=
+aA
+tA
+
+ay
+ay
+
+ay
+tay
+
+era
+SoM
+
+Pe ee a ee re
+COMA Gos SP
+
+mr £4
+stb PS
+BS? IGSID Rewew VOL. 34
+
+lawsuit against Texaco in the Southern District of New York.'! Both class actions
+sought compensation on various legal theories for alleged contamination of water
+supphes and the environment arising from TexPet’s operation of the drilling
+activities,
+
+In 1995, TexPet signed a settlement agreement with Ecuador, which it
+contended released it from lability for environmental impact falling outside of
+specttied projects (he 1995 Settlement), and it also sertled with local Ecuadorian
+municipalities. In 1997, the United States and Ecuador signed a bilateral
+invesument treaty (BIT).’* In 1998, Ecuador and PetroEcuador executed an
+agreement releasing TexPet, its affiliates and principals from lability for environ-
+mental impact in the former concession area (the 1998 Settlement}. In 1999,
+Ecuador passed the Environmental Management Act CEMA), creating a private
+right of action for individuals to seek damages for environmental damages in
+Ecuador.'* In 2001, Chevron acquired Texaco.
+
+In 2002, the Second Circuit Court of Appeals upheld judgments below
+dismissing both the Ecuadorian and Peruvian class actions on forum non comveniens
+grounds, finding that the courts of Ecuador provided an adequate alternative
+forura for the claims and that the balance of private and public interest factors
+weighed strongly in favour of trial by Ecuadorian courts.’* The order was made
+subject to Texaco’s consent to the jurisdiction of the Ecuadorian courts.
+
+In 2003, a class action lawsuit was filed, pursuant to the EMA, in the Superior
+Court of Nueva Loia in Lago Agrio, Ecuador. Chevron objected to the Court’s
+jurisdiction.
+
+In 2006, Chevron and Texaco commenced a first BIT claim against Ecuador,'?
+alleging failure to provide effective means of redress and denial of justice in
+determining seven breach-of-contract claims with a combined alleged value of US
+$533 milhon. The claims had allegedly lain dormant in Ecuador’s court system
+since being filed between 1991 and 1993. On 31 August 2011, the first BIT
+Tribunal found that Ecuador had failed to provide effective means of redress, thus
+breaching Article I[(7) of the BIT, resulting in damages of US $78 million, plus
+US $19 million in interest. '°
+
+In fuly 2009, Ecuador notified its withdrawal from the ICSID Convention,
+which took effect six months later.’ In September 20090, Chevron and Texaco
+commenced a second BIT claim against Ecuador,'® alleging several breaches of
+the BIT on account of the continuing Lago Agrio litigation, which it contended
+was pursued with the collusion of the Ecuadorian State and US contingency-fee
+lawyers. '°
+
+1) Qa v Pace Inc, Dkt No 94 Civ 9266 (SDNY 28 December 1994).
+
+12 Treaty between the United States of America and the Republic of Ecuador Concerning the Encouragement and
+Reciprocal Protection of Investment (signed 27 August 1993, entered into force 11 May 1997) (US-EBecuador BIT).
+
+13 Environmental Management Act Ley de Gesti6n Aribiental), Act No 99-37, Registro Oficial No 245 (30 July
+1999),
+
+- Aguinda v Texaco Inc, 303 F 3d 470 (2nd Cir 2602).
+
+15 Chevron Corporation (n 7).
+
+18 Chevron Corporation and Texace Petroleum Corporation u Republic of Ecuador, UNCITRAL, PCA Case No 2009-
+23, Final Award (31 August 2011).
+
+17 See UNCTAD, FLA Issues Note No 2’ (9 December 2010) fa 2. ICSID Convention (n 9).
+
+18 Chevron Corporation and Texaco Petroleum Corporation v Republic of Ecuador, UNCITRAL, PCA Case No 2006-
+23, Claimants’ Notice of Arbitration (2% September 2009).
+
+19 ibid para 3.
+
+=
+aA
+tA
+
+aoey
+ny
+
+ay
+tay
+
+7% 4
+SoM
+
+Keres tien
+geen ees
+sae cae er’
+
+EOMUIOT GHAIOS
+
+mya fy
+stb PS
+FALL 2616 Orders Restraining Domestic Court Proceedings 553
+
+A second BIT Tnbunal was constituted in Pebruary 2010, under the United
+Nations Commussion on International Trade Law CONCITRAL) Arbitration Rules
+(the Tribunal), Qn 14 May 2010, it issued its first Order on Interim Measures,
+exhorting both parties to ‘maintain, as far as possible the status quo’ and not to ‘exert,
+directly or indirectly, any unlawful influence or pressure on the [Lago Agrio] Cour’.*’
+
+On 1 February 2011, Chevron filed a federal racketeering suit against the Lago
+Agrio plaintiffs and their lawyers, alleging extortion with respect to the Lago Agric
+proceeding.“! On 2 February 2011, the Tribunal was advised by the Superior
+Court of Nueva Loja that the first instance judgment was uncertain but potentially
+imminent. On 9 February 2011, the Tribunal issued a second Order for Interim
+Measures, requiring Ecuador to: “‘[T}ake all measures at its disposal to suspend or
+cause to be suspended the enforcement or recognition within and without Ecuador
+of any judgment against the First Claimant in the Lago Agrio Case.*?
+
+The Order was not reasoned but recorded in a short paragraph that:
+
+fa}s to the grounds for the Claimants’ Second Application, the Tribunal concluded that
+the Claimants have made out a sufficient case, to the Tribunal’s satisfaction, under
+Arocle 26 of the UNCITRAL Rules, for the order made below in the discretionary
+exercise of the Tribunal’s jurisdiction to take Interim measures in respect of the subject-
+matter of the Parties’ dispute.
+
+On 7 March 2011, m the proceedings of Chevron v Donziger under the
+Racketeer Influenced and Corrupt Organizations Act (RICO), Judge Kaplan of
+the Federal District Court of the Southern District of New York granted an AST in
+similar terms to those sought from the Tribunal in Chevron v Ecuador.’ The
+judge’s analysis was extensive (127 pages long) and organized according to the
+criteria for a standard injunction application rather than as an ASI.**
+
+The first-instance Lago Agno pudgment was issued on 14 February 2011, in the sum
+of US $8.6 billion in environmental damages and US $8.6 billion in punitive damages.
+
+On 19 September 2011, the Second Circuit Court of Appeals vacated fudge
+Kaplan’s order.°? On 26 January 2012, the Second Circuit Court issued its
+reasons for doing so.*° Partly, it took the view that a global preliminary injunction
+was not available to prevent enforcement when the relevant source of jurisdiction
+was the New York Recognition Act.*’ But it also wrote extensively on ‘interna-
+tional comity concerns’,?* which, it held, provided additional reasons to conclude
+
+29 Chevron Corporation and Texaco Petroleum Corporation v Republic of Eeuador, UNCITRAL, PCA Case No 2009-
+23, Order on Interim Measures (14 May 2010) 5.
+
+21 Cheuron vu Donziger, No 11 Civ 0691 (LAK) (SDNY).
+
+22 Chevron Corporation and Texaco Fetroleim Corporation v Republic of Ecuador, UNCITRAL, PCA Case Ne 2009-
+23, Order on Interim Measures (9 February 2011) 4.
+
+° Racketeer Influenced and Corrupt Organizations Act 84 Stat 922-3.
+* Chevron v Donsziger, 768 F Sepp 2d 581 (2011). See James E Berger and Charlene C Sun, ‘Recent
+Developments: Chevron-Ecuader Dispute’ (March 2011) <https:/svww.paulhastings.com/docs/default-source/PDFs/
+1870.pdf> accessed 12 June 2016, 3, noting thar “[t{he district courr’s analysis of Chevron’s motion for a preliminary
+injunction was somewhat unorthodox. While Second Circuit law prescribes a specific multi-factor test that must be
+satisfied for a party tc obtain a foreign anti-suit injunction Cwhich the injunction sought by Chevron clearly was), the
+district court did not apply that test at the outset of its analysis. Instead, the court analysed the motion under the
+standard test for preliminary injunctive relict’.
+
+“3 Chevron v Naranjo, No 11-1150-evG), 2011 WL 4375022 (24 Cir 19 September 2011).
+
+2° Chevron u Naranjo, 667 F 3d 232 (2012).
+
+27 New York Civil Practice Law and Rules 5 5301.
+
+8 ibid 242.
+
+N
+Ww
+
+2
+
+t
+
+Bod IGSID Rewew VOL. 34
+
+that the Recogmition Act could not support the broad injunctive remedy granted §
+by the District Court: S
+
+New York undertook to act a8 a responsible participant in an international system of
+pustice-—-not fo set wp ifs Courts a8 a transnational arbiter to dictate to the entire world
+which pidgments are entitled to respect and which countries’ courts are to be treated as
+international pariahs .... to decline to enforce a judgment rendered in a foreign country
+necessarily touches om international comity concerns. It is a particularly weighty rmmarter
+for a court in one country to declare that another country’s legal system is s0 corrupt or
+unfair that its judgments are entitled to no respect from the courts other nations ... when
+a court im one country atternpts to preclude the courts of every other nation from ever
+considering the effect of that foreign judgment, the comity concerns become far graver.
+
+In such an instance, the court risks disrespecting the legal system not only of the country oS
+in which the judgment was issued, but also those of other countries, who are inherently =
+assumed insufficiently trustworthy to recognize what is asserted to be the extreme =
+incapacity of the legal system from which the judgment emanates. The court presuming 8
+to issue such an injunction sets iself up as the definitive imternational arbiter of the =
+fairness and integrity of the world’s legal systems.”” s
+The first instance Lago Agrio judgment was affirmed on appeal by the Provincial e
+Court of Fustice of Sucumbios on 4 January 2012. The judgment was woheld save _
+for punitive damages. The total amount was reduced to US $9.51 billion. =
+On 25 January 2012, the Tribunal converted its second Order into a first ws
+Interim Award on Interim Measures, again requiring Ecuador to ‘take all measures oS
+at its disposal to suspend or cause to be suspended the enforcement or recognition Ss
+within and without Ecuador of any judgment against the First Claimant in the S
+Lago Agrio Case’.°’ On 16 February 2012, the Tribunal issued a second Interim =
+Award on Interim Measures, ordering: =
+G) the Respondent (whether by its pudicial, legislative or executive branches) to take all 3
+measures necessary ta suspend or cause to be suspended the enforcement and =
+recognition within and without Ecuador of the pudgments ... against the First *
+Claimant i the Ecuadorian legal proceedings known as ‘the Lago Agrio Case’; RS
+
+Gi) im particular, without prejudice to the generality of the foregoing, such measures to
+preclude any certification by the Respondent that would cause the said judgments to ©
+
+be enforceable against the First Claimant; and
+
+Git) the Respondent’s Government te continue to inform this Trrbunal, by the
+Respondent’s legal representatives in these arbitration proceedings, of all measures
+which the Respondent bas taken for the implernentation of its legal obligations under
+
+the Second Interim Award.” i
+
+On 27 Pebruary 2012, the Tribunal rendered its third Interim Award on 2
+Jurisdiction and Admissibility? dismissing all objections and declaring its =
+” ibid 242-5. a
+2° Chevron Corporation and Texaco Petroleum Corporation v Republic of Ecuador, UNCITRAL, PCA Case No 2009- ®
+23, First Interim Award on Interim Measures (25 January 20123 16. 2
+2) Chevron Corporation and ‘Texaco Petroleum Corporation ¢ Republic of Ecuador, UNCITBAL, PCA Case No 2000- os
+23, Second fnterim Award on Interim Measures (16 February 2012) 3. &
+22 Chevron Corporation and Texaco Petroleum Carporation v Republic of Ecuador, IINCITRAL, PCA Case Me 200- <
+23, ‘Third Interim Award on furisdiction and Admissibility (27 February 2012). =
+FALL 2016 Orders Restraining Domestic Court Proceedings 555
+
+Jurisdiction to proceed to the merits phase. On 11 March 2012, fan Paulsson
+rendered an opinion at the request of counsel for Chevron, opining that the Lago
+Agrio proceedings amounted to a denial of justice under public international law.”’
+
+On 7 February 2013, the Tribunal issued a fourth Interim Award on Interim
+Measures.°? The Tribunal recorded that, in violation of its previous orders, the
+Lago Agrio judgment was made final, enforceable and subject to execution within
+Ecuador by the Respondent no later than 3 August 2012 upon its judiciary
+certifying the Lago Agric judgment’s enforceability" The Tribunal further
+recorded that it is ‘the only tribunal with the power to restrain the Respondent
+generally from aggravating the Parties’ dispute and causing irreparable harm to the
+Claimants in regard to the enforcermnent and execution of the Lagoa Agrio
+Judgement’ and that the Respondent should ‘show cause to this Tribunal why the
+Respondent should not now compensate the First Claimant for any harm caused
+by the violation [of the Tribunal’s prior orders]?’.°° The Tribunal noted the massive
+sum at stake as well as the risks that the fruits of enforcement would be diverted to
+‘foreign funding and other financial institutions’ rather than to the Lago Agrio
+plaintiffs.” It followed that it was ‘difficult now to exaggerate the risks facing the
+First Claimant’ and noted the ‘increasingly grave risks that enforcement and
+execution ... will imperil to a very significant extent the overall fairness and
+efficacy of these arbitration proceedings’.”°
+
+The Tribunal issued its first partial Award on 17 September 2013,°° finding that
+both Chevron and TexPet are “Releasces’ under the 1995 and 1998 Settlements
+but that the scope of releases in those settlements ‘does not extend to any
+environmental claim made by an individual for personal harm in respect of that
+individual’s rights separate and different from the Respondent’.*” On 12 March
+2015, it issued a decision on Track 1B, where it found that the Lago Agrio
+complaint included individual claims resting upon individual mghts under
+Ecuadorian law, not falling within the scope of the 1995 Settlement, and that it
+was accordingly not wholly barred at its inception by res judicata.*’ No final award
+has been issued, and it appears that the proceedings continue.
+
+On 4 March 2013, Judge Kaplan issued judgment in the RICO case.** The
+judgment is extraordinary. The judge found that Steven Donziger, the New York
+lawyer who led the Lago Agrio class action, and the Lago Agrio plaintiffs,
+‘corrupted’ the proceedings by submutting fraudulent evidence, coercing and
+bribing judges and writing the Lago Agrio judgment themselves.*° The judgment
+
+23 Chevron Corporation and Texaco Petroleum Corporation u Republic of Ecuador, UNCITRAL, PCA Case No 2009-
+23, Opinion of Jan Paulsson (12 March 2012) para &2.
+
+24 Chevron Corporation and ‘Texaco Petrolewm Carporation v Republic of Ecuador, IINCITRAL, PCA Case No 2009-
+23, Bourth Interim Award cn Interum Measures (7 February 2013}.
+
+* ibid para 79.
+
+36 jhid paras 61-2.
+* ibid para 84.
+
+28 ibid paras 85-6.
+
+°° Chevron Corporation and Texaco Petroleum Corporation v Republic of Keuador, UNCITRAL, PCA Case No 2009-
+23, Birst Partial Award on Track 1 (7 September 2613).
+
+ibid 45.
+
+“Chevron Corporation and Texaco Petroleum Corporation v Republic of Ecuador, INCITRAL, PCA Case Mo 2009-
+23, Decision on Track 1B (12 March 2015) 59,
+
+*® Chevron « Donziger, Case {1b 1-cv-00691-LAK-ICK, Opinion (4 March 2014.
+
+35 ibid 1-2. Since the time of writing this article, Judge Kaplan’s decision, including his findings as to the
+Fouadorian judgment being obtained by fraud, has been upheld by the Second Circuit Court of Appeals: Chevron
+Corporation v Dongiger, No 14-0826(L), 2016 WL 4173988 (2d Cir 8 August 2016). Also upheld was a permanent
+
+injunction contained in Judge Kaplan’s decision which -- less expansively than the glcbal preliminary injunction
+
+we
+
+=
+aA
+tA
+
+aoey
+ny
+
+ay
+tay
+
+7% 4
+SoM
+
+Keres tien
+geen ees
+sae cae er’
+
+EOMUIOT GHAIOS
+
+mya fy
+stb PS
+556 ICSID Review VOL. 31
+
+is also extremely lengthy. It bears reading in full, but it will suffice to quote from
+the conclusion:
+
+The saga of the Lago Agrio case is sad. It is distressing that the course of justice was
+perverted. The [Lago Agrio plaintiffs] received the zealous representation they wanted,
+but it is sad that it was not always characterised by honor and honesty as well. It is
+troubling that, in the words of Jeffrey Shinder, what happened here means that ‘we’ll
+never know whether or not there was a case to be made against Chevron’. But we have
+come full circle. ... The issue here ... is whether a court decision was procured by
+corrupt means, regardless of whether the cause was just. The decision in the Lago Agrio
+case was obtained by corrupt means. The defendants here may not be allowed to benefit
+from that in any way. The order entered today will prevent them from doing so.**
+
+In the meantime, enforcement action has continued. On 4 September 2015, the
+Supreme Court of Canada upheld a decision of the Ontario Court of Appeal
+affirming its jurisdiction to enforce the Lago Agrio judgment against both Chevron
+and its subsidiary Chevron Canada.*° This decision is without prejudice to further
+defences and procedural motions available to the Chevron entities.*°
+
+Finally, on 20 January 2016, the District Court of the Hague rejected Ecuador’s
+attempt to set aside the Tribunal’s interim measures orders. The District Court
+acknowledged that the Tribunal’s reasoning was ‘concise’.*’ However, it inferred
+that the interim measures taken by the Tribunal:
+
+cannot be explained otherwise than by the fact that at the time those measures were
+taken, the Tribunal apparently had serious indications that the judgment rendered at first
+instance in the Lago Agrio proceedings, which is the basis for (the suspended)
+enforcement by the Lago Agrio claimants, came into being fraudulently—including on
+the side of the Lago Agrio claimants—and under political pressure. ... This circumstance
+automatically—even though the Tribunal did not explicate this in the Interim Awards—
+provides justification for the possible (temporary) consequences for the Lago Agrio
+claimants of the interim measures, even in the event that these measures. ... entail a
+restriction of any mandatory right of the Lago Agrio claimants of a fundamental nature.*®
+
+Ill. ASIs IN PUBLIC INTERNATIONAL LAW
+
+It is common for international courts and tribunals to have the power to order
+provisional measures.*”? For the International Court of Justice (ICJ), the power to
+
+ordered, but then overturned, in 2011 — enjoins the three United States-based defendants from seeking to enforce the
+Ecuadorian judgment in the United States, but does not enjoin any party from seeking recognition or enforcement
+elsewhere. See WL pages 51-53 and 62-64. The Tribunal has since admitted the Court of Appeals’ judgment as an
+exhibit in the arbitral proceedings, noting that it is not binding on the Tribunal: Chevron Corporation and Texaco
+Petroleum Corporation v Republic of Ecuador, UNCITRAL, PCA Case No 2009-23, Procedural Order No 45 (29
+August 2016) para 3.
+
+ibid 484-5.
+
++5 Chevron Corp v Yaiguaje, 2015 SCC 42, [2015] 3 SCR 69, para 75, holding that there is no need to demonstrate
+a real and substantial connection between the dispute and the enforcing forum.
+
+4° ibid para 77.
+
+47 Ecuador v Chevron, Case No C/09/477457/HA ZA, 14-1291, para 4.35.
+
+48 ibid para 4.30.
+
+4 See eg Shabtai Rosenne, Provisional Measures in International Law (OUP 2005) 6-8. Note especially United
+Nations Convention on the Law of the Sea (opened for signature 10 December 1982, entered into force 16 November
+1994) art 290, in respect of all judicial bodies empowered to render binding decisions on the application of the
+Convention, including the International Tribunal of the Law of the Sea and tribunals constituted under annexes VII
+and VIII; Treaty of the European Economic Community (opened for signature 25 March 1957, entered into force 1
+
+6LOZ eUNr gO UO Jesn AUedW0D adIAIaS spjaljJysas4 - seo.unosay UOHeUWOJU] Ag LGyP/EZ/6PS/E/L Ee AoeuIsqe-e|olUe/MalAaUpIsol/WOo dno‘siuuapeoek//:sdyy WOJJ pepeojuMog
+FALL 2016 Orders Restraining Domestic Court Proceedings 557
+
+‘indicate’ provisional measures is conferred by Article 41 of the ICJ Statute.”° It is
+now clear that, despite the weak verb, ICJ provisional measures orders are binding.”'
+
+The ICJ’s jurisprudence for when provisional measures are appropriate is now
+settled. The requesting party must establish four main factors. First, it must
+establish that the Court has prima facie jurisdiction over the proceedings.”” In
+practice, this means ‘little more than ... that it appears that the Court might or
+could have jurisdiction over the merits and that the absence of that jurisdiction is
+not manifest’.?? Second, it must establish that the rights asserted by the requesting
+party are at least plausible.°* Third, it must establish that there is a link between
+the provisional measures and the ultimate relief sought in the proceedings.’ This
+is because provisional measures are a feature of the ICJ’s incidental jurisdiction
+and cannot outstrip the scope of the main proceedings.”° Finally, it must establish
+that irreparable prejudice could be caused to rights that are the subject of the
+proceedings.®’ This implicitly requires a showing of ‘urgency, in the sense that
+there is a real and imminent risk that irreparable prejudice will be caused to the
+rights in dispute before the Court has given its final decision’.”®
+
+Despite the increasing use and acceptance of its provisional measures powers,
+the international court has only rarely ordered ASIs. Perhaps the closest relevant
+example comes from the decision of the Permanent Court of International Justice
+(PCIJ) in 1939 to enjoin pending debt collection court proceedings in Bulgaria.””
+Belgium claimed that these proceedings, as well as various executive and legislative
+acts, had distorted the application of a coal price tariff formula previously ordered
+by a mixed tribunal in the 1920s. Belgium sought reparation. The PCI] indicated
+that Bulgaria ‘should ensure that no step of any kind is taken capable of
+prejudicing the rights claimed by the Belgian Government or aggravating or
+
+extending the dispute submitted to the Court’.
+
+January 1958) art 203 (formerly 186), with respect to the European Court of Justice; Rule 39 of the Rules of Court of
+the European Court of Human Rights (entered into force 1 January 2016), with respect to the European Court of
+Human Rights; American Convention on Human Rights (opened for signature 21 November 1969, entered into force
+18 July 1978) art 63(2), with respect to the American Court of Human Rights.
+
+°° Statute of the International Court of Justice (opened for signature 26 July 1945, entered into force 24 October
+1945).
+
+>! See LaGrand (Germany v United States of America), Provisional Measures, Order [1999] IC] Rep 9, discussed
+below and President Shi addressing the fifty-eighth session of the General Assembly, Doc A/58/PV.50 (31 October
+2003) 4: ‘I would like to stress that both Judgments and orders indicating provisional measures made by the Court are
+binding on the parties ... . The binding effect of orders indicating provisional measures under art 41 of the Statute of
+the Court has recently been confirmed by the Judgment rendered by the Court in the LaGrand case’. See also, in the
+human rights context, Mamatkulov and Askaraov v Turkey, App nos 46827/99 and 46951/99 (ECtHR, 4 February
+2005).
+
+>2 See eg Case Concerning Legality of Use of Force (Yugoslavia v Canada), Provisional Measures [1999] ICJ Rep 916,
+923; Armed Activities on the Territory of the Congo (New Application: 2000) (Democratic Republic of the Congo v Rwanda),
+Provisional Measures [2002] ICJ Rep 219, paras 57-8.
+
+°3 Rosenne (n 49) 121-2.
+
+>4 See eg Construction of a Road in Costa Rica along the San Juan River (Nicaragua v Costa Rica), Provisional
+Measures [2013] ICJ Rep 398, para 15.
+
+>> See eg ibid 398, para 16.
+
+°° See eg Rosenne (n 49) 9; Land, Island and Maritime Frontier Dispute (El SalvadorlHonduras: Nicaragua
+intervening), Application to Intervene Judgment [1990] ICJ Rep 92, para 98.
+
+>? See eg Request for Interpretation of the Judgment of 15 June 1962 in the Case Concerning the Temple of Preah Vihear
+(Cambodia v Thailand), Provisional Measures [2011] IC] Rep 537, para 46.
+
+°8 See eg Construction of a Road (n 54) 398, para 25.
+
+°° In re Electricity Co of Sofia and Bulgaria (Belgium v Bulgaria) (Interim Measures Decision) PCIJ Rep Series A/B
+No 79 (Electricity Company). On the eve of the Second World War, which resulted in both the agent for, and the judge
+nominated by, the Bulgarian government being unable to attend the hearing.
+
+°° ibid 199.
+
+6LOZ eUNr gO UO Jesn AUedW0D adIAIaS spjaljJysas4 - seo.unosay UOHeUWOJU] Ag LGyP/EZ/6PS/E/L Ee AoeuIsqe-e|olUe/MalAaUpIsol/WOo dno‘siuuapeoek//:sdyy WOJJ pepeojuMog
+BSR IGSID Rewew VOL. 34
+
+More recently, the IC] in three cases—Case Concerning the Vienna Convention on
+Consular Relations (Paraguay v United States of America),°’ LaGrand (Germany v
+United Srates)°” and Avena (Mexico v United States)°*—indicated provisional
+micasures to prevent the execution of convicted prisoners in the USA on the basis
+of claims from Paraguay, Germany and Mexico, respectively, that the prisoners
+had been deprived of their international law rights to consular assistance.°*
+
+In Vienna Convention on Consular Relations, the IC] indicated provisional
+measures, but these were not given effect by the Governor of Virginia. The
+question of whether the measures were binding, however, was not pursued.
+
+In LaGrand, the IC] indicated provisional measures requiring the DSA to “take all
+measures at its disposaP to ensure that Walter LaGrand, a German nauonal
+sentenced to death, was not executed pending the final decision of the IC]. The
+ICPs decision was mot, in strict terms, an ASI since the Arona courts were no longer
+involved im enforcing the sentence. However, it did seck to suspend the enforcement
+of a judicially mandated criminal sentence. In doing so, it applied the same
+provisional measures criteria as for other IC] decisions.°° Despite the ICF’s order,
+Walter LaGrand was executed. In 2001, the IC] found that the USA, merely by
+transmitting the order to the Governor of Arizona without any comment, had failed
+to discharge its obligation to take all measures at its disposal to ensure that LaGrand
+was not esecuted.°’ The Court thus confirmed that its provisional measures orders
+are ‘binding in character’ and ‘not a mere exhortation’. It denied that, in making
+such orders, it was purporting to sit as a court of final criminal appeal.°”
+
+Simnlariy in ivena, the IC] ordered the USA in 2003 to take all measures
+necessary to ensure that three named Mexican nationals were not executed
+pending the IC]’s final judgment in the proceedings.’” The IC] subsequently
+found the USA to have breached the Vienna Convention on Consular Relations
+rights of 51 Mexican nationals.’’ While President George Bush declared that the
+USA would “discharge its international obligations ... by having State courts give
+effect to the [Avena] decision’,’* the US Supreme Court emphasized that the IC]
+decision did not have effect domestically.”
+
+°! Case Concerning the Vienna Convention on Consular Relations (Paraguay v United States of America) {1998} IC] Rep
+248 (Provisional Messures), 326 (Discomtinuance),
+
+© Lattrand (nm 51) 9.
+
+83 Case Concerning Avena and Other Mexican Nationals (Mexico v United States), Provisional Measures, [2003] ICT
+Rep 77.
+
+“ Under Vienna Convention on Consular Relations (opened for signature 24 April 196%, entered into force 19
+March 1967) (VCCR) art 36.
+
+° Latrand (m 51) %, para 29.
+
+8° “The gravamen of the decision was that irreparable harm—the loss of a human life—would result were the
+execution ro rake place.
+
+8 LaGrand Case (Germany v United States of America) Jadgment [2001] IC] Rep 466, 507-8.
+
+8 ibid 505-6.
+
+& jhid 485-6. See alsa LaGrand (n 31) 9, para 25.
+
+7 Avena (a 63) 77.
+
+Tl deena and Other Mexican Nationals (Mexico v United States of America), Jadgrmnent, (2004) IC] Rep 12. VCCR tm 64).
+
+“= The White House Memorandum for the Artorney General (28 February 2005) <http://www.deathpenaltyinfo.
+org/node/799 > (accessed 13 June 2016).
+
+3 Medellin v Texas, 5220S 491, 504 (2008). The case before the US Supreme Court concerned, in particular, a habeas
+corpus petition fled im Texas by Jose Medellin, one of the 31 Mexican nationals, a month after the Bush memorandum.
+The Supreme Court held that neither the Avena decision nor President Bush’s memorandum constituted directhy
+enforceable federal law that pre-empts state limitations on the filing of successive habeas corpus petitions. Chief Justice
+Roberts, giving the opinion of the Court, explained that, although the [C] decision was binding at international jaw, it did
+not have its own direct effect domestically. Nor was the president empowered ro give directions to state courts: “Phe
+President has an array of political and diplomatic means available to enforce international cbligations, but unilaterally
+converting a non-self-executing treaty into a self-executing one is mot among them’ (525).
+
+FALL 2016 Orders Restraining Domestic Court Proceedings 559
+
+Orders to protect the right to life and/or personal integrity of prisoners, aliens
+subject to deportation and other individuals have been made in both the European
+and American Courts of Human Rights.’* Compliance, however, remains
+doubtful.’” Outside of the human rights contest, few other international tribunals
+have sought to grant orders in the nature of ASIs.’°
+
+‘Two observations are offered for present purposes. First, this case law concerns
+provisional measures generally and not ASIs in particular. The overall provisional
+measures test has mot yet been subject to explicit refinement where an ASI is in issue.
+Second, the [IC] capital punishment cases ilhistrate the practical difficulties for an
+international conurt seeking to suspend domestic processes. It is not surprising to min
+into separation-of-power doctrines and the real nsks of non-compliance. The USA’s
+response, especially in the LaGrand case, may have been partly characterized by a lack
+of willingness to spend political capital secking to enforce an unwelcome intrusion
+into its domestic affairs. Equally, however, there was and is no clear process for giving
+effect to the decisions of international courts to intervene in domestic criminal rustice
+processes. This reflects the fact that, in most countries, international and domestic
+orders exist on distinct planes, and confusion tends to arise when they intersect.”
+
+IV, ASIs IN UNCITRAL AND [ICSID ARBITRATIONS
+
+A. General Observations
+
+The interim and provisional measures tests under the UNCITRAL and ICSID regimes
+are, following the 2010 amendments to the former, now rather differently expressed.
+The 2010 amendments were intended to import into the UNCIPRAL Arbitration
+Rules the 2606 amendments to the UNCITRAL Model Law to better articulate when
+interim measures should be ordered. ’* The ICSID language, by contrast, although also
+adjusted in 2006, remains non-prescriptive and general in character.
+
+As a result of its 2010 amendments, the language of Article 26 of the
+UNCIPRAL Arbitration Rules is reasonably instructive as to what is meant by
+interim measures and when they can be ordered. Paragraph (2) confirms that they
+are temporary measures that can be used, for example and without limitation, to
+preserve assets or evidence or to:
+
+(a} Maintain or restore the status quo pending determination of the dispute; or
+(b) Take action that would prevent, or refrain from taking action that is likely to cause,
+G) current or imminent harm or Gi) preyudice to the arbitral process itself.
+
+™ See eg Clara B Herrera and Yves Haeck ‘Letting States Off the Hook? The Paradox of the Legal Consequences
+Pollowing State Mon-Compkance with Provisional Measures in the Inter-American and European Human Rights
+Systems’ (2010) 28(3) Nethl QHR 332, 333.
+
+ ihicl 333.
+
+7° One example is The ‘Enrica Lexie’ case, concerning a shooting aboard an Italian fishing ship operating off the coast of
+Kerala, India. Vhe Internationa! Tribunal for the Law of the Sea issued a provisional measures order under art 296 of the
+United Nations Convention on the Law of the Sea requiring both Italy and India to suspend (and refrain from starting
+new) court proceedings which might aggravate their dispute, which was then pending before an Annex VIE tribunal. The
+Fnrica Lexie’? Incident Ctaly v India), VTLOS Case No 24, Order for Provisional Measures (24 August 2015) 26.
+
+77 See eg Campbell McLachlan, OC, "The Continuing Controversy over Provisional Measures in International
+Dispures’ (26063) 7 lati 1. Borum de droit Ind 3, 14.
+
+78 See United Nations Commission on International Trade Law Model Law (2006) ch IV A, as adopted by the
+Commission at its thirty-ninth session in 2006. UNCITRAL Arbitration Rules (n 9).
+
+=
+aA
+tA
+
+aoey
+ny
+
+ay
+tay
+
+7% 4
+SoM
+
+Keres tien
+geen ees
+sae cae er’
+
+EOMUIOT GHAIOS
+
+mya fy
+stb PS
+B60 IGSID Rewew VOL. 34
+
+Paragraph (3) requires the requesting party for both such measures’ to satisfy
+the tribunal that:
+
+(a) Harm not adequately reparable by an award of darnages is likely to result if the measure
+is not ordered, and that such harm substantially oupweighs the harrn that is likely to
+result to the party against whom the measure is directed if the measure is granted; and
+
+Co) There is a reasonable possibility that the requesting parties will succeed on the merits
+of the clairn.
+
+By contrast, the language in Article 47 of the ICSID Convention is short and
+open—textured:
+
+Except as the partes otherwise agree, the Tribunal may, if it considers that the
+
+circumstances so require, recommend any provisional measures which should be taken to
+‘ . . 30
+
+preserve the respective rights of either party.
+
+Article 47’s power is supplemented by Rule 39 of the ICSID Arbitration Rules,
+which were amended in 2006 to introduce a procedure for the expedited filing of
+requests for provisional measures (and of all the observations of the parties to such
+requests) prior to the constitution of an ICSID tribunal.“’ The substance of
+Article 47, however, is unaltered by Arbitration Rule 39. Arbitration Rule 39(6),
+introduced in 1984,°° states that nothing in it prevents the parties from requesting
+any judicial or other authority to order provisional measures for the preservation of
+their rights and interests, provided they have so stipulated in their agreement
+expressing consent to TCSID arbitration. Thus, TCSID tribunals have exclusive
+jurisdiction not only over the dispute itself but also over provisional measures
+relating to it, unless the parties have otherwise agreed.™*
+
+Even though the ‘circumstances-so-require’ language of Article 47 is broad,
+ICSID tribunals have generally required a showing that the provisional measures
+are both urgent and necessary to protect the rights of the parties in the case where
+the final award is pending."* There remains debate over whether the necessity test
+requires a showing of Srreparable harm’°" or something lesser, such as ‘significant
+
+? And also measures needed to preserve assets but not necessarily measures needed ro preserve evidence. See ibid
+art 26(4),
+
+8° The description used by Paul Friedland, writing 30 years ago, was ‘ill-defined’. Paul Friedland, “Provisional
+Measures and ICSID Arbitration’ (1986) 2 Arb Intl 335, 334.
+
+8! See ICSUD Arbitration Rules (n 9) arts 39¢2, 39(5); Aurelia Antonietti, “Phe 2006 Amendments to the ICSID
+Rules and Regulations and the Addirional Facility Rules’ (2006) 21(2) ICSID Rev-—-FIL]J 427, 438.
+
+®2 Christoph H Schreuer and crhers, The ICSI Convention: A Conunentary (CUP 2009) 399.
+
+83 Schreuer and others (n 82) 399-400. See eg Occidential Exploration & Production Co v Ecuador, [2005] EWCA
+iv 116, para 42; ETT Telecom Internacional NV v Republic of Bolivia, Empresa Nacional de Télecemmunicaciones Entel
+SA, [2008] EWCA Civ 880, para 108.
+
+"4 See eg Sarooshi (n 6) 364-5; Larttrell (nm 6) 345-6, 397; Caline Mouawad and Elizabeth Silbert ‘A Guide to
+Interim Measures ia Investor-State Arbitration’ (2013) 29(3) Arb [ntl 38h, 387.
+
+85 See eg Occidental Petroleum Coporation and Gceidental Exploration and Production Company v Republic of Ecuador,
+ICSID Case No ARB/06/11, Decision on Provisional Measures (17 August 2007) 40; Tokios Torelés vu Ukraine, LOSID
+Case No ARB/02/18, Procedural Order No % (18 January 2005) para 8.
+
+FALL 2016 Orders Restraining Domestic Court Proceedings 561
+harm’? or ‘substantial prejudice’.®’ Aside from these two elements, ICSID
+tribunals have tended to endorse requirements to show prima facie jurisdiction, a
+prima facie basis to the claim and proportionality.™®
+
+The ‘nk’ test reqnnred by IC] jurisprudence-—-that there be a connection
+between the provisional measures and ultimate relief sought-——-would seem equally
+applicable to investment treaty arbitration, although it receives less attention. It is
+implicit in the Article 26(2) examples provided in the UNCITRAL Arbitration
+Rules as well as in the ‘circumstances-so-require’ language of Article 47. In
+investment treaty arbitration as well as in IC} cases, provisional measures powers
+exist as incidental powers to preserve the position pending a final decision. They
+should not in principle be used to achieve collateral purposes beyond the
+legitimate scope of the arbitration itself. This point was authoritatively made in
+Plama v Bulgaria, where a reason for rejecting provisional measures restraining
+insolvency proceedings was that the final relief sought in the arbitration was
+damages, not any form of specific performance.°”
+
+A final general point is the question of whether such orders are binding. The
+expression used in Article 26(1) of the UNCITRAL Arbitration Rules is ‘grant
+interim measures’. This wording plainly conternplates a form of order binding on
+the parties. By contrast, the phrase used in Article 47 of the ICSID Convention is
+‘recommend any provisional measures’. This wording has engendered debate, akin
+to that regarding Article 41 of the IC] Statute, as to whether KCSID tribunals may
+order binding provisional measures.
+
+Christoph Schreuer explains that ‘ithhe Convention’s legislative listory suggests
+that a conscious decision was made not to grant the tribunal the power to order
+binding provisional measures’.°° During debates, Aron Broches has observed that
+there was ‘no way for a private investor to obtain [the] specific enforcement fof
+provisional measures} against the State’, and some delegates have envisaged
+difficulties where a provisional measure mught conflict with mumicipal law,
+especially the constitutional law of the country where it should be carried out”!
+Schreuer notes that these concerns were rernoved when the Tribunal’s power was
+restricted to recommending provisional measures.”*
+
+However, ICSID case law has now eroded, if not obliterated, the restriction
+against ordering provisional measures.”’ ICSID tribunals now readily declare their
+ability to do so.°* As Schreuer also observes, the cases in which domestic courts
+
+® See eg City Oriente Limited v Republic af Eeuader and Empresa Estaral Pewéleos del Ecuador (Petroecaador), ICSID
+Case Mo ARB/06/21, Decision on Revocarion of Provisional Measures and Other Procedural Matrers (13 May 2008)
+para 72; Burlington Resources, Inc vu Republic of Eciador, [OSUD Case No ARB/08/5, Procedural Order Mo 1 (29 Tune
+2009), See also Biwater Gauff Clanzania) Limited ov United Republic of Tanzania, YOSID Case No ARB/O5/22,
+Procedural Order No 1 (41 March 2006); Ferenco Ecuador Limited u Republic of Ecuador, (CSED Case No ARB/O8/6,
+Decision on Provisional Measures (6 May 2009).
+
+8’ See eg Sarooshi (who argues that it is more appropriate for ICSED tribunals to adopt the lower threshold of
+‘significant harm or threat’ to the parties rights when deciding whether provisional measures are ‘necessary’ rather
+than using the [C]’s higher threshold of ‘irreparable prejudice’) Sarooshi (1 6) 379; Luttrell (n 6) 344-5.
+
+® Luttrell (n 6) 397.
+8° Plama Consortium Limited v Republic of Bulgaria, {CSUD Case No ARB/03/24, Order (6 September 2005) paras 40—1.
+90
+
+Schreuer and cthers (n 82) 764.
+"| ibid 766.
+ibid.
+Loattrell (n G) 345.
+
+°* Emilio Agustin Moaffesini « Kingdom of Spain, 1CSUD Case Ne ARB/O7/7, Procedural Order No 2 (28 October
+1999) para 9; Victor Pey Casado and President Allende Foundation uv Republic of Chile, ICSID Case No ARB/98/2,
+Decision on the Request for Provisional Measures (25 September 2001) para 22; Tokios Tokelés v Ukraine, {CSIP Case
+No ARB/02/18, Procedural Order No 1 G1 fuly 2003) para 4: Perenco v Ecuador (n 86) para 74; Occidental v Ecuador
+
+Ke]
+wo oN
+
+oO
+
+562 ICSID Review VOL. 31
+
+have played a role in the context of ICSID provisional measures have concerned
+not the enforcement of provisional measures by domestic courts but, rather, the
+making of ASIs against action taken in domestic courts.”°
+
+B. Three Main Categories of Investment Treaty Arbitration ASIs
+
+The investment treaty arbitration ASI case law has tended to fall into three main
+categories. The first is where, based upon the Article 26 exclusive remedy rule,
+ICSID tribunals have issued ASIs prohibiting the continuation of competing
+domestic proceedings or non-ICSID arbitrations. Cases of this type include: CSOB
+v Slovak Republic,’° Zhinvalt v Georgia,’ SGS v Pakistan,’® Tokios Tokelés v Ukraine’?
+and Millicom v Senegal.'°° In Plama v Bulgaria, however, the Tribunal scrutinized the
+relevant domestic insolvency and tax proceedings and found that they did not affect
+the issues involved in, or the outcome of, the ICSID arbitration.’°’ These cases have
+no obvious counterpart in UNCITRAL arbitrations and have grown from under-
+standing Article 26 as confirming the exclusive jurisdiction of ICSID arbitration over
+competing domestic proceedings covering the same subject matter.
+
+The second category is where tribunals have issued ASIs prohibiting the
+continuation of ancillary proceedings—often criminal prosecutions—that materially
+threaten the integrity of the ICSID proceeding. These have largely comprised
+satellite proceedings directed at participants, including witnesses and lawyers, in the
+investment treaty arbitration process. Even where the satellite proceedings have been
+distracting or seemingly tenuous, the case law has confirmed a high bar to justify
+interference with a State’s sovereign police powers.'°” Cases granting such an order
+
+(n 85) para 58; City Oriente Limited v Republic of Ecuador and Empresa Estatal Petroleos del Ecuador (Petroecuador),
+ICSID Case No ARB/06/21, Decision on Provisional Measures (19 November 2007) para 92; Spyridon Roussalis v
+Romania, ICSID Case No ARB/06/1, Decision on Provisional Measures (22 July 2008) para 21; United Utilities
+(Tallinn) BV and Aktsiaselts Tallinna Vesi v Republic of Estonia, ICSID Case No ARB/14/24, Decision on Respondent’s
+Application for Provisional Measures (12 May 2016) para 109.
+
+°> Schreuer and others (n 82) 766.
+
+°° Ceskoslovenska obchodni banka, AS v Slovak Republic, I1CSID Case No ARB/97/4, Procedural Order No 4 (11
+January 1999), where the Tribunal recommended that certain bankruptcy proceedings be suspended to the extent
+they might involve determinations which overlapped with those arising in the ICSID proceeding.
+
+°? Zhinvali Development Lid v Republic of Georgia, |CSUD Case No ARB/00/1, Award (24 January 2003), where the
+Tribunal recommended that domestic Georgian courts cease considering a claim involving the same issues presented
+to the ICSID Tribunal.
+
+°8 SGS Société Générale de Surveillance SA v Islamic Republic of Pakistan, ICSID Case No ARB/01/13, Procedural
+Order No 2 (16 October 2002), where the ICSID Tribunal recommended that a conflicting domestic arbitration in
+Pakistan be stayed pending the Tribunal’s award on jurisdiction. The Procedural Order also addressed an anti-
+arbitration ASI emanating from the Pakistan Supreme Court, which the SGS Tribunal determined was not binding on
+it (as had the UNCITRAL Tribunal in Himpurna California Energy Ltd v Indonesia, UNCITRAL, Interim Award (26
+September 1999) para 73, when faced with a similar anti-arbitration ASI).
+
+°° Tokios Tokelés (n 94) para 1, where the Tribunal confirmed that Ukraine had committed itself to the exclusivity of
+ICSID proceedings and, hence, to the exclusion of domestic and administrative remedies, such that the parties must ‘refrain
+from initiating or pursuing proceedings in any other forum in respect of the subject matter of the dispute before ICSID’.
+
+100 Millicom International Operations BV and Sentel GSM SA v Republic of Senegal, ICSID Case No ARB/08/20,
+Decision on the Application of Provisional Measures (9 December 2009), where the Tribunal held that local court
+proceedings, commenced on the same day as the ICSID arbitration, concerned the same set of facts and ordered the
+local proceedings to be discontinued.
+
+101 Plama Consortium (n 89).
+
+102 Caratube International Oil Company LLP and Devincci Salah Hourani v Republic of Kazakhstan, ICSID Case No
+ARB/13/13 (4 December 2014) paras 134—5, confirming that a ‘particularly high threshold must be overcome before an
+ICSID tribunal can indeed recommend provisional measures regarding criminal investigations conducted by a state’ and
+that ‘it would take exceptional circumstances to recommend that a State refrain from conducting criminal investigations,
+
+. including joining in already pending criminal proceedings, possibly in another State. The Claimants would have to
+establish that the Respondent’s investigations and participation ... in the criminal proceedings ... constitute an
+impermissible act that prevents them from asserting their rights in this Arbitration, thus causing an irreparable harm’.
+
+6LOZ eUNr gO UO Jesn AUedW0D adIAIaS spjaljJysas4 - seo.unosay UOHeUWOJU] Ag LGyP/EZ/6PS/E/L Ee AoeuIsqe-e|olUe/MalAaUpIsol/WOo dno‘siuuapeoek//:sdyy WOJJ pepeojuMog
+FALL 2616 Orders Restraining Domestic Court Proceedings 363
+
+include City Oriente v Ecuador,'"* Quiborax v Bolivia'™* and Hydro v Albania."°? Bach
+case displays a sensitivity to perceived interference with State sovereignty,'°° a refusal
+to restrain domestic criminal process simply in order to preserve the status quo and
+avoid the exacerbation of hostility'’’ and a conclusion that the order is specifically
+required to protect the procedural integrity of the arbitration.'°* Very frequently, the
+high threshold is not met, and the order is refused: Caratube v Kazakhstan,'°? PNG v
+Papua New Guinea,''° and Teinver v Argentina”
+
+The third category is where the ASI is issued to prevent a domestic proceeding
+from continuing or being enforced—not because it conflicts with the investment
+treaty arbitration jurisdiction or because it interferes with the imtegrity of the
+investment treaty arbitration proceedings but, rather, based on non-aggravation
+principles in order to preserve the status quo. This was the jurisdiction invoked by
+the Chevron v Ecuador A&SKs. Schreuer records that a note to Arbitration Rule 39 in
+its 1968 version stated that Article 47 is based on the principle that once a dispute
+is submitted to arbitration the parties “should not take steps that might aggravate
+or extend their dispute or prejudice the execution of the award’.’’? Some tribunals
+have used such language in granting provisional measures.!? Others, however,
+have concluded that aggravation in the abstract is insufficient. In Plama v Bulgaria,
+the Tribunal held that the domestic insolvency and tax proceedings sought to be
+restrained would not aggravate the status quo, in the sense that they ‘threaten|]
+the abilicy of the Arbitral Tribunal to grant the relief which a party seeks’.'* In
+other words, an ASIis not appropriate simply to hold the position. A similar point
+was made in Occidental v Ecuador:
+
+iP]rovisional measures, when granted as measures required to prevent aggravation of the
+dispute, have always been directed at the behaviour of parties to the dispute, whether
+they consisted of measures required to maintain-—or restore-—peace between them, or to
+prevent one party from initiating or pursuing parallel litigation, for example in the
+
+103 Ciry Oriente (n 04) para 63: the proceedings subjected to the AST included criminal complaints filed against three
+executives alleging embezzlement precisely for not paving the amounts required by the 2006 Law.
+
+1% Ouiborax SA, Non-Metallic Minerals SA and Allan Fosk Kaphin vo Phwinational Stare of Bolivia, (CSU Case Ne
+ARB/06/2, Decision on Provisional Measures (26 February 2010) 46, where the Tribunal ordered Bolivia to take all
+appropriate measures to suspend certain criminal proceedings ‘directly related to this arbirration....or engagmg ina anv
+other course of action which may jeopardize the procedural integrity of this arbitration’.
+
+08 Bydro Sri and others v Republic of Albania, UCS2D Case No ARB/15/28, Order on Provisional Measures (3
+March 2016) paras 3.40-3.41, where, despite accepting that ‘the strongest of reasons need to be shown for impeding
+{a criminal investigation commenced pursuant to international obligations]’, the test was satisfied as the possible
+incarceration of two individuals would affect their ability to adequately put their cases and participate in the
+arbitration; whereas the provisional messures would only delay the criminal proceedings.
+
+106 Cry Oriente Ga 94) para 62.
+
+"7 Ouiborax (2 104) para 139.
+
+108 ibid para 148.
+
+109 Caratube International (a 102) paras 145-9, where the Claimants showed a certain need for pretection but were
+unable ‘concretely and specifically’ to prove that an irreparable harm to their rights requiring urgent relief.
+
+O° PNG Sustainable Development Program Lad v Independent State of Papua New Guinea UOSUD Case No ARB/13/32,
+Decision on the Claimant’s Request for Provisional Measures (21 January 2015) paras 128-47, where the Claimants
+failed ro demonstrate that an order directing the respondent to refrain from any criminal prosecution of employees,
+servants or agents of the Claimant, or the deportation of an eniployee, was necessary or urgent.
+
+1 Dinner SA, Transportes de Cercanias SA and Autobuses Urbanos del Sur SA v Argentine Republic, (CSTD Case No
+ARB/G9/1, Decision on Provisional Measures (8 April 2016) paras 228-9, finding that, as the arbitral proceedings are
+nearing their end, there is only a limited possibility that the criminal proceedings and investigation can now affect the
+procedural integrity of the arbitration; but indicating that it would be prepared to protect counsel of the parties if they
+properly fall within the scope of the investigation (which was unclear).
+
+WZ Sohrevuer and others (n 82) 793.
+
+113 See eg Casado v Chile (n 94); Agurix Corp uv Argentine Republic, YCSUD Case No ARB/01/12, Decision on
+Jurisdiction (8 December 2003) 2-3. See generally Luttrell (n 6).
+
+2 Dlama Consortium (a 89) paras 42, 45.
+
+B64 IGSID Rewew VOL. 34
+
+national courts, thereby directly undermining the international proceedings. Provisional
+measures are not designed merely to mitigate the final amount of damages. Indeed, if
+they were so intended, provisional measures would be available to a clairmant in almost
+every case. In any situation arsing from an illegal act, the mere passage of time
+aggravates the damages that can ultimately be granted and it is well known that this is not
+a sufficient basis for ordering provisional measures.'*?
+
+Some tribunals have granted ASIs partly, though not entirely, based on the
+principle of not aggravating the status quo. Por instance, in City Oriente v Ecuador,
+the Tribunal granted an ASI restraining all yucicial proceedings arising from the
+underlying contract or the 2006 Model Law Gwhich effectively overrode and
+altered the contractual bargain} that was the subject of the ICSID proceedings.''®
+City Oriente relied on the PCY) Electricity Company decision.’ A similar approach
+was followed by decisions in Perenco v Ecuador''® and Burlington v Ecuadar,'**
+which related to the same 2006 Model Law. The guiding principle of these
+decisions, which also fall partly into the first and second categories above, was to
+preserve the parties’ allegedly ongoing coramercial relationship on the originalby
+agreed terms pending determination of the complaints regarding their alteration.
+
+This principle was estended somewhat in Quantum v DRC, where a raining
+concession had allegedly been expropriated and mining ceased.'°° The claimants
+sought several varieties of orders so as to preserve the status quo, including
+preventing or cancelling the transfer of its mining permits and barring the
+Democratic Republic of Congo CDRC) from enforcing or executing the two
+decisions of its national courts relating to the alleged expropriation. The Tribunal’s
+original procedural order recommended an interim suspension of enforcement
+rmeasures. Sore months lacer, however, after full argument, the Tribunal revisited
+its earher order. With respect to the first domestic court proceeding, it observed that
+the judgment was fully executed so no further executory steps could be taken. With
+respect to the second proceeding, it observed that an appeal was taking place and
+that the decision would not be enforceable until after it was deterrnined. Provisional
+measures were thus neither necessary nor urgent.
+
+Finally, and for cornplereness, ASIs can potentially be awarded as final relief. While
+rare in practice, non-pecuniary awards are possible in investment treaty arbitration,
+including ICSED, arbitrations’? In AT4 v Jordan,’ an ICSID Tribunal ordered a
+permanent AST in a final award in 2010 to remedy a statutory extinguishment of the
+ATA’s right to commercial arbitration. The Tribunal held that the extinguishment
+was contrary to the Torkey-—Jordan BIT and that the prior arbitration agreement
+
+3 Occidental vu Ecuador (n 85) para 97.
+
+6 Ci Orieme (n 94).
+
+4? sbid para 88. The Tribunal described the ‘facts and the decision [of the PCH as
+instant case’. Alectricizy Company Cr 39).
+
+18 Poyenco in 86).
+
+HO Burlington Resources (n 86), where the Tribunal ordered the enforcement proceedings to be discontinued and
+suspended and for all disputed monies to instead be paid into am escrow account pending determination of the
+dispute.
+
+#29 nrernational Quantum Resources Limited, Frontier SPRL Compagnie Miniére de Sakania SPRL v Democratic Republic
+of the Congo, ICSID Case Noa ARB/160/21, Procedural Order No 3 (28 November 2011).
+
+121 Soe Christoph H Schreuer, “Alternative Remedies in Investment Arbitration’? (2016) 301) J Damages Intl Arb 1;
+Christoph FH Schreuer, ‘Non Pecuniary Remedies in LCSID Arbitration’ (2004) 20(4) Arb fnti 325.
+
+122 474 Construction, Industrial and Trading Company v Hashemite Kingdom of fordan, {CSIR Case No ARB/OS8/62,
+Award (18 May 2610) paras 3131-3.
+
+4
+1
+t
+
+actually closely connected to the
+
+FALL 2016 Orders Restraining Domestic Court Proceedings 565
+
+should be restored.’“°? This, in turn, required the conflicting domestic court
+proceedings to be immediately and unconditionally terrninated. In a subsequent
+interpretation of its award, the tribunal confirmed that the award barred any further
+judicial proceedings in Jordan or elsewhere on the substance of the dispute.‘**
+
+But there are limits. Pursuant to Article 35 of the International Law Commission’s
+(LC) Articles on State Responsibility, restitution will not be ordered where it is
+materially impossible or would impose a disproportionate burden on the respondent
+compared to compensation.'*° As the Occidental Tribunal found, a claim for interim
+measures founded on a request of final relief by specific performance will be refused
+if the specific perforrmance is not possible or would unduly interfere with State
+SOVerelgnty:
+
+To bmpose on a sovereign State reinstatement of a foreign investor in is concession, after
+a nationalization or termination of a concession license or contract by the State, would
+constitute a reparation disproportional [sic] to its mterference with the sovereignty of the
+State when compared to monetary cornpensation. ‘7°
+
+A. A Further Digression ...
+
+A typical investment treaty arbitration article might stop here and move directly to
+offering observations on the Chevron v Ecuador case. This article takes a shght
+detour. It goes on to consider ASIs in the context of transnational litigation. The
+reason for this detour is that domestic courts have now gained considerable
+experience with ASIs. Domestic courts are also conscious that when they seek to
+interfere with the proceedings of equivalently sovereign foreign courts, they risk
+inviting an army’s race of tit-for-tat orders.'“’ Comity becomes important because
+the sense, and the risk, of interference with another legal systern is real. The result
+has been the creation of an increasingly sophisticated jurisprudence. Furthermore,
+
+the three categories of ASIs im transnational lingation broadly mirror the three
+categories emerging from investment treaty arbitration ASIs. It is respectfully
+submitted that, despite the different context, domestic court furisprudence is
+instructive for investment treaty arbitration tribunals in considering when and how
+they should issue ASIs.
+
+123 Noreement berween the Hashemite Kingdom of Jordan and the Republic of Turkey Concerning the Reciprocal
+Promotion and Protection of Investments (signed 2 August 1993, entered into force 23 January 2006) (ordan-Turkey
+BIT).
+
+12) ATA Construction, Industrial and Trading Company uv Hashemite Kingdom of Jordan, ICSEID Case No ARB/O8/02,
+Decision on Interpretation and on the Request for Provisional Measures (7 March 20131) para 45. Given this
+interpretation, the Tribunal concluded that a related provisional measures request was ‘moot’ (para 46).
+
+#25 Schreuer (2 121) 8. International Law Commission (LLC), Articles on Responsibiliry of States for internationally
+Wrongful Acts, UN Doc A/56/83 (2001).
+
+"29 Occidental v Ecuador ( 85) para 84.
+
+27 See eg the Laker Airways litigation saga where courts in the United Kingdom and USA issued a string of anti-
+suit and anti-anti-suit inianctions. For the United Kingdom, see Brinsh Airways Rd vw Laker Airways Lid, [1984] QB
+142; British Airways Ba v Laker Airways Lid, {1965} AC 38; Midland Bank v Laker Airways Led, (1986) 1 All ER 526.
+Bor the USA, see Laker Girways v Sabena, Belgian World Airlines, 733 F 2d 909 (DC Cir 198495 Laker Girvoays v Pan
+Am World Airways, 339 F Supp 1124 (DDC 1983); Laker Airways v Pan Am World Airways, 377 F Supp 348 (DDC
+1983). For a thoughtful overview, see George A Bermann “Vhe Use of Anti-Suit Injunctions in International
+Litigation’ (1990) 28 Columbia J Intl L 389,
+
+566 IGSID Rewew VOL. 34
+
+B. The Common Law Roots of ASIs
+
+A&ls are originally a device of the comamon law, with the earliest known examples
+found in English law.'*° In the USA, ASIs were traditionally used to regulate ‘sister-
+state practice’!°" and have long been a feature of transnational litigation.’*° In civil
+law countries, ASIs are not unknown, but they appear to be used relatively rarely.’*!
+
+English ASIs operate in personam and are not directed to the foreign court
+itself.'°* The same is generally true in the USA,'’? though George Bermann has
+suggested that American courts have generally refused to distinguish between
+addressing an injunction to parties before a court and addressing an injunction to
+the court ieself.'?* It is recogmzed that, however expressed, ASIs do have an
+indirect effect upon the foreign proceedings, and for this reason, caution is
+required./°? Julian Lew has explained that, in English practice, ‘fallthough the
+injunction acts in personam and is not directed at the foreign court this is not how
+it is always perceived’.’*° Adrian Briggs has, more forthrightly, written that:
+
+ii}f the foreign court has been seised with proceedings, the idea that it is not interfered
+with when a court orders an anti-suit injunction is sirmply not credible ... foreign courts
+have been quick to say that they feel interfered with and are not mollified by the English
+court issuing professions of respect and saying they are not interfering ... m the few
+reported cases in which a foreign court has issued an anti-suit injunction aimed at a party
+who is bringing proceedings in the English courts, the English judge has been
+spectacularly cross about it}?!
+
+Some of this flavour can be found in the 2009 decision of the European Court
+of Justice in the West Tankers case, which prohibited even ASIs in support of
+arbitration agreements within the European Union. The Court described such
+ASIs as ‘obstructing the court of another Member State’ from determining
+whether or not it had jurisdiction pursuant to Council Regulation GiC) 44/2001
+
+and ‘also runs counter to the trust which Member States accord to one another’s
+
+legal systems and judicial insticurions’.'*°
+
+185 See eg carly cases such as Langdale’s Case, (1609) 77 Eng Rep 1338 (KB); Filler’: Case, (1607) 77 Eng Rep
+1322 (KB), in which orders of prohibition were directed towards the Ecclesiastical Courts. For the earliest ASIs in
+respect of foreign legal proceedings, see eg Bushby v Munday, (1823) 3 Madd 297; Carron Iron Co v Metaren, (1855)
+AL Cas 416. See generally Trevor Hartley, ‘Cormity and the Use of Antisuit Injunctions in International Linigation’
+(1987) 35 Am J Comp L 487.
+
+"29 Bermann (n 127) 594.
+
+430 See generally Born (n 8) 1294-7; and the cases summarized in Bermann (n 127) 589; Daniel S Tan, ‘Ant-Suit
+Injunctions and the Vexing Preblem of Comity’ (2003) 45(2) Virginia J Int! L 283.
+
+13 Born (n 8) 1297 observes that ‘[i]n contrast to the common law approach, civil courts have generally refused to
+grant antisuit orders, including to enforce arbitration agreements. In most instances, civil law courts are not even
+requested to order antisuit inhanctive relief, because it is clear that no such remedy is available. Gaillard observes,
+however, thar the use of AST has now spread to at least some civil law countries. Emmanuel Gaillard (ed), Anu-Suit
+Injunctions in fnternational Arbitration Curis 2003) 1-2.
+
+132 Société Aerospatiale v Lee Kui Jak, [1987] 1 AC 871, §92 (PC) (per Lord Goff).
+
+193 See eg Ouaak v Kiynveld Peat Marwick Goerdeler Bedrijfsrevisoren, (2004) 361 F 3d 11, 16 1" Cin.
+
+5% Bermann (na £27) 589.
+
+135 Sociéid Aerospatiale (n 132) 892 (per Lord Goff). See also Bermann Ga 127) 589: “That anti-suit injunctions are
+addressed to private persons within the jurisdiction of the enjoining courr (operaring against rhem in personam),
+rather than directly ro the foreign court whose proceedings are at issue, does not substantially Jessen the element of
+conflict.’
+
+3° Titen Lew, ‘Anti-Suit Injunctions Issued by National Courts te Prevent Arbitration Proceedings’ in Gaillard
+(n 134) 25, 30.
+
+137 Adrian Briges, Principle of Comity in Private International Law (Hague Academy of International Law 2012) 125-
+6, ch 3 ‘Comity in the Law of Jurisdiction to Adjudicate’,
+
+8 Case 185/67, West Tankers Inc v Alhangs SoA (formerly Riunione Adriatica DN Sicuria SpA) (The Front Comor),
+[2009] ECR 663, para 30. Council Regulation (EC) 44/2001 on jurisdiction and the recognition and enforcement of
+judgments in civil and commercial matters [2001} Of L42/1.
+
+FALL 2616 Orders Restraining Domestic Court Proceedings 5307
+
+Despite the controversies to which they have given rise from time to time,'”?
+ASis are undoubtedly an important and powerful tool for transnational litigation.
+ASIs are now a regular feature of both English and US court practice and have
+been ordered in most Cormonwealth or former Commonwealth nuriscdictions,
+including Singapore,'*° Canada,'*! Australia'** and Bermuda.'*°
+
+C. Three Mam Categories of Common Law ASIs
+
+The growing use of ASIs has ied to increasing refinement as to the
+appropriate basis of their exercise. This refinement has not been merely a
+matter of jurisdiction. In England, for instance, the jurisdictional basis for ASIs is
+the general power to issue injunctions, which, in itself, is not especially
+informative.'** The courts have accordingly been required to develop principles
+to guide the appropriate exercise of nidicial discretion. This has meant that the
+requirements for an ASI differ in certain important respects from those for a
+Standard injunction.
+
+It has also led to a clear taxonomy of ASI categories. First, there are situations
+in which the foreign proceeding is commenced in breach of an arbitration
+agreement. Here, the leading English authority has for over 20 vears been The
+Angelic Grace,‘ in which Lord Justice Millet (as he then was), announced that
+the time had come to ‘lay aside the ritual incantation that this is a jurisdiction
+which should be exercised sparingly and with great caution’. An injunction should
+be granted to restrain foreign proceedings in breach of an arbitration agreement
+‘on the simple and clear ground that the defendant has promised not to bring
+them’.'*° In 2013, this approach was taken to its logical conclusion in Ust-
+Kamenogorsk vu AES Ust-Kamenogorsk, ta which the United Kingdom Supreme
+Court held that an AST was available to enforce an agreement to arbitrate, even if
+no arbitration proceedings were in train or even contemplated. '*’
+
+Second, there are situations in which the foreign proceeding is commenced in
+breach of an exclusive jurisdiction agreement. Here, based on authorities such as
+Denoghue v Armco,’ and Turner v Grovit,'*" an ASI is prima facie available. In the
+absence of the New York Convention for choice-of-court agreerments,'?’ the
+protection of exclusive jurisdiction agreements is more discretionary than it is for
+arbitration agreements. The prima facie entitlement to an ASI may be defeated by
+
+1° An early and famous example being the 1980s Laker Airways Htigation, resulting in ASIs being issued on both
+sides of the Atlantic. For a detailed account, see Bermann ( 127) 591-4.
+
+189 WSG Nimbus Pte Lid v Board of Control for Cricket in Sri Lanka, [2002] 3 SLR 603 CHC); Tiong Vary Sumito v
+Antug Investments Pie Lid, [2000] 4 SLR (UK) 732 (CA),
+
+MA Anchen Products fue v British Columbia (Worker’s Conyensation Board), [1993] 1 SCR 897 (SC).
+
+12 CSR Lid v Cigna insurance Australia Lid & Ors, (1997) 146 ALR 402.
+
+3 OAO CT Mobile v IPOC International Growth Fund, (2006) Bermuda LR 69 (CA).
+
+184 See Senior Courts Act (formerly the Supreme Court Act) (1981) 5 37: "The High Court may by order (whether
+interlocutory or final grant an injunction or appoint a receiver in all cases in which it appears to the court to be just
+and convenient to da so’. See also Arbitration Act 1996, ss 44, 72.
+
+145 Avesehhy Charis Cia Maritime SA v Pagnan SpA (The ‘Angelic Grace’), [19951 1 Llovd’s Rep 87.
+
+46 ibid 96.
+
+17 Trey -Kamenogorsk Hydropower Plant $8C v AES Usi-Kamenogorsk Hydropower Plant LLP, [2013] UEKSC 35.
+
+8S Donohue v Armco Inc, [2001] UKEHL 64, [2004] 1 All ER 749.
+
+189 Tener v Grovit, [2001] UKHL 65, [2002] 1 WLR 107.
+
+150 Convention on Recognition and Enforcement of Foreign Arbitral Awards (opened for signature 10 June 1958,
+emteted inte force 7 fune 1939) New York Convention). A matter sought to be resmedied by the Hague Convention
+on Choice of Court Agreements (opened for signature 30 June 2005, now ratified by the United Mexican States, the
+European Union and Singapore and in force) <hrtps:/Mwww.hcch.net/en/instruments/conventions/full-text/
+Pcid=98 > acceased 14 fune 2016.
+
+B68 IGSID Rewew VOL. 34
+
+the defendant showing strong reasons for an ASI not to issue. Bur AGIs are still
+routinely granted in order to enforce the parties’ bargain.
+
+The third category is where foreign proceedings are found to be unconscionable,
+vexatious or oppressive because they have been commenced in an inappropriate
+forum, This situation typically arises im cases where, under English forum non
+conveniens rules, England would consider itself the appropriate place for a trial, but
+the proceedings have been commenced elsewhere in a case of “unwarranted forum
+shopping’.'?' In this case, and only where England itself has a sufficient interest in
+the dispute,’°* it has jurisdiction to restrain the foreign proceedings.’~°
+
+In Star Reefers vu FRC Group, an ASl was discharged on appeal as the lower court
+judge had erred by taking no account of considerations of cormity in deciding that
+Russian proceedings were vexatious and England was the natural forum.’°* Lord
+Justice Rix held that, in circumstances were there was no underlying agreement to
+arbitrate or litigate and the Russian proceedings were commenced first:
+
+fijhere 1s, as it seems to me, something of a touch of egoistic paternalism in an Enghsh
+court injuncting contimuation of the foreign proceedings. ... In any event, in such
+circumstances the consideranons of comity become of especial importance. The judge
+however took no account of such considerations. That is an error in the exercise of his
+discretion, having found the conditions for the exercise of his power made good. In my
+judgment ... the considerations of comity should have in any event caused the English
+court to pause long and hard before granting an injunction in such a case.’*”
+
+It is possible, though rare, for an Enghsh court to order an anti-enforcement
+ASI after the foreign proceedings are complete. Such an injunction was first
+granted in the 1928 case of Allerman Lines v Read, to restrain enforcement of a
+Turkish judgment that had been obtained in breach of contract and by fraud.'?* Ir
+was argued on appeal that, while an ASI can be granted during the pendency of
+foreign proceedings, there was no jurisdiction to restrain a person who had
+obtained jucdgrnent from reaping its fruits. This was given short shrift by Lord
+Justice Scrutton, who held that:
+
+ii}f there is no authority for this it is time that we made one, for I cannot conceive that if
+ao Enghsh Court finds a British subject taking proceedings in breach of his contract in a
+foreign (Court, supporting those proceedings, and obtaining a judgment, by fraudulent
+lies, it is powerless to interfere to restrain him from seeking to enforce that judgment.’”’
+
+The jurisdiction has been exercised only sparingly since. In AD & FP Man v
+Haryanto, Justice Steyn (as he then was) concluded that it would be an affront to
+the Indonesian courts and an iulegitimate interference, albeit indirectly, with the
+process of courts worldwide to grant an extraterritorial ASI prohibiting enforce-
+ment of an Indonesian court judgment.’°? In Akai v People’s Insurance, Justice
+Thomas declined an anti-enforcement injunction in respect of Singaporean
+
+131 Edwin Peel, “Anti-Suit Injunctions: The House of Lords Declines ro Act as International Policeman’ 114 (1998)
+Law Q Rev 243, 543. See also Deutsche Bank AG v Highland Crusader Offshore Partners LP, 12009] 2 CLC 45, [2010]
+1 WLR 1023, para 50.
+
+1% dirbus Industrie GIE v Parl, [1999] 1 AC 119 CHL).
+
+153 Société Aerospatiale (a 132),
+
+4 Star Reefers Pool Inv v JFC Group Co Ltd, [2012] EWCA Civ 14, [2012] 1 CLOG 294.
+
+155 jbid paras 39-40.
+
+oe Ellerman Lines v Read, {1928} 2B 144 (CA).
+
+7 ibid 152-3.
+
+158 & F Man (Sugar) Lid v Haryanto (No 2), [1991] GB 161, 167-8 GHO).
+
+FALL 2016 Orders Restraining Domestic Court Proceedings 569
+
+enforcement proceedings of an Australian judgrnent, since there were very
+powerful arguments that it was more consistent with comity to leave it to the
+Singaporean courts to decide what course to take in light of Singaporean law.'°? In
+Masri v Consolidated Contractors, Lord Justice Lawrence Collins (as he then was}
+observed that it was ‘plainly a very serious matter for the English court to grant an
+injunction to restrain enforcement in a foreign country of a judgment of a court of
+that country’ and that ‘it will be a rare case in which an injunction will be
+granted’.'°° In Bank St Petersburg v Arkhangelsky, an ASI was granted, on appeal,
+to prevent the enforcement of Russian judgments obtained in breach of a specific
+exclusive jurisdiction agreement in favour of English courts.'°' The case suggested
+that the basis on which an anti-enforcement ASI might be obtained is similar to
+ASI pfurisprudence generally.
+
+The relevant principles were recently revisited by the Court of Appeal in
+Ecobank v Tanoh,'“* in which the Claimant bank sought an ASI to prevent
+enforcement of judgments obtained in Vogo and the Cote @ivoire allegedly in
+breach of arbitration agreements. An issue was the bank’s delay in seeking the ASI,
+with the result that it was now not challenging the foreign proceedings but, rather,
+the enforcement of their result. The Court of Appeal held the delay was fatal.
+Lord Justice Christopher Clarke held that the longer an action continues without
+any attempt to restrain it, the less hkely a court is to grant an injunction.
+Considerations of comity have stronger force. He added:
+
+To the case of anti-enforcemernt inpuncnons there are further considerations which
+underpin the need for caution expressed in the cases. First, an order precluding
+enforcernent ... will, if obeyed, in effect prechude the consideration by [foreign] courts ...
+as to whether they should recognise or enforce the jidgement in question. That is a
+matter which it is, intrinsically, for the relevant court to decide according to its applicable
+law. Moreover, in so far as the order prevents enforcement in the country of the court
+which gave the judgmenr it is, indirectly, an interference with the execution in its own
+country of the judgment which the court has given and can expect to be obeyed.'©’
+
+Accordingly, even though the basis of the application was to ensure adherence to
+an arbitration agreement, an ASI was not appropriate.
+
+In short, then, the notion of comity has underpinned English case law on ASIs.
+It was the concept by which Lord Goff developed his thinking from Société
+Aerospatiale v Lee Kui Fak to Airbus v Patel and prevented English courts from
+setting themselves up as ‘world policemen’ of commercial activities.’°* It has less
+force where an ASI is being used merely to hold parties to their agreements.
+However, it comes back into play if the ASI is being sought at an enforcement
+stage because matters of recognition and enforcement are intrinsically matters for
+the courts at the place of enforcement.
+
+The notion of comity is also important in US case law.’®? Overall, the
+approaches of US courts to ASIs have been described as varying from more liberal
+
+199 Akai Pry Lid v People’s Insurance Co Ltd, [1998] 1 Lloyd’s Rep 90.
+
+189 Atasei » Consolidated Contractors Inernational (UK) Lyd (No 3), [2008] EWCA Civ 625, 533.
+'°! Bank St Petersburg OFSC v Arkhangelsky, [2014] 1 WLR 4360 (CA).
+
+102 Peobank Transnanonal Inc v Tanoh, (2015) EWCA Civ 1369.
+
+9 ibid 2262.
+
+104 Société Aerospatiale (m 132); Airbus Industrie (n 152).
+
+'85 See eg Tan (n 130) 298.
+
+Q
+
+=
+aA
+tA
+
+aoey
+ny
+
+ay
+tay
+
+7% 4
+SoM
+
+Keres tien
+geen ees
+sae cae er’
+
+EOMUIOT GHAIOS
+
+mya fy
+stb PS
+B70 IGSID Rewew VOL. 34
+
+(the Fifth, Seventh Ninth Circuits),'°° to more conservative (the First, Second,
+Third, Sixth and District of Columbia Circuits).*°’
+
+There bas also been debate berween different federal circuits as to whether
+comity is a separate element to be accounted for im determining whether to grant
+an ASI or a less explicit factor used principally to confirm the need for care and
+caution before granting an ASI.'°° In the approach favoured by the First Circuit,
+the power to enjoin foreign litigation omist be tempered by the accepted
+proposition that parallel proceedings on the same claim may take place
+simultaneously and that the decisional calculus must account for considerations
+of international comity because, ‘even though an international antisuit injunction
+operates only against the parties, it effectively restricts in the jurisdiction of a
+foreign sovereign’s courts’. 17°
+
+The enquiry starts with a rebuttable presumption that the injunction should not
+be issued. The moving party must then overcome the presumption by adducing
+factors that are then balanced against comity considerations. In the ‘highly
+nuanced’ exercise of determining the appropriateness of an ASI, the courts must
+adopt an approach that accords ‘appreciably greater weight to considerations of
+international comity’.’“' In the approach favoured by the Second Circuit, comity
+iS NOt a separate counterweight factor but, rather, is taken into account indirectly.
+Only the ‘strongest equitable factors’ and the ‘most cormpelling public policies of
+the forum’ would substantiate the grant of an AST.’
+
+Whichever approach is adopted, however, it is acknowledged that ASIs are
+powerful instruments that must be used carefully. As Gary Born explains, US
+courts are generally more hesitant than English courts about the use of ASIs to
+restrain foreign proceedings. They have certainly been prepared to grant ASIs
+prohibiting parties frorn proceeding with foreign litigation in violation of a valid
+arbitration agreement:
+
+bur subject to significantly greater conditions and restrictions than im England, Singapore
+and most other common law jurisdictions. In general, US courts have been reluctant to
+grant antisult myunctions, even where parties have commenced foreign htgation in
+violation of their agreement to arbitrate, except m compelling cases where there is a
+special need for such relief.
+
+Overall, the US case law is distributed along similar lines to the English cases.
+Aidthough the purisdiction is wide, and the discretionary considerations vary, almost
+all ASIs are concerned either with enforcing party agreernent as to where to litigate
+or arbitrate or, in the absence of such agreement, ensuring that litigation takes
+place in its most natural forum.
+
+See eg Kaepa fuc v Achilles Corp 76 B.3Ad 624 (Sth Cir. 1996). See also Van (a 130) 289,
+7 See eg Tan (n 130) 289. See also Born (mn 8) 1295.
+" See eg Quaak (nm 133).
+
+499 See eg Paramedics Electromedicina Comercial Lida v GE Medical Systems Information Technologies Inc, 369 F 3d 645
+(2d Cir 2004), See also China Trade & Deu Corp v MV Cheong Yong, 827 F 2d 33 (2d Cir 1987), setting out a seven-
+factor test for the grant of an ASI.
+
+119 Opsaeade Ga 033) 17.
+
+"T dhyich,
+
+172 Poramedics (n 169) 634,
+
+13 Born (a 8) 1294.
+
+=
+aA
+tA
+
+aoey
+ny
+
+ay
+tay
+
+7% 4
+SoM
+
+Keres tien
+geen ees
+sae cae er’
+
+EOMUIOT GHAIOS
+
+mya fy
+stb PS
+FALL 2616 Orders Restraining Domestic Court Proceedings 374
+
+Vi. DISCUSSION
+
+We come back, at last, to the Chevron case. What is one to make of this
+extraordinary sequence of events? One option would be to conclude that extreme
+circumstances justify extrerne orders and suggest that there is httle profit in
+looking more closely at the anti-enforcernent ASIs granted by the Tribunal. After
+all, Chevron’s complaint appears to have been vindicated. The Lago Agrio
+proceedings have been found by two United States Federal Courts to have been
+procured by fraud.
+
+Nonetheless, Chevron is a rare case where an ASI has been ordered by an
+investment treaty arbitration tribunal to restrain allegedly offending court
+proceedings that were commenced in their proper forum, did not conflict with
+the relevant investment treaty arbitration proceeding (but, indeed, were its subject)
+and were not justified by seeking to preserve an ongoing commercial relationship.
+Although some analogies could be drawn to the PCT} Electricity Company case and
+the ne of investment treaty arbitration cases beginning with City Oriente «
+Ecuador, they are not exact. In any event, the Tribunal did not seek to draw any
+analogies or cite to any case law.
+
+If effective, the Chevron ASIs would have suspended the result of the Lago Agrio
+proceedings. In Ecobank, the Enghsh Court of Appeal expressed concern at the
+disrespect such an order conveys to foreign courts that have already expended the
+resources in progressing a case through to judgment.’’* Moreover, although the
+Chevron ASts solely concerned enforcement of the Lago Agrio proceedings, they
+still affected Ecuador’s judicial branch, which is responsible for certifying
+judgements for enforcement. Ecuador was not a party to the proceeding and
+could not be chrected simply to suspend or withdraw the Lago Agric proceedings.
+To be effective, the ASI had to operate in some way upon a foreign judiciary.
+
+One might suggest, as did the Hague District Court, that the brevity of the
+Tribunal’s anafysis reflects the fact that the Tribunal strongly and justly suspected,
+but could mot yet prove, fraud. So it acted firmly but discretely to achieve fustice.
+However, the whole point of interim measures is that one cannot yet say (as could
+the Court in the Ellerman Lines vu Read case) that the alleged fraud has taken
+place.” Between 2010 and 2013, prior to the merits stage of the proceedings, no
+evidence proving fraud was considered at a contested hearing. Fraud is not, at least
+not exphecitly, the basis for the Trbunal’s successive decisions. Whatever its
+suspicions, the Tribunal was scrupulous to repeat that it was not in any way
+prejudging the merits.'’° Accordingly, although judicial economy may well have
+been a prudent course for a tribunal faced with a difficult situation, legitimate
+questions remain about whether the ASIs were an appropriate exercise of discretion.
+This is especially so if they are to have an informal precedent value for future cases.
+
+As Born writes, an ASI ‘is for obvious and serious reasons a delicate authority
+that should be exercised with special care and restrain’.'"’ It is submitted that the
+
+"8 Peobank (a 162) paras 133-4: ‘Comity between courts, and indeed considerations of public policy, require,
+where possible the avoidance of such waste. ... A foreign court may justifiably take exception to an approach under
+which an injunction will Gf obeyed) frustrate all that has gone before’
+
+175 Fiterman Lines (n 156).
+
+17 Chevron Corporation, First Interics Award on Laterim Measures Ga 30) 17; Chevron Corporation, Second Usterixm
+Award on Interim Measures (n 31) 4; Chevron Corporation, Fourth Interim Award on Interim Measures (n 34) 31.
+
+" Gary Born, International Commercial Arbitration (2edn, Wolters Kluwer 2014) 2503.
+
+=
+aA
+tA
+
+aoey
+ny
+
+ay
+tay
+
+7% 4
+SoM
+
+Keres tien
+geen ees
+sae cae er’
+
+Ty SOU ye
+ted THIRD Ty
+
+OUR ASL MISE LD!
+
+ae
+572 IGSID Review VOL. 31
+
+time has core for investment treaty arbitration to recognize, as does transnational
+litigation, that the need for special care and restraint is not achieved by treating
+ASIs as an ordinary type of provisional or interim measure. Given their impact
+upon a foreign judicial systern, cornity moust play a role. This is so whether cornity
+is regarded as an additional factor or merely as a counterweight applying to the
+overall test.
+
+The proper role of comity is not yet clearly situated in the PCH/IC]
+jurisprudence. Arguably, this is because comparatively few ASIs have been
+issued by the IC] or its predecessors. This does not make thinking through the
+comity umphications any less important. The Convention on Consular Relations,
+LaGrand and Avena cases demonstrate that imbuing ASIs with authority and
+efficacy is not easy. A terse pronouncement by an international court directing the
+conduct of a domestic justice system may, as in those cases, prove somewhat
+disappointing in practice,
+
+By contrast, domestic courts have much experience of weighing and measuring
+when an ASI is likely to overreach the bounds of comity. This explains the
+categorization of ASIs based on arbitration and exclusive jurisdiction agreements
+as requiring lesser considerations of comity. Such ASIs are doctrinally founded on
+the notion of party consent. In transnational litigation, ASIs are also used, even in
+the absence of party consent, to protect litigants from being pursued in a plainly
+inappropriate forum. Here, comity plays a much larger role. Even when the
+rationale for the ASI is the doubtful character of the foreign proceedings, domestic
+courts tend not to measure vexatiousness absolutely but, rather, only relative to
+actual or hypothetical proceedings in the natural forum. In other words, foreign
+proceedings are not typically injuncted simply to hold the position or because it is
+suspected that they are not up to snuff,
+
+Should the approach be different where the ASI is sought not from a domestic
+court but, instead, from an investment treaty tribunalr Arguably not. A
+cornparable taxonomy of ASIs can be discerned in the investment treaty
+arbitration jurisprudence. The easiest cases are those where Article 26 of the
+ICSID Convention is infringed. Investment treaty arbitration, as a form of
+arbitration, is necessarily founded on party consent; so conflicting Htigation on the
+merits is naturally seen as a breach of the parties’ agreement.
+
+The second category of cases comprises those that indirectly impair the
+procedural integrity of the investment treaty arbitration process. These are also,
+ulumately, founded on party consent. However, due to the inherently sensitive
+judgment calls in conchiding that the investment treaty arbitration process is
+sufficiently threatened by domestic proceedings that those proceedings should be
+suspended, comity and restraint are given weight. This is most obvious in the
+decisions of tribunals in response to invitations to interfere with domestic criminal
+proceedings. Gus Van Harten has observed that, even though investment treaty
+arbitration decisions are not overwhelmingly characterized by comity and restraint,
+these principles are generally identifiable in investment treaty arbitration decisions
+relating to foreign courts.'”*
+
+It would be incongruous, it is submitted, to have significant regard for comity in
+‘procedural integrity’ cases but not where one is secking to restrain foreign
+
+(8 Gus Van Harten, Sovereign Choices and Sovereign Constraints (OUP 2013) 129.
+
+=
+aA
+tA
+
+aoey
+ny
+
+ay
+tay
+
+7% 4
+SoM
+
+Keres tien
+geen ees
+sae cae er’
+
+EOMUIOT GHAIOS
+
+mya fy
+stb PS
+FALL 2616 Orders Restraining Domestic Court Proceedings 373
+
+proceedings that do not impair the procedural integrity of the investment treaty
+arbitration proceedings, but merely aggravate the dispute. For this reason, a blithe
+application of the Electriciry Company decision or the principle of non-aggravation
+should be resisted. As several investrnent treaty arbitration cases have noted, even
+though the non-aggravation principle exists, it should not be pressed beyond its
+proper compass. In Plama, this principle was taken to require more than increased
+aggravation in the abstract, but an actual threat to the ability of the Tribunal to
+grant the requested relief. In Occidental, the Tribunal confirmed that one should
+not use provisional mcasures to mitigate damages.
+
+These insights are valuable. One can only imagine the outcry were the Tribunal
+in Loewen v United States to have sought to restrain the Miéssissipoi fury
+proceedings or their subsequent enforcernent.'’? Indeed, the very use of
+provisional measures to restrain an alleged denial of justice, even by intervening
+only in the enforcement phase, is problematic. Consistent with IC] jurisprudence,
+the Plama Tribunal held that provisional measures oust fall within the scope of
+the final rehef sought. In the Chevron case, the notice of arbitration sought
+indemnification and damages,'*° not the termination or reversal of the Lago Agrio
+litigation. It remains unclear when it would be consistent with Article 35 of the
+ILC Articles on State Responsibility for a tribunal to order reparation, instead of
+compensation, in response to a denial of justice, even if proven.'*!
+
+An appropriate level of comity and restraint might be mamifested through setting
+an appropriately high level of urgency and irreparable harm before granting an
+ASE Although these words were used by the Chevron Tribunal, the thresholds
+were not clearly substantiated. Thev should be. Even where the rationale for an
+ASE is concern that a civil proceeding lacks due process, and could result in a very
+large damages award, the situation is inherently unhkely to be as extrerne LeGrand
+and Avena, where the imminent threat to human hfe made it plain that monetary
+compensation would be inadequate.
+
+An appropriate fevel of comity and restraint could also be manifested by
+demanding strong reasons before deciding to intervene at all. In the Chevron case,
+the Tribunal declared that it was, in realty, the only tribunal in the world that
+could act.'"* This may have been so. Were it truly needing to intervene simply to
+protect the exchisivity or integrity of its own ICSID proceedings, this point would
+have had much force. However, as the Plama Tribunal observed, one cannot
+convert every collateral proceeding into a threat to the integrity of the ongoing
+ICSID proceedings. Here, the problem was not potential interference with the
+ICSID proceedings but, rather, the apparently egregious nature of the ongoing
+denial of justice that was the subject of those proceedings.
+
+Where there is no tangible risk of interference, the admonition of Lord Justice
+Rix in Star Reejfers to avoid the appearance of ‘egotistic paternalism’ should be
+heeded.'® Even if the Chevron Tribunal, alone, had jurisdiction to make an
+extreme order, that does not necessarily make it appropriate for the Tribunal to do
+so. The appeal in Star Reefers was allowed on the basis that the judge had taken no
+
+To Loewen Group, Inc and Raymond L Loewen v United States of America, 1CSED Case No ARB(AFY/98/3, Award (26
+Jane 2003).
+Oo oorsr + . ys You: . . .
+189 Chevron Corporation, Claimants’ Notice of Arbitration (a 18} 18.
+181 Compare Chcidenial v Ecuador (n 85) para 84.
+82 Chevron Corporation, Fourth Interim Award on Interim Measures (n 34) paras 81-2.
+183 Svar Reefers (n 154) para 39.
+
+=
+aA
+tA
+
+aoey
+ny
+
+ay
+tay
+
+7% 4
+SoM
+
+Keres tien
+geen ees
+sae cae er’
+
+EOMUIOT GHAIOS
+
+mya fy
+stb PS
+B74 IGSID Rewew VOL. 34
+
+account of comity considerations. Those same comity considerations apply to an
+investment treaty tribunal that is not, equally, a part of the Ecuadorian court
+system, The role of comity may be even more important in an ICSYD arbitration.
+Making worldwide orders pre-empting the decisions of other courts or tribunals is
+a far cry from the humility of the verb ‘recommend’. The drafters of the FCSID
+Convention were aware of comity issues and sought to guard against them. This
+reticence should not be overlooked entirely by modern tribunals, even if, following
+LaGrand, they have now assumed the power to issue provisional orders rather than
+recommendations. "4
+
+For good reason, anti-enforcernent ASIs, while not unknown, are extremely
+rare. As explained by the English House of Lords in Airbus, the Court of Appeal in
+Ecobank and the Second Circuit Court of Appeal in Chevron, extreme care must
+be taken in appearing to set oneself up as a world policeman, identifying pariah
+courts and dictating to friendly courts the foreign judgrments they may enforce.
+Before ordering an anti-enforcement ASI, an investment treaty tribunal should
+consider and explain precisely why it is not sufficient to leave it up to each
+domestic court to apply its own laws. In the Chevron saga, the Canadian courts
+have demonstrated that they are pertectly capable of making their own decisions.
+
+Finally, the investment treaty arbitration process has, and should be seen as
+having, an important pubhe dimension. If one sits in yudgment on State conduct,
+ome must expect to engage with, and seek to persuade, stakeholders who are not
+party to the litigation. This is even more so if one is seeking to arrest the processes
+of domestic institutions such as state courts. It is far from ideal for the Hague
+District Court to be making allowances and drawing inferences for reasoning that
+is mot present in any of the Tribunal’s successive orders. There is also a distinct
+whit of hindsight in its explanation, given that another explanation is that the
+Chevron Tribunal may have felt obliged to reinforce its original 2010 Order rather
+than be perceived to back down in the face of seeming intransigence.
+
+More likely, however, given their erminence and experience, is that the Chevron
+Tribunal suspected or knew much more than it was prepared to cormunit to its
+written decisions. In a purely commercial arbitration, concise reasoning that avoids
+any suggestion of pre-judging the merits may be prudent. But investrnent treaty
+tribunals, with their public dimension and insulation from appeal, must earn
+authority through their words. It is precisely those unfortunate cases when the
+Tribunal’s judgement puts it on a collision course with significant domestic
+institutions that justification is most needed. Perhaps the fairest critique that can
+made of the Chevron Tribunal is that it chose not to more completely explain why
+ASIs were recqpured.
+
+VIL. CONCLUSION
+With this, we return to where we started-—-the difference between jurisdiction and
+
+authority. One cannot demand authority. Ic must be accorded by others.’® This is
+
+84 a * . . 4 < . ro aw _ . tye Ble .
+48% Niote that the majority view that ‘recommend’ means ‘order’, while now established, is net without its dissenters.
+
+See eg Millicom Quternational Operanons (n 100) para 49; RSAT Production Corporation v Saint Lucia, (WOSUD Case No
+ARB/1 2/40, Dissenting Opinion of Edward Nottngharn (2 August 2014): “No catrer how many times in is repeated,
+an order is not 4 reconmmendation”
+
+185 Yoseph Raz, The Morality of Freedom (Clarendon 1986) 35.
+
+=
+aA
+tA
+
+aoey
+ny
+
+ay
+tay
+
+7% 4
+SoM
+
+Keres tien
+geen ees
+sae cae er’
+
+EOMUIOT GHAIOS
+
+mya fy
+stb PS
+FALL 2016 Orders Restraining Domestic Court Proceedings 5375
+
+why comity is important. Investment treaty arbitration cannot expect its decisions
+to be automatically authoritative, no matter how often it self-actualizes as an
+international rule of law.'°* It must earn respect and legitimacy. Investment treaty
+arbitration is, like national courts and other international tribunals, merely one
+legal system among many. Given the scrutiny to which the systern is presently
+subject,’ its most high-profile tribunals cannot afford to appear arrogant or
+insensitive to the concerns of domestic legal orders. That is so ever where a
+serious breach of international law appears to be taking place.
+
+That is not at all to say tribunals must forgo ASIs. But it is to say that, whether
+directly or indirectly, comity must be acknowledged and accounted for. All
+provisional measures are weighty powers that must be used carefully. Bur ASIs,
+where one legal order arrogates to itself the right to interfere with another, require
+particular care. Investment treaty tribunals should be wary of applying a generic
+provisional or interim measures test without first explaining and justifying a
+tailored AST analvsis, which sets an appropriately high bar for intervention.
+
+860@ : - - - - = mG a : :
+#89 See eg Jan Paulsson, Denial of Pustice in Invernational Law (CUP 2005) 265: ‘ffin the field of international
+
+investments, arbitral tribunals are instruments of the rule of law. Their purpose is not to favour the rich, but to enable
+states to make reliable promises,
+
+87 See eg the essays collected in Michael Waibel and others, The Backlash against Invesemenit Arbitration: Perceptions
+and Reatiy (Wolters Khawer 2010); Jean Kalicki and Anna foubin-Bret, Reshaping the Invesvor-State Dispute Settlement
+System (Brill Nijhoff 2015).
+

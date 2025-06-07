@@ -1,0 +1,2852 @@
+Constitutive Instruments and Procedural Rules
+
+I Introduction
+
+This chapter serves as an introduction to provisional measures within the
+postwar system of international dispute resolution. More particularly, it
+seeks to introduce the constitutive instruments and procedural rules — as
+well as their drafting history, context and content — that enable the award
+of interim relief by international courts and tribunals. It also serves to
+introduce those international courts and tribunals the practice of which
+will be analyzed in Part IH, namely: (a) the ICJ; (b) dispute settlement
+bodies operating under UNCLOS Part XV, i.e. ITLOS and arbitration
+tribunals governed by UNCLOS Annex VII; (c) investor-state arbitration
+tribunals applying the ICSID Convention and associated instruments;
+and (d) various inter-state and investor-state arbitration tribunals that
+apply either the 1976 or 2010 UNCITRAL Arbitration Rules or some
+variant thereof.
+
+II The International Court of Justice
+A Succeeding the Permanent Court of International Justice
+
+The ICJ is the only permanent international tribunal of plenary subject-
+matter jurisdiction. Its history is very much as a continuation of its pre-
+decessor, the PCIJ. Closed for business! following its 1939 determination
+in Electricity Company’ and with its third general election of judges sus-
+pended indefinitely,’ the PCIJ was obsolete before it was formally wound
+up in 1946. However, the migration of President Guerrero and the Reg-
+istry to Geneva, and the continued presence of Judge van Eysinga in The
+
+' Although cf. the continued optimistic pronouncements of the Supervisory Committee of
+the League of Nations that ‘[t]he Permanent Court of International Justice continues to
+exist as the chief judicial tribunal of the world’: PCT Report 16 (1939-1945) PCI] Ser E No
+16, 11.
+
+? Further: Chapter 2, SIV.C.6. *- PCI Report 16 (1939-1945) PCIJ Ser E No 16, 21-4.
+
+82
+
+https://doi.org/10.1017/9781316410813.005 Published online by Cambridge University Press
+THE INTERNATIONAL COURT OF JUSTICE 83
+
+Hague, ensured that the archives and institutional architecture of the
+Court remained intact.* Accordingly, the stage was set in 1945 for a new
+institution to take up its mandate.°
+
+Suggestions for the establishment of a new world court first arose in
+November 1942, with the publication of a preliminary recommendation
+of the Inter-American Juridical Committee by the Governing Board of
+the Pan-American Union. This included the suggestion that:
+
+The jurisdiction of the Permanent Court of International Justice be
+extended, and procedure before the Court should be coordinated with
+that of regional judicial tribunals, if any should be created; the jurisdic-
+tion of these regional tribunals being determined by the place and subject
+matter of the controversy.®
+
+This was followed by a suggestion by the UK in 1943 that an informal
+expert committee be established to consider the future of the PCIJ.’ The
+resulting Inter-Allied Committee held 19 meetings throughout 1943 and
+1944, and produced a final report concluding that the PCIJ Statute had,
+on the whole ‘worked well’ and that it was ‘desirable to make full use
+of an existing structure which has proved well adapted for its purpose’.
+Accordingly, it was recommended that any successor institution adopt a
+similar general structure.®
+
+The first serious preliminaries for the establishment of a successor
+to the PCI arose in the so-called ‘Dumbarton Oaks’ Proposals for the
+Establishment of a General International Organization. These arose from
+informal discussions between several of the Allied powers’ and were
+
+a
+
+Rosalyn Higgins and Robert Jennings, “General Introduction’ in IC] Commentary, 4; Ole
+Spiermann, ‘Historical Introduction’, in IC] Commentary, 69.
+
+On the process of succession, see Manley O Hudson, ‘The Succession of the International
+Court of Justice to the Permanent Court of International Justice’ (1957) 51 AJIL 596;
+Shabtai Rosenne, 1 The Law and Practice of the International Court of Justice, 1920-2005
+(Leiden: Martinus Nijhoff, 4th edn, 2006) 42-65; Robert Kolb, The International Court of
+Justice (Oxford: Hart, 2013) 51-9.
+
+(1944) 38 AJIL Supp 11, 28-9.
+
+On the work of the Inter- Allied or ‘London’ Committee, see Geoffrey Marston, “The London
+Committee and the Statute of the International Court’, in V Lowe and M Fitzmaurice
+(eds), Fifty Years of the International Court of Justice: Essays in Honour of Sir Robert Jennings
+(Cambridge: Cambridge University Press, 1996); Rosenne 1 Law and Practice, 46-52;
+Higgins and Jennings, ‘General Introduction’, 4-6; Kolb, International Court, 53-4.
+
+(1945) 39 AJIL Supp 1, 2-3.
+
+Discussions between the US, UK and USSR took place from 21 August 1944 to 28 Septem-
+ber 1944. Discussions between the US, UK and China followed immediately until 7 October
+1944: Rosenne, 1 Law and Practice, 52. On the Proposals themselves and their development,
+see ibid, 52-5; Edwin Borchard, ‘The Dumbarton Oaks Conference’ (1945) 39 AJIL 97;
+
+SOD
+
+Oo 7
+
+AOVETSTEdT GST S.005 Published online by Cambridge University Press
+84 CONSTITUTIVE INSTRUMENTS AND PROCEDURAL RULES
+
+published on 9 October 1944. The Proposals identified the need for an
+international court ‘which should constitute the principal judicial organ
+of the Organization, and further suggested in Chapter VU, paragraph 3
+that:
+
+The statute of the court of international justice should be either (a) the
+Statute of the Permanent Court of International Justice, continued in force
+with such modifications as may be desirable, or (b) a new statute in the
+preparation of which the Statute of the Permanent Court of International
+Justice should be used as a basis.'°
+
+The balance of the Dumbarton Oaks Proposals concerning the proposed
+‘international court of justice’™ signaled a major constitutional change
+in the way in which the institution would be viewed against the backdrop
+of its parent organization.’” The court was to be considered one of the
+principal organs of the Organization per Chapter IV, paragraph 1 of the
+Proposals,'° and all members of the Organization were to be ipso facto
+parties to the court’s constituent instrument, per Chapter VII, paragraph
+1.'4 This was a marked contrast to the model adopted by the PC] vis-a-vis
+the League of Nations.'°
+
+Following on from Dumbarton Oaks, the US, on behalf of the Spon-
+soring Powers, convened a Committee of Jurists in Washington, DC, on
+9 April 1945 in order to prepare a new draft statute. The work of the
+Washington Committee may be seen as an extension of that of the Inter-
+Allied Committee — it was not empowered to take definitive action, but
+only to prepare a basis for formal negotiation at the UN Conference on
+International Organization in San Francisco.'® As such, it did not take a
+view on the central question of whether the PCIJ should be folded into
+the UN system, or whether an entirely new successor institution should
+
+Manley O Hudson, ‘An Approach to the Dumbarton Oaks Proposals’ (1945) 39 AJIL 95;
+Hans Kelsen, “The Old and the New League: The Covenant and the Dumbarton Oaks
+Proposals’ (1945) 39 AJIL 45; Bardo Fassbender, ‘Dumbarton Oaks Conference (1944)’,
+MPEPILE (2007).
+10 (1945) 39 AJIL Supp 42, 50-1. Cf. Kelsen, ‘Dumbarton Oaks’ 70, referring to alternative
+(a) as ‘hardly practicable’.
+The use of lowercase letters for the Court in the Proposals was deliberate, so as not to
+prejudge the question of whether said institution was to be a continuation of the PCIJ, or
+an entirely new tribunal: Ruth B Russell and Jeannette E Muther, A History of the United
+Nations Charter: The Role of the United States, 1940-1945 (Washington, DC: Brookings
+Institution, 1958) 430.
+2 Kelsen, ‘Dumbarton Oaks’, 58-71; Rosenne, 1 Law and Practice, 52-5.
+15 (1949) 39 AJIL Supp 42,47. 4 Ibid, 51. ~~? Kelsen, ‘Dumbarton Oaks’, 69-71.
+Rosenne, 1 Law and Practice, 56.
+
+AOVETSTEdT GST S.005 Published online by Cambridge University Press
+THE INTERNATIONAL COURT OF JUSTICE 85
+
+be established — rather, the Committee simply acknowledged that on any
+view Chapter VII, paragraph 3 of the Dumbarton Oaks Proposals estab-
+lished that the PCIJ Statute was to be used as a basis for any future action,
+and set about revising it,'’ producing a draft on 20 April 1945.'® As was
+later noted at San Francisco, the draft adopted many provisions of the
+preexisting Statute without modification, particularly those relating to
+procedural questions.!”
+
+At San Francisco, a decision was finally taken as to the form of the
+proposed court. Committee 1 of Commission IV was charged with the
+consideration of both Chapter VII of the Dumbarton Oaks Proposals
+and the Draft Statute prepared by the Washington Commission.”° Sub-
+Committee IV/1/A, in turn, examined the question of continuity of the
+PCIJ and its attendant problems. In its final report of 21 May 1945,
+the Sub-Committee recommended the creation of a new court and the
+conclusion of a new statute, principally on the basis that this would be
+the easiest way for the court to be integrated into the new Organization
+without breaching accepted rules of international law vis-d-vis existing
+members of the PCIJ Statute that might not wish to be parties to the UN
+system.”! The Sub-Committee proposed the following additions to the
+nascent Charter:
+
+(1) A tribunal to be called the International Court of Justice is hereby
+established as the principal judicial organ of the United Nations.
+
+(2) The Court shall be constituted and shall function in accordance with
+the annexed Statute which forms an integral part of the Charter of the
+United Nations.
+
+(3) Nothing in this Charter shall prevent the parties from entrusting the
+solution of their differences to other Tribunals by virtue of agreements
+already in existence or which may be concluded in the future.”
+
+These suggestions were adopted by Committee [V/1, which presented
+an expanded version thereof to Commission IV in its final report of
+
+‘7 14 UNCIO 52.
+
+Ibid, 714. Art 1 of the Draft Statute, concerning the precise status and constitutional
+position of the proposed court, was left blank pending a decision at San Francisco.
+
+‘9 13 UNCIO 396.
+
+Ibid, 135-7. The composition of Committee IV/1 was substantially similar to that of the
+Washington Commission, with many of the 44 nations participating in the earlier summit
+sending the same representatives to San Francisco: ibid, 386-7.
+
+Ibid, 524-5. Further: ICJ Ybk 1946-7, 20; Manley O Hudson, “The Twenty-Fourth Year of
+the World Court’ (1946) 40 AJIL 1, 6-11.
+
+2 13 UNCIO 527.
+
+2
+
+pn
+
+PSTS4T 9S 72.005 Published online by Cambridge University Press
+86 CONSTITUTIVE INSTRUMENTS AND PROCEDURAL RULES
+
+12 June 1945.”° This survives, substantially unchanged, in Articles 92-5
+of the Charter. The Committee also submitted for adoption a further draft
+statute, which followed the approach of the Washington Committee in
+carrying over without any more than cosmetic amendment the procedural
+provisions of the PCYJ Statute. Following further discussion, the draft was
+unanimously approved by Commission IV,”* and incorporated into the
+Charter itself.?°
+
+Following San Francisco all that was left was for the ICJ to displace its
+predecessor.*° The PCIJ, having not met since 1940, held its final session
+in The Hague at the end of October 1945, adopting two resolutions on the
+measures to be taken to preserve the continuity of international justice.”
+The judges of the PCIJ then tendered their resignations to the Secretary-
+General of the League through President Guerrero on 31 January 1946,
+prior to the first elections for the ICJ on 6 February 1946. On 18 April
+1946, the Assembly of the League, adopting a report of its First Committee,
+dissolved the PCIJ.”8 Its successor held its inaugural session on the same
+day, with Guerrero sitting as its first President.
+
+B_ Article 41 of the IC] Statute
+
+Article 41 of the PCIJ Statute fell into that group of provisions that the
+Washington Committee considered to be purely procedural, and thus not
+requiring drastic amendment. The only proposed alterations were (a) the
+correction of the printer’s error ‘preserve’ in place of ‘reserve’, (b) the
+insertion of the word ‘Security’ in front of ‘Council’ and (c) the renum-
+bering of the resultant paragraphs.’? This amendment was approved —
+by way of an en bloc vote concerning Articles 40-43 of the Washington
+Committee’s draft — without objection.*° Article 41 proved similarly
+uncontroversial at San Francisco, with Committee [V/1 approving Arti-
+cles 39-64 of the Washington Committee’s draft without discussion.°!
+Notwithstanding certain deficiencies in its language** and the fact that
+
+°° Tbid, 394-5. 4 Ibid, 59. ”: 17 UNCIO 90.
+
+6 Purther: ICJ Ybk 1946-7, 25-38; Hudson, ‘Twenty-Fourth Year’, 49-50; Manley O Hudson,
+
+‘The Twenty-Fifth Year of the World Court’ (1947) 41 AJIL 1, 1-6.
+
+Extracted: ICJ Ybk 1946-7, 26 (fn 1). A further resolution commended the Registry staff
+
+to the UN Preparatory Commission: ibid, 26 (fn 2).
+
+8 LN Doc A.35.1946 (17 April 1946).
+
+29 14 UNCIO 813. Further: Hudson, ‘Twenty-Fourth Year’, 37.
+
+°° 14 UNCIO172. —-*!_:13 UNCIO 170.
+
+>? Notably over the failure of the provision to clearly indicate whether provisional measures
+could be considered binding under Art 41. See e.g. comments by Lauterpacht as part of a
+
+2
+
+~s
+
+PSTS4T 9S 72.005 Published online by Cambridge University Press
+eae paw quate
+via ae fF ie ;
+TOS VO OLOr ras #
+
+THE INTERNATIONAL COURT OF JUSTICE 87
+
+the English and French versions of the text are not in total harmony”?
+the provision remains unchanged:
+
+(1) The Court shall have the power to indicate, if it considers that circum-
+stances so require, any provisional measures which ought to be taken
+to preserve the respective rights of either party.
+
+(2) Pending the final decision, notice of the measures suggested shall
+forthwith be given to the parties and to the Security Council.
+
+As such, there is little to be said about Article 41 of the ICJ Statute that
+has not already been said in relation to the drafting of its predecessor.**
+What may be noted, however, is that the ICJ also considered itself to
+have inherited the PCI)’s jurisprudence, reflected in the use of the latter’s
+jurisprudence by parties appearing before the former, and indeed by the
+Court itself*° — as noted by the dissenting Judge Read in the Peace Treaties
+advisory opinion, Article 92 of the Charter permits no doubt that:
+
+[T]he United Nations intended continuity in jurisprudence, as well as in
+less important matters. While this does not make the decisions of the
+Permanent Court binding, in the sense in which decisions may be binding
+in common-law countries, it does make it necessary to treat them with the
+utmost respect, and to follow them unless there are compelling reasons
+for rejecting their authority.*©
+
+In the specific context of provisional measures, this point was made clear
+early on in the Anglo-Iranian Oil case, the ICJ’s first consideration of
+the question of provisional measures. In a dissenting opinion, Judges
+Winiarski and Badawi Pasha dismissed the decisions of the inter-war
+mixed arbitral tribunals, saying ‘there is [ ... ] nothing to be learned from
+
+wider plea for the revision of the ICJ Statute in 1955: Hersch Lauterpacht, “The Revision
+of the Statute of the International Court of Justice’ (2002) 1 LPICT 55, 94-6. The matter
+was eventually settled in LaGrand (Germany v US), ICJ Reports 2001 p 466. Further:
+Chapter 7, SII.
+
+3 LaGrand, ICJ Reports 2001 p 466, 502. See also Arbitral Award of 31 July 1989 (Guinea-
+Bissau v Senegal), Provisional Measures, ICJ Reports 1990 p 64, 78 (Judge ad hoc Thierry).
+Further: Shabtai Rosenne, Provisional Measures in International Law: The International
+Court of Justice and the International Tribunal for the Law of the Sea (Oxford: Oxford
+University Press, 2005) 32-3.
+
+4 Purther: Chapter 2, SIV.A.
+
+°° Hersch Lauterpacht, The Development of International Law by the International Court
+
+(London: Stevens and Sons, 1958) 11-13; Rosenne, 1 Law and Practice, 73-6.
+
+Interpretation of Peace Treaties with Bulgaria, Hungary and Romania (Second Phase), ICJ
+
+Reports 1950 p 221, 232-3. The majority signaled its attachment in a more subtle way, by
+
+distinguishing the case from the PCIJ’s decision in Status of Eastern Carelia (1923) PCIJ
+
+Ser B No 5.
+
+36
+
+AOVETSTEdT GST S.005 Published online by Cambridge University Press
+88 CONSTITUTIVE INSTRUMENTS AND PROCEDURAL RULES
+
+their precedents, but when presented with arguments based on the
+Sino-Belgian Treaty case and Electricity Company felt the need to
+distinguish these cases on the facts, indicating a measure of allegiance.*”
+Similarly, Judge Lauterpacht in Interhandel referred to the Polish Agrarian
+Reform case with approval,°> and mention was made of numerous
+other Permanent Court decisions by individual judges in Aegean Sea.°?
+Insofar as majority opinions are concerned, hints of continuity with
+the jurisprudence of the Permanent Court appeared in the unanimous
+decision on provisional measures in Tehran Hostages, in which the
+Chorzéw Factory (Indemnities) case was distinguished.*° The relevant
+connection was only made clear in a positive sense, however, by the
+Chamber in Burkina Faso/Mali,*' which referred with approval to the
+South-Eastern Greenland case.
+
+C Provisional Measures and the IC] Rules
+
+1 The 1946 and 1972 Rules
+
+As discussed in Chapter 2, Article 41 of the ICJ Statute, like its predecessor,
+is skeletal — a ‘sparse, axiomatic statement’” that has resulted in a law of
+provisional measures that is largely judge-made. Certain elements of this
+law — those relating to its procedural operation — have been codified by
+the Court in its Rules. Whilst Article 57 of the PCIJ’s 1922 Rules was very
+sparse indeed, Article 57 of the 1931 Rules and Article 61 of its 1936 Rules
+reveal the growing complexity of the Court’s jurisprudence on interim
+relief, as well as the extent of its self-defined power to intervene.”
+Article 61 of the 1936 Rules provided the basis on which the ICJ was to
+proceed with respect to provisional measures in 1946. At its first session,
+the Court proceeded to draft its new rules of procedure,“ and referred to
+the 1936 Rules for that purpose.” Article 61 was replicated in its entirety,
+but for paragraph (9), which permitted the attendance of judges ad hoc
+in provisional measures hearings ‘if their presence can be assured by the
+
+>” Anglo-Iranian Oil (UK v Iran), Interim Measures, ICJ Reports 1951 p 89, 97-8.
+
+8 Interhandel (Switzerland v US), Interim Measures, ICJ Reports 1957 p 105, 118.
+
+°° Aegean Sea Continental Shelf (Greece v Turkey), Interim Protection, ICJ Reports 1976 p 3,
+16 (Judge Jiménez de Aréchaga), 28—9 (Judge Elias).
+
+United States Diplomatic and Consular Staff in Tehran (US v Iran), Provisional Measures,
+ICJ Reports 1979 p 6, 16.
+
+Frontier Dispute (Burkina Faso/Mali), Provisional Measures, ICJ Reports 1986 p 3, 9.
+
+® Rosenne, Provisional Measures, 62. | Further: Chapter 2, $IV.B.3.
+
+44 ICJ Acts and Documents, No 1 (2nd edn, 1947) 54.
+
+45 ICJ Ybk 1946-7, 102; Hudson, “Twenty-Fifth Year, 15-16.
+
+Loe]
+
+40
+
+4
+
+Han
+
+wi
+
+PSTS4T 9S 72.005 Published online by Cambridge University Press
+THE INTERNATIONAL COURT OF JUSTICE 89
+
+date fixed by the President for hearing of the parties. Such a provision
+was unnecessary in an age of modern air travel,*° and judges ad hoc have
+since then held an unrestricted right to sit on applications for interim
+relief.
+
+The adoption of the 1936 Rules in 1946 was intended to give the Court
+the procedural space to conduct a more thorough revision. However,
+although the matter remained subject to continuous review, the Rules
+were not revisited at length until 1972.4” Even then, the revision was
+piecemeal — the Court had initiated a full review of the Rules in 1967, but
+ultimately abandoned this in favour of the more modest reworking that
+appeared in 1972.*° Aside from being renumbered as Article 66, Article
+61 of the 1946 Rules remained untouched by the amendments.
+
+2 The 1978 Rules
+
+Following its regular elections in February 1973 the Court returned to the
+question of the Rules, eventually approving the long-awaited complete
+revision in 1978,*? which remains current.°? The process of revision,
+moreover, took particular account of the law of provisional measures.
+Article 66 of the 1972 Rules became Articles 73-8, six provisions housed
+within Part III (Proceedings in Contentious Cases), Section D (Incidental
+Proceedings), Subsection 1 (Interim Protection) of the 1978 Rules. Again,
+the Court through this revision sought to codify within these articles its
+practice regarding provisional measures.°! Although only one request for
+interim relief — Electricity Company — had been heard under the 1936
+Rules, the Court had occasion to apply its model on multiple occasions
+
+46
+47
+
+Rosenne, Provisional Measures, 63.
+
+IC] Acts and Documents, No 3 (1977) 93. On the process of revision, see Eduardo Jiménez
+
+de Aréchaga, “The Amendments to the Rules of Procedure of the International Court
+
+of Justice’ (1973) 67 AJIL 1; Shabtai Rosenne, “The 1972 Revision of the Rules of the
+
+International Court of Justice’ (1973) 8 Israel LR 197.
+
+‘8 Tbid, 197-201.
+
+9 IC] Acts and Documents, No 5 (1989) 93. On the process of revision, see IC] Ybk 1977-8,
+111-19; Manfred Lachs, ‘The Revised Procedure of the International Court of Justice, in
+F Kalshoven et al. (eds), Essays on the Development of the International Legal Order in
+Memory of Haro F van Panhuys (Alphen ann den Rijn: Sijthoff and Noordhoff, 1980) 21;
+Shabtai Rosenne, ‘Procedure in the International Court: A Commentary on the 1978 Rules
+of the International Court of Justice (The Hague: Martinus Nijhoff, 1983) 1-8.
+
+°° The Rules were re-released, with minor updating in 2005: ICJ Ybk 2004-5, 3-4. The
+
+most recent version of the Rules can be found on the Court’s website: www.icj-cij.org/
+
+documents/index.
+
+>! Rosenne, Provisional Measures, 68.
+
+pa
+
+AOVETSTEdT GST S.005 Published online by Cambridge University Press
+eae paw quate
+via ae fF ie ;
+TOS VO OLOr ras #
+
+90 CONSTITUTIVE INSTRUMENTS AND PROCEDURAL RULES
+
+between 1946 and 1978, leading to a wealth of new experience that largely
+reinforced the old.°* The provisions are as follows:
+
+Article 73
+
+(1) A written request for the indication of provisional measures may be
+made by a party at any time during the course of the proceedings in
+the case in connection with which the request is made.
+
+(2) Arequest shall specify the reasons therefore, the possible consequences
+if it is not granted, and the measures requested. A certified copy shall
+forthwith be transmitted by the Registrar to the other party.
+
+Article 74
+
+(1) A request for the indication of provisional measures shall have priority
+over all other cases.
+
+(2) The Court, if it is not sitting when the request is made, shall be
+convened forthwith for the purpose of proceeding to a decision on
+the request as a matter of urgency.
+
+(3) The Court, or the President if the Court is not sitting, shall fix a
+date for a hearing which will afford the parties an opportunity of
+being represented at it. The Court shall receive and take into account
+any observations that may be presented to it before the close of oral
+proceedings.
+
+(4) Pending a meeting of the Court, the President may call upon the
+parties to act in such a way as will enable any order the Court may
+make on the request for provisional measures to have its appropriate
+effect.
+
+Article 75
+
+(1) The Court may at any time decide to examine proprio motu whether
+the circumstances of the case require the indication of provisional
+measures which ought to be taken or complied with by any or all of
+the parties.
+
+(2) When a request for provisional measures has been made, the Court
+may indicate measures that are in whole or in part other than those
+requested or that ought to be taken or complied with by the party
+which has itself made the request.
+
+>? Relevant cases included Anglo Iranian Oil, ICJ Reports 1951 p 87; Interhandel, ICJ Reports
+1957 p 105; Fisheries Jurisdiction (UK v Iceland), Interim Protection, ICJ Reports 1972
+p 12; Fisheries Jurisdiction (Germany v Iceland), Interim Protection, ICJ Reports 1972 p 31;
+Nuclear Tests (Australia v France), Interim Protection, ICJ Reports 1973 p 99; Nuclear Tests
+(New Zealand v France), Interim Protection, ICJ Reports 1973 p 135; Trial of Pakistani
+Prisoners of War (Pakistan v India), Interim Protection, ICJ Reports 1973 p 328; and Aegean
+Sea, IC] Reports 1976 p 3.
+
+AOVETSTEdT GST S.005 Published online by Cambridge University Press
+eae rt eN wnat
+via ae fF ie ;
+LIDS VOL ora randa s
+
+THE INTERNATIONAL COURT OF JUSTICE 91
+
+(3) The rejection of a request for the indication of provisional measures
+shall not prevent the party which made it from making a fresh request
+in the same case based on new facts.
+
+Article 76
+
+(1) At the request of a party the Court may, at any time before the final
+judgment in the case, revoke or modify any decision concerning provi-
+sional measures if, in its opinion, some change in the situation justifies
+such revocation or modification.
+
+(2) Anapplication bya party proposing such a revocation or modification
+shall specify the change in circumstances considered to be relevant.
+
+(3) Before taking any decision under paragraph 1 of this Article the Court
+shall afford the parties an opportunity of presenting their observations
+on the subject.
+
+Article 77 Any measures indicated by the Court under Articles 73 and
+75 of these Rules, and any decision taken by the Court under Article
+
+76, paragraph 1, of these Rules, shall forthwith be communicated to the
+Secretary-General of the United Nations for transmission to the Security
+Council in pursuance of Article 41, paragraph 2, of the Statute.
+
+Article 78 The Court may request information from the parties on any
+matter connected with the implementation of any provisional measures it
+
+has indicated.
+
+Articles 73-78 of the 1978 Rules do not do much more than articu-
+late the capacity of the Court to award provisional measures. Article 73
+describes the form that the application should take, as well as the time at
+which an application may be made, expanding on Article 66(1) of the 1972
+Rules and its predecessors. Article 74 replicates paragraphs (2) and (3) of
+the same, with Article 74(3) preserving the long-standing preference of
+the Court that both parties be given the opportunity to express a view
+on an application for interim relief — although this may be abandoned in
+extreme circumstances, e.g. LaGrand, where provisional measures were
+awarded ex parte on the basis of Germany’s submissions alone.”
+
+Article 74(4) recasts slightly Article 66(3) of the 1972 Rules, concerning
+the capacity of the President ‘to take such measures as may appear to
+him to be necessary in order to enable the Court to give an effective
+decision’ pending the Court’s composition.” This expansion is based on
+
+3 LaGrand, Provisional Measures, ICJ Reports 1999 p 9, 13.
+°4 Shabtai Rosenne, ‘The President of the International Court of Justice’ in V Lowe and M
+Fitzmaurice (eds), Fifty Years of the International Court of Justice (Cambridge: Cambridge
+
+AOVETSTEdT GST S.005 Published online by Cambridge University Press
+eae rt eN wnat
+via ae fF ie ;
+LIDS VOL ora randa s
+
+92 CONSTITUTIVE INSTRUMENTS AND PROCEDURAL RULES
+
+the actions of President Adatci in the Prince von Pless case’’ and President
+Basdevant in Anglo-Iranian Oil.°° However, despite the change in wording,
+subsequent invocations of the power by the President do not exhibit a
+different timbre — in essence, all that the President is empowered to do
+is correspond with the parties and recommend that measures resembling
+an official declaration of interim relief be taken pending further judicial
+action. In Tehran Hostages, for example, President Waldock sent through
+the Registry a (conspicuously ineffective) telegram to the parties invoking
+Article 74(4), noting that the matter was sub iudice and requesting that
+any decision by the Court on interim relief ‘have its appropriate effects’.””
+More recently, appeals to act so as to not prejudice the ability of the
+Court to award effective interim relief were made by Acting President
+Weeramantry in the Breard’® and LaGrand”? cases, though he did not
+(perhaps curiously) do so in Avena.
+
+Articles 75(1) and (2) of the 1978 Rules reserve respectively the power
+of the Court to award provisional measures other than those indicated in
+the request and to, moreover, do so proprio motu—an authority present in
+Articles 66(4) and (6) of the 1972 Rules and its predecessors and which is
+exercised not infrequently. Article 75(3), in turn, replicates Article 66(5)
+of the earlier Rules, enabling the bringing of a new request for provisional
+measures based on fresh facts in the event of a rejection of the initial
+request. Parties before the Court have historically not been minded to
+make new requests in the face of a rejection. They have, however, availed
+themselves of Article 76 (based on Article 66(7) of the 1972 Rules), which
+permits the revocation or modification of any extant order on provisional
+measures based on a change in the underlying situation. The provision
+is based on the jurisprudence of the Fisheries Jurisdiction cases regarding
+
+University Press, 1996) 406, 416-17; Rosenne 3 Law and Procedure, 1391-2; Rosenne,
+Provisional Measures, 168-70.
+
+5 See Chapter 2, SIV.C.4.
+
+° Tn that case, the President sent a telegram to Iran requesting that steps be taken to prevent
+any measures that might render impossible or difficult the implementation of any final
+judgment, or otherwise aggravate or extend the dispute. This was promptly ignored:
+Anglo-Iranian Oil, IC] Reports 1951 p 87, 91; Anglo-Iranian Oil, ICJ Pleadings 1951,
+707.
+
+°? Tehran Hostages, ICJ Reports 1979 p 6, 10; Tehran Hostages, ICJ Pleadings 1979, 495-6.
+
+°8 Vienna Convention on Consular Relations (Paraguay v US), Provisional Measures, ICJ
+Reports 1998 p 248, 252.
+
+°° LaGrand, ICJ Reports 1999 p 9, 13.
+
+AOVETSTEdT GST S.005 Published online by Cambridge University Press
+eae tN wok at
+via ae fF ie ;
+LIDS VOL ora randa s
+
+DISPUTE SETTLEMENT UNDER UNCLOS 93
+
+the continuation of provisional measures.©? The Court clearly considers
+Articles 75(3) and 76 to be based on allied considerations (i.e. material
+additions to the factual matrix) and thus operating in a similar fashion.°!
+However, despite multiple requests under Article 76, the Court has never
+seen fit to revoke or modify an earlier award of interim relief.
+
+Finally, Article 77 of the 1972 Rules gives form to Article 41(2) of the
+Court’s Statute, and prescribes a procedure under which measures indi-
+cated by the Court are communicated to the Security Council through
+the Secretary-General. Article 78, in turn, comprises an additional power
+to request information from the parties on the implementation of provi-
+sional measures, and any further matter connected thereto, reproducing a
+power first adduced by the Court in the two Fisheries Jurisdiction cases.©°
+
+III Dispute Settlement Under UNCLOS
+
+A UNCLOS Part XV and the System of Compulsory
+Dispute Settlement
+
+1 UNCLOS III and the Codification of the Law of the Sea
+
+UNCLOS has been described as ‘the greatest international legislative effort
+undertaken by the United Nations and probably the greatest ever under-
+taken in the annals of international law as a whole’™ and further ‘the
+most important development in the settlement of international disputes
+since the adoption of the UN Charter and the Statute of the International
+Court of Justice.®° The Convention itself was the product of the Third
+UN Conference on the Law of the Sea (UNCLOS III), the most recent
+
+6° Fisheries Jurisdiction (UK v Iceland), Interim Measures, ICJ Reports 1973 p 302, 304;
+Fisheries Jurisdiction (Germany v Iceland), Interim Measures, ICJ Reports 1973 p 313, 315.
+Application of the Convention on the Prevention and Punishment of the Crime of Genocide
+(Bosnia and Herzegovina v Serbia and Montenegro), Provisional Measures, IC] Reports
+1993 p 325, 337.
+
+Military and Paramilitary Activities in and against Nicaragua (Nicaragua v US), IC] Reports
+1986 p 14, 144; Bosnian Genocide, ICJ Reports 1993 p 325, 342-50; Certain Activities
+Carried Out by Nicaragua in the Border Area (Costa Rica v Nicaragua)/Construction of a
+Road in Costa Rica Along the San Juan River (Nicaragua v Costa Rica), Provisional Measures,
+ICJ Reports 2013 p 230, 239-40.
+
+Fisheries Jurisdiction (UK v Iceland), ICJ Reports 1972 p 12, 18; Fisheries Jurisdiction
+(Germany v Iceland), ICJ Reports 1972 p 31, 35.
+
+XVII UNCLOS IIT Off Rec 27 (Norway).
+
+Alan Boyle, “Dispute Settlement and the Law of the Sea Convention: Problems of Frag-
+mentation and Jurisdiction’ (1997) 46 ICLQ 37, 37.
+
+6
+
+me
+
+62
+
+6.
+
+Ow
+
+6
+65
+
+a
+
+SOPFETST64T 975.005 Published online by Cambridge University Press
+eae rt eN wnat
+via ae fF ie ;
+LIDS VOL ora randa s
+
+94 CONSTITUTIVE INSTRUMENTS AND PROCEDURAL RULES
+
+(and likely definitive) in a series of attempts to codify the law of the sea
+stretching back to the 1930 League of Nations Conference for the Codi-
+fication of International Law.® This process encompassed not only a set
+of ILC articles,©’ but the First and Second UN Conferences on the Law
+of the Sea (UNCLOS I and II), resulting in the four Geneva Conventions
+addressing various aspects of the field.
+
+UNCLOS ITI was convened in part to address an area that had not been
+covered by the earlier international conferences, viz. the exploration and
+exploitation of the seabed in areas beyond national jurisdiction. Consid-
+eration of the issue was prompted by a speech to the First Committee
+of the General Assembly by the Maltese ambassador to the UN, Arvid
+Pardo, in 1967,°’ which resulted in the creation of the Committee on the
+Peaceful Uses of the Seabed.”” The Committee’s work, in turn, led to the
+adoption of the 1970 Declaration of Deep Seabed Principles by the Gen-
+eral Assembly.’! This document was not intended to be the final word on
+the subject, but rather anticipated the establishment of an international
+regime that would implement its contents.” To this end, adoption of the
+Declaration was accompanied by a further resolution, convening UNC-
+LOS III.” The Conference was not, however, limited to consideration of
+the seabed, but was rather instructed to ‘adopt a convention dealing with
+all matters relating to the law of the sea’.’”* What was intended, therefore,
+was not a new Geneva Convention on seabed issues, but a comprehensive
+
+6° Shabtai Rosenne, 1 League of Nations Conference for the Codification of International Law
+
+(1930) (Dobbs Ferry: Oceana, 1975) xiii-lvi; Shabtai Rosenne and Julia Gebhard, “‘Con-
+
+ferences on the Law of the Sea, MPEPIL (2008) $$9-10; James Harrison, Making the Law
+
+of the Sea: A Study in the Development of International Law (Cambridge: Cambridge Uni-
+versity Press, 2011) 29-31. On earlier, non-governmental efforts at codification, see Robin
+
+Churchill and Vaughan Lowe, The Law of the Sea (Manchester: Manchester University
+
+Press, 3rd edn, 1999) 13-14.
+
+Articles on the Law of the Sea, ILC Ybk 1956/II, 285.
+
+68 Convention on the Territorial Sea and Contiguous Zone, 29 April 1958, 516 UNTS 206;
+Convention on the High Seas, 29 April 1958, 450 UNTS 82; Convention on Fishing and
+Conservation of the Living Resources of the High Seas, 29 April 1958, 559 UNTS 286;
+Convention on the Continental Shelf, 29 April 1958, 499 UNTS 312. These were all the
+product of UNCLOS I, and were based on the ILC’s 1956 codification — the earlier efforts
+of the League of Nations and the later efforts of UNCLOS II were largely unsuccessful.
+Further: Churchill and Lowe, Law of the Sea, 14—15; Rosenne and Gebhard, ‘Conferences’,
+§§11-21; Harrison, Making the Law of the Sea, 31-7.
+
+6 UN Doc A/C.1/PV.1515 (1 November 1967).
+
+7° GA Res 2340 (XXII) (18 December 1967).
+
+7! GA Res 2749 (XXV) (17 December 1970). ™ Ibid, $9.
+
+73 GA Res 2750C (XXV) (17 December 1970).
+
+74 GA Res 3067 (XXVIII) (16 November 1973).
+
+6
+
+~s
+
+ny
+
+AOVETSTEdT GST S.005 Published online by Cambridge University Press
+DISPUTE SETTLEMENT UNDER UNCLOS 95
+
+convention negotiated according to three key principles, namely that the
+convention: (1) be an exhaustive code for the law of the sea as a whole,
+covering all legal issues in a single text; (2) attain the widest possible level
+of participation by the international community and reflect a consensus
+on the relevant law; and (3) be a ‘package deal’ which could only be
+ratified fully, without reservations.”°
+
+At the core of this ambitious brief was a system of compulsory dis-
+pute resolution — ‘the cement [that would] hold the whole structure
+together and guarantee its continued acceptability and endurance for all
+parties’’° Such a system had previously been suggested by certain del-
+egates at UNCLOS I, particularly in relation to the delimitation of the
+then-novel continental shelf,’” but had been abandoned in the face of
+concerted opposition.”® Dispute settlement was neglected early on in
+UNCLOS IU, resulting in the creation of an informal working group to
+consider the core issues and to develop potential models.” Four princi-
+ples emerged as central to the proposed system, as summarized by the
+delegation of El Salvador: (1) the settlement of disputes by legal, effective
+means in order to avoid political and economic pressures; (2) the need
+for uniformity in the interpretation of the proposed convention; (3) the
+recognition of the advantages offered by obligatory settlement of disputes,
+
+® Boyle, ‘Dispute Settlement} 38. On the consensus-building strategy employed at UNCLOS
+
+III, see Hugo Caminos and Michael R Molitor, ‘Progressive Development of International
+
+Law and the Package Deal’ (1985) 79 AJIL 871; Tommy B Koh and Shanmugam Jayakumar,
+
+‘Negotiating Process of the Third United Nations Conference on the Law of the Sea} in 1
+
+Virginia Commentary, 29; Jens Evensen, “Working Methods and Procedures in the Third
+
+United Nations Conference on the Law of the Sea’ (1986) 199 Hague Recueil 415; Harrison,
+
+Making the Law of the Sea, 40-6.
+
+Boyle, “Dispute Settlement, 38.
+
+77 See e.g. VI UNCLOS I Off Rec 44 (Germany): ‘In the absence of a proper definition of the
+continental shelf, and without any judicial body to which points of interpretation could
+be referred, States would place on the provision whatever construction suited them’ Cf.
+Ibid, 99 (Argentina).
+
+78 UNCLOS I had concluded the 1958 Optional Protocol on the Settlement of Disputes
+Arising from the Law of the Sea Conventions, 29 April 1958, 450 UNTS 170, referring
+certain disagreements to the ICJ, but this was by its very nature non-compulsory, and
+in any event was never relied as a basis for jurisdiction in any matter brought between
+its conclusion in 1958 and the adoption of UNCLOS in 1982 — it was accordingly a
+failure. Further: Natalie Klein, Dispute Settlement in the UN Convention on the Law of the
+Sea (Cambridge: Cambridge University Press, 2005) 15-18; Donald Rothwell and Tim
+Stephens, The International Law of the Sea (Oxford: Hart, 2010) 444-5.
+
+”? Koh and Jayakumar, ‘Negotiating Process of UNCLOS IIT, 110; Andronico O Adede, The
+System for the Settlement of Disputes under the United Nations Convention for the Law of
+the Sea (Dordrecht: Martinus Nijhoof, 1987) 13-69.
+
+76
+
+AOVETSTEdT GST S.005 Published online by Cambridge University Press
+96 CONSTITUTIVE INSTRUMENTS AND PROCEDURAL RULES
+
+taking into account some exceptions which had to be determined with
+the greatest care; and (4) the firm conviction that if the future convention
+was to be signed and ratified, then the system of the settlement of disputes
+must be an integral part and must constitute an essential element of that
+convention.®° Thus, the El Salvadoran ambassador continued:
+
+It was [...] assumed that the law was the most appropriate method of
+regulating international relations and preserving the quality of States,
+regardless of their political, economic and military might. That principle
+of strict legality, which implied the effective application of agreed rules,
+should be the principal element on which the future convention on the
+law of the sea would be based.®!
+
+At the Conference session in 1976, its President took the initiative to
+include a section on dispute settlement in the Informal Single Negotiating
+Text that was to serve as the basis for future discussions.** From here, the
+issue was considered by the Conference as a whole, culminating in the
+adoption of UNCLOS as a whole in 1982.°° It included, in Part XV, an
+extensive regime of compulsory dispute settlement.
+
+2 Dispute Settlement Architecture Under UNCLOS
+
+A brief explanation of the system of dispute settlement contained within
+UNCLOS is now desirable.** As stated, the core of the system is con-
+tained within Part XV (Settlement of Disputes) of the Convention, Section
+1 (General Provisions) of which establishs certain thematic parameters.
+Parties are under an obligation to settle disputes via peaceful means® and
+are not prevented from settling disputes via means other than those pro-
+vided for in the Convention.*° Where a dispute arises between parties
+concerning the interpretation or application of UNCLOS, they are under
+an obligation to proceed expeditiously to an exchange of views regarding
+its settlement by negotiation or other peaceful means.°*”
+
+Section 2 (Compulsory Procedures Entailing Binding Decisions) acts
+as the entry point to the UNCLOS dispute settlement system. Article
+287(1) provides that a state becoming a party to UNCLOS may choose by
+
+8° T UNCLOS III Off Rec 213 (El Salvador). —*!_ ‘Thid.
+
+82 V UNCLOS III OffRec1l1. —*®° Adede, Settlement of Disputes under UNCLOS, 71-198.
+
+84 Further: Churchill and Lowe, Law of the Sea, ch 19; John Collier and Vaughan Lowe, The
+Settlement of Disputes in International Law (Oxford: Oxford University Press, 1999) ch 5;
+Klein, Dispute Settlement in UNCLOS, ch 2; Rothwell and Stephens, Law of the Sea, ch 18;
+Yoshifumi Tanaka, The International Law of the Sea (Cambridge: Cambridge University
+Press, 2012) ch 13.
+
+85 UNCLOS Art 279. 8° UNCLOS Art 280. 8? UNCLOS Art 283.
+
+PSTS4T 9S 72.005 Published online by Cambridge University Press
+DISPUTE SETTLEMENT UNDER UNCLOS 97
+
+written declaration to have one of four tribunals determine disputes con-
+cerning the interpretation or application of the Convention.®® The most
+significant of these — within the UNCLOS system at least — is ITLOS, a
+permanent international tribunal established by Annex VI of the Conven-
+tion and charged by Article 21 thereof with jurisdiction over all disputes
+and applications submitted in accordance with UNCLOS and all matters
+specifically provided for in other agreements which confer jurisdiction
+upon it, e.g. the Straddling Stocks Agreement.® In terms of organiza-
+tion and procedure, the resulting body is similar to the ICJ. Special
+provision is also made for a Seabed Disputes Chamber with jurisdic-
+tion over disputes concerning certain activities occurring in areas of
+the seabed beyond national jurisdiction.”” Subject to the agreement of
+the parties, ITLOS is also capable of creating special chambers for the
+hearing of a particular dispute.?! Also significant is UNCLOS Annex
+VII, which provides for the creation of ad hoc arbitral tribunals to hear
+inter-state disputes, as well those disputes involving international orga-
+nizations, e.g. the European Community.?* UNCLOS Annex VIII pro-
+vides for so-called ‘special’ arbitration with respect to certain technical
+areas, and was inserted during UNCLOS III as a concession to the Soviet
+states, which wanted a greater degree of control over the composition
+of arbitral tribunals through the selection of expert members.”? It has,
+however, proved to be something of a dead letter, and has never been
+used.
+
+88 Namely: (a) ITLOS, (b) the ICJ, (c) an Annex VII arbitral tribunal, or (d) an Annex VIII
+arbitral tribunal. Parties not making a recommendation are deemed to have accepted
+Annex VII arbitration: UNCLOS Art 297(3). A compendium of the relevant declarations
+is maintained by the UN Division for Ocean Affairs and the Law of the Sea: www.un.org/
+Depts/los/settlement_of_disputes/choice_procedure.htm.
+
+Agreement for the Implementation of the Provisions of the United Nations Convention on
+the Law of the Sea of 10 December 1982 Relating to the Conservation and Management of
+Straddling Fish Stocks and Highly Migratory Fish Stocks, 4 December 1995, 2167 UNTS
+88, Art 30.
+
+UNCLOS Part XI, Section V; Annex VI, Art 14 and Section IV. To date, the Chamber has
+only been composed once: see Responsibilities and Obligations of States Sponsoring Persons
+and Entities with respect to Activities in the Area (2011) 150 ILR 244. Further: Joseph Akl,
+‘The Seabed Disputes Chamber of the International Tribunal for the Law of the Sea’, in
+P C Rao and R Khan (eds), The International Tribunal for the Law of the Sea: Law and
+Practice (The Hague: Kluwer, 2001) 75.
+
+UNCLOS, Annex VI, Art 15. To date, a special chamber has been assembled once: Delim-
+itation of the Maritime Boundary between Ghana and Céte d’Ivoire in the Atlantic Ocean
+(Ghana/Céte d'Ivoire), ITLOS Case No 23.
+
+Generally: Karin Oellers-Frahm, ‘Arbitration — A Promising Alternative of Disputes
+Settlement under the Law of the Sea Convention?’ (1995) 55 ZaéRV 547.
+
+Klein, Dispute Settlement in UNCLOS, 56-7.
+
+89
+
+9
+
+OQ
+
+9
+
+me
+
+9
+
+NR
+
+https://doi.org/10.1017/9781316410813.005 Published online by Cambridge University Press
+98 CONSTITUTIVE INSTRUMENTS AND PROCEDURAL RULES
+
+The ‘compulsory’ nature of Part XV dispute settlement is established,
+prima facie, by UNCLOS Article 286, which compels the application of the
+regime where any alternative means of resolution chosen by the parties has
+failed. There are, however, certain exceptions per Section 3 (Limitations
+and Exceptions to Applicability of Section 2).?* Disputes concerning the
+exercise by a coastal state of sovereign rights or jurisdiction provided for in
+the Convention shall not be subject to compulsory dispute settlement save
+in certain specified circumstances.” Certain additional limitations also
+apply to a state’s refusal to give permission for marine scientific research
+to be conducted on its continental shelf or in its exclusive economic zone
+(EEZ).”© A similar regime exists with respect to certain EEZ fisheries
+disputes.?” UNCLOS also permits a state to opt out of the compulsory
+regime with respect to disputes concerning: (a) delimitation and claims
+to historic waters; (b) military and law enforcement activities; and (c)
+matters of which the Security Council is seized.”®
+
+B UNCLOS Article 290
+
+Provisional measures within the UNCLOS system of dispute resolution
+are regulated principally by Article 290. The ICJ had been in operation
+for some 35 years prior to the conclusion of UNCLOS and had as a result
+established itself as the dominant model for the granting of provisional
+measures in international disputes. Consequently, it is unsurprising that
+the delegates to the UNCLOS II turned to Article 41 of the IC] Statute
+when seeking to define the scope for provisional measures within the
+dispute resolution provisions of UNCLOS. The informal working group,
+however, departed from the wording of Article 41, on the basis that, inter
+alia, the word ‘indicate’ as used in the provision did not clearly convey the
+binding nature of provisional measures.”? A further consideration that
+emerged over the course of UNCLOS II was how to adapt the precedent
+set by the ICJ to the scheme of dispute resolution contained in UNCLOS
+Part XV, which as said permits parties to submit disputes concerning the
+interpretation or application to a number of different forums. The result
+is a somewhat lengthy provision available to all courts and tribunals that
+have jurisdiction under UNCLOS:!°
+
+*4 Churchill and Lowe, Law of the Sea, 454—5; Rothwell and Stephens, Law of the Sea, 454-6.
+
+°° UNCLOS Art 297(1). °° UNCLOS Art 297(2). °”7 UNCLOS Art 297(3).
+
+°8 UNCLOS Art 298(1). ° 5 Virginia Commentary, 53.
+
+100 Bernard Oxman, Jurisdiction and the Power to Indicate Provisional Measures’ in L F
+Damrosch (ed), The International Court of Justice at a Crossroads (Dobbs Ferry, NY:
+
+PSTS4T 9S 72.005 Published online by Cambridge University Press
+eae paw quate
+via ae fF ie ;
+TOS VO OLOr ras #
+
+DISPUTE SETTLEMENT UNDER UNCLOS 99
+
+(1) If a dispute has been duly submitted to a court or tribunal which
+considers that prima facie it has jurisdiction under this Part or Part
+XI, section 5, the court or tribunal may prescribe any provisional
+measures which it considers appropriate under the circumstances
+to preserve the respective rights of the parties to the dispute or to
+prevent serious harm to the marine environment, pending the final
+decision.
+
+(2) Provisional measures may be modified or revoked as soon as the
+circumstances justifying them have changed or ceased to exist.
+
+(3) Provisional measures may be prescribed, modified or revoked under
+this article only at the request of a party to the dispute and after the
+parties have been given an opportunity to be heard.
+
+(4) The court or tribunal shall forthwith give notice to the parties to
+the dispute, and to such other States Parties as it considers appro-
+priate, of the prescription, modification or revocation of provisional
+measures.
+
+(5) Pending the constitution of an arbitral tribunal to which a dispute
+is being submitted under this section, any court or tribunal agreed
+upon by the parties or, failing such agreement within two weeks from
+the date of the request for provisional measures, the International
+Tribunal for the Law of the Sea or, with respect to activities in the
+Area, the Seabed Disputes Chamber, may prescribe, modify or revoke
+provisional measures in accordance with this article if it considers
+that prima facie the tribunal which is to be constituted would have
+jurisdiction and that the urgency of the situation so requires. Once
+constituted, the tribunal to which the dispute has been submitted
+may modify, revoke or affirm those provisional measures, acting in
+conformity with paragraphs 1 to 4.
+
+(6) The parties to the dispute shall comply promptly with any provisional
+measures prescribed under this article.
+
+Although more complicated than Article 41 of the Statute, UNCLOS
+Article 290 is still clearly descended from it. Its complexity in part derives
+from a desire on the part of UNCLOS III to codify the practice of the
+ICJ and to avoid those areas of uncertainty thrown up by the Court’s
+jurisprudence since 1947. In the first place, both Articles 290(1) and (5)
+make reference to the need for the court or tribunal seized to establish
+
+Transnational, 1987) 179 avers to the potential that the use of UNCLOS Art 290 could
+‘harmonize’ the practice of the ICJ with respect to provisional measures. This has not
+come to pass. Under UNCLOS Art 287(5), if the parties elect different methods of dispute
+resolution, the matter is to be referred to Annex VII arbitration, which together with a
+relatively low number of states selecting the ICJ under UNCLOS Art 287(1) has led to a
+situation in which the Court has never considered a referred matter.
+
+AOVETSTEdT GST S.005 Published online by Cambridge University Press
+eae rt eN wnat
+via ae fF ie ;
+LIDS VOL ora randa s
+
+100 CONSTITUTIVE INSTRUMENTS AND PROCEDURAL RULES
+
+its jurisdiction on a prima facie basis prior to the granting of provisional
+measures, a point not mentioned expressly in Article 41 and which had
+generated considerable controversy in the Anglo-Iranian Oilcase.'°' In the
+second, Article 290(6) clearly provides for the automatic binding effect
+of provisional measures on the parties, thereby forestalling a debate that
+was still very much alive in relation to the ICJ in 1982.!°° The bind-
+ing nature of provisional measures under Article 290 is also reflected
+in the wording of paragraphs (1), (3), (4), (5) and (6), which refer
+to the ‘prescription’ of provisional measures, rather than their ‘indica-
+tion’. Finally, Article 290(1) is phrased in similar terms to Article 41
+of the IC) Statute in that it describes the purpose of provisional mea-
+sures as being to ‘preserve the respective rights of the parties to the
+dispute’!
+
+Two further features of Article 290 may be pointed out. Firstly, the
+provision broadens the rights with respect to which provisional measures
+may be ordered to include measures designed to ‘prevent serious harm
+to the marine environment’ in paragraph (1). Thus, interim relief may
+be ordered not in relation to rights under dispute, but ‘mainly or even
+solely’ to prevent harm to the environment.’ Secondly, Article 290(5)
+provides that, absent contrary agreement by the parties, ITLOS (or its
+Seabed Disputes Chamber as required) may order provisional measures
+pending the constitution of an Annex VII or VIII tribunal. The capacity
+to order interim relief on behalf of another court or tribunal is one that
+is not usually available to international adjudicative bodies,!” and may
+be seen to raise particular issues of legitimacy when utilized.'° Lastly,
+it should be noted that Article 31 of the Straddling Stocks Agreement,
+
+10
+
+paar
+
+Anglo-Iranian Oil Co, ICJ Reports 1951 p 89, 92-3, 96-8 (Judges Winiarski and Badawi
+Pasha, diss). Further: Oxman, ‘Jurisdiction’; Maurice Mendelson, ‘Interim Measures of
+Protection in Cases of Contested Jurisdiction’ (1972-1973) 46 BYIL 257.
+
+Thomas Mensah, “Provisional Measures in the International Tribunal for the Law of the
+
+Sea (ITLOS)’ (2002) 62 ZaGRV 43, 44-6.
+
+Rudiger Wolfrum, ‘Provisional Measures of the International Tribunal for the Law of the
+
+Sea; in P C Rao and R Khan (eds), The International Tribunal for the Law of the Sea: Law
+
+and Practice (The Hague: Kluwer, 2001) 175-8.
+
+104 Mensah, ‘Provisional Measures in ITLOS’, 45-6.
+
+105 Cf. the Locarno Treaties (e.g. France-Germany Agreement, 16 October 1925, 54 LNTS
+317), which in Art 19 permitted the award of provisional measures by the PCIJ in
+place of an unconstituted conciliation commission: Edward Dumbauld, Interim Mea-
+sures of Protection in International Controversies (The Hague: Martinus Nijhoff, 1932)
+128.
+
+106 Mensah, ‘Provisional Measures in ITLOS’ 46-7.
+
+102
+
+103
+
+AOVETSTEdT GST S.005 Published online by Cambridge University Press
+DISPUTE SETTLEMENT UNDER UNCLOS 101
+
+which refers certain disputes to settlement under UNCLOS, supplements
+Article 290 — although to date it has not been used.'°”
+
+C Provisional Measures and the Procedural Rules of UNCLOS Part
+XV Dispute Settlement Bodies
+
+1 The International Tribunal for the Law of the Sea
+
+Article 16 of UNCLOS Annex VI gives ITLOS the capacity to develop
+its own rules, and in this capacity the Tribunal has seen fit to produce
+and continually revise its procedure since the first meeting of its judges
+in 1996. The first version of the ITLOS Rules'®® was based on the Final
+Draft Rules prepared by the UNCLOS Preparatory Commission.!° These,
+in turn, were based on the ICJ Rules — the only appropriate precedent
+available — although as with UNCLOS Article 290, certain amendments
+were required to accommodate the Tribunal’s multifaceted jurisdiction.'!”
+As a result, the provisions of the ITLOS Rules as they relate to interim
+relief are substantially similar to those of the ICJ Rules — a situation that
+was not altered by the further amendment of the ITLOS Rules and their
+republication in 2005.'!' The relevant provisions are contained in Part III
+(Procedure), Section C (Incidental Proceedings), Subsection 1 (Provisional
+Measures):!'?
+
+107 The article provides:
+
+(1) Pending the settlement of a dispute in accordance with [Part VII of the Agree-
+ment], the parties to the dispute shall make every effort to enter into provisional
+arrangements of a practical nature.
+
+(2) Without prejudice to [UNCLOS Art 290], the court or tribunal to which the dispute
+has been submitted under [Part VII] may prescribe any provisional measures which
+it considers appropriate under the circumstances to preserve the respective rights of
+the parties to the dispute or to prevent damage to the stocks in question, as well as
+in the circumstances referred to in article 7, paragraph 5 and article 16, paragraph 2.
+
+(3) A State Party to this Agreement which is not a Party to [UNCLOS] may declare that,
+notwithstanding [UNCLOS Art 290(5)], [ITLOS] shall not be entitled to prescribe,
+modify or revoke provisional measures without the agreement of such State.
+
+108 ITLOS Basic Texts (1st edn, 1998) 16.
+
+109 UN Doc LOS/PCN/SCN.4/WP.16/Add.1 (28 April 1995).
+
+110 Tullio Treves, ‘The Rules of the International Tribunal for the Law of the Sea’, in P C Rao
+
+and R Khan (eds), The International Tribunal for the Law of the Sea: Law and Practice
+
+(The Hague: Kluwer, 2001) 135, 135; Rosenne, Provisional Measures, 75.
+
+ITLOS Basic Texts (2nd edn, 2005) 16. ITLOS has not prepared a third official publication,
+
+but the most recent round of amendments occurred in 2009. The most recent version of
+
+the Rules may be found on the ITLOS website: www. itlos.org/fileadmin/itlos/documents/
+
+basic_texts/Itlos_8_E_17_03_09.pdf.
+
+‘2 Further: P Chandrasekhara Rao and Philippe Gautier, The Rules of the International
+Tribunal for the Law of the Sea: A Commentary (The Hague: Martinus Nijhoff, 2006)
+245-61.
+
+ll
+
+an
+
+https://doi.org/10.1017/9781316410813.005 Published online by Cambridge University Press
+102 CONSTITUTIVE INSTRUMENTS AND PROCEDURAL RULES
+
+Article 89
+
+(1) A party may submit a request for the prescription of provisional
+measures under article 290, paragraph 1, of the Convention at any
+time during the course of the proceedings in a dispute submitted to
+the Tribunal.
+
+(2) Pending the constitution of an arbitral tribunal to which a dispute
+is being submitted, a party may submit a request for the prescrip-
+tion of provisional measures under article 290, paragraph 5, of the
+Convention:
+
+(a) at any time if the parties have so agreed;
+
+(b) at any time after two weeks from the notification to the other
+party of a request for provisional measures if the parties have not
+agreed that such measures may be prescribed by another court or
+tribunal.
+
+(3) The request shall be in writing and specify the measures requested, the
+reasons therefore and the possible consequences, if it is not granted,
+for the preservation of the respective rights of the parties or for the
+prevention of serious harm to the marine environment.
+
+(4) A request for the prescription of provisional measures under arti-
+cle 290, paragraph 5, of the Convention shall also indicate the legal
+grounds upon which the arbitral tribunal which is to be constituted
+would have jurisdiction and the urgency of the situation. A certified
+copy of the notification or of any other document instituting the pro-
+ceedings before the arbitral tribunal shall be annexed to the request.
+
+(5) When a request for provisional measures has been made, the Tribunal
+may prescribe measures different in whole or in part from those
+requested and indicate the parties which are to take or to comply with
+each measure.
+
+Article 90
+
+(1) Subject to article 112, paragraph 1,'!° a request for the prescription
+of provisional measures has priority over all other proceedings before
+the Tribunal.
+
+(2) The Tribunal, or the President if the Tribunal is not sitting, shall fix
+the earliest possible date for a hearing.
+
+(3) The Tribunal shall take into account any observations that may be
+presented to it by a party before the closure of the hearing.
+
+(4) Pending the meeting of the Tribunal, the President of the Tribunal
+may call upon the parties to act in such a way as will enable any order
+the Tribunal may make on the request for provisional measures to
+have its appropriate effects.
+
+413 Concerning applications for the prompt release of vessels and crews under UNCLOS
+Art 292. Further: David H Anderson, ‘Prompt Release of Vessels and Crews, MPEPIL
+(2008).
+
+VPISPETSTSAT G7 5.005 Published online by Cambridge University Press
+DISPUTE SETTLEMENT UNDER UNCLOS 103
+
+Article 91
+
+(1) If the President of the Tribunal ascertains that at the date fixed for
+the hearing referred to in article 90, paragraph 2, a sufficient number
+of Members will not be available to constitute a quorum, the Cham-
+ber of Summary Procedure shall be convened to carry out the func-
+tions of the Tribunal with respect to the prescription of provisional
+measures.
+
+(2) The Tribunal shall review or revise provisional measures prescribed
+by the Chamber of Summary Procedure at the written request of a
+party within 15 days of the prescription of the measures. The Tribunal
+may also at any time decide proprio motu to review or revise the
+measures.
+
+Article 92 The rejection of a request for the prescription of provisional
+measures shall not prevent the party which made it from making a fresh
+
+request in the same case based on new facts.
+
+Article 93 A party may request the modification or revocation of pro-
+visional measures. The request shall be submitted in writing and shall
+
+specify the change in, or disappearance of, the circumstances considered
+to be relevant. Before taking any decision on the request, the Tribunal shall
+afford the parties an opportunity of presenting their observations on the
+subject.
+
+Article 94 Any provisional measures prescribed by the Tribunal or any
+modification or revocation thereof shall forthwith be notified to the parties
+
+and to such other States Parties as the Tribunal considers appropriate in
+each case.
+
+Article 95
+
+(1) Each party shall inform the Tribunal as soon as possible as to its com-
+pliance with any provisional measures the Tribunal has prescribed. In
+particular, each party shall submit an initial report upon the steps it
+has taken or proposes to take in order to ensure prompt compliance
+with the measures prescribed.
+
+(2) The Tribunal may request further information from the parties on
+any matter connected with the implementation of any provisional
+measures it has prescribed.
+
+A reading of Articles 89-95 of the ITLOS Rules reveals an understanding
+of the procedural power to award interim relief similar to that of the ICJ.
+Under Article 89(5), the Tribunal is not required to mirror the content
+of the initial request for provisional measures. The treatment of such
+proceedings as urgent (subject to proceedings relating to prompt release)
+is also preserved in Article 90(1), as is the capacity for the President to
+enter into correspondence with the parties so as to recommend measures
+that will render any interim relief effective under Article 90(4), although
+
+AOVETSTEdT GST S.005 Published online by Cambridge University Press
+104 CONSTITUTIVE INSTRUMENTS AND PROCEDURAL RULES
+
+its only use to date has been by President Yanai in ARA Libertad.''* In the
+event of a rejection, parties are able to issue a fresh request for provisional
+measures based on additional facts per Article 92, and may also request
+the modification or revocation of provisional measures per Article 93.
+Finally, under Article 95, parties are required to report compliance with
+provisional measures prescribed, and the Tribunal may request any further
+information required.
+
+There are, however, important differences between the ITLOS and ICJ
+Rules.!' In the first place, the Tribunal is not empowered to engage in
+initial consideration of interim relief proprio motu — although per Article
+91(2) it has the capacity to renew or revise measures ordered at any time.
+This reflects UNCLOS Article 290(3), according to which ‘[p]rovisional
+measures may be prescribed, modified or revoked under this article only
+at the request of a party to the dispute. This difference appears to be
+driven by the fact that under UNCLOS Article 290(6), provisional mea-
+sures awarded under this provision are considered binding,''® leading to
+additional level of caution when awarding interim relief so as to forestall
+any crisis of legitimacy.''” It is to be remembered that at the time at which
+UNCLOS Article 290 and later the ITLOS Rules were drafted, the ICJ
+had not yet determined whether its own provisional measures could be
+considered binding. Since confirmation of this fact in LaGrand, the Court
+has not amended its procedural rules. In the event of such an amendment,
+however, it seems unlikely that its power to award interim relief proprio
+motu would be restricted — the Court has long acknowledged its ability
+to award provisional measures of its own volition and so long as this is
+not abused, it is not prima facie inconsistent with the notion of such relief
+being binding.
+
+Another difference arises from Article 91(1) of the ITLOS Rules, which
+provides for the composition of a Chamber of Summary Procedure in the
+event that the President ascertains that on the date fixed for the hearing of
+an application for interim relief, a quorum of Tribunal members will not
+be present. Although the judges of ITLOS — unlike their ICJ counterparts —
+are not expected to sit permanently, a situation has yet to arise in which
+such a Chamber has been required, and the provision has lain dormant
+accordingly.!'8
+
+14 ARA Libertad (Argentina v Ghana), Provisional Measures (2001) 156 ILR 186, 191.
+5 Treves, ‘Rules of ITLOS’, 148-52; Rosenne, Provisional Measures, 79-80.
+16 Treves, ‘Rules of ITLOS’ 149-50. "7 Thid, 151-2. M8 Thid, 150-1.
+
+PSTS4T 9S 72.005 Published online by Cambridge University Press
+DISPUTE SETTLEMENT UNDER UNCLOS 105
+
+The final substantial difference between ITLOS and the ICJ results
+from the former’s capacity to award provisional measures on behalf of
+an unconstituted Annex VII tribunal. Applications for such relief are
+attended by specific procedural requirements in Article 89(4). The appli-
+cant must not only indicate the legal grounds of the claim and basis of
+the tribunal’s prima facie jurisdiction, but must provide evidence that the
+proceedings in question have been instituted.
+
+2 Annex VII Arbitration
+
+Under Article 5 of UNCLOS Annex VII, Annex VII tribunals have the
+capacity to determine their own procedure subject to the agreement of
+the parties. As a matter of practice, tribunals have tended to adopt some
+variation of the 1976 UNCITRAL Rules,'”” but these have proved lacking
+in detail on the question of interim relief. For example, the procedural
+rules adopted by the tribunals in Barbados/Trinidad and Tobago'*® and
+ARA Libertad’?! make no reference to interim relief. In MOX Plant'”* and
+Guyana v Suriname’*”’ the Procedural Rules were the subject of earlier
+agreement between the parties, preventing the tribunals from adopting
+their own procedure, but these too remain silent on the question.
+
+This may be reflective of a deliberate decision on the part of Annex
+VI tribunals and the parties appearing before them to avoid contradict-
+ing UNCLOS Article 290, with the capacity of an Annex VII tribunal
+to adopt its own procedure on provisional measures naturally subject
+to this provision.'* Thus, such a tribunal would not be able to adopt
+rules inconsistent with UNCLOS Article 290, e.g. rules providing that the
+tribunal had the capacity to award interim relief proprio motu. This may
+explain why the procedural rules adopted by Ireland and the UK before
+
+19 Collier and Lowe, Settlement of Disputes, 91.
+
+20 Barbados/Trinidad and Tobago, PCA Case No 2004-02 (Annex VII) (Procedural Rules,
+2004).
+
+1 ARA Libertad, PCA Case No 2013-11 (Annex VII) (Procedural Order No 1, 31 July 2013).
+
+22 MOX Plant (Ireland v UK), PCA Case No 2002-01 (Annex VII) (Procedural Rules, 25
+October 2001).
+
+23 Guyana v Suriname, PCA (Annex VII) (Procedural Rules, 2004).
+
+124 See e.g. the ARA Libertad, PCA Case No 2013-11 (Annex VII) (Procedural Order No 1,
+31 July 2013) Art 1.1:
+
+These Rules shall apply in these proceedings on a supplemental basis, subject to the
+UNCLOS (including its Annex VII), the Terms of Appointment dated 21 May 2013,
+and subsequent Procedural Orders of the Arbitral Tribunal.
+
+PSTS4T 9S 72.005 Published online by Cambridge University Press
+eae paw quate
+via ae fF ie ;
+TOS VO OLOr ras #
+
+106 CONSTITUTIVE INSTRUMENTS AND PROCEDURAL RULES
+
+a PCA tribunal in the OSPAR Arbitration,'*? concerning substantially the
+same questions as in the parties’ parallel dispute in MOX Plant, make
+provision for interim relief whilst the MOX Plant rules remain silent. As
+such, in MOX Plant the Tribunal’s decision on provisional measures is
+drafted solely in term of UNCLOS Article 290.'°
+
+IV International Investment Arbitration
+A Treaty-Based Investor-State Arbitration
+
+1 Bilateral and Multilateral Investment Treaties
+
+It may fairly be said that the treaty-based system of investor-state arbi-
+tration is now a prime mover in the practice of international courts
+and tribunals.'*” Such arbitrations are conducted between a foreign
+investor (which may be a natural or juridical person) and the ‘host’ state
+in which its investment is located. Famously described by Paulsson as
+‘arbitration without privity, '”® investor-state arbitration does not require
+the intervention of the home state by way of diplomatic protection —
+consequently, the system may be said to have hybrid foundations that do
+not correspond directly with conventional notions of public or private
+international law.'”?
+
+The jurisdiction of an investor-state arbitral tribunal is usually estab-
+lished by way of a bilateral investment treaty (BIT) concluded between
+the host state and the ‘home’ state of the investor!*° — the first such
+agreement was concluded between the Federal Republic of Germany and
+
+12
+
+wi
+
+OSPAR Arbitration (Ireland v UK), PCA (Procedural Rules, 15 June 2001) Art 15: ‘The
+tribunal may, at the request of one of the parties, recommend essential interim measures
+of protection under such conditions as it may deem appropriate’.
+
+26 MOX Plant (Ireland v UK), Procedural Order No 3 (2003) 123 ILR 310, 321-30.
+
+27 Generally: Jan Paulsson, ‘Arbitration without Privity’ (1995) 10 ICSID Rev — FIL] 232;
+Christoph Schreuer, ‘Investment Disputes’, MPEPIL (2007); Rudolf Dolzer and Christoph
+Schreuer, Principles of International Investment Law (Oxford: Oxford University Press,
+2nd edn, 2012) ch 1.
+
+Paulsson, ‘Arbitration without Privity’, 254-7.
+
+Zachary Douglas, ‘The Hybrid Foundations of Investment Treaty Arbitration’ (2003) 74
+BYIL 151; Zachary Douglas, The International Law of Investment Claims (Cambridge:
+Cambridge University Press, 2009) 6-10.
+
+An investment treaty is not the only method by which jurisdiction may be established.
+See e.g. Art 25 of the ICSID Convention, which requires only that consent to arbitrate
+be registered in writing, phrasing which has been interpreted to encompass contracts
+between an investor and the host state (either prior to or following the emergence of the
+dispute) and host state legislation in addition to bilateral and multilateral treaties: JCS7D
+Commentary, 190-253.
+
+128
+129
+
+130
+
+AOVETSTEdT GST S.005 Published online by Cambridge University Press
+eae paw quate
+via ae fF ie ;
+TOS VO OLOr ras #
+
+INTERNATIONAL INVESTMENT ARBITRATION 107
+
+Pakistan in 195919! and nearly 3,000 are currently in effect.'°* BITs gen-
+erally guarantee foreign investments via the imposition of certain sub-
+stantive obligations on the host state, e.g. fair and equitable treatment,
+full protection and security, national treatment and freedom from illegal
+expropriation and denial of justice.'*’ Jurisdiction may also be furnished
+by a multilateral investment treaty concluded between more than two
+states, often on a regional basis. From the present point of view, NAFTA
+is the most significant of these, but other notable agreements include the
+1994 Energy Charter Treaty'** (ECT), the 2004 Dominican Republic—
+Central American—United States Free Trade Agreement'*? (DR-CAFTA)
+and the 2012 Association of South-East Asian Nations Comprehensive
+Investment Agreement!*° (ASEAN).
+
+BITs and multilateral investment agreements will generally contain a
+section on dispute resolution giving an investor!’’ various options in the
+event of a disagreement with the host state.’°* Article 24 of the 2004
+US Model BIT,!°? for example, permits the submission of disputes to
+arbitration under (a) the ICSID Convention and the ICSID Rules,!*° (b)
+the ICSID Additional Facility’*! or (c) ad hoc arbitration under the 1976
+
+13
+
+aa
+
+25 November 1959, 457 UNTS 23.
+
+152 See further the UNCTAD investment database: investmentpolicyhub.unctad.org/IIA. On
+the rapid expansion of the network of BITs, see Zachary Elkins et al., “Competing for
+Capital: The Diffusion of Bilateral Investment Treaties, 1960-20007, in M Waibel et al.
+(eds), The Backlash Against Investment Arbitration: Perceptions and Reality (Alphen aan
+den Rijn: Kluwer, 2009) 369.
+
+August Reinisch (ed), Standards of Investment Protection (Oxford: Oxford University
+Press, 2008); Dolzer and Schreuer, Principles of Investment Law, chs 6 and 7.
+
+‘4 17 December 1994, 2080 UNTS 95. —'!*°_: 17 December 1992, 43 ILM 514.
+
+186 Basic Documents: Investment, doc 40. See also the earlier 1987 ASEAN Agreement on the
+Protection and Promotion of Investments, 15 December 1987, 27 ILM 612, its Protocol
+to Amend, 12 December 1996, Basic Documents: Investment, doc 36 (not in force) and the
+Framework Agreement on the ASEAN Investment Area, 7 October 1998, Basic Documents:
+Investment, doc 37.
+
+While it is possible for a host state to bring an investment claim against an investor, such
+instances are comparatively rare. See further Gustavo Laborde, “The Case for Host State
+Claims in Investment Arbitration’ (2010) 1 JIDS 97.
+
+Douglas, Investment Claims, 3-6.
+
+139 Basic Documents: Investment, doc 48. See also the 2004 Canadian Model BIT, Basic
+Documents: Investment, doc 45, Art 27; the 2004 Indian Model BIT, Basic Documents:
+Investment, doc 46, Art 9; the 2004 Netherlands Model BIT, Basic Documents: Investment,
+doc 47, Art 9; the 2007 Norwegian Model BIT, Basic Documents: Investment, doc 50, Art
+15; the 2008 German Model BIT, Basic Documents: Investment, doc 51, Art 10; and the
+2008 UK Model BIT, Basic Documents: Investment, doc 52, Art 8.
+
+Basic Documents: Investment, doc 71.
+
+M1" Basic Documents: Investment, doc 72. Further: $IV.A.3.
+
+133
+
+137
+
+138
+
+140
+
+AOVETSTEdT GST S.005 Published online by Cambridge University Press
+eae rt eN wnat
+via ae fF ie ;
+LIDS VOL ora randa s
+
+108 CONSTITUTIVE INSTRUMENTS AND PROCEDURAL RULES
+
+UNCITRAL Rules.'** As a consequence, the instrument in question effec-
+tively subordinates itself to an external process of dispute resolution. As
+a general rule, this will include questions of interim relief. Exceptions
+may, however, arise — it is possible for an investment treaty to include
+some sui generis provisions on dispute settlement whilst still undertaking
+an external reference. The chief example of this is NAFTA Chapter 11
+(Investment), which sets out in Section B (Settlement of Disputes Between
+a Party and an Investor of Another Party) detailed procedures for the
+composition of an arbitral tribunal,'* governing law,'** and the giving
+and enforcement of final awards.‘ It further includes, in Article 1134, a
+provision on the granting of interim relief.!4° At the same time, however,
+Article 1120(1) again provides for the submission of disputes to ICSID,
+the ICSID Additional Facility or to ad hoc UNCITRAL arbitration. In
+such cases and as provided for in Article 1120(2), the applicable arbitra-
+tion procedures shall apply except to the extent modified by Chapter 11,
+Section B. Such modifications will usually be drafted with the applicable
+arbitration procedures in mind.
+
+2 ICSID and the ICSID Convention
+
+The ICSID Convention is one of the most common systems of arbitration
+referred to by bilateral and multilateral investment treaties. The Con-
+vention creates ICSID, an arbitral institution that provides logistical and
+administrative support for investment disputes.'*” It is closely affiliated
+with the International Bank for Reconstruction and Development (more
+commonly known as the World Bank) with the Bank’s board of executive
+directors and its general counsel, Aron Broches, playing a key role in the
+drafting and negotiation of the Convention.'*®
+
+142 On distinctions between the options, see Stephen Jagusch and Jeffrey Sullivan, ‘A Com-
+parison of ICSID and UNCITRAL Arbitration: Areas of Divergence and Concern, in M
+Waibel et al., The Backlash Against Investment Arbitration: Perceptions and Reality (The
+Hague: Kluwer, 2010); Judith Levine, “Navigating the parallel universe of investor-State
+arbitrations under the UNCITRAL Rules; in C Brown and K Miles (eds), Evolution in
+Investment Treaty Law and Arbitration (Cambridge: Cambridge University Press, 2011).
+
+M8 NAFTA Arts 1123-26. “4 NAFTA Art 1131. “® NAFTA Arts 1135-6.
+
+M6 Other multilateral agreements also provide for additional procedures, but these generally
+
+do not include an independent procedure for interim relief: see e.g. ECT Part V; DR-
+
+CAFTA Ch 10; ASEAN Sec B.
+
+On arbitral institutions in general: Redfern and Hunter, 54-65.
+
+On the history of the ICSID Convention, see Aron Broches, ‘The Convention on the
+
+Settlement of Investment Disputes between States and Nationals of Other States’ (1972)
+
+136 Hague Recueil 330, 342-8; Lucy Reed et al., Guide to ICSID Arbitration (Alphen
+
+aan den Rijn: Kluwer, 2nd edn, 2011) 1-6; Antonio R Parra, The History of ICSID
+
+147
+148
+
+AOVETSTEdT GST S.005 Published online by Cambridge University Press
+INTERNATIONAL INVESTMENT ARBITRATION 109
+
+Although investment treaty arbitration certainly existed prior to the
+advent of the ICSID Convention,'” the Convention expanded and
+systematized what had come before such that, as Elihu Lauterpacht
+put it:
+
+For the first time a system was instituted under which non-State entities —
+corporations or individuals — could sue States directly; in which State
+immunity was much restricted; under which international law could be
+applied directly to the relationship between the investor and the host
+State; in which the operation of the local remedies rule was excluded; and
+in which the tribunal’s award would be directly enforceable within the
+territories of the States parties.!°°
+
+Notwithstanding the advantages of the ICSID system, investment arbitra-
+tion pursuant to investment treaties did not become popular until 1990,
+when the first BIT-based arbitration award was rendered.'*!
+
+The ICSID Convention operates in addition to the requirements of an
+investment treaty and so adds an additional layer of complexity to its
+requirements — e.g. the relevant investor must satisfy the jurisdictional
+requirements ratione personae and ratione materiae of both the treaty
+and Article 25 of the ICSID Convention.'” Beyond this, the Convention
+provides a comprehensive procedural framework for, inter alia, the com-
+position of tribunals, the hearing of cases, the enforcement and challenge
+of awards, and so forth — this includes the granting of interim relief where
+required per Article 47 of the Convention. It is supported in this by the
+ICSID Rules.
+
+3 The ICSID Additional Facility
+
+In 1974, the World Bank created the ICSID Additional Facility to extend
+ICSID arbitration to certain disputes not covered by the ICSID Conven-
+tion proper.'°? The Additional Facility applies where one of either the
+home or host state of the relevant investment is not a member of the
+
+(Oxford: Oxford University Press, 2012). See further the 1965 Report of World Bank’s
+Executive Directors, which acts as an introductory commentary to the Convention: 4 ILM
+524,
+
+See especially the inter-war mixed arbitral tribunals: Chapter 2, $HI.B.
+
+Elihu Lauterpacht, ‘Foreword’, in ICSID Commentary, ix.
+
+Asian Agricultural Products Ltd v Sri Lanka, Award (1990) 4 ICSID Reports 245.
+
+This is referred to by some commentators as the ‘double keyhole’ requirement: [CSID
+Commentary, 82-3.
+
+It further applies in cases which do not arise directly from an investment, and fact
+finding: Reed et al, Guide to ICSID, 17-19; Dolzer and Schreuer, Principles of Investment
+Law, 240-1. Further: Parra, History of ICSID, 141-50.
+
+149
+150
+15
+152
+
+pa
+
+153
+
+PAOPETSTEdT GST S.005 Published online by Cambridge University Press
+110 CONSTITUTIVE INSTRUMENTS AND PROCEDURAL RULES
+
+ICSID Convention, and therefore outside its ambit.'** This is particularly
+significant in the context of NAFTA, where the US and Canada are mem-
+bers of the ICSID Convention, but Mexico is (presently) not.'°? As such,
+NAFTA Article 1120(1)(b) provides for the referral of investment disputes
+to the Additional Facility. Similarly, ECT Article 26(4)(a)(i1) enables the
+use of the Additional Facility where necessary.
+
+Where the Additional Facility is activated, the ICSID Convention does
+not apply.'°° As such the Additional Facility utilizes a separate set of ICSID
+Arbitration (Additional Facility) Rules (ICSID (AF) Rules).!°’ The non-
+applicability of the Convention deprives the parties of certain protections,
+most notably Chapter IV (Arbitration), Sections 5 (Interpretation, Revision
+and Annulment of the Award) and 6 (Recognition and Enforcement of
+the Award). In such cases, annulment and enforcement will instead be
+governed by the 1958 Convention on the Recognition and Enforcement
+of Foreign Arbitral Awards'°® (New York Convention) and awards may
+be subject to review by domestic courts.
+
+B_ Treaty Provisions Governing Provisional Measures in International
+Investment Law
+
+1 Article 47 of the ICSID Convention
+
+Article 47 of the ICSID Convention governs the award of provisional
+measures by ICSID tribunals. It provides that:
+
+Except as the parties otherwise agree, the Tribunal may, if it considers that
+the circumstances so require, recommend any provisional measures which
+should be taken to preserve the respective rights of either party.
+
+The wording of Article 47 of the ICSID Convention is much more closely
+referable to Article 41 of the Statute than UNCLOS Article 290, and
+Article 41 indeed served as a model for the provision.'°? The fact,
+however, that the text of Article 41 emerged from the ICSID draft-
+ing process with what appears to be only minor alteration fails to
+reflect its controversial character. Early drafts of the provision reveal
+that much stronger wording was originally envisioned guaranteeing these
+measures as binding and including a power to impose sanctions for
+
+154 TCSID (AF), Art 2.
+
+55 NAFTA Art 1120(1)(a) makes provision for reference to ICSID in the event that either
+Mexico or Canada eventually join the ICSID Convention — Canada signed the Convention
+in 2006 but did not ratify until 2013: icsid.worldbank.org/ICSID/Index.jsp.
+
+156 ICSID (AF), Art 3. 57 Basic Documents: Investment, doc 75.
+
+158-10 June 1958, 330 UNTS 3. °°: II-1 ICSID History, 668, 813.
+
+PSTS4T 9S 72.005 Published online by Cambridge University Press
+eae rt eN wnat
+via ae fF ie ;
+TOS VO OLOr ras #
+
+INTERNATIONAL INVESTMENT ARBITRATION 111
+
+non-compliance.'® These proposals encountered considerable opposi-
+tion, and although a countervailing proposal to excise the provision
+entirely was dropped,'*! the compromise position was a text that suf-
+fered from the same ambiguity as Article 41, ie. in its use of the terms
+‘recommend’ (similar in meaning to the term ‘indicate’ in Article 41)
+and ‘should be taken’ when describing the grant of interim relief.‘ This
+ambiguity was resolved in much the same way as in LaGrand by the tri-
+bunal in Maffezini v Spain, which in 1999 declared that its authority ‘to
+rule on provisional measures was no less binding than that of the final
+award’.!©
+
+In practical terms, Article 47 differs from the other provisions consid-
+ered in that much of its early use was as a variant of anti-suit injunction,
+used to restrain parallel proceedings in national courts.’ In this, the
+experience of ICSID tribunals has been similar to that of the Iran—US
+Claims Tribunal, which suffered from a similar problem.!® As will be
+seen, this has modified how Article 47 is applied in modern proceedings.
+A further difference arises in relation to the capacity of ICSID tribunals
+to award provisional measures in circumstances where the jurisdiction
+of the tribunal has not been definitively established. Unlike the ICJ and
+dispute settlement under UNCLOS, ICSID contains a mechanism by
+which a tribunal’s jurisdiction might be reviewed through the agency
+of the Centre’s Secretary-General. Article 36(3) of the Convention pro-
+vides that the Secretary-General shall register a request for arbitration
+unless he or she finds that the dispute is manifestly outside the Centre’s
+jurisdiction.!©
+
+160 | ICSID History, 206. _'*! II-1 ICSID History,814. 1 ICSID Commentary, 759.
+163 Emilio Agustin Maffezini v Spain, Procedural Order No 2 (2001) 5 ICSID Reports 393, 394.
+Also: Victor Pey Casado and President Alliende Foundation v Chile, Provisional Measures
+(2001) 6 ICSID Reports 373, 381.
+
+Collins estimates that two thirds of the early cases were directed towards the prevention
+of parallel proceedings: Lawrence Collins, ‘Provisional and Protective Measures in Inter-
+national Litigation’ (1992) 234 Hague Recueil 9, 99. Further: Paul Friedland, “Provisional
+Measures and ICSID Arbitration (1986) 2 Arb Int’1335, 339-47; Charles N Brower and
+Ronald E M Goodman, “Provisional Measures and the Protection of ICSID Jurisdictional
+Exclusivity Against Municipal Proceedings’ (1991) 6 ICSID Rev — FILJ 431. Such action
+was taken pursuant to Art 26 of the ICSID Convention, which provides:
+
+164
+
+Consent of the parties to arbitration under this Convention shall, unless otherwise
+stated, be deemed consent to such arbitration to the exclusion of any other remedy
+
+[...]
+
+David D Caron, ‘Interim Measures of Protection: Theory and Practice in Light of the
+Iran—US Claims Tribunal’ (1986) 46 ZadRV 465, 504-8.
+166 Brower and Goodman, Jurisdictional Exclusivity’, 452-6; ICSID Commentary, 772.
+
+165
+
+AOVETSTEdT GST S.005 Published online by Cambridge University Press
+112 CONSTITUTIVE INSTRUMENTS AND PROCEDURAL RULES
+
+2 NAFTA Article 1134
+
+Although the initial stance taken in NAFTA negotiations was that Chap-
+ter 11 tribunals not have the capacity to award interim relief,!®’ this posi-
+tion was altered over the course of the discussions to reflect the approach
+now taken in Article 1134. This provides that:
+
+A Tribunal may order an interim measure of protection to preserve the
+right of a disputing party, or to ensure that the Tribunal’s jurisdiction
+is made fully effective, including an order to preserve evidence in the
+possession or control of a disputing party and to protect the Tribunal’s
+jurisdiction. A Tribunal may not order attachment or enjoin the applica-
+tion of the measures alleged to constitute a breach referred to in Article
+1116 or 1117. For the purposes of this paragraph, an order includes a
+recommendation.
+
+Given the synergy between NAFTA Chapterl1 and ICSID dispute settle-
+ment, it is unsurprising that Article 1134 was drafted with Article 47 of
+the ICSID Convention in mind — notwithstanding that to date only the
+Additional Facility has been utilized by Chapter 11 tribunals and thus
+Article 47 has not been applied. When a NAFTA tribunal is composed
+under the ICSID Convention, Article 1134 is deemed to modify the con-
+tent of Article 47. It is broader than Article 47, expressly including the
+power to award interim relief to ensure a NAFTA tribunal’s jurisdiction
+remains fully effective, e.g. through orders for the protection of evi-
+dence or the use of provisional measures protect jurisdictional exclusivity
+over the merits.'®* In this, Article 1134 mirrors the practice of the early
+ICSID tribunals, as well as that of the Iran—US Claims Tribunal.'©’ The
+use of the word ‘including’ indicates that a NAFTA tribunal would not be
+limited to only these two varieties of order; however, Article 1134 removes
+some options from the tribunal, preventing orders for attachment (pro-
+visional seizure) of property or the enjoining (provisional prohibition)
+of measures purportedly contrary to NAFTA’s investment protections, a
+
+167 Meg Kinnear et al, Investment Disputes under NAFTA: An Annotated Guide to Chapter 11
+(Alphen aan den Rijn: Kluwer, 2006) 1134-1.
+
+168 Earlier drafts of the provision made express mention of orders to preserve urisdic-
+tional exclusivity’, but this language was eventually abandoned in favour of the current
+formulation: ibid, 1134—1—-1134-2.
+
+The shift in language, however, does not appear to confer ona NAFTA tribunal an exclusive
+right to award interim relief once seized, and such a reading would appear to contradict
+the waiver provision in NAFTA Art 1121, which permits a party to obtain injunctive,
+declaratory or other extraordinary relief before municipal courts without compromising
+the arbitral bargain: ibid, 1134-2. Cf. ICSID Rules, Rule 39(6); ICSID (AF) Rules, Art
+46(4); 1976 UNCITRAL Rules, Art 26(3); 2010 UNCITRAL Rules, Art 26(9).
+
+169
+
+AOVETSTEdT GST S.005 Published online by Cambridge University Press
+INTERNATIONAL INVESTMENT ARBITRATION 113
+
+position consistent with the decision of the states parties in Article 1135 to
+limit Chapter 11 relief to damages or the restitution at the election of the
+claimant.'”° Indeed, in both the Pope & Talbot v Canada'”! and Feldman
+v Mexico,'”* Chapter 11 tribunals operating under the Additional Facility
+rejected applications for provisional measures on the basis that they called
+for the enjoining of measures.
+
+A final difference between NAFTA Article 1134 and Article 47 of the
+ICSID Convention arises from the final sentence of the former which
+states that an ‘order’ within the meaning of the provision includes a
+‘recommendation’ This is a direct response to uncertainty at the time at
+which NAFTA was drafted as to whether a ‘recommendation’ of interim
+relief under Article 47 could be considered binding. The clause therefore
+acts as a deeming provision to unequivocally affirm the obligatory nature
+of provisional measures where a NAFTA tribunal is acting within the
+ICSID system. However, since the decision by the ICSID tribunal in
+Maffezini v Spain that Article 47 measures are binding and the adoption
+of this position by many successor tribunals this element of NAFTA Article
+1134 has largely lost its meaning.
+
+C Provisional Measures Under the ICSID Rules and ICSID (AF) Rules
+1 Rule 39 of the ICSID Rules
+
+Since the conclusion of the ICSID Convention, several iterations of the
+ICSID Rules have appeared, with the first set formally issued by the
+Administrative Council in 1968.'”° In each of these, Rule 39 concerning
+provisional measures has remained substantially unaltered, save for the
+addition of two paragraphs. The Rule provides substantial guidance in
+the award of interim relief by ICSID tribunals, and reads as follows:
+
+(1) Atany time after the institution of the proceeding, a party may request
+that provisional measures for the preservation of its right be recom-
+mended by the Tribunal. The request shall specify the rights to be
+preserved, the measures the recommendation of which is requested,
+and the circumstances that require such measures.
+
+70 Kinnear et al., NAFTA Chapter 11, 1134-4.
+
+“1 Pope and Talbot Inc v Canada, Interim Measures (2000) 122 ILR 301, 301.
+
+"72 Marvin Roy Feldman Karpa v Mexico, ICSID Case No ARB(AF)/99/1 (Procedural Order
+No 2, 3 May 2000) $5.
+
+3 1 ICSID Reports 63. See also the 1984 Rules: 1 ICSID Reports 157. Further: Antonio R
+Parra, “The Development of the Regulations and Rules of the International Centre for
+Settlement of Investment Disputes’ (2007) 22 ICSID Rev — FIL] 55.
+
+ny
+
+PSTS4T 9S 72.005 Published online by Cambridge University Press
+114 CONSTITUTIVE INSTRUMENTS AND PROCEDURAL RULES
+
+(2) The Tribunal shall give priority to the consideration of a request made
+pursuant to paragraph (1).
+
+(3) The Tribunal may also recommend provisional measures on its own
+initiative or recommend measures other than those specified in a
+request. It may at any time modify or revoke its recommendations.
+
+(4) The Tribunal shall only recommend provisional measures, or modify
+or revoke its recommendations, after giving each party the opportu-
+nity of presenting its observations.
+
+(5) Ifa party makes a request pursuant to paragraph (1) before the consti-
+tution of the Tribunal, the Secretary-General shall, on the application
+of either party fix time limits for the parties to present observations on
+the request, so that the request and observations may be considered
+by the Tribunal promptly on its constitution.
+
+(6) Nothing in this rule shall prevent the parties, provided they have so
+stipulated in the agreement recording their consent, from requesting
+any judicial or other authority to order provisional measures, prior to
+or after the institution of the proceeding, for the preservation of their
+respective rights and interests.
+
+As with Article 47 of the ICSID Convention, Rule 39 is clearly referable
+to the practice of the ICJ as it existed in the 1960s. Unlike the ICJ Rules,
+however, the ICSID Rules (or at least Rule 39) have not undergone a com-
+prehensive revision since they were first issued, and as such the precedent
+reflected in Rule 39 is with some additions that of Article 61 the 1948 IC]
+Rules, itself replicating Article 61 of the 1936 PCIJ Rules, and reflecting
+an understanding of provisional measures that was extant at that time.
+Rule 39(1) sets out the timing and content of an application for provi-
+sional measures in a similar manner to Article 61(1), with Rule 39(2)
+replicating Article 61(2) in giving priority to such applications over other
+matters. Rule 39(3) gives a tribunal the capacity to award provisional
+measures proprio motu and otherwise than in accordance with the appli-
+cation, conflating thereby Articles 61(4) and (6). It also gives the tribunal
+to the ability to modify or revoke measures as in Article 61(7). Rule 37(4),
+in turn, prohibits the granting of interim relief completely ex parte in a
+similar manner to Article 61(8).
+
+Rules 37(5) and (6), however, reflect the sui generis character of the
+ICSID system. Rule 37(6), added in 1984 as paragraph 5, concerns interim
+measures issued by a municipal court. Unless the parties otherwise
+provide (an unlikely outcome), the tribunal — even constituted — retains
+exclusive jurisdiction over interim relief, an addition that reflects the
+general exclusivity of ICSID arbitration per Article 26 of the ICSID
+
+PSTS4T 9S 72.005 Published online by Cambridge University Press
+INTERNATIONAL INVESTMENT ARBITRATION 115
+
+Convention.'”* Given the absence of a mechanism similar to UNCLOS
+Article 290(5), the withholding of interim relief until composition of the
+tribunal has the potential to permit damage to be done to the status quo,
+and Rule 37(6) has been criticized accordingly.'”? Rule 39(5) was inserted
+during the 2006 revision of the ICSID Rules in an effort to ameliorate this
+situation and is intended to ensure that the tribunal is in a position to
+consider the observations of both claimant and respondent immediately
+on its constitution, !”° utilizing the office of the ICSID Secretary-General
+to this effect.
+
+2 Article 46 of the ICSID (AF) Rules
+
+Within the Additional Facility, Article 46 (formerly Article 47!””) of the
+ICSID (AF) Rules provides a streamlined version of Rule 39. It provides
+as follows:
+
+(1) Unless the arbitration agreement otherwise provides, either party
+may at any time during the proceeding request that provisional
+measures for the preservation of its rights be ordered by the Tri-
+bunal. The Tribunal shall give priority to the consideration of such a
+request.
+
+(2) The Tribunal may also recommend provisional measures on its own
+initiative or recommend measures other than those specified in a
+request. It may at any time modify or revoke its recommendations.
+
+(3) The Tribunal shall order or recommend provisional measures, or any
+modification or revocation thereof, only after giving each party an
+opportunity of presenting its observations.
+
+(4) The parties may apply to any competent judicial authority for interim
+or conservatory measures. By doing so, they shall not be held to
+infringe the agreement to arbitrate or to affect the powers of the
+Tribunal.
+
+Paragraphs (1)—(3) of Article 46 are distilled from paragraphs (1)-(4)
+of Rule 39 of the ICSID Rules, and preserve the conceptual core of a
+
+4 Thomas H Webster, Handbook of Investment Arbitration (London: Sweet and Maxwell,
+
+2012) 541-2; ICSID Commentary, 399-400.
+
+“5 Jagusch and Sullivan, ‘ICSID and UNCITRAL Arbitration’, 90; Piero Bernardini, ‘ICSID
+versus non-ICSID Investment Treaty Arbitration’, in M A Fernandez-Ballesteros and D
+Arias (eds), Liber Amicorum Bernardo Cremades (Buenos Aries: La Ley, 2010) 159, 173-4.
+
+© Webster, Handbook, 540.
+
+7 The original Rules were released in 1974 by the Administrative Council before a revision
+in 2003: 1 ICSID Reports 249. Further: Parra, “ICSID Regulations and Rules’, 52-5; Parra,
+History of ICSID, 145-9, 246-9.
+
+PAOPETSTEdT GST S.005 Published online by Cambridge University Press
+eae rt eN wnat
+via ae fF ie ;
+LIDS VOL ora randa s
+
+116 CONSTITUTIVE INSTRUMENTS AND PROCEDURAL RULES
+
+tribunal’s power to award provisional measures, with one interesting
+exception — under Article 46(1), a party may request that provisional
+measures be ordered, but when acting pursuant to Article 46(2) so as
+to award relief proprio motu or otherwise than in accordance with the
+application, a tribunal may only recommend provisional measures. From
+a purely linguistic standpoint, this would tend to indicate that Article
+46(2) measures should not be considered binding, but the paragraph has
+yet to be the subject of interpretation by a tribunal. However, given the
+overt position taken by other ICSID tribunals in applying Article 47 of
+the ICSID Convention, as well as the general trend of other international
+courts and tribunals, it seems unlikely that a tribunal applying Article
+46(2) would deem its efforts to be merely hortatory.
+
+A more substantial difference lies in Article 46(4), which aban-
+dons the exclusivity of interim relief seen in Rules 39(5) and (6).
+This is similar in scope to the waiver provision of NAFTA Arti-
+cle 1121, and allows a party to seek interim relief before munici-
+pal court prior to (and indeed after) the composition of the arbitral
+tribunal.
+
+V_ Arbitral Tribunals and the UNCITRAL Arbitration Rules
+A Arbitration and International Dispute Settlement
+
+1 The Permanent Court of Arbitration
+
+Since the Alabama Claims arbitration of 1872,'”® states have regularly
+resolved their differences via the use of arbitral tribunals, empowered
+by treaty to resolve a particular dispute or category of disputes.!”? With
+respect to inter-state arbitration in particular, these proceedings may be
+administered by the Permanent Court of Arbitration (PCA),'®? which,
+as is often said, is not permanent, is not a court and does not arbitrate.
+
+178 Alabama Claims (US/Great Britain) (1871) 29 RIAA 125. Further: John Bassett Moore, 1
+History and Digest of the International Arbitrations to which the United States Has Been a
+Party (Washington, DC: Government Printing Office, 1898) 495-680; Tom Bingham, “The
+Alabama Claims Arbitration’ (2005) 54 ICLQ 1. Other early successes include Behring Sea
+Fur Seals (US/Great Britain) (1893) 28 RIAA 263 and British Guiana—Venezuela Boundary
+(Venezuela/Great Britain) (1899) 28 RIAA 331.
+
+See e.g. Great Britain—United States, Treaty for the Amicable Settlement of All Causes of
+Difference between the Two Countries, 8 May 1871, 143 CTS 145, on which the Alabama
+Claims arbitration was based.
+
+180 Collier and Lowe, Settlement of Disputes, 35-8; Nisuke Ando, ‘Permanent Court of Arbi-
+
+tration, MPEPIL (2006); Ruth Mackenzie et al., Manual, ch 4.
+
+179
+
+AOVETSTEdT GST S.005 Published online by Cambridge University Press
+ARBITRAL TRIBUNALS AND THE UNCITRAL ARBITRATION RULES 117
+
+Like ICSID, the PCA is an arbitral institution, albeit one specifically con-
+ceived to deal with inter-state matters, and was established by the 1899
+Hague Convention on the Pacific Settlement of International Disputes.'*!
+In hearing some 20 disputes between 1900 and 1932, the PCA was the
+dominant forum for the resolution of international disputes — the advent
+of the PCIJ, however, prompted some seven decades of hibernation, dur-
+ing which time any inter-state arbitrations were largely resolved on an ad
+hoc basis.'®?
+
+Since 1981, however, the PCA has undergone something of a revival,
+in part due to its willingness to administer UNCLOS Annex VII and
+non-ICSID investor-state arbitrations, as well as a wide variety of other
+international disputes.'®* This has led to a somewhat unlikely situation
+in which the PCA has in the immediate past had, for the first time in the
+joint history of the two bodies, more inter-state matters on its docket than
+the IC].
+
+2 International Claims and Compensation Bodies
+
+Disputes arising from inter-state relations do not always endear them-
+selves to a simple declaration of liability or non-liability, or to the award
+of a single lump sum amount in damages — a single relationship or inci-
+dent may result in a multitude of smaller claims. In such cases, states have
+on occasion opted to establish ad hoc dispute resolution bodies for the
+settlement of a suite of claims between states. As they are convened to
+deal with a specific situation, the existence of such bodies may be pro-
+longed. The first such body was established by the US and Great Britain
+by the 1794 Jay Treaty for the resolution of certain boundary disputes
+along the northeastern border between the US and Canada.'** A more
+modern example is the Eritrea—Ethiopia Claims Commission,'®’ which
+
+181. 29 July 1899, 187 CTS 410. This was amended in turn by the Convention on the Pacific
+Settlement of International Disputes, 18 October 1907, 205 CTS 233.
+
+In such cases, the facilities of the PCA were occasionally used, but its legal architecture
+was largely neglected: Collier and Lowe, Settlement of Disputes, 36-7.
+
+183 Ando, ‘PCA’, §§29-35; Jacomijn J Haersolte-van Hof, ‘The Revitalization of the Perma-
+nent Court of Arbitration’ (1997) 54 NILR 395; Mackenzie et al., Manual, 121-2.
+
+Treaty of Amity, Commerce, and Navigation between His Brittanick Majesty and the
+United States of America, 19 November 1794, 52 CTS 249. Further: Katja S Zeigler, ‘Jay
+Treaty (1794), MPEPIL (2007).
+
+Agreement between the Government of the Federal Democratic Republic of Ethiopia and
+the State of Eritrea, 12 December 2000, 40 ILM 260. Further: Natalie Klein, ‘Ethiopia—
+Eritrea Claims Commission’, MPEPIL (2010).
+
+182
+
+184
+
+185
+
+AOVETSTEdT GST S.005 Published online by Cambridge University Press
+118 CONSTITUTIVE INSTRUMENTS AND PROCEDURAL RULES
+
+over nine years of operation determined a range of questions resulting
+from the two-year armed conflict relating to the land border between the
+two countries.
+
+A related category of tribunal is that established to deal with mass
+claims between states and the nationals of other states with respect to
+a particular international situation. The most prominent of these is the
+Iran—US Claims Tribunal, which was established following the 1979 Ira-
+nian Revolution to deal with claims arising from the nationalization of
+US-owned assets in Iran during the overthrow of the Shah.'®° Over the life
+of the Tribunal, more than 3,800 cases have been filed, with the majority
+now concluded.
+
+3 Non-ICSID Investment Arbitration
+
+Finally, some mention should be made outside of investor-state arbitra-
+tion that occurs outside the ICSID system. In such cases, the sole instru-
+ment for the composition of the tribunal and the hearing of the claim
+is the investment treaty itself — the additional framework of the ICSID
+Convention or the Additional Facility will not apply. Such matters may be
+administered by an arbitral institution such as the PCA, the International
+Chamber of Commerce (ICC) and others, or by no arbitral institution at
+all. In both cases, however, enforcement of the award is guaranteed by the
+New York Convention.
+
+B The UNCITRAL Arbitration Rules
+
+1 Drafting and Proliferation
+
+The aforementioned forms of dispute resolution encompass a wide range
+of international tribunals, many of them sui generis in character and with
+no apparent common connection beyond being rooted generally in pub-
+lic international law. Nonetheless, many of these bodies have adopted
+or adapted a single set of procedural rules for their own use. Unlike the
+other procedural rules considered in this chapter, the 1976 UNCITRAL
+Arbitration Rules (UNCITRAL Rules) were not prepared with any par-
+ticular tribunal or dispute in mind. Indeed, they were not even drafted
+with a view to application in inter-state disputes, but were intended to
+
+'86 Declaration of the Government of Algeria Concerning the Settlement of Claims by the
+Government of the United States of America and the Government of the Islamic Republic
+of Iran, 19 January 1981, 20 ILM 224. Further: Christopher Pinto, “Iran—United States
+Claims Tribunal, MPEPIL (2005).
+
+PSTS4T 9S 72.005 Published online by Cambridge University Press
+ARBITRAL TRIBUNALS AND THE UNCITRAL ARBITRATION RULES 119
+
+apply to international commercial arbitration between natural or juridical
+persons.
+
+The UNCITRAL Rules developed as part of a wider evolution of an
+effective and trustworthy system of international commercial arbitration
+over the past six decades. This system is built upon three columns, with
+UNCITRAL itself playing a central role in the evolution of all three.'®” The
+first column is the New York Convention, which in essence allows private
+parties to utilize the national courts of one country to implement arbitral
+awards issued in another country. The second is the 1985 UNCITRAL
+Model Law on International Commercial Arbitration'®® as amended in
+2006.'®’ As its name suggests, this provides a model for a municipal
+arbitration statute capable of producing an award compliant with the
+New York Convention.!”? The third column is the UNCITRAL Rules
+themselves.
+
+The UNCITRAL Rules developed out of a review commissioned in the
+wake of the successful conclusion of the New York Convention. At its sec-
+ond session in 1969, UNCITRAL directed Ion Nestor of Romania to act as
+Special Rapporteur to prepare a report on significant issues arising from
+the application and interpretation of instruments concerning interna-
+tional commercial arbitration.'?! Nestor duly prepared an interim report
+in 1970! and a final report in 1972,’ in which he recommended the
+formation of a working group for the creation of a model set of uniform
+arbitration rules that would reflect and harmonize the world’s predomi-
+nant legal traditions. When this proposal was put to state representatives
+on the Commission, the response was positive,!** and the UNCITRAL
+Secretary-General was accordingly directed to prepare a set of draft rules
+in consultation with leading experts in the field.'!”? The draft, which was
+presented to the Commission in 1975,'*° took account of the New York
+Convention, the ICSID Convention and the 1961 European Convention
+on International Commercial Arbitration,!”’ but special attention was
+paid to two extant sets of arbitral rules formulated by the UN — the 1966
+
+'87 David D Caron and Lee M Caplan, The UNCITRAL Arbitration Rules: A Commentary
+(Oxford: Oxford University Press, 2nd edn, 2013) 1-2.
+
+188 Annexed to GA Res 40/72 (11 December 1985).
+
+189 Annexed to GA Res 61/33 (4 December 2006).
+
+199 See e.g. International Arbitration Act 1974 (Cth). 8! UNCITRAL Ybk 1970/I, 108.
+
+1922 UN Doc A/CN.9/42 (18 February 1970), Annex, §74.
+
+'°8 UNCITRAL Ybk 1972/III, 247. '°* UNCITRAL Ybk 1973/IV, 130-1.
+
+195 Tbid, 21. 1° UNCITRAL Ybk 1975/VI, 163.8”: 12 April 1961, 484 UNTS 349.
+
+PSTS4T 9S 72.005 Published online by Cambridge University Press
+eae rt eN wnat
+via ae fF ie ;
+LIDS VOL ora randa s
+
+120 CONSTITUTIVE INSTRUMENTS AND PROCEDURAL RULES
+
+Arbitration Rules of the UN Economic Commission for Europe’?® (ECE
+Rules) and the 1966 Rules for International Commercial Arbitration of
+the UN Economic Commission for Asia and the Far East!?? (ECAFE
+Rules). Following certain suggestions, a revised set of draft rules with
+commentary was prepared the following year,*”° and following consider-
+ation, adopted.*’! The General Assembly recommended the Rules to the
+UN membership shortly thereafter.
+
+The drafters of the UNCITRAL Rules do not appear to have considered
+that their work might apply to a situation in which a state was involved, at
+least not overtly. A review piece by Pieter Sanders, perhaps the foremost
+expert relied upon by the Secretariat in the preparation of the original
+draft, makes no reference to the application of the rules to anything more
+than international business transactions.”°* More widely, there does not
+appear to have been much faith that the Rules would be successful at all.
+They had been deliberately designed to operate independently in a world
+then dominated by established arbitral institutions such as the ICC, each
+with their own procedural rules.” In 1981, however, Article III(2) of the
+Claims Settlement Declaration establishing the Iran—US Claims Tribunal
+directed the Tribunal to utilize the Rules, save to the extent modified by the
+parties and the Tribunal itself. The Rules of the Tribunal were adopted on
+3 May 1983, and reflected the terms of the UNCITRAL Rules, amended so
+as to be consistent with the Claims Settlement Declaration.”°* However,
+the core procedures of the rules — including those pertaining to interim
+relief — remained untouched.
+
+The practice of the Iran—US Claims Tribunal simultaneously created
+an extensive jurisprudence for the application of the UNCITRAL Rules?”
+
+198 UNCITRAL Register, 100. Further: Ernst J Cohn, ‘The Rules of Arbitration of the United
+Nations Economic Commission for Europe’ (1967) 16 ICLQ 946.
+
+199 UNCITRAL Register, 95. Further: Pieter Sanders, ‘ECAFE Rules for International Com-
+mercial Arbitration’, in P Sanders (ed), International Arbitration: Liber Amicorum for
+Martin Domke (The Hague: Martinus Nijhoff, 1967).
+
+200 UNCITRAL Ybk 1976/VII, 157. -*°!-‘Thid, 21.
+
+202 Pieter Sanders, ‘Procedures and Practices under the UNCITRAL Rules’ (1979) 27 AJCL
+453.
+
+203 Caron and Caplan, UNCITRAL Commentary, 4.
+
+04 Tbid, 4-6; Howard M Holtzmann, ‘Drafting the Rules of the Tribunal’, in D D Caron and
+J R Crook, The Iran—United States Claims Tribunal and the Process of International Claims
+Resolution (Ardsley, NY: Transnational, 2000) 81-91.
+
+205 See e.g. Jacomijn J van Hof, Commentary on the UNCITRAL Arbitration Rules: The
+Application by the Iran—US Claims Tribunal (Deventer: Kluwer, 1991); Stewart A Baker
+and Mark D Davis, The UNCITRAL Arbitration Rules in Practice: The Experience of
+the Iran—United States Claims Tribunal (Deventer: Kluwer, 1992); Charles N Brower
+
+AOVETSTEdT GST S.005 Published online by Cambridge University Press
+ARBITRAL TRIBUNALS AND THE UNCITRAL ARBITRATION RULES 121
+
+and promoted their use in investor-state dispute resolution. In the BIT
+context, arbitration according to the UNCITRAL Rules is now referenced
+as a dispute settlement mechanism more often than any other save ICSID
+arbitration.””° A similar picture emerges in the multilateral context.?””
+With reference to inter-state matters, variants of the UNCITRAL Rules
+have been adopted with regularity by Annex VII tribunals under UNC-
+LOS, and the Rules further formed the basis for the four sets of Optional
+Rules developed by the PCA in the early 1990s,7°° with the 2010 revision
+of the Rules influencing the drafting of the consolidated PCA Arbitration
+Rules of 2012.7
+
+2 The 2010 Amendments
+
+In 2010, the UNCITRAL Arbitration Rules underwent revision, a process
+prompted by a 2004 article by Sanders that advocated reform of the Rules
+in order to bring them into line with the Model Law.*'° This was followed
+by a wider report on the topic by Paulsson and Petrochilos in 2006, which
+generally concurred and added that although widely used in investor-state
+arbitration, the Rules in their original format were not entirely suited to
+that context.?!’ UNCITRAL accordingly directed its Working Group II to
+undertake a review of the Rules, although, due to the success of the Rules
+to date, the Commission was ‘generally of the view that any revision of
+the UNCITRAL Arbitration Rules should not alter the structure of the
+text, its spirit or its drafting style, and should respect the flexibility of the
+text rather than make it more complex’’’? Over several years, Working
+
+and Jason D Brueschke, The Iran—United States Claims Tribunal (The Hague: Martinus
+
+Nijhoff, 1998).
+
+On average, the UNCITRAL Rules govern 25 per cent of investment arbitrations in a
+
+given year, though this may vary in particular cases — for example, the Rules governed 52
+
+per cent of investor-state arbitration claims commenced in 2006: Levine, “Navigating the
+
+parallel universe’, 375-6.
+
+207 Caron and Caplan, UNCITRAL Commentary, 7-8.
+
+208 PCA Basic Documents, x. Further: PCA Optional Rules for Arbitrating Disputes between
+
+Two States, PCA Basic Documents, 41; PCA Optional Rules for Arbitrating Disputes
+
+between Two Parties of Which Only One Is a State, PCA Basic Documents, 69; PCA
+
+Optional Rules for Arbitration Involving International Organizations and States, PCA
+
+Basic Documents, 97.
+
+PCA Arbitration Rules 2012, Introduction, www.pca-cpa.org.
+
+210 Pieter Sanders, ‘Has the Moment Come to Revise the Arbitration Rules of UNCITRAL?”’
+
+(2004) 20 Arb Int’l 243.
+
+Jan Paulsson and Georgios Petrochilos, Revision of the UNCITRAL Arbitration Rules
+
+(unofficial report, 2006) $$3-8, www. uncitral.org/pdf/english/news/arbrules_report.pdf.
+
+212, UN Doc A/61/17 (14 July 2006) $184. For its part, Working Group II saw its brief as
+follows (UN Doc A/CN.9/614 (15 September 2006) $16):
+
+206
+
+209
+
+21
+
+an
+
+https://doi.org/10.1017/9781316410813.005 Published online by Cambridge University Press
+eae rt eN wnat
+via ae fF ie ;
+LIDS VOL ora randa s
+
+122 CONSTITUTIVE INSTRUMENTS AND PROCEDURAL RULES
+
+Group II produced a comprehensive draft, which was adopted by the
+Commission in 2010.7°
+
+Within the international commercial arbitration sphere, the adoption
+of the 2010 UNCITRAL Rules has been enthusiastic. This cannot as yet
+be said to the same extent in the context of investor-state disputes, due
+principally to the fact that the jurisdiction of these tribunals is usually
+established by treaties or other instruments pre-dating the 2010 amend-
+ment that refer simply to ‘the Arbitration Rules of [UNCITRAL]; as
+opposed to such Rules ‘as amended from time to time.?!* The same
+position applies to inter-state disputes, at least those which are based on
+treaties concluded pre-2010. Whilst an argument might perhaps be made
+that such treaties should be interpreted dynamically such that what would
+previously have been taken as a reference to the 1976 Rules should instead
+be deemed a reference to the 2010 amendment,”"° this does not seem like
+a plausible reading of such texts, given the ease with which clarificatory
+wording might have been added. Nonetheless, it is to be expected that
+use of the 2010 Rules in the investor-state context will increase over time
+as new investment agreements are concluded per Article 1(2) of the 2010
+Rules themselves. Thus, in the case of ASEAN, concluded in 2012, the
+
+[The Group] viewed the UNCITRAL Arbitration Rules as one of the most successful
+instruments of UNCITRAL and therefore cautioned against any unnecessary amend-
+ments or statements being included in the travaux préparatoires that would call into
+question the legitimacy of prior applications of the Rules in specific cases. It was
+considered that the focus of the revision should be on updating the Rules to meet
+changes that had taken place over the last thirty years in arbitral practice, not on
+simply making them more complex.
+
+213 UN Doc A/65/17 (9 July 2010) $187.
+
+714 See e.g. the UK—Argentina BIT, 11 December 1990, 1765 UNTS 33, Art 8(3)(b); the
+Germany—Argentina BIT, 9 April 1991, 1910 UNTS 198, Art 10(4); the Netherlands—
+Czech Republic BIT, 29 April 1991, 2242 UNTS 224, Art 8(5); the France—Argentina
+BIT, 3 July 1991, 1728 UNTS 298, Art 8(3); the US—Ecuador BIT, 27 August 1993, Basic
+Documents: Investment doc 64, Art VII(a) (iii). A similar picture emerges in the case of
+the major multilateral agreements: ECT Art 26(4)(b); DR-CAFTA Arts 10.16(3)(c) and
+10.28. In the case of NAFTA, Art 1139 specifically defines ‘UNCITRAL Arbitration Rules’
+as meaning only the 1976 Rules.
+
+Legal Consequences for States of the Continued Presence of South Africa in Namibia
+(South West Africa) notwithstanding Security Council Resolution 276 (1970), ICJ Reports
+1971 p 16, (1971) 31; Dispute regarding Navigational and Related Rights (Costa Rica v
+Nicaragua), ICJ Reports 2009 p 213, 242-4. Further: Martin Dawidowicz, “The Effect of
+the Passage of Time on the Interpretation of Treaties’ (2011) 24 LJIZ 201; James Craw-
+ford, State Responsibility: The General Part (Cambridge: Cambridge University Press,
+2013) 246-50.
+
+215
+
+AOVETSTEdT GST S.005 Published online by Cambridge University Press
+ARBITRAL TRIBUNALS AND THE UNCITRAL ARBITRATION RULES 123
+
+reference to the UNCITRAL Rules in Article 33(1)(d) should be taken as
+a reference to the 2010 Rules. Similarly, in the case of bilateral agreements
+based on the 2012 US Model BIT, the reference to the UNCITRAL Rules
+in Article 24(3)(c) must be taken to refer to the 2010 Rules.
+
+But that is not to say that, notwithstanding the wording of the relevant
+agreement, the parties cannot themselves agree to use the 2010 Rules. For
+example, in Philip Morris v Australia, the relevant investment agreement,
+the 1993 Australia—Hong Kong BIT, declared the UNCITRAL Rules to be
+the default procedural law of the arbitration.”!° As discussed, this would
+ordinarily require the use of the 1976 Rules. The parties, however, agreed
+to the use of the 2010 Rules.?"”
+
+C Provisional Measures Under the UNCITRAL Rules
+
+1 Article 26 of the 1976 Rules
+Article 26 of the 1976 Rules provides as follows:
+
+(1) Atthe request of either party, the arbitral tribunal may take any interim
+measures it deems necessary in respect of the subject matter of the
+dispute, including measures for the conservation of goods forming
+the subject-matter in dispute, such as ordering their deposit with a
+third person or the sale of perishable goods.
+
+(2) Such interim measures may be established in the form of an interim
+award. The arbitral tribunal shall be entitled to security for the costs
+of such measures.
+
+(3) A request for interim measures addressed by a party to a judicial
+authority shall not be deemed incompatible with the agreement to
+arbitrate, or as a waiver of that agreement.
+
+The travaux préparatories of the 1976 Rules indicates that this provi-
+sion was developed from an amalgam of Article VI(6) of the ECAFE
+Rules, and the more specific provision of Article 27 of the ECE Rules.”!®
+As it is intended to reflect the requirements of international commer-
+cial arbitration (e.g. in the reference to sale of goods in paragraph (1)) it
+evinces a more commercial flavour than other rules that could conceivable
+apply to a broader range of situations. Nonetheless, it remains generally
+
+716 15 September 1993, [1993] ATS 30, Art 10.
+
+217 Philip Morris Asia Ltd v Australia, PCA Case No 2012-12 (Procedural Order No 1, 7 June
+2012) $4.1.
+
+218 UNCITRAL Ybk 1976/VII, 176.
+
+PSTS4T 9S 72.005 Published online by Cambridge University Press
+124 CONSTITUTIVE INSTRUMENTS AND PROCEDURAL RULES
+
+applicable — the reference to sale of goods and sequestration is an
+afterthought to the dominant general reference to the preservation of
+the subject matter of the dispute, with the tribunal being given the power
+to ‘take any interim measures it deems necessary. Moreover, the bind-
+ing nature of the rules is placed beyond doubt by paragraph 2, which
+gives the tribunal the option to establish interim relief in the form of an
+interim award. Per Article 32(2), such an award is final and binding on
+the parties. Finally, paragraph 3 again reflects the notion that the arbitral
+process may be backed by a national court, and that recourse to such
+a court in the context of interim relief does not undermine the arbitral
+bargain as a whole, in a similar manner to other arbitral rules that may
+function independently of an arbitral institution, i.e. in situations where
+interim relief may be required prior to the constitution of the arbitral
+tribunal.
+
+It may be noted that Article 26 of the 1976 Rules possesses less proce-
+dural articulation than that furnished, for example, by Article 47 of the
+ICSID Convention and Article 39 of the ICSID Rules operating in con-
+junction. Any deficiency in this respect, however, is remedied by Article
+15(1), giving the tribunal a general power to full procedural lacuna, subject
+to the equality of the parties and due process. The travaux préparatoires
+provide an additional source of illumination, noting that under Article
+26 measures may not be ordered proprio motu, but must be requested by
+one of the parties.”
+
+2 Article 26 of the 2010 Rules
+
+In contrast to the somewhat skeletal Article 26 of the 1976 Rules, its
+amended equivalent has expanded to become the longest provision in
+the 2010 Rules, somewhat undermining the Working Group’s claim that
+it would ‘respect the flexibility of the text rather than make it more
+complex’. But it is to be remembered that one of the prime movers behind
+the amendment was the desire to align the Rules with the New York
+Convention and the Model Law. It is this that explains the elaboration
+of Article 26.7" Indeed, rather than use Article 26 of the 1976 Rules as a
+point of departure, Article 26 of the 2010 Rules is based on Article 17 of
+the 2006 Model Law.”?! The provision reads:
+
+219 Ibid. 7 Caron and Caplan, UNCITRAL Commentary, 515.
+221 UN Doc A/CN.9/614 (11-15 September 2006) $105. This was one of the recommenda-
+tions made by Paulsson and Petrochilos, Revision of the UNCITRAL Rules, §206.
+
+PSTS4T 9S 72.005 Published online by Cambridge University Press
+ARBITRAL TRIBUNALS AND THE UNCITRAL ARBITRATION RULES 125
+
+(1)
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+(8)
+
+(9)
+
+a4
+
+PERRY
+
+The arbitral tribunal may, at the request of a party, grant interim
+
+measures.
+
+An interim measure is any temporary measure by which, at any time
+
+prior to the issuance of the award by which the dispute is finally
+
+decided, the arbitral tribunal orders a party, for example and without
+limitation, to:
+
+(a) Maintain or restore the status quo pending determination of the
+dispute;
+
+(b) ‘Take action that would prevent, or refrain from taking action that
+is likely to cause, (i) current or imminent harm or (ii) prejudice
+to the arbitral process itself;
+
+(c) Provide a means of preserving assets out of which a subsequent
+award may be satisfied; or
+
+(d) Preserve evidence that may be relevant and material to the reso-
+lution of the dispute.
+
+The party requesting an interim measure under paragraphs 2(a) to
+
+(c) shall satisfy the arbitral tribunal that:
+
+(a) Harm not adequately reparable by an award of damages is likely to
+result if the measure is not ordered, and such harm substantially
+outweighs the harm that is likely to result to the party against
+whom the measure is directed if the measure is granted; and
+
+(b) There is a reasonable possibility that the requesting party will
+succeed on the merits of the claim. The determination on this
+possibility shall not affect the discretion of the arbitral tribunal
+in making any subsequent determination.
+
+With regard to a request for an interim measure under paragraph 2
+
+(d), the requirements in paragraphs 3(a) and (b) shall apply only to
+
+the extent the arbitral tribunal considers appropriate.
+
+The arbitral tribunal may modify, suspend or terminate an interim
+
+measure it has granted, upon application ofany party or, in exceptional
+
+circumstances and upon prior notice to the parties, on the arbitral
+tribunal’s own initiative.
+
+The arbitral tribunal may require the party requesting an interim
+
+measure to provide appropriate security in connection with the
+
+measure.
+
+The arbitral tribunal may require any party promptly to disclose any
+
+material change in the circumstances on the basis of which the interim
+
+measure was requested or granted.
+
+The party requesting an interim measure may be liable for any costs
+
+and damages caused by the measure to any party if the arbitral tri-
+
+bunal later determines that, in the circumstances then prevailing, the
+measure should not have been granted. The arbitral tribunal may
+award such costs and damages at any point during the proceedings.
+
+A request for interim measures addressed by any party to a judicial
+
+authority shall not be deemed incompatible with the agreement to
+
+arbitrate, or as a waiver of that agreement.
+
+B470232.005 Published online by Cambridge University Press
+126 CONSTITUTIVE INSTRUMENTS AND PROCEDURAL RULES
+
+As may be appreciated, Article 26 of the 2010 Rules provides the pro-
+cedural complexity that was lacking in its 1976 equivalent.’ It reflects
+closely Article 17 of the 2006 Model Law, which was itself expanded so
+that municipal courts might feel more comfortable in awarding interim
+relief.?*° Article 17, however, was not copied exactly, with certain amend-
+ments made in order to account for the difference in function and scope
+between the Rules and the Model Law. Beyond this, however, the provision
+broadly reflects the procedural standard for provisional measures seen in
+the other instruments in this chapter. Paragraph 1 establishes the power to
+award interim relief, but states that this may only occur on the request of
+a party, thereby rendering express what had previously only been implied
+in the travaux. Paragraph 2 preserves the general power of the tribunal
+to order whatever provisional measures it sees fit, and provides a list of
+illustrative examples that are ‘without limitation’. Notably, the reference
+to the ‘subject matter of the dispute’ that was present in the 1976 Rules
+was omitted, giving the provision a less restrictive focus, and permitting
+the granting of wider measures, i.e. those designed for the prevention of
+the further escalation of the dispute.
+
+Paragraph 3 of Article 26 introduces substantive considerations to
+the application of the provision by requiring the party seeking relief to
+demonstrate irreparable harm, that the grant of relief would not unduly
+burden the other party, and a reasonable prospect of success on the mer-
+its. Interestingly, no specific mention is made of the need to demonstrate
+prima facie jurisdiction — although such an element could easily be sub-
+sumed within the wider need to demonstrate a prima facie case on the
+merits. Paragraph 5 provides the tribunal with the power to modify or
+terminate its earlier decisions, either on the application of one of the
+parties or proprio motu, but places a restriction on the latter in requiring
+modification with notice and only in exceptional cases. Significantly, the
+provision also indicates that a frivolous request for provisional measures
+may have adverse consequences — paragraph 6 provides for the pledging
+of security against an award of interim relief, and paragraph 8 that a party
+may be liable for costs and damages arising out of provisional measures at
+
+222 Por detailed commentary on the substance of Art 26, see Caron and Caplan, UNCITRAL
+Commentary, 513-32; Clyde Croft et al., A Guide to the UNCITRAL Arbitration Rules
+(Cambridge: Cambridge University Press, 2013) 266-97.
+
+223 Tames Castello, ‘Generalizing About the Virtues of Specificity: The Surprising Evolution
+of the Longest Article in the UNCITRAL Model Law’ (2012) 6 W Arb Med R 7; Croft
+et al., UNCITRAL Guide, 271-8.
+
+PSTS4T 9S 72.005 Published online by Cambridge University Press
+OTHER INTERNATIONAL COURTS AND TRIBUNALS 127
+
+a later date. Paragraph 9 preserves the role of domestic courts in awarding
+interim relief under the UNCITRAL regime.
+
+One further notable omission from the 2010 Rules is any express ref-
+erence to provisional measures as interim awards. Accordingly, it is open
+to doubt as to whether provisional measures are binding, at least on the
+wording of the text. As Caplan and Caron note, however, it is highly likely
+that such measures remain binding”** — Article 34 gives tribunals the
+ability to make ‘separate awards on different issues at different times’, a
+form of wording that seems likely to include interim relief. Moreover, the
+notion that provisional measures are not binding under the 2010 Rules is
+not supported by discussions within the Working Group.””°
+
+VI Other International Courts and Tribunals
+
+Clearly, the above rules do not exhaust the range of international courts
+and tribunals capable of awarding provisional measures. Nonetheless, for
+the reasons detailed in the introduction,?”° they are the focus of this book,
+to the exclusion of other traditions. For the sake of completeness, however,
+those courts and tribunals that have been excluded will be discussed
+briefly.
+
+A The European Court of Justice
+
+One of the more prominent excluded regimes is that of the European
+Court of Justice (ECJ), which forms part of the Court of Justice of the
+European Union. Established in 1952 and based in Luxembourg, the EC]
+is the highest authority on questions of EU law. The Court is governed,
+inter alia, by the Treaty on the Functioning of the European Union?’
+(TFEU). This contains one of the broadest powers to award binding
+interim relief within the system of international courts and tribunals,
+with TFEU Article 278 giving the Court the power to suspend a con-
+tested measure, and TFEU Article 279 providing simply that ‘[t]he Court
+
+24 Caron and Caplan, UNCITRAL Commentary, 524-5.
+
+225 Ibid, 525. Cf. UN Doc A/CN.9/547 (23-27 February 2004) §$70-71.
+
+26 Chapter 1, SIIB.
+
+227 Consolidated Version of the Treaty on the Functioning of the European Union, 26 October
+2012, [2012] OJ C 326/47, Part VI, Title I, Chap 1, Section 6.
+
+NR
+
+NR
+
+PSTS4T 9S 72.005 Published online by Cambridge University Press
+128 CONSTITUTIVE INSTRUMENTS AND PROCEDURAL RULES
+
+of Justice of the European Union may in any cases before it prescribe
+any necessary interim measures.””8 Further rigour is provided by Articles
+160-166 of the EC)’s procedural rules.””? Naturally, the Court has inter-
+preted these provisions extremely broadly, and has produced abundant
+case law to match. As with the ICJ, substantive limitations to the ECJ’s
+power to award interim relief have been introduced: applications must
+demonstrate urgency,”*° a probability of irreparable prejudice’*' and a
+prima facie case on the merits.**”
+
+B_ International Human Rights Regimes
+
+Another group of courts and tribunals that utilizes provisional measures
+in the settlement of disputes are those composed according to the vari-
+ous human rights regimes,”°* including the European Court of Human
+Rights,”** the Inter-American Court of Human Rights,”°° the UN Human
+
+28 For an examination of the law on interim relief under the previous treaty regime, see
+
+Francis G Jacobs, ‘Interim Measures in the Law and Practice of the Court of Justice of
+the European Communities, in R Bernhardt (ed), Interim Measures Indicated by Inter-
+national Courts (Berlin: Springer, 1994) 37; Dimitrios Sinaniotis, The Interim Protection
+of Individuals before European and International Courts (Alphen aan den Rijn: Kluwer,
+2006) ch 2. On the ECJ’s practice under the current EU regime, see Bertrand Wagenbaur,
+Court of Justice of the EU: Commentary on the Statute and Rules of Procedure (Munich:
+Verlag CH Beck, 2013) 442-54.
+
+229 2012 Rules of Procedure of the European Court of Justice [2012] OJ L 265/1 (ECJ
+Rules).
+
+230 Case 44/88R, De Compte v Parliament [1988] ECR 1670, §§30-1; Case C-656/II, UK v
+
+Council [2012] ECLI:EU:C:2012:211 (Interim Measures, 18 April 2012) $31.
+
+Case C-377/98R, Netherlands v Parliament and Council [2000] ECR-I 6231, $51.
+
+232 BCJ Rules, Art 160(3).
+
+233 Generally: Jo M Pasqualucci, ‘Interim Measures in International Human Rights: Evolution
+
+and Harmonization’ (2005) 38 Vand JTL 1.
+
+Convention for the Protection of Human Rights and Fundamental Freedoms, 4 November
+
+1950, 213 UNTS 222, Part II; 2013 Rules of Court of the European Court of Human
+
+Rights, www.echr.coe.int/Documents/Rules_-Court_ENG.pdf, Rule 39. Further: Rudolf
+
+Bernhardt, ‘Interim Measures of Protection under the European Convention on Human
+
+Rights’, in R Berhardt (ed), Interim Measures Indicated by International Courts (Berlin:
+
+Springer, 1994) 95.
+
+235 American Convention on Human Rights, 22 November 1969, 1144 UNTS 123, Art 63(2)
+(ACHR); 2009 Rules of Procedure of the Inter-American Court of Human Rights, www
+.corteidh.or.cr/sitios/reglamento/ene_2009_ing.pdf, Art 26. Further: Thomas Buergen-
+thal, ‘Interim Measures in the Inter-American Court of Human Rights, in R Bern-
+hardt (ed), Interim Measures Indicated by International Courts (Berlin: Springer, 1994)
+69.
+
+23
+
+aa
+
+234
+
+https://doi.org/10.1017/9781316410813.005 Published online by Cambridge University Press
+OTHER INTERNATIONAL COURTS AND TRIBUNALS 129
+
+Rights Committee,”*° the UN Committee Against Torture”*’ and the
+Inter-American Commission on Human Rights.?*8 In terms of the subject
+matter of interim measures, these institutions share a common purpose,
+viz. the prevention or termination of human rights abuses pending res-
+olution of a complaint. Applications are frequently made with respect to
+state-sponsored executions, extradition or deportment, the protection of
+threatened classes of person (e.g. witnesses, plaintiffs, lawyers, judges,
+journalists and opposition politicians) and so forth.?°? Whilst provi-
+sional measures ordered by the European and Inter-American Courts
+may be considered binding on the parties, there persists some debates
+as to whether such relief ordered by the quasi-judicial committees pos-
+sesses similar characteristics,”*° although state compliance is the usual
+consequence of such orders.**! In terms of substantive preconditions, the
+human rights bodies have generally adopted the international standards
+of other courts and tribunals.”
+
+C_ International Commercial Arbitration
+
+The final category of excluded tribunals concerns those bodies arbi-
+trating international commercial disputes between two private parties.
+As discussed, some of these function on an ad hoc basis and award
+interim relief on the basis of Article 26 of the 1976 or 2010 UNCITRAL
+Rules. However, almost all institutional arbitration rules also grant tri-
+bunals the power to grant interim relief where required.”** Moreover, the
+
+236 Optional Protocol to the International Covenant on Civil and Political Rights, 16 Decem-
+
+ber 1966, 999 UNTS 171; 2012 Rules of Procedure of the Human Rights Committee, UN
+
+Doc CCPR/C/3/Rev.10 (11 January 2012) Rule 92. Further: Helen Keller and Cedric
+
+Marti, ‘Interim Relief Compared: Use of Interim Measures by the UN Human Rights
+
+Committee and the European Court of Human Rights’ (2013) 73 Za6RV 326.
+
+Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or
+
+Punishment, 10 December 1984, 1465 UNTS 85, Part II; 2013 Rules of Procedure of the
+
+Committee against Torture, UN Doc CAT/C/3/Rev.6 (13 August 2013) Rule 114.
+
+238 ACHR Art 63(2); 2013 Rules of Procedure of the Inter-American Commission on Human
+
+Rights, www.oas.org/en/iachr/mandate/Basics/rulesiachr.asp, Art 25.
+
+Pasqualucci, “Interim Measures in International Human Rights, 26-35.
+
+49 Tbid, 20-6.  *4" Thid, 45-8. *” Ibid, 16-19.
+
+43 See e.g. 2012 ICC Rules of Arbitration, www.iccwbo.org/Products-and-Services/
+Arbitration-and-ADR/Arbitration/ICC- Rules-of- Arbitration, Art 26; 1998 London
+Court of International Arbitration Rules, www.lcia.org/Dispute_Resolution_Services/
+LCIA_Arbitration_Rules.aspx, Art 25; 2010 Stockholm Chamber of Commerce Arbi-
+tration Rules, www.sccinstitute.com/skiljedomsregler-4.aspx, Art 32; 2013 Arbitration
+Rules of the Singapore International Arbitration Centre, www.siac.org.sg/our-rules/
+rules/siac-rules-2013, Art 26; 2010 China International Economic and Trade Arbitration
+
+237
+
+239
+
+https://doi.org/10.1017/9781316410813.005 Published online by Cambridge University Press
+130 CONSTITUTIVE INSTRUMENTS AND PROCEDURAL RULES
+
+substantive principles underpinning the award of provisional measures
+in such a context is not drawn from the lex fori, as might thought to be the
+case, but have taken on a relatively uniform international flavour irrespec-
+tive of the selected forum. Applicants must demonstrate the usual criteria:
+the prima faciejurisdiction of the tribunal, a prima facie case on the merits,
+urgency, substantial or irreparable prejudice and proportionality.”
+
+Commission Arbitration Rules, www.cietac.org/index.cms, Art 21; 2013 Hong
+Kong International Arbitration Centre Administered Arbitration Rules, www.hkiac
+.org/index.php/arbitration/arbitration-rules, Art 23; 2011 Australian Centre for
+International Commercial Arbitration Arbitration Rules, acica.org.au/acica-services/
+acica-arbitration-rules, Art 26; 2013 American Arbitration Association Commercial
+Arbitration Rules, www.adr.org/aaa/faces/rules, Rule 37; 2012 Swiss Rules of Interna-
+tional Arbitration, www.swissarbitration.org/sa/en/rules.php, Art 26.
+
+Fouchard, Gaillard and Goldman, 721-34; Ali Yesilirmak, Provisional Measures in Interna-
+tional Commercial Arbitration (The Hague: Kluwer, 2003) ch 5; Gary Born, 2 International
+Commercial Arbitration (Alphen aan den Rijn: Kluwer, 2014) ch 17.
+
+244
+
+VPISPETSTSAT G7 5.005 Published online by Cambridge University Press

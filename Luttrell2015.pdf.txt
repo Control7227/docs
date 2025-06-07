@@ -1,0 +1,1216 @@
+Arbitration International, 2015S, 31, 393-412
+doi: 10.1093 /arbint/aiv023
+
+Advance Access Publication Date: 8 May 2015
+Article
+
+ICSID provisional measures ‘in the round’
+
+Sam Luttrell*
+
+ABSTRACT
+
+Provisional measures are an increasingly important device in international arbitration,
+particularly where the stakes are high and the proceedings inevitably long. But, for the
+most part, the conditions that must be satisfied before they will be granted remain a
+matter for the parties to argue, and the tribunal to determine. This is especially so in
+the case of proceedings at the International Centre for Settlement of Investment
+Disputes (ICSID), where the relevant posited law is open textured and the tribunal’s
+discretion is broad. This makes the task of advising on, preparing and responding to
+provisional measures requests more difficult. Based on published decisions, this article
+seeks to provide a practical explanation of the five requirements that are most often ap-
+plied by ICSID tribunals to decide requests for provisional measures. The conclusion
+reached is that, although urgency and necessity are probably the most important fac-
+tors, few arbitrators follow a ‘checklist’ approach. Instead, most arbitrators evaluate all
+five of the main conditions ‘in the round’, meaning they assess the strengths and weak-
+nesses of the request overall, guided by their own preferences and experiences.
+
+KEY REFERENCES
+
+e (ICSID) Convention on the Settlement of Investment Disputes between States and
+Nationals of other States (1965), art 47
+
+e ICSID Rules of Procedure for Arbitration Proceedings (2006), Rule 39
+
+e Caratube International Oil Company LLP v Republic of Kazakhstan, ICSID Case No.
+ARB/08/12, Decision Regarding Claimant’s Application for Provisional Measures
+(2009)
+
+e Victor Pey Casado v Republic of Chile, ICSID Case No. ARB/98/2, Decision on
+Provisional Measures (2001)
+
+e RSM Production Corporation v Saint Lucia, ICSID Case No. ARB/12/10, Decision
+on Saint Lucia’s request for security costs, IIC 655 (2014)
+
+e Tethyan Copper Company Pty Limited v Islamic Republic of Pakistan, ICSID Case No
+ARB/12/1, Decision on Claimant’s Request for Provisional Measures (2012)
+
+e Plama Consortium Ltd v Republic of Bulgaria, ICSID Case No. ARB/03/24, Order of
+the Tribunal on the Claimant’s Request for Urgent Provisional Measures, IIC 190
+(2005)
+
+e Churchill Mining plc v Republic of Indonesia, ICSID Case No ARB/12/14, Procedural
+Order 3 (Provisional Measures) (2013)
+
+* Sam Luttrell, LLB/BA (Hons), UWA, PhD, counsel, International Arbitration Group, Clifford Chance,
+Perth, Murdoch. Email: Sam.Luttrell@CliffordChance.com.
+
+© The Author 2015S. Published by Oxford University Press on behalf of the London Court of International Arbitration.
+All rights reserved. For Permissions, please email: journals.permissions@oup.com
+
++ 393
+
+6107 Ye ZO UO Jasn OWN / Ajissenlun Uapley Aq LgzEgz/e6e/e/LENoesSqe-a[olWe/uoNeu}ique/Woo'dno‘slwepese//:sdyy Woy papeojumoq
+394 0 ICSID provisional measures
+
+® Perenco Ecuador Ltd v Republic of Ecuador & Empresa Estatal Petroleos del Ecuador,
+ICSID Case No. ARB/08/6, Decision on Request for Provisional Measures (2009)
+
+@ Bernhard von Pecold and ors v Zimbabwe, CSTD Case Nos. ARB/16/15, ARB/1G/
+25, Directions concerning claimants’ application for provisional measures, HC $49
+(2012)
+
+® Quiborax SA and ors v Bolivia, ICSID Case No. ARB/06/2, Decision on Provisional
+Measures, HC 422 (2010)
+
+"The magnitude and complexity of most international disputes, involving ines-
+capably long periods of time before any decision or amicable settlement can be
+reached, give the question of provisional measures considerable significance.
+This significance appears to be increasing.
+
+Pierre Lalive (1981).’
+
+iL INTRODUCTION
+
+The trend that Professor Lalive observed over 30 years ago continues today. The sig-
+nificance of provisional measures to the practice of international arbitration, both in
+its coramercial and treaty-based forms, is increasing. There would seem to be a nurn-
+ber of reasons for this: growing confidence in the enforceability of arbitral awards
+(and the arbitral procedure as a whole}, the ongoing process of specialization and
+competition in the market for international arbitration services (provisional measures
+being one of the ways value can be added early}, and changes in the main rules and
+laws of arbitration Ginchuding the advent of the ‘emergency arbitrator’ in certain insti-
+tutional systems). But while in the commercial realrn the rules for the granting of
+provisional measures (or interixn measures, as they are also known) are becoming
+more clear, they remain somewhat less certain in the ‘hybrid’ domain of investrnent
+treaty arbitration. This is especially so in the case of proceedings at the International
+Centre for Settlement of Investment Disputes (ICSID), the forum with which this
+article is concerned.
+
+The purpose of this article is to offer a summary of the principles and require-
+ments that are, at present, most likely to be applied by an ICSID tribunal to decide a
+request for provisional measures, and which together constitute what is sometimes
+(fairly to some, daringly to others) referred to as the “ICSID test’. To that end, this
+article begins by setting out the posited law, which is Article 47 of the Convention
+on the Settlement of Investment Disputes between states and nationals of other
+states (ICSID Convention).” After a short summary of the procedure for provisional
+measures in HCSED arbitration, the focus shifts to the jurisprudence. This section is
+broken up into five sub-headings, each of which corresponds to an element of the
+test most commonly applied by ICSID tribunals. Authorities—accepted and
+
+kL This quote is taken from Professor Lalive’s paper, “The First ‘World Bank’ Arbitration (Holiday inns v
+Morocco} - Some Legal Problems’ (1980) 51 BY IL 123, 132-133. The second sentence was originally in-
+cluded as a footnote.
+
+2 ICSED Convention, Washington, 18 March 19685.
+
+ICSID provisional measures « 398
+
+anomalous; new and old
+
+are cited and discussed throughout, but to be clear, the
+cases referred to in this article by no means represent the complete universe of
+authority.
+
+In the conchision that follows, the observation is made that while urgency and ne-
+cessity are probably the most important considerations, few arbitrators follow a
+‘checklist’ approach when they decide a request for provisional measures. Instead,
+the prevailing practice is for the tribunal to evahuate all five of the main conditions ‘in
+the round’—reaning the strengths and weaknesses of the request are assessed holis-
+tically, with the attention and weight given to each condition depending on the facts
+of the case, the backgrounds, and experiences of the arbitrators themselves and, in-
+creasingly, the nature of the orders being sought.
+
+2, FIRST PRINCIPLES
+ICSD arbitration takes place under the ICSID Convention. It is trite but worth
+stressing that the ‘seat’ of an ICSID tribunal is the ICSID Convention itseli—no na-
+tional lex arbitri is involved. Unless otherwise agreed, arbitral proceedings at ICSED
+are conducted in accordance with the ICSID Rules of Procedure for Arbitration
+Proceedings 2006 (ICSID Rules).
+Article 47 of the ICSID Convention provides:
+
+Except as the parties otherwise agree, the Tribunal may, if it considers that the
+circurnstances so require, recommend any provisional measures which should
+be taken to preserve the respective rights of either party.
+
+In effect, Article 47 is the primary source of substantive law for provisional mea-
+sures, and Rule 39 of the ICSID Rules sets out the procedure,
+
+Although Article 47 uses the word ‘recommend’, it is now well settled that [CSD
+tribunals have the power to order provisional measures, and that sach orders are le-
+gally binding.’ While provisional measures orders do not benefit from the favourable
+enforcement provisions of the ICSID Convention, in the majority of cases, the en-
+joined party complies voluntarily, if only to avoid alienating the arbitrators who ulti-
+mately decide the merits of the case (a structural aspect of arbitration that
+distinguishes it from litigation, in which the interlocutory and trial phases are often
+handled by different judges). In practice, when a party disobeys provisional
+
+3 See Emilio Agustin Maffezini v Kingdom of Spain (ECSID Case No ARB/97/7), Decision on Request for
+Provisional Measures, 28 Crctober 1999, para 10; Tokios Tokelés » Ukraine (ICSID) Case No ARB/02/18),
+Ord 1, 1 uby 2003, para 6; and Occidental Petroleum Corp. and Exploration and Production Co. v Republic of
+Ecuador (CSID Case No ABB/06/11), Decision on Provisional Measures, 17 August 2007, para 96.
+Despite this well-developed tine of authority, some arbitrators remain agnostic on this point. See, for exam-
+ple, Millicom International Operations B.V. & Sentel GSM S.A. v Republic of Senegal (ECSED Case No ARB/
+68/20), Decision on the Application for provisional measures submitted by the Claimants on 24 August
+2009, 9 December 2009, para 49. The most recent example of resistance to the idea that art 47 gives the
+tribunal the power to order provisional measures can be found in RSM Production Corporation v St Lucia,
+where (in his dissenting opinion on security for costs} Judge Nottingham said ‘in|o matter how many times
+it is repeated, an order is not a recommendation. Only in the jurisprudence of an imaginary Wonderland wouid
+this make sense. See RSM (n 21), Dissenting Opinion of Edward Nottingham, 12 August 2014, para 16.
+
+396 0 ICSID provisional measures
+
+measures, this disobedience can be taken inte account in the final award and, de-
+pending on the consequences of the disobedience, may sound in damages.
+
+A request for provisional measures can be made at any time after the arbitration is
+instituted,” and once such a request is made, the tribunal must give at least the
+responding party the right to present its observations.” Although the term ‘observa-
+tions’ implies a certain collegiate informality, the reality is that provisional measures
+applications are often more like hard-fought mini-trials, with detailed legal pleadings
+and supporting evidence (including witness statements}. In practice, the sequence
+comprises two, and often three, steps: the request (in the form of an application),
+the responding party's observations (in the form of a reply}, and (somewhat less fre-
+quently} the applicant’s rejoinder. More often than not, a hearing will be held.
+
+Requests for provisional measures in ICSE proceedings tend to be adjudicated
+reasonably quickly, with most tribunals rendering a decision within two to four
+months after a request is filed.° Until recently, dissents were quite rare, but it may be
+that this is changing. In terms of form, the current trend seems to be to issue the rec-
+ommendation as a ‘Decision’, although simple procedural orders are also widely
+used; perhaps surprisingly, the title ‘Recommendation’ is almost never used.” The is-
+sue of form is not as benign as it may seem at first blush. For exarnple, when (as is
+quite often done} the tribunal issues a ‘holding request’ to the parties to maintain
+the status quo and not aggravate the dispute pending determination of a party’s
+request for provisional measures, and the other party takes contrary action, the ques-
+tion arises as to whether such a request has the force of a recommendation for the
+purposes of Article 47, While there are certainly arguments both ways, in at least one
+case it has been held that such a request does have the force of a recommendation.®
+
+As a final procedural point, it is worth noting that the [CSED systern rnakes no al-
+lowance for provisional measures to be granted before the arbitral tribunal is consti-
+tuted.” The Secretary-General of ICSEID can, however, set a briefing schedule
+pending the constitution of the arbitral tribunal so that the request for provisional
+measures can be heard immediately thereafter. At the other end of the proceedings,
+
+4 Under r 6{2} of the ICSID Rules of Procedure for the Institution of Conciliation and Arbitration
+Proceedings, the arbitration is deemed to be instituted on the date of registration of the Request for
+Arbitration.
+
+§ This duty arises under x 39(4) of the ICSLD Rules. Failure to afford the parties the right to make their ob-
+servations may expose the final award to annulment under art S2(1)(d) of the ICSID Convention.
+
+6 See L Malintoppi, “Provisional Measures in. Recent ICSID Proceedings: What Parties Request and What
+Tribunals Order’, in C Binder and others (eds), International Investment Law for the 21° Century — Essays in
+Honour of Christoph Schreuer (OUP, Oxford 2009)182-84, table 11.1 showing the delays between requests
+for provisional measures and decisions in [CSTD cases.
+
+7 The only publically available example of the term ‘Recommendation’ being used comes from Saipem SpA.
+v People’s Republic of Bangladesh (ICSEID Case No ARB/05/07), where the tribunal’s conclusions on the
+claimant’s request for provisional measures were communicated in the form of a ‘Decision on Jurisdiction
+and Recommendation on Provisional Measures’.
+
+8 Perenco Beuador Ltd. v Republic of Ecuador & Empresa Estatal Petroleos del Ecuador (CSTD Case No ARB/
+08/6), Decision on Request for Provisional Measures, 8 May 2009, para 76 (“The Tribunal cannot accept
+that 3 request, formally expressed, may properly be regarded as of less binding force than a
+recommendation’).
+
+9 Under + 6(1) of the TCSID Rules, the tribunal is deemed to be constituted on the date that the Secretary
+General notifies the parties that all of the arbitrators have accepted their appointment.
+
+ICSID provisional measures « 397
+
+it remains an open question—and indeed a question for another day—whether an ad
+, - 0
+hoc annulment coramittee has the power to grant provisional measures of protection.
+
+3. SECONDARY ELEMENTS
+
+Neither the ICSID Convention nor the [CSID Rules specify the requirements that
+must be satistied for provisional measures to be granted. We raust, therefore, look at
+the practice of other ICSD tribunals and broader principles of international law to
+ascertain the rules that are most likely to be applied to determine a request for provi-
+sional measures. |
+
+The key point here is practice: parties requesting provisional measures, and parties
+opposing thera, need to understand that ICSED arbitration takes place on a complex
+international legal plane, and the grounds on which the request will be decided vary
+from tribunal to tribunal. In this setting, it is important to have a sense of both the
+past and the present. Applicants and respondents alike should look to the practice of
+international tribunals (and scholarly opinions} generally, and the records of their ar-
+bitrators specifically. As to the latter, while it is never possible to predict exactly how
+the arbitrators will (individually or collectively) evaluate the merits of the request, it
+is often possible to glean their preferences from their previous published decisions
+and, occasionally, papers and books they have written.
+
+Despite some conflicting decisions and scholarly views, it is apparent that the ra-
+jority of ICSID arbitrators and cornmentators accept that some or all of the following
+five requirements must be satisfied:
+
+i. the arbitral tribunal must have prima facie jurisdiction;
+ii. there must be a prima facie basis to the claim;
+iti. the requested measures must be necessary to protect the applicant's rights
+(or to preserve the status quo and avoid aggravating the dispute)’’;
+iv. the requested measures must be urgent; and
+v. the requested measures must be proportional.**
+
+10 To the best of the writer's knowledge, this question has so far only come up in one case: Libananco
+Holdings Co. Ltd. v Republic of Turkey (ECSID Case No ARB/06/8). There, the armulment committee de-
+clined to rule on the issue of its competence because it found that the circumstances did not justify a rec-
+ommendation of provisional measures. See Libananco, Decision on Apphicant’s Request for Provisional
+Measures, 7 May 2012.
+
+1k ‘This need to “find the rules’, and the uncertainty inherent in it, has long been identified as problematic.
+Writing in 1986, Paul Friedland noted that, in contrast to 3 national court, an ICSID tribunal ‘seeking to
+confirm its ruling te international law principles will likely find that the standard for determining the req-
+uisite circumstances for, and the proper scope of, an award or recommendation of interim relief is ill-
+defined’. See PD Friedland, ‘Provisional Measures and ICSID) Arbitration’ (1986) 2 Arb Int 335, 335; see
+also (© Mouwad and EF Silbert, ‘A Guide to Interim Measures in Investor-State Arbitration’ (2013) 3 Arb
+Int 3814,
+
+12 The first limb of this requirement comes from r 39(1) of the ICSUD Rules, which requires the applicant
+for provisional measures to specify the right in need of protection.
+
+13 These requirements are informed by the jurisprudence of the international Court of Justice (IC}), which
+ig relevant in the TCSID context because art 47 of the [CSID Convention was directly inspired by art 41
+of the Statute of the IC] (‘The Court shall have the power to indicate, if it considers that circumstances
+so require, any provisional measures which ought to be taken to preserve the respective rights of either
+party’). See, for example, CEMEX Caracas Investments B.V. and CEMEX Caracas If Investments B.V. v
+
+398 ° ICSID provisional measures
+
+lt bears repeating that there is ne doctrine of precedent in TCSID arbitration, and
+each tribunal is free to apply those requirements that it considers appropriate.
+However, as the tribunal in Caratube noted, the absence of stare decisis “does not pre-
+clude the Tribunal from considering arbitral decisions and the arguments of the
+Parties based upon them, to the extent that it may find that they throw any usefal
+light on the issues that arise for decision in this case’.’*
+
+Provisional measures are not easily obtained in ICSUD arbitration, and, as a general
+cule, ‘the iraposition of provisional measures is an extraordinary measure which should
+not be granted lightly by the Arbitral Tribunal’.’° An applicant for provisional measures
+will, therefore, usually bear a heavy burden of proof (and persuasion) to show why
+provisional measures should be granted. Although this burden is normally applied
+globally (ie to the request as a whole}, some elements contain their own internal stan-
+dard of proof (namely prima facie jurisdiction and prima facie claim on the merits), and
+these requirements are, in their own terms, subject to a lower threshold as a result,
+
+4, FURTHER DISCUSSION
+
+4.1 The arbitral tribunal must have prima facie jurisdiction
+The threshold to satisfy this requirement is low. The applicant for provisional mea-
+sures does not need to establish jurisdiction in any definitive or final sense. Instead, a
+tribunal must merely be satisfied that the facts alleged by the applicant appear, prima
+facie, to afford a basis on which the jurisdiction of the tribunal might be founded.
+Applicants with difficult jurisdictional cases often cite Pey Casade v Chile, where the
+tribunal considered that what must be demonstrated tor purposes of a request for
+provisional measures is ‘the prima facie existence of jurisdiction, or, to couch this in
+: c SC ee 917 : fe
+negative terms, the absence of a clear lack of jurisdiction’ ° Where the tribunal finds
+that prima facie jarisdiction is satisfied, it can reverse that finding later in the proceed-
+ings, as it is well settled that no res judicata attaches to a finding of primi facie juris-
+diction at the provisional measures stage.”
+Bolivarian Republic of Venezuela (1CSID Case No ARB/08/15S), Decision on the Claimants’ Request for
+Provisional Measures, 3 March 2010, para 39 (citing Victor Pey Casado v Republic of Chile (ICSID Case
+No ARB/98/2), Decision on Provisional Measures, 25 September 2001, para 2; see also B Love,
+‘Introductory Note te ICSI: Case CEMEX Caracas Inv. B.V. and CEMEX Caracas I] Inv. BV. v Bolivarian
+Republic of Venezuela’ (2010) 49 ILM 1195, L198; and C Schreuer and others, The ICSID Convention: A
+Commentary (2nd eda, CUP, Cambridge, 2009) 759. As is observed throughout this article, some of these
+requirements-——particularly urgency-—are also informed by international commercial arbitration law and
+practice.
+14 Caratube International Oil Company LLP v Republic of Kazakhstan (CSTD Case No ARB/08/12)},
+Decision Regarding Claimant’s Application for Provisional Measures, 31 July 2009, pars 73.
+Maffezini (1 3) para 10; see also Plama Consortium Ltd. v Republic of Bulgaria (CSTD Case No ARB/03/
+24) Order of 6 September 2005, para 38; Phoenix Action Ltd. v Czech Republic (CSID Case No ARB/
+06/5), Decision on Provisional Measures, 6 April 2007, para 33; CEMEX {n 13) para 41.
+
+i
+GR
+
+16 This formulation prevails in IC] jurisprudence. See, for example, Pulp Mills on the River Uruguay
+(Argentina v Uruguay), Provisional Measures, Order of 23 January 2007, FC} Reports 2007, 40.
+
+17 Pey Casade (n 13} 379.
+
+18 The Anglo-franian Oil case provides a useful illustration of such a reversal. There, the ICTs finding of
+prima facie jurisdiction at the interim measures stage was ultimately overturned at the jurisdictional stage
+proper. See Anglo-ranian Oil Co. (United Kingdom v Iran}, interim Measures, Order of 5 July 1951, IC}
+Reports 1951, 89.
+
+19 Pey Casado (n 13} para 14; see also Millicom (n 3) para 38.
+
+ICSID provisional measures + 399
+
+Where the proceedings have been bifurcated (jurisdiction /merits), and the re-
+quest for provisional measures is filed after a positive finding of jurisdiction has been
+made by the tribunal, this element will obviously not be contentious. Similarly, where
+the requesting party is the respondent state, prima facie jurisdiction may (at least in
+part) be effectively conceded.” However, there is an argument that, where the state
+is the party requesting provisional measures, it does not need to establish prima facie
+jurisdiction because to do so the state would be required to ‘establish the negative
+against its own interests’.”’ This was the view that Dr Gavan Griffith QC took (in his
+separate assent) in RSM Production Corporation v St Lucia, where the state succeeded
+in obtaining security for costs as a provisional measure.*
+
+Even in the ‘classical’ scenario of a claimant seeking provisional measures early in the
+proceedings, it is relatively rare for a tribunal to engage in involved discussion or analysis
+of the prima facie jurisdiction element. There would seem to be a number of reasons for
+this. Inherent ease of satisfaction, and the fact that only an ‘at first sight”? inquiry is re-
+quired, may be the answer, as may the fact that the registration of the request for arbitra-
+tion by TCSID is seen by some as providing a sufficient basis for a fading of prima facte
+jurisdiction.”* Interaction with the element of urgency might also be a cause—if the mat-
+ter is urgent, then, to some extent, the tribunal may give the applicant the ‘benefit of the
+doubt”? on jurisdiction in the limited context of its provisional measures request.
+
+That said, some arbitrators do pay close attention to the requirement that prima
+facie parisdiction be established. Background may play a role here. For example, arbi-
+trators from Germany, where the requirement to show a prima facie case (as a whole,
+meaning both on jarisdiction and the merits) is given significant weight in adminis-
+trative proceedings, may place more importance on this element than arbitrators
+from other jurisdictions.° The decision on provisional measures in Tethyan
+
+20 See, for example, Churchill Mining ple v Republic of Indonesia ACSTID Case No ARB/12/14), Procedural
+Ord 4 (Provisional Measures), 4 March 2013, para 38, where the tribunal held that ‘[i}n light of the fact
+that it is the Respondent who presented the Request [for provisional measures} and that the Respandent
+argues therein that it has a right to seek an orderly resolution of the dispute in the framework of this arbi-
+wation ... for present purposes it has prima facie jurisdiction ratione materiae,”
+
+21 RSM Production Corporation v Saint Lucia (CSTD Case No ARB/12/10), Assenting Reasons of Gavan
+Griffith, para S.
+
+22 ibid.
+
+23 Millicom, (n 3) paza 42.
+
+24 See, for example, GR Delaume, TCSID Tribunals and Provisional Measures — A Review of the Cases’
+(1986) 1 FCSID Rev-FIL] 392, 393; PD Friedland, ‘Provisional Measures and ICSED Arbitration’ (1986)
+2 Arb Int 335, 344; Schreuer (n 13) 772. There is, however, a significant body of authority for the propo-
+sition that the registration of the Request for Arbitration does not, without more, aftord a sufficient basis
+for a finding of prima facie jurisdiction. See, for example, Pey Casado (n 13) para 11; Millicom (n 3} para
+43; see also Perenco (n 8) para 39, where the tribunal held that ‘li]t is not enough for the Tribunal that
+the Secretary-General bas found that the dispute is not manifestly outside the jurisdiction of the Centre
+and has therefore registered the Request for Arbitration ...’
+
+ed
+w
+
+The idea that the “benefit of the doubt’ should be given to the existence of jurisdiction is often traced
+back te the concurrent opinion of Judge Holtzimann in the Tran—-United States Claims Tribunal case
+Bendone-Derossi International v Isamic Republic of fran (Case No 375, Interim Award No ITM 40-371-1,
+7 June 1984; reprinted in 6 IRAN-US CTR 130).
+
+26 The writer is grateful to Dr Gebhard Buecheler for his views on this point. Naturally, any overreach is for
+the writer's account.
+
+409 > ICSID provisional measures
+
+Copper,’ made by an ICSID tribunal chaired by German arbitrator Dr Klaus Sachs,
+could be taken as an illustration of this phenomenon.”
+
+4.2 There must be a prima facie basis to the claim
+The threshold to satisfy this requirement is similarly low, and is more often than not
+uncontroversial. The tribunal cannot require ‘actual proof””; rather, it need only be
+satisfied fumus bonus juris that, if the facts alleged are proven, it could be led to issue
+an award in favour of the applicant; or, alternatively, that the claim is not frivolous or
+vexatious.
+
+The question as to whether the applicant has a prima facie case on the merits is some-
+tirnes linked with the assessment of the rights in need of protection.” This is logical be-
+cause, for Article 47 of the ICSID Convention to be brought into operation, there must
+first be at least an arguable case for the existence of the right the subject of the request.
+lt is tor this reason that there is sorne overlap between this element and necessity.
+
+At this stage (and in the provisional measures phase generally}, the tribunal will
+need to be careful not to give the appearance that it has prejadged the merits of the
+dispute. The risk of prejudgment is often raised by respondents. The argument is typi-
+cally made in one of two ways: first, that in seeking provisional measures, the applicant
+is effectively asking for the same thing it wants from the final award (the so-called
+‘backdoor to the merits’ argument); secondly, that in applying for provisional mea-
+sures, the applicant is front-loading the proceedings, in the hope that the picture of dis-
+tress it paints in its early application for provisional measures will form a lasting
+impression on the tribunal (and thereby subconsciously predispose it on the merits).
+
+One way arbitrators address these concerns (which will be perfectly legitimate in
+some cases) is to treat the application for provisional measures as a proceeding in its
+own right. On this view, if the measures are granted, that says nothing final about
+whether or not the respondent state did or did not have a right to do or not doa
+thing at international law-—it says only that protection of the relevant interest is war-
+ranted pending final resolution on the merits. That is not to say, however, that tribu-
+nals can be cavalier in their approach to the risk of prejudgment: rightly or wrongly,
+appearances are the touchstone here. Any recoramendation of provisional measures
+should, therefore, be carefully worded to make it clear that the findings and recom-
+mendations of the tribunal are made on an interim basis only.
+
+Unless the respondent focuses on it (for example, by alleging that the underlying
+claim is frivolous or has an improper collateral purpose), the requirement to show
+a prima facie case on the merits will not normally be given much attention. However,
+as has been noted above, the views of arbitrators can vary on this point, and applicants
+and respondents alike should consider the backgrounds of their arbitrators when decid-
+ing how much energy to devote to the establishment of a prima facie case.
+
+27 Tethyan Copper Company Pty. Limited v Islamic Republic of Pakistan ((CSED Case No ARB/12/1),
+Decision on Claimant's Request for Provisional Measures, 13 December 2012.
+
+28 The Tethyan Copper decision pays what would seem to be more than the usual attention to the question
+of whether the Claimant had established that the tribunal had prima facie jurisdiction. ibid paras 123-33.
+
+29 Burlington Resources Inc. et al. v Republic of Ecuador and Empresa Estatal Petroleos del Ecuador (ICSID Case No
+ARB/08/05), Procedural Ord 1 on Burlington Oriente’s Request for Provisional Measures, 29 June 2009, para $3.
+
+30 For example, ibid paras $2-71.
+
+ICSID provisional measures +» 404
+
+4.3 The measure must be necessary to protect the applicant’s rights
+
+As a threshold aspect of necessity, the requesting party must clearly define the rights
+that it says are io need of protection. Often, this will be done as part of the moving
+party's argument that it has a prima facie case on the merits. The rights that deserve
+protection in the form of provisional measures do not extend to ail of the applicant's
+rights—at the very least, the rights in question must bear a relation to the dispute as
+defined by the claims and the relief sought.’ Indeed, some authorities (notably
+Amco Asia’*} seem to go further and require that the relevant right forms the subject
+matter of the dispute—a restrictive approach that is arguably inconsistent with what
+the dratters of the ICSID Convention intended.
+
+On any view, the class of rights eligible for protection under Article 47 of the
+ICSID Convention is not limited to the substantive rights in dispute: the parties’ pro-
+
+status quo’ and the non-aggravation of the dispute—can also be protected by provi-
+sional measures.°° Other procedural rights, such as the preservation of the effective-
+ness of a future award," the preservation of evidence,* and the exclusivity of ECSTD
+
+3h See Plama (n 15) paras 40-41; see also Churchill Mining (n 20) para 48; and Quiborax SA, Non Metailic
+Minerals SA. and Allan Fosk Kaphin v Plurinational State of Bolivia (CSID Case No ARB/06/2),
+Decision on Provisional Measures, 26 February 2010, para 118.
+
+32. Amco Asia Corporation et al. v Republic of indonesia (CSUD Case No ARB/81/1), Decision on Request
+for Provisional Measures, 9 December 1983, extract published in 24 1LM 365 (1985). In this case, the tri-
+bunal read art 47 of the ICISD Convention strictly, holding (411 of the published extract) that ‘the rights
+to which this provision is relating are the rights in dispute...” See also Maffezini (m 3) para 10 (Any
+preliminary measure to be ordered by an ICSED arbitral tribunal must relate to the subject matter of the
+case before the tribunal and not to separate, unrelated issues or extraneous matters’). In this regard, it is
+worth noting that art 17 of the United Nations Commission on International Trade Law (UNCITRAL)
+Model Law on International Commercial Arbitration (the UNCITRAL Model Law) contains similar
+wording (order any party to take such interim measure of protection as the arbitral tribunal may consider
+necessary in respect of the subject matter of the dispute’).
+
+33 See PD Friedland, ‘Provisional Measures and 1CSTD Arbitration’ (1986) 2 Arb Int 335, 338, whe, in his
+discussion of the Amco Asia decision, observes that the travaux préparatvires ta the ICSTD Convention
+‘do not indicate that the drafters desired to impose tight restraints on the discretion of ICSD Tribunals to
+award interim relief’.
+
+34 Burlington (n 29) para 60; Quiborax (n 31) para 133.
+
+35 Some tribunals have sought to define the scope of the status quo tight, and the circumstances in which its
+protection will be necessary. For example, the tribunal in Plama (n 15) para 45, said that the sight to the
+maintenance of the status quo as being triggered when ‘a change in circumstances threatens the ability of
+the Arbitral Tribunal to grant the relief which a party seeks and the capability of giving effect to that
+relief’.
+
+36 See Amco Asia (n 32) 412; see also Bivater Gauff (Tanzania) Ltd. v United Republic of Tanzania (ICSID
+Case No ARB/05/22), Frocedural Crd 1, 31 March 2006, para 71; Millicom (nm 3) para 45; and
+Burlington (n 29) para 60, where the tribunal cited as authority, the decision of the IC] in Electricity
+Company of Sofia and Bulgaria (Belgium v Bulgaria}, Request for the Indication of Interiza Measures of
+Protection, Order of § December 1939, PCH, series A/B, No 79 (hereinafter ‘Electricity Company of
+Sofia’), 199.
+
+37 See, for example, Burlington (1 29), para 71.
+38 See, for example, AGIP S.p.A. v People’s Republic of the Congo QCSID Case No ARB/77/1), 24 ILM 365
+
+(1985). In this early case, the tribunal issued its recommendations on the preservation of certain items of
+evidence in the form of a letter to the respondent state's government (dated 18 January 1979). On the
+ability of the tribunal to grant provisional measures to compel the actual production of documents, see
+Biwater Gauff (n 36) para 101 (Although there may be instances in which document production could
+
+402» ICSID provisional measures
+
+arbitration under Article 26 of the ICSED Convention,” are also amenable to interim
+protection (either individually or under the rubric of ‘procedural integrity’). in doc
+trinal terms, what seems to set ‘procedural integrity’ measures apart from the wider
+class of orders available under Article 47 is that, where the procedural integrity of the
+arbitration is seriously threatened, there will be an argument that the harm is neces-
+sarily irreparable (and the need for provisional measures self-evident), For scholars
+aod practitioners, this is an interesting area, not least of all because the unique treat-
+ment of harm and necessity in ‘procedural integrity’ applications has, it seems, en-
+abled the development of a new notion of urgency, being urgency that is axiomatic.
+
+As a final preliminary point of classification, it is important to note that the pre-
+sent tense of Rule 39(1) (provisional measures for the preservation of its rights’)
+has been read as excluding from protection rights that are ‘hypothetical’ or ‘to be cre-
+ated in future’.*! This construction was, however, challenged recently in RSM. There
+the claimant opposed the state’s application for security for costs on the basis Ginter
+alia) that the xight was purely hypothetical and, therefore, mot a ‘right to be pre-
+served’ for the purposes of Article 47 of the ICSID Convention. In his dissenting rea-
+sons, Judge Nottingham agreed, reasoning (along the lines of Maffezini) that the
+drafters’ careful use of the word ‘preserve’ showed that the right must presently exist
+and cannot be contingent or hypothetical.” However, the majority of the tribunal
+(Dr Griffith and Prof Dr Siegfried Elsing) rejected this argument, instead character-
+izing the state’s right as a procedural right to claim costs which could be protected as
+a measure necessary to ensure the ‘integrity of the proceedings as a whole’.”*
+
+While necessity is often relatively straightforward when the request for provisional
+measures is made by the claimant, the situation becomes less clear when the respondent
+is the moving party. This is because the scope of rights amenable to protection is some-
+what narrower for respondents than it is for claimants. Where the claimant's request can
+extend to both rights relating to the dispute as defined by its claim and its procedural
+rights in the arbitration, the respondent can usually only request provisional measures in
+respect of the latter category (ie procedural rights)."' According to the tribunal in Plama:
+
+[t]he rights to be preserved by provisional measures are circumscribed by the
+requesting party's claims and requests for relief. They may be general rights,
+
+be ordered pursuant to Article 47 [of the ICSID Convention}, this would in the Arbitral Tribunal’s view
+be exceptional’).
+
+39 See, tor example, Plama (n 15) para 38; Tokios Tokelés (a 3) Ord 3 of 18 January 2005, para 7; Burlington
+{5 29) para 37; Quiboraw (1 31) para 127.
+
+40 See, for example, Quiborax (1 31) para 148.
+
+41 Maffezini (n 3) para 13. There, the tribunal dismissed a request for provisional measures to order the
+clairnant to post a bond to cover the respondent’s anticipated costs of detence.
+
+42 RSM (m 21), Dissenting Opinion of Edward Nottingham, para 8 (8 (‘the provisional measures envisaged
+in Article 47 are mainly those formulated to preserve the status quo pende lite’).
+
+43 RSM (n 22), Decision on Saint Lucia’s Request for Security of Costs, 14 August 2014, para 69.
+
+44 The scope of the respondent state’s rights amenable to protection by provisional measures might be
+broadez, if it has advanced a counterclaim, and this has been admitted as part of the dispute. While coun-
+terclaims are relatively rare in ICSID arbitration, they are sometimes made. See, for example, Alex Genin,
+Eastern Credit Limited, Inc. and A.S. Baltoil v Republic of Estonia (CSTD Case No ARB/99/2), Gustav F.
+W. Hamester GmbH & Co. KG v Republic of Ghana (ICSID Case No ARB/07/24); and Spyridon Roussalis
+v Romania (CSTD Case No ARB/G6/1).
+
+ICSID provisional measures « 403
+
+such as the rights to due process or the right not to have the dispute aggra-
+vated, but those general rights must be related to the specific disputes in arbitration,
+which, in turn, are defined by the Claimant’s claims and requests for relief to date.”
+
+More recently, in Churchill Mining, the tribunal rejected the respondent's request
+ort a similar basis. There, much like it did in Amico Asia, Indonesia sought provisional
+measures to restrain the claimant from making what it said were false and harmful
+public staternents about the case (and the investment climate in Indonesia gener-
+ally).*° In the tribunal’s understanding, the rights that Indonesia sought to protect in
+its request were ‘the right to attract foreign investment, the right to regulate and pro-
+mote foreign investment in its natural resources, the right to enforce regulations on
+investments in its natural resources, the right to the protection of its honour and rep-
+utation, and the right to justice based on factual trath'.*” The tribunal held that these
+
+were ‘not rights in dispute that could warrant the recommendation of provisional
+
+9 48
+Measaures .
+
+Regardless of which party makes the request, the preservation of the status quo
+and non-aggravation of the dispute are generally accepted as important consider-
+ations in examining provisional measures requests in international disputes.” The
+applicant will also have to show that the requested measure is necessary to achieve
+these purposes, or, put in the words of the ICSID Convention, why the ‘circum-
+stances so require’
+
+Many ICSID tribunals (notably the tribunal in Occidental?') have taken the view
+that the element of necessity entails (or implies’*) consideration of whether the
+actions in question will cause ‘irreparable harm’, an approach that is consistent with
+IC] authority.°° If the tribunal applies the ‘irreparable harm’ standard, it will likely
+
+4§  Plama (n 15) para 40.
+
+46 Churchill Mining (a 20) para 1. Indonesia also sought (and was refused) provisional measures to restrain
+the claimant from approaching Indonesian government officials to persuade them to settle the dispute.
+
+47 ibid para $0.
+
+48 ibid.
+
+49 See Electricity Company of Sofia (n 36) 199; see also LaGrand Case (Germany v United States of America)
+Judgment of 27 June 2001, IC] Reports 2001, 466, para 103. The travaux préparatoires to the ICSID
+Convention referred to the need ‘to preserve the status quo between the parties pending a final decision
+on the merits’. See Schreuer (n 13) 778-80, 793-95. Note A to x 39 of the ICSTD Rules complements
+this statement by explaining that art 47 of the Convention ‘is based on the principle that once a dispute is
+submitted to arbitration the parties should not take steps that might aggravate or extend their dispute ox
+prejudice the execution of the award’, See 1 ICSID Reports 99.
+
+50 Indeed, some arbitrators take the view that, where the status quo needs to be preserved, this alone will
+hustify a grant of provisional measures, See, for example, Perence (n 8) para 28, where the tribunal issued
+a preliminary ‘request’ (ater held to have the force of an art 47 recommendation proper) to preserve the
+status quo pending determination of the claimant's request for provisional measures.
+
+$1 Occidental (n 3) para 59 (iT the circurnstances under which provisional measures are required under
+Article 47 of the ICSID Convention are those in which the meastires are necessary to preserve a party's
+right and where the need is urgent in order to avoid irreparable harm.’}; see also Tokios Tokelés (n 3},
+Procedural Ord 3, para 8; Plana Gi 15) para 46; Phoenix Action (n 1S) para 38; CEMEX (n 13) para 44;
+Quiborac (1 31) parva 156. See also Schrener (9 13) 776.
+
+52 Quiborax (n 31) para 123 (‘the last requirement [ie. necessity} implying an assessment of the risk of
+harm to be avoided by the measures’).
+
+$3 The Occidental tribunal was following the decision of the IC] in Pulp Mills (n 16) (see 11, para 31-32).
+See also Passage through the Great Belt (Finland v Denmark), Provisional Measures, Order of 29 Fuly 1991,
+
+404° ICSID provisional measures
+
+focus on the sufficiency of monetary damages as a remedy, especially if damages are
+the only remedy that the claimant seeks.°* The main exception to the ‘sufficiency of
+monetary damages’ rule seems to be the destruction of the investment: where the
+actions in question would, if not restrained by provisional measures, effectively bring
+an end to the investor's business, then the harm feared may well be ‘irreparable’ not-
+withstanding the fact that the loss could (at least in theory) be measured in
+money.
+
+However, several ICSID tribunals have questioned the application of the ‘irrepara-
+ble harm’ standard. For example, in Perenco, the tribunal concluded that Article 47 of
+the [CSTD Convention “does not lay down a test of irreparable loss and the authori-
+ties do not warrant so narrow a construction’.° Looking at the case law, it is appar-
+ent that arbitrators who reject the ‘irreparable harm’ standard tend to prefer a
+formulation of either ‘substantial prejudice’ or ‘significant’ harm,*’ both of which im-
+pose lower thresholds. Similar approaches have been taken by tribunals constitated
+in investor-state arbitrations under the UNCITRAL Arbitration Rules.”
+Commenting on provisional measures in that system, Klaus-Peter Berger said that:
+
+[t]o preserve the legitimate rights of the requesting party, the measures must
+be ‘necessary’. This requirement is satisfied if the delay in the adjudication of
+the main claim caused by the arbitral proceedings would lead to a ‘substantial
+(but not necessarily ‘irreparable’ as known in common law doctrine) prejudice
+for the requesting party.”
+
+Whether the ‘irreparable harm’ standard is applicable, and if so how it is applied in
+practice, seems to vary depending on the purpose of the provisional measures
+
+{C} Reports 1991, 18, para 89; Certain Criminal Proceedings in France (Republic of the Congo v France},
+Order of 17 June 2003, LC} Reports 2003, 107, para 22.
+
+34 See, for example, Plama (n 18) para 46 (The Tribunal accepts the Respondent’s argument that harm is
+not ixreparable if it can be compensated for by damages, which is the case in the present arbitration and
+which, moreover, is the only remedy the Claimant seeks’).
+
+Wa
+wa
+
+See, for example, Perenco (n 8) para 46, where the tribunal held that ‘Li]f Perenco’s business in Ecuador
+were effectively brought to an end in this way [by seizure of its assets}, such injury could not, in the
+Tribunal’s judgment, be adequately compensated by an award of damages should its claim ultimately be
+upheld. See also CEMEX, (n 13) para S, where the tribunal distinguished between (i) cases in which
+compensation provides a sufficient remedy for an alleged prejudice; and (ii) others in which ‘there is a se-
+tious tisk of destruction of a going concer that constitutes an investment’.
+
+56 Perenco, ibid para 43.
+
+57 See, for example, City Oriente Lid. v Republic of Ecuador (ICSID Case No ARB/06/21}, Decision on
+Revocation of Provisional Measures and Other Procedural Matters, 13 May 2008, para 72, where the tri-
+bunal cast doubt on the requirement of ‘irreparable harm’, instead preferring to impose a requirement
+that the ‘harm spared to the petitioner by such measures must be significant and that it exceed greatly the
+daraage caused to the party affected thereby’. This is, im effect, the ‘balance of convenience’ test that is
+widely applied in international commercial arbitration. See also Burlington (n 29) para 82, where the tri-
+
+bunal expressed the standard as one of ‘harm not adequately reparable by an award of damages’.
+
+wr
+res]
+
+See, for example, Chevron Corp. and Texaco Petroleum Co. v Republic of Ecuador, UNCITRAL Rules,
+Permanent Court of Arbitration Case No 2009-23, Second Interim Award on Interim Measures, 16
+February 2012, para 3 (‘a risk that substantial harm may befall the Claimants before this Tribunal can de-
+cide the Parties’ dispute by any final award’, emphasis added).
+
+59 See K-P Berger, International Economic Arbitration in Studies in Transnational Economic Law, vol 9,
+(Khawer, The Hague, 1993) 336, emphasis added.
+
+ICSID provisional measures « 408
+
+sought. For example, it is arguable that measures directed at preserving the proce-
+dural integrity of the arbitration automatically satisfy this standard, as harm to a
+party’s procedural rights (especially with respect to access to evidence} cannot be
+
+60
+
+remedied by an award of damages.” It may also be possible to argue that because
+the purpose of the provisional measures is to preserve the status quo and prevent ag-
+gravation of the dispute, the tribunal need not consider the question of harm (at least
+not in the context of necessity).°' There is, however, a line of IC} authority to sup-
+port the argument that even where the provisional measures in question are directed
+at preventing aggravation of the dispute, ‘irreparabie harrn’ roust still be shown.”*
+
+Another understanding of the harm aspect of necessity links it to the balance of
+convenience, resulting in what is sometimes expressed as a ‘balance of harm’.°? On
+this interpretation—which was adopted by the tribunal in Burlington®'—the harm
+feared by the requesting party must substantially outweigh the harm that is likely to
+be suffered by the party against whom the measure is directed (if the measure is
+granted}. This is the standard that applies under the 2006 version of the
+UNCITRAL Model Law®—-a ternplate lew arbitri that, due to its adoption by a large
+and diverse group of states, roay lend itself to tronc commun arguments in interna-
+tional law settings.
+
+In sum, necessity is a key condition, and while there is a significant bady of
+authority for the proposition that a showing of ‘irreparable harm’ is required to estab-
+lish that the provisional measures sought are necessary, the application of this stan-
+dard is by no means a foregone conclusion. Applicants are naturally interested in
+avoiding (or at least playing down) this standard, and usually do so by arguing for a
+‘substantial prejudice’ threshold or a standard analogous to that codified in the
+UNCITRAL Model Law. As a matter of strategy, this makes sense. For applicants,
+the most hazardous aspect of ‘irreparable harm’ lies in the possibility of it being un-
+derstood as ‘harrn not capable of being cured by an award of darnages’. In this regard,
+Anglo-Saxon arbitrators (schooled in the tradition of American Cynamid®°) may pose
+more of a risk than arbitrators from civil law backgrounds.°” Respondents, in
+
+60 See, for example, Quitorax (n 31) para 187.
+
+Gi There is 1C] authority to support the proposition that the power to grant provisional measures necessary
+to prevent the aggravation of the dispute is self standing, and may be exercised ‘wherever [the court] con-
+siders that circumstances so require’. See Land and Maritime Boundary tetween Cameroon and Nigeria,
+Provisional Measures, Order of 15 March 1996, IC] Reports 1996, 13, para 41.
+
+62 Pulp Mills (n 16) para 49.
+
+63 See, for example, Tanzania Electric Supply Company Lid. v Independent Power Tanzania Lid. (ECSU Case
+No ARB/$8/8), Decision on the Respondent’s Request for Provisional Measures, 20 December 1999,
+para 17 Cthe balance of convenience, or looking at it from a different perspective, the balance of
+harm ...’}.
+
+64 Burlington (m 29) para 82.
+
+65 See UNCITRAL Model Law, art 17(a}(1)(a}. For an example of an ICSID tribunal expressly relying on
+this article of the UNCITRAL Model Law, see Quiborax (n 34) para 186.
+
+66 American Cyanamid v Ethicon (1975) AC 396; (1978) 2 WLR 316 CHL). In this seminal English case,
+Lord Diplock reasserted the rule of adequacy of damages as follows: ‘Tf damages in the measure recover-
+able st commion law would be adequate remedy and the defendant would be in a financial position to pay
+them, no interlocutory injunction should normally be granted, however strong the plaintiffs claim ap-
+peared to be at that stage.’
+
+67 The arbitrators’ broader views on remedies may play a role here. Jeff Waincymer put it well: Tow one
+identifies when harm is irreparable depends in part on one’s views about remedies generally. For legal
+
+406 > ICSID provisional measures
+
+contrast, have every reason to push for the application of this standard, in the hope
+that the tribunal will then accept the proposition that, in the world of foreign invest-
+ment, there is little if anything that money cannot solve. It is probably with these ar-
+gumenits in mind that many tribunals prefer a broader formulation of ‘irreparable or
+serious harm’, and the jurisprudence would seem to be trending this way?
+
+4.4 The granting of the measure must be urgent
+
+it is now generally accepted in ECSED arbitration that an application for provisional
+measures will be urgent where it entails “a question that cannot await the outcome of
+the award on the merits’’ This understanding, which equates with the notion
+of periculum in mora io civil law systems, treats the date of the final award {and not
+the date of the application for provisional measures} as the temporal reference for ur-
+gency. However, a review of the cases shows that at least two other temporal reter-
+ences may also play a role in the analysis of urgency: the first is how long it is likely
+to be before the feared act or event (and corresponding harm) occurs; the second is
+how long the applicant (being reasonably informed of the prospect of that act or
+event) has waited to bring its application for provisional relief. The latter point is
+often raised by respondents, either to discredit the assertion of urgency or, better
+yet, to prove that the status quo is in fact ‘liveable’,
+
+Even though it does not feature in the text of Article 47 of the ECSED
+Convention, urgency is, io practice, the most important consideration (even a sine
+
+gua non’’) for the granting of provisional measures. Indeed, the decisions of some
+tribunals show that, in certain circumstances, urgency can overshadow nearly all
+other aspects of the inquiry. The June 2012 directions of the President of the ICSID
+tribunal in Border Timbers provide an example of this.”*
+
+systems that believe in damages as adequate compensation, there is less Likelihood that harm would be
+seen as irreparable. Conversely, systems that support specific performance might see damages as inade-
+quate in such circumstances and be more inclined towards interim measures that preserve the status qua.’
+See ] Waincymer, Procedure and Evidence in International Arbitration (Rtuwer, The Hague, 2012) 626.
+
+68 See, for example, Churchill Mining (a 20) para S6 Cirreparable or serious damage’); Abaclat et al. v
+Argentine Republic ICSID Case No ARB/O7/S), Procedural Ord 11, 27 Fume 2012, para 11 (irreparable
+harm or serious prejudice’).
+
+69 Schreuer (n 13) 775; see also Mouwad and Silbert (n 11) 387 (‘The concept of urgency appears to have
+evolved and relaxed somewhat over the years, morphing from a requirement that the harm be immedi-
+ately ikely and imminent to the seemingly more widespread standard today that the harm occur prior to
+the tribunal’s issuance of the final award’). Por case examples, see Biwater Gauff (n 36) para 76, where
+the tribunal offered the following opinion on the notion of urgency: ‘(iln the Arbitral Tribumal’s view, the
+degree of “urgency” which is required depends on the circumstances, including the requested provisional
+measures, and may be satisfied where a party can prove that there is a need to obtain the requested mea-
+sure at a certain point in the procedure before the issuance of an award. In most situations, this will
+equate to “urgency” in the traditional sense (ie. a need for a measure in a short space of time}. In some
+cases, however, the only time constraint is that the measure be granted before an award --- even if the
+grant is to be some time hence. The Arbitral Tribunal also considers that the level of urgency required de-
+pends on the type of measure which is requested’ See also Quiborax (1 31) para 150; Millicom (3) para
+4& (Ue must be proven that if the measures are not ordered rapidly, there are serious risks that the rights
+of the applicants will be jeopardized’}.
+
+70 CN Brower and REM Goodman, ‘Provisional Measures and the Protection of ICSID Exclusivity against
+Municipal Proceedings’ (1991) 6 ICSID Rev-FILJ 431, 461.
+
+7L Bernhard von Pezold et ai. v Republic of Zimbabwe and Border Timbers Limited, Border Timbers
+International (Private) Limited and Hangani Development Co (Private) Limited v Republic of Zimbabwe
+
+ICSID provisional measures « 407
+
+In Border Timbers, the respondent (Zimbabwe) demanded inspection (at the
+claimants’ offices} of certain of the clairnants’ documents in a manner inconsistent
+with the disclosure rules laid down by the Tribunal. Two days before the inspections
+were due to take place, the claimants sought provisional measures inter alia directing
+the respondent to comply with the docement disclosure rules set by the Tribunal.
+The clairnants’ sought these orders on the basis that they were necessary to preserve
+the status quo ‘pending further observations of the parties’, in other words ex parte.”
+Significantly, fears of ‘intimidation and violence’ against the claimants’ staff were also
+expressed in the application.”* The day after the request was made the President of
+the Tribunal (L Yves Fortier CC QC)* made orders directing the respondent not
+to proceed with the propased visit to the claimants’ offices, and to refrain from tak-
+ing any farther steps in relation to the matters set out in its inspection demand letter,
+pending final determination of the claimants’ application.”
+
+The Border Timbers directions are interesting for three reasons: first, quasi-proce-
+durally, as the application was roade and determined ex parte, the directions show ao
+expansion of the notion of urgency (ie the application could not await the observa-
+tions of the respondent, let alone the outcome of the award on the merits).”°
+Secondly, the Border Timbers orders show the operation of the principle (expressed
+in Biwater Gauff’’) that the level of urgency required depends on the type of mea-
+sure requested. Finally, more on the substance, other than a brief reference to Rule
+39,”* the reasons for the directions contain no references to authority or any discus-
+sion of the principles that govern the granting of provisional measures. While the
+risk of physical (and presumably irreparable) harm being suffered by the claimants’
+employees seems to have played an important role, it is apparent that argency was
+the main consideration that the President took into account.
+
+GCSID Case No ARB 10/15, ICSHD Case No ARB 10/245), Directions Concerning Claimants’
+Application for Provisional Measures of 12 June, 13 June 2012.
+
+72 ibid para 3.
+73 bid.
+74 The President dealt with the claimants’ application on his own. Under the terms of reterence, the
+
+President had the power to take decisions in respect of urgent matters alone, without consulting the other
+members of the Tribunal, subject to the possibility of reconsideration of the decision by the full Tribunal.
+ibid para 2.
+
+75 ibid para 8. Orders were also made programming further observations by the parties.
+
+76 itis to be noted that ibid, was not the first case in which provisional measures were recommended etfec-
+tively ew parte (ie before the respondent's observations were presented). In Perenco (n 8}, after receiving
+the claimant's request for provisional measures—which related to actions that would be taken in just
+three days time--the tribunal took the relatively common step of issuing a ‘request’ to the parties to
+‘retrain from initiating or continuing any action or adopting any measures which may, directly or indi-
+rectly, modify the status quo between the parties vis-a-vis the participation contracts, including any at-
+tempt to seize any asset of | Perenco], until it has had the opportunity to further hear frora the parties on
+the question of provisional measures’. The tribunal later held that there was no merit to the respondent's
+later argument that this ‘request’ lacked the force of a ‘recomanendation’ under art 47 of the ICSID
+Convention. See Perenco (n 8) paras 28, 64-77. See also City Oriente Lid. v Republic of Ecuador &
+Empresa Estatal Petroteos del Ecaudor (ICSUD Case No ARB/O6/21), Decision on Provisional Measures,
+19 November 2007 (hereinatter ‘City Oriente 1°}, where the tribunal—without hearing from the respon-
+dent----issued a similar ‘request’. City Oriente 1, ibid para 13.
+
+77 Biwater Gauff (n 36) para 76.
+
+78 Border Timbers (n 71) para 6.
+
+408 » ICSID provisional measures
+
+Despite its apparent primacy in conternporary ICSID practice, there is consider-
+able divergence in the way urgency is understood and applied by tribunals (and par-
+ties, for that matter). In particular, there is a good deal of overlap between the
+notions of urgency and necessity. Looking at the case law, the bridge seems to be
+‘irreparable harm’, a sub-element that has (unfortunately on one view, rightly on an-
+other) been read into both the urgency and necessity elements from time to time.
+The following extract of the provisional measures decision of the Perenco tribunal
+provides a useful practical illustration of this bridge being crossed by the arbitrators:
+
+[the Tribunal] will not judge that circumstances require the grant of provi-
+sional measures unless it judges such measures to be necessary and urgent.
+They must be necessary, because that is what ‘urgent’ means, and measures will
+not be necessary where a party can be adequately compensated by an award of
+damages if it successfully vindicates its rights when the case is finally decided.
+Thus, as the Respondents correctly submit, many of the authorities express the
+
+test in terms of ‘irreparable loss’...
+
+For applicants, the preference is sometimes to avoid this overlap problern in the
+first round, and simply choase one of the two elements—urgency or necessity—and
+deal with the other in reply (if it is raised by the respondent). Another claimant
+strategy is to alleviate the burden of having to show urgency by framing the measures
+as being necessary to protect the ‘procedural integrity’ of the arbitration, and arguing
+that the measures are therefore ‘urgent by definition’.”' Logically, this argument will
+be most appealing where the measures relate to the preservation of evidence, as (in
+the words of the Quiborax tribunal) ‘the question of whether a party has the oppor-
+tunity to present its case or rely on the integrity of specitic evidence is essential to
+(and therefore cannot wait) the rendering of an award on the merits’? While the
+limits of ‘axiomatic urgency remain to be tested, this part of the Quiborax decision
+suggests that something like a condition of ‘consequence’ applies to its invocation: to
+establish that the measures are self-evidently urgent, the party requesting provisional
+measures needs to show that there is an ‘essential’ link between the exercise of the
+relevant procedural right and the issuance of a final award.
+
+4.5 Proportionality
+The test for proportionality weighs the competing interests at stake for both parties to
+the dispute." The question of proportionality incorporates a ‘balance of convenience’
+
+79 Perenco (n 8) para 43, emphasis added.
+
+80 There is some sense to this strategy. In deciding which element to favour, the backgrounds of the arbitra-
+tors would seem to be a legitimate consideration: arbitrators from public international law backgrounds
+{such as specialized academics and former ICf judges} tend to focus on necessity, whereas those with
+backgrounds in. commercial arbitration may be inclined to focus more on the question of urgency.
+
+8h Quiboraw (v 31} para 153 CLi}f the measures are intended to protect the procedural integrity of the arbi-
+tration, in particular with respect to the access to or integrity of the evidence, they are urgent by
+definition’).
+
+&2 ibid. See alsa Abaclat (n 68} para 20 (‘even if urgency were not at stake, the Tribunal finds that it can rec-
+ammend provisional measures for the preservation of Respondent's rights of defence’).
+
+83 Burlington (m 29) para 81 (citing Occidental (n 3) para 96); City Oriente 1 (nm 76) para 35.
+
+ICSID provisional measures + 409
+
+test (similar to that called for under the 2006 UNCITRAL Model Law), in which the
+tribunal considers the harm that the applicant will suffer if the provisional measures it
+seeks are not granted, and compares it to the harm (or inconvenience) that the respon-
+dent will endure if the provisional measures are granted.**
+
+The importance attributed to proportionality tends to vary depending on the na-
+ture of provisional measures sought. Often, and particularly where the arbitrators
+have backgrounds in commercial arbitration, proportionality (or at least consider-
+ations germane to it) will be addressed as part of the ‘balance of convenience’ that
+guides the tribunal in the overall assessment of the case. The recommendation of the
+Saipem tribunal provides a useful ilhistration:
+
+.., the Tribunal considers that under Article 47 of the LICSID] Convention a
+tribunal enjoys broad discretion when ruling on provisional measures, but
+should not recommend provisional measures lightly and should weigh the par-
+ties’ divergent interests in the light of all the circumstances of the case.*°
+
+Provisional measures applications directed at preventing or suspending the enact-
+ment of local laws or regulations seem to be most closely exarnined for proportional-
+ity."°
+delicate question arises as to whether (and to what extent} an ICSID tribunal can
+
+This makes sense because, where the feared measure is legislative in nature, a
+
+interfere with the right of a sovereign state to legislate in respect of its own internal
+affairs. While ICSID tribunals are generally averse to such interference, there have
+been a mumber of cases where ICSID tribunals have recommended in the form of
+provisional measures that states withhold or suspend implementation of legislative
+acts.” In Perenco, the ICSID tribunal framed the rationale for provisional measures
+to restrain acts of a legislative character in the following terms:
+
+It is pertinent to recall that in any ICSID arbitration one of the parties will be
+a sovereign State, and where provisional measures are granted against it, the
+effect is necessarily to restrict the freedom of the State to act as it would wish.
+Interim measures may thus restrain a State from enforcing a law pending final
+resolution of the dispute on the merits, as in City Oriente ...°°
+
+lt should be noted that, when provisional measures are ordered in TCSED arbitra-
+tion, the party for whose benefit the provisional measures are granted is sometimes
+required to provide security (such as a bank guarantee or an escrow deposit) to
+account for the losses that the respondent may suffer as a result of the provisional
+
+&4 See, for example, Quiborax (n 31) para 158.
+
+8§ Saipem (n 7), Decision on Jurisdiction and Recommendation on Provisional Measures, 21 March 2007,
+para 175, emphasis added (citations omitted).
+
+86 Proportionality analyses ave also often conducted where the measures sought are directed at restraining
+public prosecutions in the host state. See, for example, Quiboram (1 31) paras 158-65.
+
+Q
+
+See, for example, Burlington (1 29); Perence (n 8), and City Oriente 1 (a 57). In City Oriente 1, Burlington,
+and Perenco, ICSID tribunals ordered Ecuador te step imposing the so-called ‘windfall profits tax’ on
+
+iv
+
+chase investors’ hydrocarbon preduction, pending the outcome of disputes over whether the tax violated
+agreements between the investors and the state-owned oil company.
+&& — Perenco (n 8) para 50.
+
+419 » ICSID provisional measures
+
+measures being imposed.” This requirement has two main purposes: first, it serves
+the interests of proportionality in that it ensures that respondents do nat themselves
+suffer harm as a result of their being subjected to provisional measures (and later vin-
+dicated on the merits); second, it functions as a check on abuses of the system, the
+idea being that if applicants have to ‘ante up’, they will be less likely to make frivolous
+provisional measures applications.
+
+5. OTHER CONSIDERATIONS
+While each of the five requirements discussed above has an established place in
+ICSID jurisprudence on provisional measures, other considerations are sometimes
+taken into account by international tribunals,
+
+One example is the requirernent that the party seeking provisional measures have
+‘clean hands’.”° General principles of fairness (and arguably good faith”’) inform all
+stages of the ICSED process, and where a party has clearly misbehaved (or acted un-
+lawfully}, the arbitrators will take such conduct into account in determining whether
+provisional measures should be granted.”” Whether this requirement is expressed in
+
+the common law form of ‘clean hands’, as an aspect of the Roman law principle of
+
+exceptio inadimpleti contracius, ox simply as a broader question of entitlement (does
+the applicant deserve protection?’), the result will be the sarne.
+
+Another consideration is whether the measures being sought would actually be
+capable of being carried out and policed by the tribunal—a consideration that is
+
+&9 See, tor example, ibid, where the tribunal invited the parties to establish an escrow account to hold the
+disputed payments, and gave the parties leave to apply to the tribunal for orders if the account was not es-
+tablished within 120 days.
+
+90 Although there do not appear to be any published ICSID decisions or awards dealing with ‘clean hands’
+explicitly, the doctrine does appear to have a place in IC] jurisprudence, and in international law more
+generally. See, for example, the dissenting opinion of Judge Schwebel in Military and Paramilitary
+Activities in and against Nicaragua (Nicaragua v United States of America}, Merits Judgment, [C} Reports
+{1986) 380-81, 392-94, where His Excellency referred to a string of PCY) decisions (including that in
+Diversion of Water from the Meuse, PCH Series A/B, No 7U, 77) as authority for the existence of the dac-
+trine at international law. Similarly, in commenting on the Cuse Concerning Legality of Use of Force
+
+(Yugoslavia v ten NATO states; Provisional Measures, IC] Reports 1999, 77) Fudge Schwebel noted that if
+
+prima facie jarisdiction had been found by the Court, it would then have had to consider its discretion te
+refuse an order granting interim measures because the respondents raised the issue of clean bands on the
+part of Yugoslavia. See S Schwebel, ‘Clean Hands in the Court’ (1991) 31 Stud Trans Legal Policy 74,
+9% See, for example, Phoenix Action v Czech Republic ACSID Case No ARB/O6/S), Award, 15 April 2609,
+pars 133, where accepting the universality of the requirement of good faith in international trade, the tri-
+bunal said ‘this caveat is fundamental’. For examples of where this good faith duty has been extended to
+matters af procedure, see Churchill Mining (n 20) para 46 (‘the parties are bound by a good faith duty
+not to exacerbate the dispute or affect the integrity of the arbitration proceedings’); and Caratube (n 14)
+para 120 (The Tribunal confirms that the Parties have an obligation to conduct the procedure in good
+faith and that this obligation includes a duty to avoid any unnecessary aggravation of the dispute ...’).
+92 See C Lamm, H Pham and R Moios, ‘Fraud and Corruption in International Arbitration’, in M
+Fernandez-Ballesteros and D Arias (eds), Liber Amicorum Bernardo Cremades (La Ley, Buenos Aires,
+2010} 724. in making findings as to jurisdiction and admissibility, several ICSUD tribunals have taken into
+account the conduct of the investor(s), including misrepresentations, acts of fraud, bribes, and other cor-
+
+rupt dealings. See, for example, Plama (n 15) paras 134-46, 321; Inceysa Vallisoletana, S.L. v Republic of
+
+El Salvadar (ICSED Case No ARB/03/26), Award, 2 August 2006, paras 234-42; and World Duty Free
+Company Limited v Republic of Kenya (ECSID Case No ARB/00/7), Award, 4 October 2006, para 187.
+
+ICSID provisional measures « 414
+
+sometimes thought of as an outgrowth of the tribunal's general duty to render an en-
+forceable award.”’
+
+An additional point that is sometimes raised by applicants—uswally in the context
+of necessity or urgency—is the complexity of the harm that the requesting party
+fears it will suffer if the measures it seeks are not granted.’ If the harm can be easily
+compensated with money, provisional measures will not normally be granted’;
+if the valuation of the harm would be difficult (or impossible), its prevention is more
+easily justified.”* The nature of the investment will obviously be relevant here: if the
+investroent is inherently difficult to value (and ergo the harm to it difficult to quantify
+and ‘adequately’ compensate in damages), the balance of convenience may tip in fa-
+vour of the applicant. Intangible investments such as goodwill are naturally suited to
+such arguments.”’
+
+Finally, respondents sometimes argue (relying on SGS”*) that there is a re-
+guirement that the provisional measures sought must not be ‘too broad’. Such a
+requirement could be seen as a function of proportionality, a corollary of necessity,
+or simply a matter of common sense. However, there are sound arguments against it:
+the words of Article 47 of the ICSID Convention and Rule 39 do not set any express
+limits on the scope of the measures that can be recommended,” and sorne measures
+are inherently broad (orders to maintain the status quo being the most obvious exam-
+ple}. When deciding whether to argue for the application of this requirement, the re-
+spondent should consider these points, and also take care to ensure that, in objecting
+to the breadth of a proposed measure, it does not tacitly accept that a measure of
+some breadth is necessary.
+
+Whether these additional elements have any place in a request, response or deci-
+sion will depend entirely on the facts of the case and the types of roeasures sought.
+When they are taken into account, they are rarely given the status of conditions
+proper, but are instead normally paired with one of the five established elements of
+the test for provisional measures.
+
+$3 See, for example, Burlington (n 29} para 86, where (in establishing an escrow account as a provisional
+measure} the tribunal took into consideration the respondent’s argument that the proposed measure
+would be ‘unmanageable’.
+
+94 See, for example, Plama (n £8) paras 8, 22; see also Quiborax (mn 31) para 157,
+
+98 See, for example, Plama, ibid paras 42, 46; Occidental (n 3} para 92; CEMEX (n 13) para S8; Perenco (n
+8) para 43.
+
+96 See, for example, Burlington (1129) para 83, where after adopting a standard of ‘harm not adequately repa-
+
+rable by an award of damages’, the tribunal stated that ‘this case is not one of only “more damages”
+
+caused by the passage of time. It is a case of avoidance of a different damage’ (emphasis added). See also
+
+Quiborax (n 31) para 156; Perenco (n 8) paras 53, 60; CEMEX (n 13) paras 45-35.
+
+However, some tribunals have been resistant to the proposition that damage to business reputation can-
+
+sO
+“I
+
+not be adequately remedied by money damages. See, for example, Helnan International Hotels AS. v Arab
+Republic of Egypt GICSID Case No ARB/05/19), Decision on Claimant’s Request for Provisional
+Measures, 17 May 2006, para 34 (Should damage to Helnan’s reputation be established, the Arbitral
+Tribunal considers that monetary compensation would be an adequate remedy’).
+98 SGS Société Générale de Surveillance SA v Islamic Republic ef Pakistan (ICSUD Case No ARB/O1/13),
+Procedural Ord 2, 16 October 2002, 18 ICSUD Rev-FIL] 301, 301,
+Caratube (n 14) para 136 (‘the language authorising ICSID Tribunals in Article 47 of the [ICSID]
+Convention and Rule 39 is very broad and does not give any indication that any specific state action must
+
+Ke
+Ke)
+
+be excluded trom the scope of possible provisional measures. Therefore, this Tribunal does not agree
+with the strict approach which seems to have been taken by the Tribunal in the SGS decision ...”).
+
+412 » ICSID provisional measures
+
+6. CONCLUDING REMARKS
+
+There is no roadmap for provisional measures in ECSID arbitration. This is partly be-
+cause the terrain is becoming more coroplex, particularly as the genus of ‘procedural
+integrity measures expands. At present, all that can be said with certainty is that each
+application will turn on its own facts, and although consensus is apparent, or at least
+emerging, on some elements of the soi-disant “ICSID test’ Gurgency and necessity be-
+ing the leaders overall}, the rules of substance remain a matter of submission.
+Lawyers making and responding to applications for provisional measures roust,
+therefore, try to anticipate what the focus of their arbitrators will be.
+
+This article has identitied three main considerations in this regard: first, the cir-
+cumstances in which the application is made; secondly, the nature of the measures
+sought (and the harm they seek to prevent), and finally, the backgrounds of the arbi-
+trators themselves. The main observation of this article is, however, that the prefer-
+ence of most ICSID arbitrators is to evaluate the request in the round. In this
+approach, the legal emphasis of the tribunal is usually on the text of Article 47 of the
+{CSID Convention itself—rather than the secondary elements that can be read into
+it—-with the material facts of the request then being assessed overall to determine
+whether ‘the circumstances so require’ provisional measures.
+
+While this adjudicatory practice makes sense-—-especially where the measures are
+sought with the utmost urgency (like in Border Timbers), and there is little or no
+time for a mechanical assessment to be carried out-—it seems to be enabling certain
+gray areas to persist in the jurisprudence. The overlap of the notions of urgency and
+necessity, and the standard of harm (‘irreparable’, ‘substantial’, or ‘serious’) embed-
+ded in either or both elements, is an example of an area in which brighter lines might
+be useful. Similarly, the borders of ‘procedural integrity’ will need to be marked out
+more clearly for users to understand when the special rules that attach to this class of
+measures apply.
+
+What is clear is that the practices of lawyers and arbitrators in the field of provi-
+sional measures are heavily informed by experience and heritage. Although ICSID ar-
+bitration takes place on its own supra-national plane, it is clear that--either through
+the agency of the arbitrators themselves or the medium of shared instruments such
+as the UNCITRAL Rules—the law and practice of international commercial arbitra-
+tion is informing the jurisprudence of provisional measures in investment treaty dis-
+putes generally, and [CSID arbitration specifically. Practitioners who wark in both
+fields are, therefore, justified in following their instincts when they evaluate as a
+whole their prospects of obtaining or resisting provisional measures.
+
+ACKNOWLEDGEMENTS
+The author is grateful to Georgios Petrochilos, Peter Turner QC, Cameron Miles,
+and Ben Love for their comments on earlier dratts of this article. Naturally, any er-
+rors are for the writer's account alone.
+

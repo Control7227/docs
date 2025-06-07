@@ -1,0 +1,1808 @@
+4
+
+Rower of International Courts to
+
+Grant Provisional Measures
+
+Introduction 119
+I. Purpose of Provisional Measures in International
+Adjudication 121
+II. Source of the Power to Grant Provisional Measures 123
+A. Constitutive Instruments of International Courts 123
+B. Rules of Procedure of International Courts 125
+C. Power to Grant Provisional Measures as a General
+Principle of Law 126
+D. Power to Grant Provisional Measures as an
+Inherent Power 127
+1. The Power is necessary to carry out the Functions of
+International Courts 128
+2. Practice of International Courts supporting the
+Existence of the Power 130
+E. Limitations on the Power to Grant Provisional Measures 133
+III. Common Features in the Exercise of the Power 135
+A. Question of Jurisdiction over the Merits 136
+B. Circumstances Relevant to the Granting of
+Provisional Measures 139
+1. Prevention of Irreparable Prejudice to the
+Rights of the Parties 139
+2. Urgency 142
+3. Other Factors 145
+C. Binding Quality of Provisional Measures 146
+D. Power to Grant Provisional Measures
+Ultra Petita or Proprio Motu 150
+Conclusion 151
+Introduction
+
+This chapter examines the power of international courts to grant provisional meas-
+ures and analyses whether there is an emerging common practice among inter-
+national courts in this regard. At the outset, it should be noted that there is some
+
+A Common Law of International Adjudication. Chester Brown.
+© Oxford University Press 2007. Published 2007 by Oxford University Press.
+120 A Common Law of International Adjudication
+
+variation in the terminology used in the constitutive instruments, rules and prac-
+tice of international tribunals to describe provisional measures. They are variously
+referred to as ‘provisional measures’, ‘interim measures’ ,? ‘interim measures of
+protection’ ,3 and ‘precautionary measures’ .4 For the sake of convenience, the meas-
+ures will here be referred to as ‘provisional measures’, for there is no distinction
+between the various terms. The terminological differences also extend to the terms
+used to describe the manner in which these measures are granted. The ICJ and the
+ECHR ‘indicate’ provisional measures,> the [TLOS and UNCLOS tribunals ‘pre-
+scribe’ them,® the IACHR can both ‘adopt’? and ‘order’’ provisional measures,
+ICSID tribunals ‘recommend’ provisional measures,? and the [ACommHR
+‘request[s] that the state concerned adopt precautionary measures’.1° Practical dif-
+ferences can arise depending on the verb used to describe how such measures are
+granted. For instance, a provisional measure which is ‘prescribed’ has legal force,
+whereas a provisional measure which is ‘recommended’ arguably does not. In this
+chapter, the power will usually be referred to as the power to ‘grant’ provisional
+measures, which is intended as a neutral term; the question of whether provisional
+measures are binding is addressed later in this chapter.
+
+This chapter begins with a discussion of the purposes of the power to grant
+provisional measures, and then turns to the question of whether all international
+courts have that power. International courts with an express statutory power to
+grant provisional measures are examined, and the question is then asked whether
+international courts lacking an express power can nonetheless exercise the power
+as an inherent power. Finally, any common features of the exercise of the power
+are addressed.
+
+1 Statute of the International Court of Justice, opened for signature 26 June 1945, 3 Bevans 1153
+(entered into force 24 October 1945), art 41; International Court of Justice Rules of Court, available
+at <http://www.icj-cij,org>, arts 73-8; United Nations Convention on the Law of the Sea, opened for
+signature 10 December 1982, 21 ILM 1261 (entered into force 16 November 1994), art 290 (1) and
+(5); Convention for the Settlement of Investment Disputes between States and Nationals of Other States,
+opened for signature 18 March 1965, 575 UNTS 159 (entered into force 14 October 1966) (ICSID
+Convention’), art 47; American Convention on Human Rights, opened for signature 22 November
+1969, 1144 UNTS 123 (entered into force 18 July 1978) (American Convention), art 63(2);
+ITACHR Rules of Procedure, available at <http://www.corteid.or.cr>, art 25(1).
+
+2 Tran—US Claims Tribunal Rules of Procedure, 1 Ir-USCTR 57, art 26; European Court of
+Human Rights, Rules of Court, available at <http://www.echr.coe.int>, Rule 39.
+
+3 JCJ Rules (1946), art 61; PCIJ Rules (1922) in PCIJ Documents, Ser D, (No 1), 66, art 57; see
+also ICJ Rules (1978), Section D, Subsection 1; Hugh Thirlway, “The Indication of Provisional
+Measures by the International Court of Justice’ in Rudolf Bernhardt (ed), Interim Measures Indicated
+by International Courts (1994) 1, 3.
+
+# Inter-American Commission on Human Rights, Rules of Procedure, available at <http://www.
+
+cidh. oas.org>, art 25(1). 5 IC] Statute, art 41; ECHR Rules, Rule 39.
+6 UNCLOS, art 290(1) and (5). 7 American Convention, art 63(2).
+8 TACHR Rules, art 25(1). 9 ICSID Convention, art 47.
+
+10 T[ACommHR Rules, art 25(1).
+Power to Grant Provisional Measures 121
+
+I. Purpose of Provisional Measures in
+International Adjudication
+
+The essential purpose of the power of international courts to grant provisional
+measures is the preservation of the respective rights of the parties pending the
+decision on the merits, and the safeguarding of the jurisdiction of the inter-
+national court to render a judgment which is effective.!! In this regard, the ICJ has
+stated that its power ‘has as its object to preserve the respective rights of the par-
+ties, and presupposes that irreparable prejudice should not be caused to rights
+which are the subject of dispute in judicial proceedings’.!? This protective func-
+tion is illustrated in the French term for provisional measures, ‘mesures conserva-
+toires 13 The need for international courts to be able to grant interim relief stems
+from the fact that once an application is made instituting proceedings, that court
+might not be in a position to determine the rights in dispute for some time. In the
+intervening period, those rights might be prejudiced by events which would pre-
+vent the international court from being able to render an effective decision, thus
+rendering its jurisdiction nugatory.!4 This purpose thus reflects the function of
+international courts to settle disputes by adjudication.
+
+Another purpose of provisional measures could be the maintenance of the
+status quo.!> This purpose was referred to in the provision conferring the power
+on the Central American Court of Justice,!® and during the discussion on the
+PCY Rules of Court in 1931, Judge Negulesco observed that provisional measures
+‘sometimes ... were regarded as designed to preserve rights claimed in an action at
+law, sometimes their object was to re-establish or safeguard the status quo ante’ 7
+Germany argued in LaGrand that ‘the United States should restore the status quo
+ante in the case of Walter LaGrand’;!8 and Mexico made a similar argument in
+
+11 Shabtai Rosenne, Provisional Measures in International Law (2005) 3—4; John Merrills, ‘Interim
+Measures of Protection in the Recent Jurisprudence of the International Court of Justice’ (1995)
+44 ICLQ 90, 100; see, e.g., ICJ Statute, above n 1, art 41; ICSID Convention, above n 1, art 47;
+UNCLOS, above n 1, art 290(1) and (5).
+
+12. Fisheries Jurisdiction Interim Protection) [1972] ICJ Rep 12, 16, 30, 34.
+
+13 Thirlway, “The Indication of Provisional Measures’, above n 3, 3.
+
+14 Bernard Oxman, ‘Jurisdiction and the Power to Indicate Provisional Measures’ in Lori
+Damrosch (ed), The International Court of Justice at a Crossroads (1987) 323, 325; Maurice
+Mendelson, ‘Interim Measures of Protection in Cases of Contested Jurisdiction’ (1972—3) 46 British
+Yearbook of International Law 259; J C Witenberg, L’Organisation Judiciaire: La Procédure et la
+Sentence Internationales (1937) 387.
+
+15 For example, Thirlway, “The Indication of Provisional Measures’, above n 3, 7; Jerome Elkind,
+Interim Protection: A Functional Approach (1981) 219-20.
+
+16 Convention for the Establishment of the Central American Court of Justice [1907] 2 US Foreign
+Relations 697, art 18; Paul Guggenheim, ‘Les mesures conservatoires dans la procédure arbitrale et
+judiciaire’ (1932) 40 Recueil des cours 645, 660-2; E Dumbauld, Interim Measures of Protection in
+International Controversies (1932) 93-6. 17 Ser D, (No 2) Add 2, 192.
+
+18 LaGrand (Provisional Measures) [1999] ICJ Rep 9, 11-12.
+122 A Common Law of International Adjudication
+
+Avena.'° International courts do not, however, make frequent reference to this
+purpose in their orders.
+
+Yet another purpose which is often referred to by international courts is the
+avoidance of any aggravation or extension ofa dispute.?° This purpose was referred
+to in the constitutive instrument of the Central American Court of Justice,?! and
+the PCIJ and ICJ have made orders with this aim in many cases in which provi-
+sional measures have been granted since the power was first exercised by the PCI in
+Electricity Company of Sofia and Bulgaria.?? In granting provisional measures other
+international courts, including ICSID tribunals and the ITLOS, have also urged
+parties to avoid aggravating and extending the dispute.?3
+
+Other purposes of provisional measures, which are related to the preservation
+of the parties’ rights and the safeguarding of the jurisdiction of international
+courts, may include the preservation of evidence, without which a party might
+not be able to prove its claim and the tribunal might not be able to settle the dis-
+pute;?4 the granting of discovery orders;?> making orders to ensure the satisfactory
+conduct of procedure before the court;?6 and the making of orders staying domes-
+
+tic court proceedings.?” Finally, under article 290 of UNCLOS, the ITLOS and
+
+19 Avena, CR 2003/1, para 32 (Santiago Ofiate).
+
+20 Thirlway, “The Indication of Provisional Measures’, above n 3, 12-16.
+
+21 Above n 16, art 18.
+
+22 Ser A/B, (No 79) 194, 199 (PCIJ, 1939); see, e.g., Nuclear Tests (Australia v France) (Interim
+Protection) [1973] IC] Rep 99, 106.
+
+23 Amco v Indonesia (Provisional Measures), 1 \CSID Rep 410 (1983); Paul Friedland, ‘Provisional
+Measures and ICSID Arbitration’ (1986) 2 Arbitration International 335, 336-9; MOX Plant (2002)
+41 ILM 405, 415 (ITLOS); Land Reclamation by Singapore in and around the Straits of Johore (ITLOS
+Order of 8 October 2003), para 102.
+
+24 See, e.g., Biwater Gauff (lanzania) Ltd v Tanzania (ICSID Case No ARB/05/22, Procedural
+Order No 1 of 31 March 2006), paras 84 and 92, available at <http://ita.law.uvic.edu> (last visited
+25 November 2006); Denunciation of the Treaty of 2 November 1865, Ser A, (No 8) 8 (PCI, 1927);
+Frontier Dispute (Provisional Measures) [1986] ICJ Rep 3, 9; Land and Maritime Boundary
+(Provisional Measures) [1996] IC] Rep 13, 23; AGIP v Congo, 1 ICSID Rep 306, 311 (1979); Vacuum
+Salt v Ghana, 4 ICSID Rep 323, 325 (1993); see also North American Free Tiade Agreement, signed
+17 December 1992, (1993) 32 ILM 289 (entered into force 1 January 1994), art 1134; Thirlway,
+“The Indication of Provisional Measures’, above n 3, 16.
+
+25 AGIP v Congo, ibid, 311 (1979); Friedland, above n 23, 347; see, however, Biwater Gauff
+(Procedural Order No 1) ibid, para 100, where the ICSID Tribunal held that ‘[a]ctual production is
+not usually considered within the ambit of such interim relief, partly because preservation is usually
+sufficient to protect the rights in question, and partly because actual production is catered for by
+other rules (in particular Article 43 of the ICSID Convention and Rule 34 of the ICSID Arbitration
+Rules). Indeed, the two procedures are aimed at different issues: Article 47 is designed to ensure that
+the Arbitral Tribunal can properly discharge its mandate, whilst Article 43 is one element in a range of
+provisions that structures how the mandate is to be discharged.’
+
+26 Denunciation of the Treaty, above n 24, 11; Aegean Sea [1980] ICJ Pleadings 67, 75; Jerzy
+Sztucki, Interim Measures in the Hague Court (1983) 10, 73.
+
+27 Electricity Company of Sofia and Bulgaria, above n 22, 197-9; Interhandel |1957] ICJ Rep 105,
+106; E-Systems, Inc, v Iran, 2 Ir-USCTR 51, 55-7 (1983); CSOB v Slovakia, 14 ICSID Review—
+FIL] 251, 255 (1999); Holiday Inns v Morocco, 1 ICSID Rep 645, 655-9 (1972); Charles Brower and
+Jason Brueschke, The Iran—United States Claims Tribunal (1998) 229-35; David Caron, ‘Interim
+Power to Grant Provisional Measures 123
+
+other UNCLOS tribunals have the power to grant provisional measures not only
+to preserve the respective rights of the parties, but also to prevent serious harm to
+the marine environment.?8 This purpose reflects the importance of the environ-
+mental protection function of international tribunals having jurisdiction under
+
+the dispute settlement regime of UNCLOS.?9
+
+II. Source of the Power to Grant Provisional Measures
+
+A. Constitutive Instruments of International Courts
+
+Many international courts have an express power in their constitutive instruments
+to grant provisional measures.>° Following earlier precedents,3! an express power
+was conferred on the PCIJ in article 41 (1) of the PCIJ Statute, which was retained
+in the ICJ Statute in 1945:
+
+The Court shall have the power to indicate, if it considers that circumstances so require,
+any provisional measures which ought to be taken to preserve the respective rights of either
+
+party.?
+
+Some multilateral agreements for the settlement of disputes also confer such a
+power on tribunals charged with settling disputes;35 and the constitutive instru-
+ments of a large number of other international courts expressly confer the power.
+
+Measures of Protection: Theory and Practice in Light of the Iran—US Claims Tribunal’ (1986) 46
+ZAaGRV 466, 469; Friedland, above n 23, 339.
+
+28 UNCLOS, above n 1, art 290; Land Reclamation by Singapore, above n 23, para 106(2);
+Southern Bluefin Tuna (Provisional Measures) (1999) 38 ILM 1624, 1634.
+
+29 See also Elkind, above n 15, 220—4.
+
+30 Rosenne, Provisional Measures, above n 11, 5—7; Sztucki, above n 26, 4-11.
+
+31 On the earlier precedents, see Rosenne, ibid, 12-21; Baron Schenk von Stauffenberg, Le statut
+et reglement de la Cour Permanente de Justice Internationale (1934) 309; Manley Hudson, The
+Permanent Court of International Justice 1920-1942 (1943) 198-9; Edvard Hambro, “The Binding
+Character of the Provisional Measures of Protection Indicated by the International Court of Justice’
+in Walter Schatzel and Hans-Jiirgen Schlochauer (eds), Rechtsfragen der Internationalen Organisation—
+Festschrift fiir Hans Wehberg zu seinem 70. Geburtstag (1956) 152, 166; and Guggenheim, above n 16,
+660-75.
+
+32 IC] Statute, above n 1, art 41(1). On the IC)’s power, see generally Rosenne, Provisional
+Measures, above n 11; Judge Shigeru Oda, ‘Provisional Measures: The Practice of the International
+Court of Justice’ in Vaughan Lowe and Malgosia Fitzmaurice (eds), Fifty Years of the International
+Court of Justice (1996) 541; Merrills, above n 11; Thirlway, ‘The Indication of Provisional Measures’,
+above n 3; Lawrence Collins, ‘Provisional and Protective Measures in International Litigation’ (1992)
+234 Recueil des cours 9; Sit Gerald Fitzmaurice, The Law and Procedure of the International Court of
+Justice (1986) 533-50; Sztucki, above n 26; Elkind, above n 15.
+
+33 General Act for the Pacific Settlement of International Disputes, opened for signature 26
+September 1928, 93 LNTS 343, art 33 (entered into force 16 August 1929); European Convention for
+the Peaceful Settlement of Disputes, opened for signature 29 April 1957, 320 UNTS 243, art 31
+(entered into force 30 April 1958); Pact of Bogotd, opened for signature 30 April 1948, 30 UNTS 55,
+art XVI (entered into force 6 May 1949).
+124 A Common Law of International Adjudication
+
+These include the ECJ,34 ICSID tribunals,3> the IACHR,¢ the ITLOS and
+UNCLOS tribunals,37 NAFTA tribunals,38 and the African Court on Human
+and Peoples’ Rights.3?
+
+This list of international courts possessing an express statutory power to grant
+provisional measures does not include all international courts. Notable among
+those lacking an express power in their constitutive instruments are tribunals estab-
+lished under the auspices of the PCA, WTO panels and the WTO Appellate Body.
+It has been suggested that PCA tribunals might have a power to grant provisional
+measures under the Hague Conventions,#° and WTO panels and the Appellate
+
+Body might also have the power under the terms of their Working Procedures,4!
+although this is doubtful.
+
+In the absence of an express statutory power to grant provisional measures,
+many international courts and tribunals have found that they have a source of
+competence to make such orders. This is by inclusion of the power in their rules of
+procedure, by reliance on a general principle of law, and by asserting the existence
+of an inherent power to grant interim relief.
+
+34 Treaty Establishing the European Community, (2002) OJ C325 (entered into force), arts 242-3;
+see generally Francis Jacobs, ‘Interim Measures in the Law and Practice of the Court of Justice of the
+European Communities’, in Bernhardt (ed), above n 3, 37; G Borchardt, “The Award of Interim
+Measures by the European Court of Justice’ (1985) 22 Common Market Law Review 203; Christine
+Gray, ‘Interim Measures of Protection in the European Court’ (1979) 4 ELR 80; Richard
+Wainwright, ‘Article 186 EEC: Interim Measures and Member States’ (1977) 2 ELR 349.
+
+35 ICSID Convention, above n 1, art 47; ICSID Arbitration Rules, Rule 39; ICSID Arbitration
+(Additional Facility) Rules, art 46; Christoph Schreuer, The [CSD Convention: A Commentary
+(2001) 744-82; Friedland, above n 23.
+
+36 American Convention, above n 1, art 63(2), IACHR Rules, 25(1); Jo Pasqualucci, ‘Provisional
+Measures in the Inter-American Human Rights System: An Innovative Development in
+International Law’ (1993) 26 Vanderbilt Journal of Transnational Law 803; Thomas Buergenthal,
+‘Interim Measures in the Inter-American Court of Human Rights’ in Bernhardt (ed), above n 3, 69.
+
+37 UNCLOS, above n 1, art 290, UNCLOS, above n 1, Annex VI (ITLOS Statute’), art 25(1),
+ITLOS Rules, art 89(1); Rosenne, Provisional Measures, above n 11; Thomas Mensah, ‘Provisional
+Measures in the International Tribunal for the Law of the Sea (2002) 62 ZadRV 43; Chester Brown,
+‘Provisional Measures before the International Tribunal for the Law of the Sea: The MOX Plant Case’
+(2002) 17 International Journal of Marine and Coastal Law 267; Riidiger Wolfrum, ‘Provisional
+Measures of the International ‘Tribunal for the Law of the Sea (1997) 37 Indian Journal of
+International Law 420.
+
+38 NAFTA, above n 24, art 1134.
+
+39 Protocol to the African Charter on Human and Peoples Rights on the Establishment of an African
+Court on Human and Peoples Rights, opened for signature 8 June 1998, (1998) ZaéRV 727 (entered
+into force 25 January 2004) art 27(2).
+
+40 For example, André Cocatre-Zilgien, ‘Les mesures conservatoires décidées par le juge ou par
+Parbitre international’ (1966) 70 Revue Générale de Droit International Public 5, 10-11, who suggests
+that the power might be found in the 1907 Convention, arts 73-4; and the 1899 Convention, arts
+48-9, which confer on tribunals the power to determine their competence and make orders for the
+conduct of proceedings. See, however, Guggenheim, above n 16, 654-5.
+
+41 Working Procedures for WTO Panels, DSU Appendix 3, para 11; and Working Procedures
+for Appellate Review, art 16(1), which provide that panels and the Appellate Body can adopt any
+additional procedures specific to the dispute.
+Power to Grant Provisional Measures 125
+
+B. Rules of Procedure of International Courts
+
+Some international courts and tribunals have arrogated to themselves the power
+to grant provisional measures in their rules of procedure. Even though the power
+to frame rules is generally conferred by the constitutive instrument, the practice
+of international courts in including the power demonstrates that certain inter-
+national courts consider such a power to be necessary in order to carry out their
+functions,*? for the rules of procedure of these international courts are drafted by
+the courts themselves without the need for ratification by the states parties. These
+international courts need to be distinguished from those whose rules of procedure
+are drafted by the states parties or the administrative body of the court; thus, the
+power of PCA tribunals to grant provisional measures under the Optional Rules
+of 1992 cannot be considered as providing judicial support for the inherent nature
+of the power,*> nor can the power of arbitral tribunals constituted under the ICC
+Rules of Arbitration or the UNCITRAL Rules.44 In addition, the Rules of the
+Iran—US Claims Tribunal were essentially agreed by the parties, rather than by the
+Tribunal itself.4>
+
+Many international judicial bodies have included the power to grant provi-
+sional measures in their rules of procedure. 33 of the 36 MATs which were estab-
+lished after the First World War included the power to grant interim relief in their
+Rules of Procedure.46 The ECommHR, prior to its dissolution in 1998, exercised
+a power to grant interim relief which it arrogated to itself in Rule 36 of its Rules of
+Procedure in 1974.47 The ECHR has also granted itself such a power in Rule 39 of
+its Rules of Court,’ as have other international judicial and quasi-judicial bodies,
+including the Human Rights Committee of the UN,*? the Court of Justice of the
+
+42 Sztucki, above n 26, 63.
+
+43 PCA Optional Rules for Arbitrating Disputes between Two States, art 26.
+
+44 ICC Rules of Arbitration (1998), art 23(1); UNCITRAL Arbitration Rules (1976), art 26.
+
+45 The Algiers Accords directed the Tribunal to apply the UNCITRAL Rules, although the
+Tribunal was free to make modifications: Brower and Brueschke, above n 27, 12.
+
+46 For example, Rules of Procedure of the Franco-German MAT, 1 TAM 44, art 31; Sztucki,
+above n 26, 4, 63, fn 15. The rules of procedure of the MATs were laid down by the tribunals them-
+selves, but envisaged some indirect scrutiny by the states parties, as they had to be published in their
+official journals: Sztucki, ibid, 65, fn 29; see, however, Bin Cheng, General Principles of Law as
+Applied by International Courts and Tribunals (first published 1953, 1987 ed) 269-70.
+
+47 European Commission of Human Rights Rules of Procedure, in European Commission of
+Human Rights: Documents and Decisions (1955—-1956—-1957) 58, Rule 36.
+
+48 ECHR Rules, above n 2, Rule 39; see generally R Macdonald, ‘Interim Measures in
+International Law, with Special Reference to the European System for the Protection of Human
+Rights’ (1992) 52 ZaéRV 703; Rudolf Bernhardt, ‘Interim Measures of Protection under the
+European Convention on Human Rights’, in Bernhardt (ed), above n 3, 95; Marc-André Eissen, “Les
+mesures provisoires dans la Convention Européenne des Droits de Homme’ (1969) 2 Revue des
+Droits de PHomme 252, 255.
+
+42 UNHRC Rules of Procedure, UN Doc CCPR/C/3/Rev.6, (24 April 2001), art 86; Christian
+Tomuschat, in Bernhardt (ed), above n 3, 120; Macdonald, ibid, 723-5.
+126 A Common Law of International Adjudication
+
+Benelux Union,>5° the [ACommHR,>! the ACommHPR,>? the UN Tribunal
+in Libya,>3 and various PCA tribunals.>4 Various international administrative
+tribunals also have the power in their rules.55
+
+C. Power to Grant Provisional Measures
+as a General Principle of Law
+
+Many international courts have held that there is a general principle of law that
+parties to litigation must abstain from any act which might exercise a prejudicial
+effect on any future judgment, or aggravate or extend the dispute. This was recog-
+
+nised in Electricity Company of Sofia and Bulgaria, where the PCIJ referred to:
+
+the principle universally accepted by international tribunals... to the effect that the parties
+to a case must abstain from any measure capable of exercising a prejudicial effect in regard
+to the execution of the decision to be given.*®
+
+Several writers have suggested that there is also a general principle of law common
+to many domestic legal systems that litigants are entitled to some form of relief
+pendente lite.57 Such procedural devices in domestic legal systems include the
+interlocutory injunction in English law, the temporary restraining order and the
+preliminary injunction in the United States, the ordonnance de réferé in French
+law, the einstweilige Verfiigung in German law, and the provvedimenti d’urgenza in
+Italian law.°8 On the basis of the widespread existence of the principle of interim
+relief in domestic legal systems, it is suggested that the power to grant provisional
+
+5° Court of Justice of the Benelux Union Rules of Procedure, art 50; Macdonald, ibid, 719.
+
+51 [ACommHR Rules, above n 4, art 25(1).
+
+52 African Commission on Human and Peoples’ Rights Rules of Procedure, art 111.
+
+53 UN Tribunal in Libya Rules, arts 25—G, extracted in Administration of Certain Properties in the
+State of Libya, 12 RIAA 359, 360-1 (UN Tribunal in Libya, 1952).
+
+54 For example, PCA Tribunal, Access to Information under Article 9 of the OSPAR Convention,
+Rules of Procedure, art 15; PCA Tribunal, Arbitration between the Bank of International Settlements
+and Private Parties, Rules for Arbitration, art 21; PCA Tribunal, Larsen/Hawatian Kingdom, Award of
+5 February 2001, 119 ILR 566 (2001), para 3.1 (selecting UNCITRAL Rules); Eritrea—Ethiopia
+Claims Commission Rules of Procedure, art 15; Eritrea—Ethiopia Boundary Commission Rules of
+Procedure, art 20; all available at <http://www.pca-cpa.org> (last visited 25 November 2006).
+
+55 For example, LNAT Rules of Procedure, reproduced in Chittharanjan Amerasinghe (ed),
+Documents on International Administrative Tribunals (1989), art 14; International Labour Organization
+Administrative Tribunal Rules, in Amerasinghe (ed) (ibid), art 19; United Nations Administrative
+‘Tribunal Rules of Procedure, in Amerasinghe (ed), ibid, art 7(3); World Bank Administrative Tribunal
+Rules of Procedure, in Amerasinghe (ed), ibid, art 7(3)(a); Sztucki, above n 26, 10.
+
+56 Above n 22, 194, 199; see also Aegean Sea [1976] ICJ Rep 3, 15-16; LaGrand (Merits) (2001)
+40 ILM 1069, 1093-4; Amco v Indonesia, above n 23, 412; see also in the context of ICSID arbitra-
+tion, Guinea v Atlantic Triton Co (Cour d’appel de Rennes), 3 ICSID Rep 3, 8-9 (1984).
+
+57 Hermann Mosler, Francis Jacobs, and Rudolf Bernhardt (reported comments), in Bernhardt
+(ed), above n 3, 127-9, 137-9, and 140; Collins, above n 32, 23-4, 169-71; Cheng, above n 46,
+140-1, 267-9; Elkind, above n 15, 3-4; V S Mani, /nternational Adjudication: Procedural Aspects
+(1980) 277; Dumbauld, above n 16, 180.
+
+58 Collins, above n 32, 24; Dumbauld, above n 16, 42-81.
+Power to Grant Provisional Measures 127
+
+measures can be characterized as a ‘general principle of law within the meaning of
+article 38(1)(c) of the ICJ Statute, and that international tribunals may rely on
+this general principle as a source of the power to grant provisional measures.
+
+Notwithstanding the widespread availability of interim relief in municipal legal
+systems, the objection has been made that the existence of a general principle
+obliging parties to litigation to refrain from prejudicing the rights in dispute does
+not empower the tribunal to grant provisional measures.>*? This objection appears
+to be based on the premise that international courts cannot derive jurisdictional
+powers from general principles of law, but rather must base their powers on the
+consent of the parties as expressed in the constitutive instrument.©
+
+This objection can be rejected. As has been seen in chapter 2, international law
+does not make a clear distinction between substance and procedure, and there is
+no reason why general principles of law should not be a source of procedural law.
+While there are limitations to an argument about the existence of inherent powers
+being based on general principles of law, the practice of domestic courts in making
+interim relief available is so widespread that general principles of law provide a
+solid basis for the existence of the power.
+
+D. Power to Grant Provisional Measures as an Inherent Power
+
+Finally, many international courts have asserted the power to grant provisional
+measures as an inherent power. The proposition that international courts have an
+inherent power to grant provisional measures has attracted the support of many
+writers.®! For instance, Edvard Hambro, referring to the ICJ, has stated that ‘the
+Court in exercising its authority under Article 41 does only in effect give life and
+blood to a rule that already exists in principle’.©? Other writers, however, have argued
+that the power to grant provisional measures cannot be considered inherent.®> For
+
+59 Hugh Thirlway, “The Law and Procedure of the International Court of Justice 1960-1989: Part
+Twelve’ (2001) 72 British Yearbook of International Law 37, 123-4; Dumbauld, above n 16, 180-1.
+
+60 Mathias Herdegen (reported comments), in Bernhardt (ed), above n 3, 126-7; Dumbauld,
+above n 16, 180-1.
+
+61 For example, Jo Pasqualucci, The Practice and Procedure of the Inter-American Court of Human
+Rights (2003) 298-300 (re the IACHR); Alexander Orakhelashvili, “Questions of International
+Judicial Jurisdiction in the LaGrand Case’ (2002) 15 Leiden Journal of International Law 105, 107-8,
+114 (re ‘international tribunals’); MacDonald, above n 48, 726—9 (re the ECHR and ‘international
+organs’); Caron, above n 27, 475-80 (re the Iran-US Claims Tribunal, but also noting that ‘[aJn
+inherent power to grant interim measures is generally recognised’); Fitzmaurice, Law and Procedure,
+above n 32, 542—3 (re the ICJ and ‘other tribunals’); Mani, above n 57, 286—9 (re international tri-
+bunals); Cocatre-Zilgien, above n 40, 10 (re PCA tribunals); Shabtai Rosenne, The Law and Practice
+of the International Court (1965) vol 1, 423-4 (re the ICJ); Michel Dubisson, La Cour internationale
+de justice (1964) 225 (re the ICJ); Shabtai Rosenne, The International Court of Justice: An Essay in
+Political and Legal Theory (1957) 327-8 (re the ICJ); Hambro, above n 31, 167 (re the ICJ).
+
+62 Hambro, ibid.
+
+63 See especially Hugh Thirlway, “The Law and Procedure of the International Court of Justice
+1960-89: Part Nine’ (1998) 69 British Yearbook of International Law 1, 19; Heribert Golsong and Sir
+Tan Sinclair (reported comments), in Bernhardt (ed), above n 3, 124-5, 133; Dumbauld, above n 16,
+180-2; Guggenheim, above n 16, 651-5.
+128 A Common Law of International Adjudication
+
+instance, Shabtai Rosenne has stated that ‘every international court or tribunal
+requires a specific provision in its constituent instrument to empower it to order
+provisional measures’;°4 and Dumbauld argued that ‘[t]he mere fact that a tri-
+bunal has jurisdiction over the dispute in chief does not, without more, give it
+jurisdiction to order interim measures’.®> Proponents of this view argue that since
+the power is specifically provided for in the constitutive instrument of some
+international courts and left out of others, this suggests that the power must be
+expressly conferred.®° Further, it has been argued that there is no practice of inter-
+national tribunals asserting this power where it has not been expressly conferred.*”
+
+The following paragraphs, however, suggest that the power to grant provisional
+measures can be exercised as an inherent power by international tribunals on the
+basis that such a power is necessary for the performance of their functions. This
+suggestion that international courts have an inherent power to grant provisional
+measures is also buttressed by substantial international judicial practice.
+
+1. The Power is necessary to carry out the Functions of
+International Courts
+
+It has been observed that the primary functions of international courts are
+twofold: the settlement of disputes by adjudication, and the proper administra-
+tion of international justice; and it is suggested that the power of international
+courts to grant provisional measures is necessary for the carrying out of both these
+functions. First, the function of international courts in settling disputes by adjudi-
+cation entails the rendering of an effective judgment, that is, a judgment which
+has not been stultified by the acts of parties prejudicing the rights in dispute. If
+international courts were unable to make orders preventing any prejudicial action
+and safeguard their jurisdiction to render an effective decision, their function in
+settling the dispute would be undermined. At the same time, the function of
+international courts in administering justice would not be served if the very ability
+of international courts to do justice were frustrated.°® Sir Gerald Fitzmaurice has
+argued that the power to grant provisional measures should be considered an
+inherent power due to the necessity of the power ‘in order to ensure that justice is
+done and that the eventual decision of the Court on the merits is not stultified by
+intermediate action on the part of one or other party rendering such decision
+unenforceable or unavailing’.® Significantly, he has argued that all international
+courts have the power to order provisional measures:
+
+64 Rosenne, Provisional Measures, above n 11, 7.
+
+65 Dumbauld, above n 16, 181; see also Guggenheim, above n 16, 651, fn 1, 655.
+
+66 Golsong and Sinclair, above n 63, 124-5, 133; and Mamatkulov and Abdurasulovic v Turkey
+(ECHR, Judgment of 6 February 2003) (Diss Op Tiirmen), available at <http://www.echr.coe.int>
+(last visited 30 November 2006). 67 Guggenheim, above n 16, 665.
+
+68 See, e.g., Frontier Dispute, above n 24, 9.
+
+69 Fitzmaurice, Law and Procedure, above n 32, 542.
+Power to Grant Provisional Measures 129
+
+In short, if there is ever a case at all for conferring this faculty expressly on an international
+tribunal (be it the Court or another), there is automatically a case for regarding all inter-
+national tribunals as inherently invested with it.7°
+
+The proposition that the power to grant provisional measures is necessary to carry
+out the function of international courts reflects the principle that the jurisdiction
+of international courts should be effective.” As parties to disputes have generally
+consented to the jurisdiction of international courts to make a determination on
+the merits of those disputes, it is suggested that the parties must have intended the
+international court to have the power to ensure the effectiveness of any future
+judgment and avoid the adjudicative process being rendered a futile exercise.”
+
+In addition to the functions of international courts in settling the dispute by
+adjudication and in ensuring the proper administration of international justice, it
+is suggested that a further function of international adjudication is relevant in
+connection with their power to grant provisional measures. This is the function of
+international courts to manage disputes.7> This function can be seen in the fre-
+quency with which international tribunals grant provisional measures which
+require the states parties to the dispute to refrain from acts which will ‘aggravate or
+extend the dispute’, even though the constitutive instruments of international
+courts do not foresee the granting of provisional measures for this purpose.” It is
+suggested that this practice evinces the existence of a broader underlying inherent
+power to grant provisional measures.”> This suggestion was put to the ICJ by
+Greece in Aegean Sea Continental Shelf, but the ICJ did not decide the point,”¢
+although later, in Frontier Dispute, the Chamber of the ICJ claimed that such pro-
+visional measures could be made under article 41: it held that it possessed
+‘by virtue of Article 41 of the Statute the power to indicate provisional measures
+with a view to preventing the aggravation or extension of the dispute whenever it
+considers that circumstances so require’.77 On its face, it is difficult to see how
+
+70 Tbid; see also Rosenne, Provisional Measures, above n 11, 4.
+
+71 Sir Hersch Lauterpacht, The Development of International Law by the International Court
+(1958) 243-56.
+
+72 Fitzmaurice, Law and Procedure, above n 32, 541-3; Ignaz Seidl-Hohenveldern, Rudolf
+Bernhardt, and Karin Oellers-Frahm (reported comments), in Bernhardt (ed), above n 3, 134, 140,
+146; see especially Avena (Provisional Measures) (2003) 42 ILM 309; LaGrand, above n 18; Vienna
+Convention on Consular Relations (1998] IC] Rep 248.
+
+73, Thirlway, ‘Part Twelve’, above n 59, 99-107.
+
+74 For example, Electricity Company of Sofia and Bulgaria, above n 22, 199; Anglo-Iranian Oil Co
+[1951] IC] Rep 89; Fisheries Jurisdiction (UK v Iceland) (Interim Protection) [1972] IC] Rep 12, 142;
+Nuclear Tests, above n 22, 106; Nuclear Tests (New Zealand v France) [1973] ICJ Rep 135, 142; Tehran
+Hostages {1979] IC] Rep 7, 21; Application of the Genocide Convention (Provisional Measures) [1993]
+IC] Rep 3, 24; Application of the Genocide Convention (Further Requests) [1993] IC] Rep 325, 350;
+Biwater Gauffv Tanzania, above n 24, (Procedural Order No 3 of 29 September 2006), para 135. For
+the view that the IC] does not have jurisdiction to grant such provisional measures, see Thirlway,
+‘Part Twelve’, above n 59, 85, 99-101.
+
+75 But see Thirlway, “The Indication of Provisional Measures’, above n 3, 13.
+
+76 Above n 56, 12-13. 77 Above n 24, 9.
+130 A Common Law of International Adjudication
+
+article 41 confers such a power, but the Chamber's explanation can be understood
+as suggesting that it had the power to grant provisional measures for the manage-
+ment of the dispute, in addition to the narrower purpose of the preservation of
+rights.78 This purpose can also be discerned in the [TLOS Order for provisional
+measures in OX Plant, which granted a provisional measure requiring the parties
+to enter into consultations to exchange information, monitor the effects of the
+MOxX Plant on the Irish Sea, and devise measures to prevent pollution.79 It is made
+explicit in the ICSID Tribunal’s Procedural Order No 3 in Biwater Gauff (Tanzania)
+Ltd v Tanzania, where the Tribunal observed that:
+
+It is now settled in both treaty and international commercial arbitration that an arbitral
+tribunal is entitled to direct the parties not to take any step that might (1) harm or preju-
+dice the integrity of the proceedings, or (2) aggravate or exacerbate the dispute. Both may
+be seen as a particular type of provisional measure... or simply as a facet of the tribunal’s
+overall procedural powers and its responsibility for its own process.8°
+
+It is suggested that such provisional measures are based on the function of man-
+aging the resolution of international disputes, and that this function may, in certain
+cases, form the basis of the power of international courts to grant such measures.
+
+2. Practice of International Courts supporting the Existence of the Power
+
+There is also substantial arbitral and judicial practice supporting the existence of an
+inherent power. This can be found in instances where international courts have
+granted such measures even though their constitutive instrument and rules of proced-
+ure do not provide for such a power. These cases include the decision of the arbitral
+tribunal which met under the Treaty of Corinto in 1907 to determine the dispute
+between Honduras and Nicaragua.®! Under its constitutive instrument, this tri-
+bunal had no formal power to grant provisional measures; article 11 merely obliged
+parties not to extend or aggravate any dispute. Nevertheless, the tribunal declared
+that for it to be able to examine the dispute, it was necessary for Nicaraguan and
+Honduran troops to retreat from the frontier and put themselves on a footing of
+peace.®? It is suggested that this order was akin to a provisional measure.®3
+
+A further example is provided by an order of the Anglo-German MAT in
+Gramophone Co Ltd v Deutsche Grammophon AG.84 This MAT also lacked an
+express power to grant interim relief. Nonetheless, the tribunal members stated
+that they were ‘of opinion that they have jurisdiction in this case’, and it was
+
+78 See also Thirlway, ‘Part Twelve’, above n 59, 101.
+
+79 Above n 23, 416; see Brown, above n 37, 281-2.
+
+80 Biwater Gauff, above n 24 (Procedural Order No 3 of 29 September 2006), para 135, available
+at <http://ita.law.uvic.ca> (last visited 25 November 2006).
+
+81 [1902] US Foreign Relations 881. 82 Guggenheim, above n 16, 661.
+
+83 Tbid, 660—2; Dumbauld, above n 16, 93-6.
+
+84 1 TAM 857 (Anglo-German MAT, 1922).
+Power to Grant Provisional Measures 131
+
+‘enough to say that the Tribunal are opinion [sic] that there are sufficient reasons
+for granting a provisional protection for the interests of the Claimants, which
+otherwise would be seriously endangered’.85
+
+Another early example is provided by the Trail Smelter case.8¢ In this arbitra-
+tion, the United States sought compensation from Canada for damage caused by
+transboundary pollution from a smelter in British Columbia. Before it was able to
+render a final award, the tribunal established a ‘temporary regime’ with which the
+parties were obliged to comply, even though the parties had not expressly asked it
+to do so.87 This regime was, effectively, a form of provisional measure, as it sought
+to preserve the rights in dispute.88
+
+In addition, the ECommHR also granted provisional measures several times
+prior to including a specific power in its Rules of Procedure in 1974, even though
+its previous rules of 1955 did not contain the power.8® As a final example, the
+ECJ held in Camera Care v Commission that a non-judicial body, the European
+Commission, had the power to grant interim relief, even though the EC Treaty
+and the relevant EC Regulation did not expressly confer such a power on the
+Commission.?° The ECJ held that despite the absence of an express power, the
+Commission must be able ‘to take protective measures to the extent to which they
+might appear indispensable in order to avoid the exercise of [its] power to make
+decisions ... from becoming ineffectual or even illusory’.?!
+
+Finally, further support can be found in the jurisprudence of international
+courts which have expressly relied on an inherent power to provide interim relief,
+even though they also had a textual basis for the granting of provisional measures.
+For instance, the Iran—US Claims Tribunal has held that in addition to the power
+conferred in article 26 of its Rules, it has ‘an inherent power... to conserve the
+respective rights of the parties and to ensure that this Tribunal’s jurisdiction and
+authority are made fully effective’.9? It has also considered that the scope of its
+power to grant interim protection is not limited by article 26 of the Rules, accord-
+ing to which interim measures must pertain to the subject matter of the dispute.
+The Tribunal has held that it may issue interim measures which protect its “jurisdic-
+tion and authority’.9> Further, it has held that it can grant ‘temporary restraining
+
+85 Tbid, 859. 86 3 RIAA 1911 (US—Canada, 1938). 87 Tbid, 1934-7.
+
+88 Ibid; Mani, above n 57, 289; Cocatre-Zilgien, above n 40, 24—5.
+
+89 Rudolf Bernhardt, above n 48, 98; Hans Christian Kriiger, “The European Commission of
+Human Rights’ (1980) 1 Human Rights Law Journal 66, 74; Eissen, above n 48, 253-4; Marc-André
+Eissen, ‘La Convention Européenne des Droits de LHomme et les Mesures Conservatoires’ (1967)
+71 Revue Générale de Droit International Public 558, 559; Application No 2143/64 (1964) X v
+Austria and Yugoslavia,7 YOECHR 314, 317-21. 90 [1980] ECR-I 119.
+
+91 Tbid, 131.
+
+92 E-Systems, Inc, v Iran, above n 27, 57; Ford Aerospace and Communications Corporation v Air
+Force of Iran, 6 lr-USCTR 104, 108—9 (1984); Brower and Brueschke, above n 27, 217.
+
+93 E-Systems, ibid, 57 (1983); RCA Global Communications Disc, Inc v Iran, 4 lr-USCTR 5, 7
+(1983); Rockwell International Systems v Iran, 2 \r-USCTR 369, 371 (1983); Brower and Brueschke,
+ibid, 217-19.
+132 A Common Law of International Adjudication
+
+measures’ pending consideration of the request for provisional measures, in order
+to preserve its ability ‘to act effectively on a request for interim measures’.°4
+
+Additional support is found in the decision of the Third Chamber of the
+Arbitral Tribunal on Property, Rights and Interests in Germany in Veerman v
+Germany.°> Here, although the tribunal had an express power to order interim
+measures with respect to rights which are the subject of proceedings, the tribunal
+referred to its ‘inherent power to issue such orders as may be necessary to conserve
+the respective rights of the parties...and thereby to ensure that this Tribunal’s
+jurisdiction and authority are made fully effective’.%°
+
+Another example can be found in the practice of the IACHR. It has, on at least
+one occasion, referred to the existence of an inherent power as well as express
+powers in granting provisional measures. In granting provisional measures in
+Velasquez Rodriguez, it relied on:
+
+Articles 63(2), 33 and 62(3) of the American Convention on Human Rights, Articles 1
+and 2 of the Statute of the Court and Article 23 of the Rules of Procedure and its character
+as a judicial body and the powers which derive therefrom.?”
+
+Before the PCIJ and the ICJ, suggestions have been made in the course of oral
+argument that the International Court has an inherent power to grant provisional
+measures, in addition to the express power conferred in article 41 of the ICJ
+Statute.?8 The International Court has not made a judicial pronouncement on
+this question, and maintains the practice of relying expressly on article 41 in
+orders for provisional measures, yet individual judges have certainly expressed
+their views. In his separate opinion in Northern Cameroons, Sit Gerald Fitzmaurice
+stated that the power to grant provisional measures, together with the ICJ’s inci-
+dental jurisdiction, is ‘an inherent jurisdiction, the power to exercise which is a
+necessary condition of the Court—or any court of law—being able to function at
+all’.°° There have also been other strong pronouncements by individual judges
+that the ICJ has an inherent power to grant provisional measures. !°°
+
+The ICJ’s approach to relying on article 41 of the ICJ Statute in granting provi-
+sional measures is mirrored in the practice of the I[TLOS and ICSID tribunals. In
+
+°4 Component Builders, Inc v Iran, 8 lr-USCTR 3, 5 (1985); see also 5, 6-7 (Conc Op Brower).
+
+95 25 ILR 522 (1957); see also Scheidt v Germany, 25 ILR 555 (1957); D P O'Connell,
+International Law (2nd ed, 1970) vol 2, 1093.
+
+96 Veerman, ibid 523; Sztucki, above n 26, 63.
+
+97 Veldsquez Rodriguez (Merits), 95 ILR 259, 268 (IACHR, 1988); see also Pasqualucci, Practice
+and Procedure, above n 61, 298-300; Buergenthal, above n 36, 83-4.
+
+°8 Legal Status of South-Eastern Greenland, Ser C, (No 69) 32; Ser A/B, (No 48), 281 (PCIJ,
+1932); Aegean Sea [1980] ICJ Pleadings 88, 99, 100-4; Sztucki, above n 26, 62; see also above n 76
+and accompanying text. 99 [1963] IC] Rep 15, 97, 103 (Sep Op Fitzmaurice).
+
+100 Application of the Genocide Convention (Further Requests), above n 74, 370, 379 (Sep Op
+Weeramantry), 390, 397 (Sep Op Ajibola); Lockerbie (Provisional Measures) [1992] IC] Rep 3, 50, 70
+(Diss Op Weeramantry), 78, 88-90 (Diss Op Ajibola); Nuclear Tests (Australia), above n 22, 109;
+Nuclear Tests (New Zealand), above n 74, 145 (Declaration Nagendra Singh).
+Power to Grant Provisional Measures 133
+
+four provisional measures cases to come before the ITLOS, it has expressly relied
+on article 290(1) or article 290(5) for the prescription of provisional measures.!°!
+ICSID tribunals also appear to have consistently relied on the power conferred by
+article 47 of the ICSID Convention in granting provisional measures. !©2
+
+E. Limitations on the Power to Grant Provisional Measures
+
+The power to grant provisional measures might not be necessary for carrying out
+the functions of every international court.!°3 For instance, tribunals operating
+under the PCA and WTO panels have, so far, operated successfully without an
+express power, as did Conciliation Commissions under the Peace Treaty with Italy
+(1947), and the Mexican Claims Commissions (1923-34).!% It is possible that
+provisional measures are less relevant in proceedings before PCA tribunals; this is
+because PCA tribunals are not permanent bodies which can be convened at short
+notice for the purposes of a provisional measures request. Even so, PCA tribunals
+routinely include a power to grant provisional measures in their rules of proced-
+ure, and those PCA tribunals selecting the PCA Optional Rules of Procedure also
+have the power.!° In addition, ad hoc tribunals have in some disputes rendered
+an ‘interim award’, which is akin to provisional measures as it has had the effect of
+preserving rights or maintaining the status quo.!°
+
+The position of WTO panels and the Appellate Body is more complex. While
+the exercise of the power would be consistent with the functions of WTO panels
+and the Appellate Body in setting disputes, the existence of a power to grant provi-
+sional measures may be inconsistent with the terms of the DSU. At the outset it
+might be noted that an appellate court, such as the Appellate Body, is unlikely to
+be called upon to grant provisional measures. By the time a dispute reaches the
+appellate stage, the need for provisional measures will be less pressing than at the
+commencement ofa dispute. Accordingly, this section will focus on the possibility
+of WTO panels granting provisional measures.
+
+101 M/V Saiga’ (No 2) (Provisional Measures), 117 1LR 111, 124 (ITLOS, 1998); Southern Bluefin
+Tuna, above n 28, 1632-3; MOX Plant above n 23, 411, 416; Land Reclamation by Singapore, above n
+23, para 106(1), available at <http://www.itlos.org> (last visited 25 November 2006).
+
+102 For example Jokios lokeles v Ukraine (ICSID Case No ARB/02/18, Procedural Order No 3 of
+18 January 2005), paras 6-8, available at <http://ita.law.uvic.ca> (last visited 25 November 2006);
+Atlantic Triton v Guinea, 3 \CSID Rep 13, 35-7 (1986); Holiday Inns v Morocco, 1 ICSID Rep 645,
+658 (1972).
+
+103 Sir Ian Sinclair and Hartmut Schiedermair (reported comments), in Bernhardt (ed), above
+n 3, 133-4, 142-3; see also, more generally, Georges Abi-Saab, Les exceptions préliminaires dans la
+procédure de la Cour internationale (1967) 89. 104 Sztucki, above n 26, 63-4.
+
+105 See, e.g., the examples in above n 54.
+
+106 See, e.g., Trail Smelter, above n 86, 1934-7; and see the discussion in Access to Information
+under the OSPAR Convention, Verbatim Record (24 October 2002), 1, 30, available at <http://www.
+pca-cpa.org> (last visited 25 November 2006).
+134 A Common Law of International Adjudication
+
+First, it might be argued that a power to grant provisional measures would be
+inconsistent with the short timeframes provided for in the DSU. The usual time
+between the lodging of a request for consultations to the adoption of a panel
+report by the DSB is between six and nine months.!°7 This contrasts with the
+position before other international tribunals, where it could take years from the
+date of the institution of proceedings until final judgment.!°8 But the shorter time
+frames involved in WTO dispute settlement need not exclude the relevance of
+provisional measures. Even over a short period, significant damage might be done
+to a state’s economy.!°
+
+Second, it might be argued that the DSU already provides for expedited proced-
+ures in cases of ‘urgency’, such as where perishable goods or prohibited subsidies
+are concerned.!!© But this factor also need not rule out the relevance of provi-
+sional measures. Even where shorter time frames are involved, the rights of the
+parties can still be harmed, even though the state whose economy is suffering can
+levy countervailing duties on imported goods which are thought to be benefiting
+from prohibited subsidies. !!!
+
+A third factor militating against a power of WTO panels to grant provisional
+measures is that remedies under the WTO dispute settlement system are typically
+forward-looking rather than retrospective.!!? That is, the right to a remedy arises
+on the date of adoption of the report, not the date of the alleged internationally
+wrongful act, or the date of the commencement of the action. This contrasts with
+the position under general international law, where states responsible for an inter-
+nationally wrongful act are under an obligation to make ‘full reparation’ to the
+injured state,113 and ‘wipe out all the consequences’ of the breach of international
+
+107 Understanding on Rules and Procedures Governing the Settlement of Disputes, opened for signa-
+ture 15 April 1994, 1869 UNTS 401 (entered into force 1 January 1995) (‘DSU’), Appendix 3,
+Working Procedures, para 12.
+
+108 See, e.g., Land and Maritime Boundary between Cameroon and Nigeria, where the dispute
+before the ICJ was initiated in 1994, and judgment was rendered in 2003; and Oil Platforms, where
+the proceedings were commenced in 1992 and judgment was delivered in 2003.
+
+109 For example in EC—Hormones, the DSB approved the suspension of concessions to the EC in
+the order of US$116,800,000 per year (for the US) and CAN$11,300,000 per year (for Canada):
+EC—Hormones, Minutes of Meeting held in the Centre William Rappard on 26 July 1999,
+WT/DSB/M65, 17-19.
+
+110 DSU, above n 107, arts 4(8)—(9), 12(8), art 17(5); David Palmeter and Petros Mavroidis,
+Dispute Settlement in the World Trade Organisation (1st ed, 1999), 144; Appellate Body, Working
+Procedures, above n 41, Rule 31.
+
+111 Agreement on Subsides and Countervailing Measures, opened for signature 15 April 1994, 1869
+UNTS 14 (entered into force 1 January 1995) (SCM Agreement) arts 17-21.
+
+112 Marco Bronckers and Naboth van den Broek, ‘Financial Compensation in the WTO:
+Improving the Remedies of WTO Dispute Settlement’ (2005) 8 Journal of International Economic
+Law 101, 102; Chi Carmody, ‘Remedies and Conformity under the WTO Agreement’ (2002) 5
+Journal of International Economic Law 307, 315-21; Patricio Grané, ‘Remedies under WTO Law’
+(2001) 4 Journal of International Economic Law 755, 759-63; DSU, above n 107, arts 3(7); 19(1).
+
+113 ILC Articles, art 31 in James Crawford, The International Law Commission’ Articles on State
+Responsibility (2002) 201-6.
+Power to Grant Provisional Measures 135
+
+law.114 The non-availability of retrospective remedies in WTO dispute settlement
+might permit the inference to be drawn that WTO panels do not have an inherent
+power to preserve the rights of the parties during the pendency of the proceedings,
+for there is no right to compensation for any damage to the complainant state
+which occurs prior to the adoption of the report.
+
+It is suggested, however, that WTO remedies are not exclusively forward-
+looking. In a prohibited subsidies dispute, Australia—Leather, a WYO panel had
+held that subsidies paid by the Australian government to a local producer of
+automotive leather were inconsistent with Australia’s obligations under the SCM
+Agreement, and ordered that they be withdrawn ‘without delay’.!!5 The panel
+constituted under article 21(5) of the DSU to monitor the implementation of the
+original panel report ordered that the subsidies be reimbursed.1!¢ In so doing, the
+panel found that an order under article 4(7) of the SCM Agreement was not lim-
+ited to prospective action, but could encompass repayment of the prohibited sub-
+sidy.!!7 This panel report therefore suggests that remedies in prohibited subsidies
+disputes can seek to ‘wipe out all the consequences’ of the wrongful act.!18 This
+provides support for the proposition that the parties’ rights can be protected dur-
+ing the pendency of such proceedings. Nevertheless, this is an isolated case, and in
+the absence of further practice by WTO panels, it is difficult to characterize the
+function of WTO dispute settlement as reflecting the function of other inter-
+national adjudicatory bodies in preserving the parties’ rights pending final judg-
+ment. It might be that a power to grant provisional measures, if it exists in WTO
+dispute settlement, is limited to prohibited subsidies cases and anti-dumping
+disputes, where it is possible that a retroactive remedy might be available.!19
+
+III. Common Features in the Exercise of the Power
+
+The power to grant provisional measures—whether it be as a result of an express
+power, a general principle of law, or an inherent power—is one that has been exer-
+cised with relative frequency by international courts, resulting in much jurispru-
+dence.!2° There are four issues which may be considered relevant in addressing the
+question whether international courts exercise this power consistently. First,
+whether international courts need to have established jurisdiction over the merits
+of the dispute in order to have jurisdiction to grant provisional measures; second,
+what circumstances are relevant to the granting of provisional measures; third,
+
+114 Factory at Chorzéw, Ser A, (No 17), 47 (PCI, 1928).
+
+115 Australia—Leather, DSR 1999-III, 951, 1103-4 (PR).
+
+116 Aystralia—Leather, DSR 2000-III 1189, 1203-11 (Art 21(5) PR). 117 Thid, 1210.
+
+118 See also Factory at Chorzéw, above n 114, 47.
+
+119 For example, Guatemala—Cement IT, DSR 2000-XI, 5295 (PR); see further below chapter 6.
+
+120 For example, for a list of all provisional measures orders of the PCIJ and ICJ until 2004, see
+Rosenne, Provisional Measures, above n 11, 27-31.
+
+a
+
+a
+136 A Common Law of International Adjudication
+
+whether provisional measures are binding; and fourth, whether international
+courts can grant provisional measures ultra petita or proprio motu.
+
+A. Question of Jurisdiction over the Merits
+
+The relationship between the power of international courts to grant provisional
+measures and their jurisdiction over the merits of a dispute has been a controver-
+sial question.!2! The constitutive instruments of many international tribunals do
+not clarify whether jurisdiction over the merits must be clearly established before
+that tribunal has jurisdiction to grant provisional measures. Over time, various
+positions have been put forward, ranging from the view that the question of juris-
+diction over the merits has to be conclusively established,12? to the view that the
+question of the court’s jurisdiction is irrelevant to the granting of provisional meas-
+ures.!23 These two extreme positions are widely regarded as unsatisfactory. On
+one hand, if a party has to wait until the international court’s jurisdiction over the
+merits has been affirmatively established, the length of time involved in cases of
+complexity would often deprive any provisional measures of their efficacy in pre-
+serving the rights of the parties.!24 On the other hand, if international courts dis-
+regarded the question of jurisdiction before making an order restraining a party's
+right to act, arguably this would contravene the principle of consent, on which the
+jurisdiction of international courts is based.!25 Other tests regarding the relevance
+of jurisdiction have also been proposed.!26 The position which the ICJ has
+adopted is that it need not finally satisfy itself that it has jurisdiction on the merits
+of the case, but ought not to indicate provisional measures unless the state request-
+ing provisional measures can show a prima facie basis on which the jurisdiction of
+
+the ICJ might be founded. This test was first proposed by Sir Hersch Lauterpacht
+
+121 See, e.g., Rosenne, Provisional Measures, ibid, 85-102; in the context of the ICJ, see Oxman,
+above n 14; John Merrills, ‘Interim Measures of Protection and the Substantive Jurisdiction of the
+International Court’ (1977) 36 CL] 86; Mendelson, above n 14.
+
+122° Nuclear Tests (Australia), above n 22, 111, 111 (Diss Op Forster), 115, 118-9 (Diss Op Gros);
+Nuclear Tests (New Zealand), above n 74, 148, 148 (Diss Op Forster), 149, 153-4 (Diss Op Gros);
+Aegean Sea above n 56, 22 (Sep Op Morozov).
+
+123 See discussion in Thirlway, ‘Part Twelve’, above n 59, 79; Hans Gerd Niemeyer, Einstweilige
+Verfiigungen des Weltgerichtshofs, ihr Wesen und ihre Grenzen (1932) 70-1.
+
+124 Por example, John Collier and Vaughan Lowe, The Settlement of Disputes in International Law:
+Institutions and Procedures (1999) 169; Mendelson, above n 14, 261.
+
+125 For example, Collier and Lowe, ibid, 169; Mendelson, ibid, 261; Jnterhandel, above n 27, 117,
+118 (Sep Op Lauterpacht).
+
+126 Collier and Lowe, ibid, 170; e.g., the view that jurisdiction is merely one of the circumstances
+for an international court to consider in deciding whether to grant provisional measures: Nuclear Tests
+(Australia), above n 22, 106, 107 (Declaration Aréchaga); Aegean Sea, above n 56, 16 (Sep Op
+Aréchaga); and the view that jurisdiction must be reasonably probable: Anglo-Iranian Oil Co, above n
+74, 96, 96 (Diss Op Winiarski and Badawi Pasha); Fisheries Jurisdiction, above n 12, 20, 21 (Diss Op
+Padilla Nervo); Fisheries Jurisdiction [1972] IC] Rep 30, 37, 38 (Diss Op Padilla Nervo); Aegean Sea,
+ibid, 17 (Sep Op Nagendra Singh).
+Power to Grant Provisional Measures 137
+
+in his separate opinion in /nterhandel, where, significantly, he based this view on
+uniform ‘international arbitral and judicial practice’:
+
+The correct principle which emerges from these apparently conflicting considerations and
+which has been uniformly adopted in international arbitral and judicial practice is as fol-
+lows: The Court may properly act under the terms of Article 41 provided that there is in
+existence an instrument such as a Declaration of Acceptance of the Optional Clause, eman-
+ating from the Parties to the dispute, which prima facie confers jurisdiction upon the Court
+and which incorporates no reservations obviously excluding its jurisdiction. !?7
+
+The ICJ adopted this test in Fisheries Jurisdiction'?® and Nuclear Tests,!2° and has
+since been regularly repeated in requests for provisional measures.!3°
+
+Other international courts appear to have adopted this requirement of prima
+facie jurisdiction over the merits of the dispute. In the case of the ITLOS and
+other tribunals having jurisdiction under UNCLOS, the question is expressly
+addressed in article 290(1) and 290(5). Together, the effect of these provisions
+requires that the court or tribunal determining a request for provisional measures
+must be satisfied that the tribunal to which the merits of the dispute are ultimately
+submitted has a prima facie basis of jurisdiction over the dispute. This question
+is complicated by the choice made by states parties when signing or ratifying
+UNCLOS. Under article 287, parties may choose to refer disputes to the ICJ, the
+ITLOS or arbitral tribunals constituted in accordance with Annex VII or Annex
+VII. Article 290(1) applies to requests for provisional measures to the body which
+will have jurisdiction over the merits of the dispute, and article 290(5) applies to
+requests for provisional measures made to bodies other than the tribunal which
+will determine the merits of the dispute.
+
+Similarly, the jurisdiction of ICSID tribunals does not need to be conclusively
+established before they can grant provisional measures.!3! Under article 36(3) of
+the ICSID Convention, upon receipt of an application, the Secretary-General of
+ICSID registers the request for arbitration and constitutes a tribunal unless it is
+found that the dispute is manifestly outside the jurisdiction of ICSID.132 This
+preliminary examination of jurisdiction before the claim even reaches the tribunal
+forms a type of prima facie test for whether the tribunal has jurisdiction. It is then
+up to the tribunal to decide whether it wants to accept the Secretary-General’s
+registration as a sufficient basis or whether it wants to form its own prima facie
+
+127 Above n 27, 117, 118 (Sep Op Lauterpacht).
+
+128 Above n 12, 15; [1972] IC] Rep 29, 33. 129 Above n 22, 101; above n 74, 137.
+
+130 For example, Pulp Mills on the River Uruguay (ICJ Order of 13 July 2006), para 57, available at
+<http://www.icj-cij.org> (last visited 25 November 2006); Passage Through the Great Belt [1991] IC]
+Rep 12, 15; Application of the Genocide Convention, (Provisional Measures), above n 74, 11-12; Land
+and Maritime Boundary, above n 24, 21; Armed Activities on the Territory of the Congo (New
+Application) (2002) 41 ILM 1175, 1190.
+
+131 Schreuer, above n 35, 764—6; Charles Brower and Ronald Goodman, ‘Provisional Measures
+and the Protection of [CSID Jurisdictional Exclusivity Against Municipal Proceedings’ (1991) 6
+ICSID Review—FIL] 431, 451-6.
+
+132 TCSID Convention, above n 1, art 36(3); Friedland, above n 23, 341.
+138 A Common Law of International Adjudication
+
+view on jurisdiction before recommending provisional measures.133 ICSID
+tribunals have followed this practice, and at least one tribunal has made express
+reference to the standard of a prima facie basis of jurisdiction. !54
+
+Other international courts also require a jurisdictional link before granting pro-
+visional measures. The Iran—US Claims Tribunal has stated that it must be satis-
+fied that it has prima facie jurisdiction over the dispute before granting provisional
+measures.!3> The IACHR also considers questions of jurisdiction in granting pro-
+visional measures, although the issue of jurisdiction is usually less complex before
+this body. Article 63(2) of the American Convention on Human Rights, which
+contains the express power, makes no mention of a specific jurisdictional require-
+ment, but it would seem apparent that the IACHR can only grant such measures
+if the states parties to the litigation have accepted its jurisdiction.!5° Judge
+Buergenthal has suggested that it is sufficient for the ACHR to find that it has
+prima facie jurisdiction over the merits.197 In practice, states appear to have chal-
+lenged the jurisdiction of the IACHR to grant provisional measures on one occa-
+sion; this was in James v Trinidad and Tobago, where the respondent state had
+withdrawn its consent to the IACHR’s jurisdiction, and argued that the IACHR
+lacked jurisdiction ratione temporis.138 The IACHR nonetheless granted provi-
+sional measures, as Trinidad and Tobago had not denounced the American
+Convention until after its alleged violations of it.!39 Usually, however, the ACHR
+simply makes a finding that the respondent state is a state party to the convention,
+and proceeds to grant the measures, if the other criteria are satisfied.!4° Questions
+of jurisdiction to grant provisional measures have not arisen before the ECHR;
+this is perhaps due to the fact that there is no provision in the European HR
+Convention empowering the ECHR to grant provisional measures, and orders
+made under Rule 39 of its Rules have, until the Mamatkulov judgment in 2003,
+been considered non-binding.!4! The question of jurisdiction may arise in future
+requests for provisional measures.
+
+133 Schreuer, above n 35, 764—5; Friedland, ibid, 341; Pierre Lalive, “The First World Bank
+Arbitration (Holiday Inns v Morocco): Some Legal Problems’ (1980) 51 British Yearbook of
+International Law 123, 136.
+
+134 Victor Pey Casado and Fondation Président Allende v Chile (2001) 16 ICSID Review—FIL] 567,
+574-6; see also Schreuer, ibid, 765-6.
+
+135 Component Builders, Inc v Iran, above n 94, 4; Ford Aerospace and Communications Corporation
+v Air Force of Iran, above n 92, 108-10; Brower and Brueschke, above n 27, 218-22; Brower and
+Goodman, above n 131, 451—2; Caron, above n 27, 488-90.
+
+136 ‘Thomas Buergenthal, “The Inter-American Court of Human Rights’ (1982) 76 A/IL 231, 241.
+
+137 Buergenthal, ‘Interim Measures’, above n 36, 71; see also Pasqualucci, Practice and Procedure,
+above n 61, 308-9; Pasqualucci, ‘Provisional Measures’, above n 36, 826.
+
+138 James et al v Trinidad and Tobago, (ACHR Order of 25 May 1999), available at
+<http://www.corteidh.or.cr> (last visited 25 November 2006); Pasqualucci, Practice and Procedure,
+above n 61, 308. 139 James v Trinidad and Tobago, ibid, 4—5; Pasqualucci, ibid, 308.
+
+140 For example, Urso Branco Prison (Brazil) (LACHR Order of 29 August 2002), 7; Constitutional
+Court (Peru) (ACHR Order of 7 April 2000), 2, all available at <http://www.corteidh.or.cr> (last
+visited 25 November 2006).
+
+141 Cruz Varas v Sweden, Ser A (No 201) (ECHR, 1991); Conka v Belgium (ECHR Decision of
+13 March 2001); Christian Tams, ‘Interim Orders by the European Court of Human Rights:
+Power to Grant Provisional Measures 139
+
+B. Circumstances Relevant to the Granting of Provisional Measures
+
+The constitutive instruments of international courts often provide that the court
+may grant provisional measures if ‘the circumstances so require’,!4? or if to do so
+would be ‘appropriate under the circumstances’.!43 The constitutive instruments
+are generally silent, however, on what these words actually mean, and inter-
+national courts have accordingly developed criteria in their case law. There are many
+circumstances which might be considered pertinent to requests for provisional
+measures, but there are two criteria which have emerged as being crucial. One
+reflects the purpose of provisional measures, being the preservation of the parties’
+rights from irreparable prejudice pending the decision on the merits, and the
+other criterion is urgency.
+
+1. Prevention of Irreparable Prejudice to the Rights of the Parties
+
+The preservation of the parties’ rights from irreparable prejudice is one of the two
+criteria widely adopted by international courts in deciding on requests for provi-
+sional measures. For example, the ICJ clarified in Fisheries Jurisdiction that the
+power to grant provisional measures ‘presupposes that irreparable prejudice
+should not be caused to rights which are the subject of a dispute in judicial pro-
+ceedings’,!44 and this has been repeated almost verbatim in subsequent cases.!4°
+There are two comments that need to be made regarding this statement. First, the
+ICJ only has jurisdiction to order provisional measures which are ‘needed to pro-
+tect rights which might form the subject matter of a judgment under the treaty or
+treaties which the Court determines afford a prima facie basis for its jurisdic-
+tion’.!46 Second, the rights of the parties should only properly be the subject of an
+order for provisional measures if the probability exists that they will be damaged
+in a way that cannot be made good in a later judgment on the merits.!47 Prejudice
+is deemed to be ‘irreparable’ for the purpose of the indication of interim measures
+if it makes impossible full execution of the judgment and full restoration of the
+position of the party seeking preservation of its rights.148 This test has been inter-
+preted very restrictively by international courts and tribunals. For instance, in
+Aegean Sea, Greece sought provisional measures to prevent Turkey from carrying
+out seismic tests on the area of continental shelf in dispute. In its order denying
+
+Comments on Mamatkulov and Abdurasulovic v Turkey (2003) 63 ZaéRV 681; Chester Brown,
+‘Strasbourg Follows Suit on Provisional Measures’ (2003) 62 CL/ 532.
+
+142 For example, IC] Statute, above n 1 art 41; ICSID Convention, above n 1, art 47.
+
+143, For example, UNCLOS, above n 1, art 290(1). 144 Above n 12, 16; above n 126, 34.
+
+145 For example, Pulp Mills on the River Uruguay, above n 130, paras 61—2; Avena, above n 72,
+318; LaGrand, above n 18, 14—15; Consular Relations, above n 72, 257; Passage through the Great Belt,
+above n 130, 16; Frontier Dispute, above n 24, 8.
+
+146 Armed Activities (New Application), above n 130, 1190; Application of the Genocide Convention,
+above n 74, 342; see also Armed Activities (New Application), CR 2002/37, 13-14, 26-8 (Christopher
+Greenwood), CR 2002/39, 6-7 (Christopher Greenwood); Thirlway, ‘Part Twelve’, above n 59, 87-8.
+
+147 Oda, above n 32, 551. 148 Sztucki, above n 26, 110-12.
+140 A Common Law of International Adjudication
+
+provisional measures, the ICJ held that the ‘alleged breach by Turkey... is one that
+might be capable of reparation by appropriate means’, and it followed that the ICJ
+was unable ‘to find in that alleged breach of Greece’s rights such a risk of irrepar-
+able prejudice to rights in issue before the Court as might require the exercise of its
+power under Article 41 of the Statute to indicate interim measures for their preser-
+vation .!49 A similar finding was made by the Iran—US Claims Tribunal in /ran v
+US (Case No B-1), where it held that ‘injury that can be made whole by monetary
+relief does not constitute irreparable harm’.15° This was also accepted by the
+ICSID Tribunal in Plama Consortium Ltd v Bulgaria, which accepted Bulgaria's
+argument that ‘harm is not irreparable if it can be compensated for by damages,
+which is the case in the present arbitration’.151
+
+The jurisprudence of the ICJ demonstrates that the court does not require that
+irreparable harm should seem certain, but that there should be a probability of
+such prejudice.!5? In practice, the ICJ has generally indicated provisional meas-
+ures in cases where events were certain because they had already taken place or on
+the basis of events the occurrence of which in the near future could be regarded as
+certain unless prevented by some diplomatic or judicial action.155
+
+Tribunals having jurisdiction to grant provisional measures under UNCLOS
+may do so to preserve the rights of the parties or to prevent serious harm to the
+marine environment. With respect to the standard of harm, no guidance is given by
+article 290 of UNCLOS or the constitutive instruments of the ITLOS and Annex
+VII tribunals, and in its first three provisional measures orders, the [TLOS did not
+expressly adopt the standard of ‘irreparable damage’ .!54 In Land Reclamation, how-
+ever, the ITLOS directed Singapore ‘not to conduct its land reclamation in ways
+that might cause irreparable prejudice to the rights of Malaysia or serious harm to
+the marine environment’, thereby adopting this standard.1>> Yet even prior to this
+
+149 Above n 56, 11. There is, however, some authority for the proposition that the test should not
+be drawn so narrowly: Legal Status of South-Eastern Greenland, Ser AIB, (No 48), 277, 284 (PCI/,
+1932); Anglo-Iranian Oil Company; above n 74, 93-4; Fisheries Jurisdiction above n 12, 16-17;
+Behring International v Islamic Republic of Iran Air Force, 8 Ir-USCTR 238, 276, fn 50, (1985); see
+also Karin Oellers-Frahm, ‘Article 41’, in Andreas Zimmermann, Christian Tomuschat and Karin
+Oellers-Frahm (eds), The Statute of the International Court of Justice: A Commentary (2006) 921,
+939-40; and Merrills, above n 11, 108.
+
+150 Tran v US (Case No B-1), 22 Ir-USCTR 105, 109 (1989); see also Boeing Company et al v Iran,
+5 IrUSCTR 152, 154 (1984). See also, however, Behring International v Islamic Republic of Iran Air
+Force, ibid, 276, fn 50.
+
+151 Plama Consortium Ltd v Bulgaria (ICSID Case ARB/03/24, Order on Provisional Measures of
+6 September 2005), para 46.
+
+152. Thirlway, ‘Part Twelve’, above n 59, 93; Sztucki, above n 26, 105; Tehran Hostages, above n 74,
+20; Nuclear Tests, above n 22, 105; Denunciation of the Treaty of 1865, above n 24, 7.
+
+153 Arrest Warrant of 11 April 2000, CR 2000/33, para 58 (Daniel Bethlehem); Land and
+Maritime Boundary, above n 24, 23; Judge Rosalyn Higgins, ‘Interim Measures for the Protection of
+Human Rights’ (1997) 36 Columbia Journal of Transnational Law 91, 98-102, 104—5; Sztucki, above
+n 26, 105.
+
+154 See, e.g., Southern Bluefin Tuna, above n 28, 1638, 1639 (Sep Op Laing); M/V Saiga’ (No 2),
+above n 101, 129, 142—3 (Sep Op Laing) (ITLOS, 1998).
+
+155 Land Reclamation by Singapore, above n 23, para 106(2).
+Power to Grant Provisional Measures 141
+
+order for provisional measures, parties had treated this standard as relevant. In M/V
+Saiga (No 2), counsel for St Vincent and the Grenadines submitted that provi-
+sional measures were necessary ‘to prevent further irreparable harm’.!5° In the
+request for provisional measures before the IYLOS in MOX Plant, Ireland submit-
+ted that there was a ‘serious and imminent danger of irreparable harm to Ireland’s
+rights and of serious harm to the marine environment’,!°7 and the UK agreed that
+the required standard was that of irreparability.!58 More significantly, the UNC-
+LOS tribunal in MOX Plant expressly noted the relevance of IC] jurisprudence to
+requests for provisional measures under UNCLOS:
+
+Although the language of article 290 is not in all respects identical to that of article 41 of
+the Statute of the International Court of Justice, the Tribunal considers that it should have
+regard to the law and practice of that Court, as well as to the law and practice of ITLOS, in
+considering provisional measures. 1>?
+
+It also explicitly accepted the requirement of irreparable damage in applications
+for provisional measures under UNCLOS:
+
+International judicial practice confirms that a general requirement for the prescription of
+provisional measures to protect the rights of the parties is that there needs to be a showing
+both of urgency and of irreparable harm to the claimed rights (see, eg, Certain Criminal
+Proceedings in France, Order of 17 June 2003, paras 34—5.)16°
+
+ICSID tribunals have also made express reference to the language of ‘irreparable
+damage’ or ‘irreparable prejudice’ in granting provisional measures. In Plama
+Consortium Ltd v Bulgaria, the ICSID Tribunal held that ‘[t]he need for provisional
+measures must be... necessary to preserve the status quo or avoid the occurrence
+of irreparable harm or damage’.!®! In Tokios Tokeles v Ukraine, the ICSID Tribunal
+referred to ICJ jurisprudence, stating that ‘[t]he international jurisprudence on pro-
+visional measures indicates that a provisional measure is necessary where the actions
+of a party “are capable of causing or of threatening irreparable prejudice to the rights
+invoked”’.162 In Cases Nos A4 and A15(I), the Iran-US Claims Tribunal, operating
+under a modified version of the UNCITRAL Rules, also expressly adopted the stand-
+ard of ‘irreparable prejudice’ set by the ICJ,!°> and the UNCITRAL Tribunal in
+EnCana Corporation v Ecuador also adopted the test of ‘irreparable prejudice’ .1°4
+
+156 M/V Saiga (No 2), ITLOS/PV.98/1, 48-9 (Philippe Sands).
+
+157 MOX Plant, (TLOS/PV.01/07, 7 (Vaughan Lowe).
+
+158 Tbid, ITLOS/PV.01/08, 15, 19-20 (Daniel Bethlehem), 30-1 (Richard Plender); see also
+MOX Plant, above n 23, 414-15. 159 (2003) 42 ILM 1187, 1195.
+
+160 bid, 1197. 161 Plama Consortium Ltd v Bulgaria, above n 151, para 38.
+
+162 Tokios Tokeles v Ukraine, above n 102, para 8, referring to Aegean Sea, above n 56, 15, 15
+(Sep Op Jiménez de Aréchaga); see also Victor Pey Casado and Fondation Président Allende v Chile,
+above n 134, 592; Holiday Inns v Morocco, above n 27, 656.
+
+163 Iran v US, Cases Nos A-4 and A—15, 5 1r-USCTR 112, 113 (1984), referring to Aegean Sea,
+ibid, 15, 16 (Sep Op Jiménez de Aréchaga); see also United Technologies International, Inc v Iran, 13
+Ir-USCTR 254, 257-8 (1986); and Brower and Bruschke, above n 27, 226-229.
+
+164 EnCana Corporation v Ecuador (Request for Interim Measures of Protection of 31 January
+2004), para 13, available at <http://ita.law.uvic.ca> (last visited 25 November 2006). But see
+142 A Common Law of International Adjudication
+
+As for the practice of the IACHR, article 63(2) of the American Convention
+expressly provides that the ACHR has the power to grant provisional measures
+‘when necessary to avoid irreparable damage to persons’.!®> Provisional measures
+orders typically include statements by the IACHR to the effect that ‘the purpose
+of provisional measures... is to effectively protect fundamental rights, inasmuch
+as they seek to avoid irreparable damage to persons’.1°° As regards the ECHR,
+Rule 39 does not specifically mention the criterion of ‘irreparable damage’. But in
+Mamatkulov, the ECHR stated that ‘any State Party to the Convention to which
+interim measures have been indicated in order to avoid irreparable harm being
+caused to the victim of an alleged violation must comply with those measures’.!97
+From this statement it is not clear whether ‘irreparable harm’ is a precondition for
+the granting of provisional measures, or a condition that determines whether
+certain provisional measures granted by the ECHR are binding.!® In light of the
+methodology employed by the ECHR of referring to the practice and case law of
+other international courts to determine whether it had the power to order binding
+provisional measures,!© it is suggested that the ECHR intended to follow the prac-
+tice of other international courts, and that the probability of irreparable harm
+should be considered a criterion for the granting of provisional measures. Irreparable
+damage is also a prerequisite for the granting of interim relief by the UN Human
+Rights Committee,!7° and the UN Committee against Torture.!7!
+
+2. Urgency
+
+The second substantive condition necessary for international courts to grant pro-
+visional measures is that the requesting state must show that they are required as a
+matter of urgency. ‘Urgency’ is not a requirement expressed in article 41 of the ICJ
+Statute, but the ICJ Rules stipulate that a request for provisional measures ‘shall have
+priority over all other cases’,!7* and that the ICJ ‘shall be convened forthwith for
+the purpose of proceeding to a decision on the request as a matter of urgency’.!73
+
+David Caron, Lee Caplan and Matti Pellonpaa, 74e UNCITRAL Arbitration Rules: A Commentary
+(2006) 537, where the authors argue that the standard of ‘irreparable harm should not be applied
+under the UNCITRAL Rules, and suggest that ‘the terms “grave” or “substantive” might be more
+appropriate’. See also Oellers-Frahm, above n 149, 921, 939-40.
+
+165 American Convention, above n 1, art 63(2).
+
+166 Por example, Mayagna (Sumo) Awas Tingni Community (Nicaragua) (IACHR Order
+of 6 September 2002), 5; Peace Community of San José De Apartadé (Colombia) (IACHR Order of
+18 June 2002), 9; Veldsquez Rodriguez (Honduras) (IACHR Order of 19 January 1988), 2, all
+available at <http://www.corteidh.or.cr> (last visited 30 November 2006).
+
+167 Mamatkulov and Abdurasulovic v Turkey, above n 66, para 110.
+
+168 See also Tams, above n 141, 688.
+
+169 Mamatkulov and Abdurasulovic v Turkey, above n 66, paras 39-51, 92-111; Tams, ibid,
+685-6; Brown, ‘Strasbourg Follows Suit’, above n 141, 533.
+
+170 United Nations Human Rights Committee Rules, above n 49, Rule 86.
+
+171 UN Committee Against Torture Rules of Procedure, CAT/C/3/Rev.4 (9 August 2002), Rule
+108(9). 172 IC] Rules, above n 1, art 74(1).
+
+173 Tbid, art 74(2).
+Power to Grant Provisional Measures 143
+
+The criterion of urgency is an implicit requirement in any request for provisional
+measures, and is closely connected with the requirement of irreparable damage; if
+the request for the preservation of rights were not urgent, in the sense that the
+probable damage were not irreparable, then it would be acceptable to wait until
+such time as the court or tribunal is able to hear the dispute in full.!74 Parties
+requesting provisional measures have consistently sought to persuade the ICJ that
+the provisional measures they requested were urgently required,!7> and the ICJ
+has regularly recognized ‘urgency’ as a substantive requirement of any request for
+provisional measures, as expressed in its Order in Passage through the Great Belt:
+
+[P]rovisional measures under Article 41 of the Statute are indicated ‘pending the final deci-
+sion’ of the Court on the merits of the case, and are therefore only justified if there is
+urgency in the sense that action prejudicial to the rights of either party is likely to be taken
+before such final decision is given.17°
+
+The temporal element of urgency is important; as the ICJ stated, provisional meas-
+ures must be necessary as a matter of urgency pending the ‘final decision’.1”7 This
+factor is significant before all international courts, although it differs in requests
+for provisional measures under UNCLOS. Urgency is not an express criterion for
+requests under article 290(1) of UNCLOS, which deals with requests made to the
+same body that will have jurisdiction over the merits. In the case of requests made
+under article 290(5) of UNCLOS, however, the tribunal seised of the provisional
+measures request will have jurisdiction to grant such measures ‘[p]ending the con-
+stitution of [the] arbitral tribunal to which the dispute is being submitted . .. if it
+considers that prima facie the tribunal which is to be constituted would have juris-
+diction and that the urgency of the situation so requires’.178
+
+174 Rosenne, Provisional Measures, above n 11, 135; Shabtai Rosenne, The Law and Practice of
+the International Court, 1920-2005 (2006) vol IH, 1395-7; Merrills, ‘Interim Measures/Recent
+Jurisprudence’, above n 11, 110; Sztucki, above n 26, 113; /nterhandel, above n 27, 117, 118 (Sep Op
+Lauterpacht).
+
+175 Sztucki, above n 26, 113, fn 256; see also Avena, CR 2003/1, para 52 (Sandra Babcock), paras
+112-14 (Donald Donovan); LaGrand, Request for the Indication of Provisional Measures of
+Protection (2 March 1999), paras 7-9; Consular Relations, CR 1998/7 (Donald Donovan), all
+available at <http://www.icj-cij.org> (last visited 25 November 2006).
+
+176 Above n 130, 17; see also Pulp Mills on the River Uruguay, above n 130, para 62, available at
+<www.icj-cij.org> (last visited 25 November 2006).
+
+177 See Certain Criminal Proceedings in France, para 35 (ICJ, 2003), where the ICJ held that ‘there
+is at the present time no risk of irreparable prejudice, so as to justify the indication of provisional meas-
+ures as a matter of urgency’. This suggests that the temporal element relevant in provisional measures
+applications is not necessarily ‘pending the final decision’, but ‘at the present time’, which recognizes
+that parties can make subsequent applications for provisional measures. This has indeed occurred in
+Application of the Genocide Convention, where Bosnia and Herzegovina made two requests for provi-
+sional measures: [1993] ICJ Rep 3 and [1993] IC] Rep 325; and also in Pulp Mills on the River
+Uruguay, where the CJ issued an order on provisional measures on 13 July 2006 in response to
+Argentina's request, and a further request for provisional measures was made, albeit by Uruguay, on
+29 November 2006, in response to which the IC] issued an Order on 23 January 2007: available at
+<http://www.icj-cij.org> (last visited 31 January 2007).
+
+178 UNCLOS, above n 1, art 290(5).
+144 A Common Law of International Adjudication
+
+Even though article 290(1) does not expressly mention a requirement of
+urgency, individual judges and parties have treated urgency as a requirement for
+the prescription of provisional measures under both articles 290(1) and 290(5). In
+M/V Saiga (No 2), St Vincent and the Grenadines submitted that although there
+were ‘certain differences between these two paragraphs textually’, these differences
+were ‘essentially academic and ‘for all practical purposes that standards and the
+tests they apply are the same’.!79 It was submitted that urgency was a requirement
+of article 290(1),!8° a submission with which counsel for Guinea agreed.181
+
+The ITLOS did not prescribe any provisional measures in that case, and did
+not consider the question of urgency; the three other provisional measures cases to
+come before the ITLOS have been applications under article 290(5), and urgency
+was thus, in these cases, a statutory requirement.!82 But Judge Treves, in his sep-
+arate opinion in Southern Bluefin Tuna, observed that:
+
+The requirement of urgency is part of the very nature of provisional measures, as these
+measures are meant to preserve the rights of the parties pending the final decision (article
+290, paragraph 1 of the Convention) (emphasis in the original).!8
+
+Indeed, the UNCLOS tribunal in WOX Plant explicitly accepted the relevance of
+urgency in applications for provisional measures under UNCLOS.!84 It should be
+noted, however, that there is one significant difference to the way in which urgency
+is relevant in requests for provisional measures under article 290(1) and 290(5).
+Under article 290(1), the provisional measures must be urgent for the preservation
+of the parties’ rights—or the protection of the marine environment from serious
+harm—pending ‘the final decision’. In the case of an application under article
+290(5), however, the provisional measures must be urgent in the sense that they are
+necessary pending the constitution of the tribunal which will decide the merits.
+The term ‘urgency’ is not found in the text of the ICSID Convention; an
+attempt to have a reference to urgency and imminent danger included in it was
+defeated.18> However, as Professor Schreuer has argued, ‘provisional measures will
+only be appropriate where a question cannot await the outcome of the award
+on the merits’,!86 and ICSID tribunals have referred to the need for ‘urgency’ to
+justify the recommendation of provisional measures.!87 Likewise, urgency is also a
+
+179 M/V Saiga’ (No 2), YTLOS/PV.98/1, 52 (Philippe Sands); see also ibid, 48-9.
+
+180 Tbid, ITLOS/PV.98/3, 12 (Philippe Sands).
+
+181 Tbhid, ITLOS/PV.98/2, 10 (Hartmut von Brevern).
+
+182 Land Reclamation by Singapore, above n 23, para 72; MOX Plant, above n 23, 415; Southern
+Bluefin Tuna, above n 28, 1634.
+
+183 Southern Bluefin Tuna, ibid, 1644, 1644 (Sep Op Treves).
+
+184 MOX Plant, above n 159, 1197; see also Rosenne, Provisional Measures, above n 11, 148.
+
+185 Schreuer, above n 35, 751. 186 Tbid.
+
+187 Por example, Plama Consortium Ltd v Bulgaria, above n 151, para 38; Tokios Tokeles, above
+n 102, para 8; Victor Pey Casado, above n 134, 573; Tanzania Electric Supply Co Ltd (ICSID Case
+No ARB/98/8, Decision on Provisional Measures of 20 November 1999), para 18, available at
+<http://www.worldbank.org/icsid> (last visited 25 November 2006).
+Power to Grant Provisional Measures 145
+
+criterion for the granting of provisional measures before the Iran—US Claims
+
+Tribunal,!88 the IACHR,!82 and the [ACommHR.!2°
+3. Other Factors
+
+In considering whether ‘circumstances’ require the granting of provisional meas-
+ures, other factors may be relevant.!9! One factor which has been suggested is the
+likelihood of the international court having jurisdiction over the merits of the
+case,!9? but in light of the widely accepted test of prima facie jurisdiction, this is
+no longer seriously considered. !93 A second factor suggested by some writers is the
+prospect of the applicant’s success on the merits.!94 This issue was considered by
+Judge Shahabuddeen in his separate opinion in Passage through the Great Belt,
+where he concluded that ‘a State requesting interim measures... is required to
+establish the possible existence of the rights sought to be protected’,!9> and
+Professor Thirlway has also argued that the applicant must show a prima facie case
+for the existence of the rights in dispute.19° This was certainly a consideration of
+the ICJ in Passage through the Great Belt,19’ but while it may be accepted that the
+applicant must be able to demonstrate the existence of the rights in question, the
+suggestion that it must also establish that it would succeed on the merits is yet to
+receive clear endorsement as a necessary criterion by the ICJ, or any other inter-
+national court.!°8 A third relevant factor is the presence of activity on the inter-
+national plane pertaining to the dispute.199 In two recent cases, action by the UN
+Security Council arguably had an effect on the outcome of a request for provi-
+sional measures. In Lockerbie, SC Resolution 748 played a significant role in the
+ICJ’s holding that the rights of Libya could not ‘now be regarded as appropriate
+for protection by the indication of provisional measures’,2°° and in DRC v
+Uganda, the ICJ referred in some detail to SC Resolution 1304 (2000), indicating
+that it had played some part in the ICJ’s decision to indicate provisional measures.?°!
+
+188 Brower and Brueschke, above n 27, 218, 222-6; e.g., Aeronutronic Overseas Services Inc v Iran,
+7 Ir-USCTR 217, 219 (1984); Ford Aerospace and Communications Corporation v Iran, 2 r-USCTR
+281, 282 (1983). 189 American Convention, above n 1, art 63(2).
+
+1909 TACommHR Rules, above n 4, art 25(1).
+
+191 Merrills, “Interim Measures/Recent Jurisprudence’, above n 11, 114-25; Sztucki, above n 26,
+103-4; Elkind, above n 15, 209-33. 192 See, e.g., Mendelson, above n 14.
+
+193 Merrills, ‘Interim Measures/Recent Jurisprudence’, above n 11, 114; ¢.g., Victor Pey Casado,
+above n 134, 573-4.
+
+194 Mani, above n 57, 293; Mendelson, above n 14, 315-8; Dumbauld, above n 16, 160-1; but
+see Sztucki, above n 26, 97, 123, 259-60; Jerome Elkind, “The Aegean Sea Case and Article 41 of the
+Statute of the International Court of Justice’ (1979) 32 Revue hellénique du droit international 285,
+332-3; Merrills, ‘Substantive Jurisdiction’, above n 121, 100-2.
+
+195 Above n 130, 28, 36 (Sep Op Shahabuddeen).
+
+196 "Thirlway, ‘Part Twelve’, above n 59, 88-9. 197 Above n 130, 18-19.
+
+198 See discussion in MOX Plant, ITLOS/PV.01/08, 11-15 (Daniel Bethlehem).
+
+199 See, e.g., Rosenne, Provisional Measures, above n 11, 196-201; 218-22.
+
+200 Lockerbie, above n 100, 11-15; see also Arrest Warrant of 11 April 2000, CR 2000/33, para 70
+(Daniel Bethlehem).
+
+201 Armed Activities on the Territory of the Congo (2000) 39 ILM 1100; see also Arrest Warrant, CR
+2003/33, para 69 (Daniel Bethlehem).
+
+\o
+146 A Common Law of International Adjudication
+
+Other relevant activity might include the existence of a regional peace process,?°?
+or the negotiation of a ceasefire.2°3 Fourth, an order for provisional measures
+should not prejudge any of the issues to be determined on the merits; in this sense,
+it cannot represent an interim judgment.?°4 Fifth, international courts will often
+be careful to take account of the equal distribution of burdens in an order for pro-
+visional measures.” Finally, in accordance with their function in managing the
+dispute, international tribunals might also take into account the need to prevent
+the aggravation or extension of the dispute.?°°
+
+C. Binding Quality of Provisional Measures
+
+The constitutive instruments of international courts which expressly confer the
+power to grant provisional measures do not always provide that such measures have
+mandatory force. One constitutive instrument which does clarify the legal effect of
+provisional measures granted under it is UNCLOS. Under article 290(1) and
+290(5) of UNCLOS, the ITLOS and arbitral tribunals constituted under UNC-
+LOS have the power to ‘prescribe’ provisional measures, and article 290(6) makes it
+clear that states must ‘comply promptly with any provisional measures prescribed
+under this article’.2°7 But the statutes of many other international courts do not
+make similar provision. The question of whether provisional measures granted by
+the ICJ were legally binding was for many years one of the more controversial ques-
+tions in public international law, and the issue engendered an extensive litera-
+ture.2°8 The uncertainty arose chiefly from the ambiguity of article 41 of the ICJ
+Statute, which provides that the ICJ has the power to ‘indicate’ provisional measures
+
+202 Merrills, “Interim Measures/Recent Jurisprudence’, above n 11, 125-30; Military and Para-
+military Activities in and against Nicaragua (Provisional Measures) [1984] IC] Rep 169, 183-6.
+
+203 Merrills, ibid, 125-7; Frontier Dispute, above n 24, 10-11.
+
+204 Sztucki, above n 26, 93-102.
+
+205 bid, 124—6; Merrills, ‘Interim Measures/Recent Jurisprudence’, above n 11, 116-17.
+
+206 Merrills, ibid, 122-5; Thirlway, “The Indication of Provisional Measures’, above n 3, 12-16;
+Sztucki, above n 26, 127-9. 207 UNCLOS, above n 1, art 290(6).
+
+208 See, e.g., Rosenne, Law and Practice, above n 174, 1377-8; Martin Mennecke and Christian
+Tams, “The Right to Consular Assistance under International Law (1999) 42 German Yearbook of
+International Law 192, 203-9; Eelko Szabé, ‘Provisional Measures in the World Court: Binding or
+Bound to be Ineffective?’ (1997) 10 Leiden Journal of International Law 475; Oda, above n 32,
+554-6; Thirlway, “The Indication of Provisional Measures’, above n 3, 28-33; Fitzmaurice, Law and
+Procedure, above n 32, 548—50; Sztucki, above n 26, 260-302; Elkind, /vterim Protection, above n 15,
+153-66; Karin Oellers-Frahm, ‘Interim Measures of Protection’ in Rudolf Bernhardt (ed),
+Encyclopedia of Public International Law (1980) vol 1, 69; Karin Oellers-Frahm, Die einstweilige
+Anordnung in der internationalen Gerichtsbarkeit (1975) 107-15; V S Mani, ‘Interim Measures of
+Protection: Article 94 of the UN Charter’ (1970) 10 Indian Journal of International Law 359, 360-7;
+Lauterpacht, Development, above n 71, 254; Hambro, above n 31; Hudson, above n 31, 425-6; Ake
+Hammerskjéld, ‘Quelques aspects de la question des mesures conservatoires en droit international
+positif?” (1935) 5 ZadéRV 5, 26-7; Manley Hudson, The Permanent Court of International Justice: A
+Treatise (1934) 415; Sir Hersch Lauterpacht, The Function of Law in the International Community
+(1933) 208, fn 1; Dumbauld, above n 16, 168-9; Guggenheim, above n 16, 678-80; Niemeyer,
+above n 123, 38-44.
+Power to Grant Provisional Measures 147
+
+which ‘ought’ to be taken,?°? and that the parties and Security Council are to be
+notified of the provisional measures which have been ‘suggested’.?1°
+
+This uncertainty was finally resolved in LaGrand in 2001, where the ICJ held that
+its provisional measures were binding.?!! In LaGrand, the ICJ construed article 41
+in accordance with the principle of effectiveness in treaty interpretation, holding
+that the purpose of provisional measures was ‘to prevent the Court from being ham-
+pered in the exercise of its functions because the respective rights of the parties to a
+dispute before the Court are not preserved’.?!? Accordingly, it followed that:
+
+the power to indicate provisional measures entails that such measures should be binding,
+inasmuch as the power in question is based on the necessity, when the circumstances call
+for it, to safeguard, and to avoid prejudice to, the rights of the parties as determined by the
+final judgment of the Court.?!3
+
+While it is likely that the decision in LaGrand is simply an example of the ICJ
+exercising its judicial functions in interpreting article 41 of the ICJ Statute, it
+might be suggested that another force may also have been at play. This is the intro-
+duction of inter-institutional competition into international adjudication. It
+might be speculated, for instance, that the decision was motivated in part by a
+desire for the ICJ to remain an attractive forum for cases involving requests for
+provisional measures, especially in light of the recent creation of the ITLOS, and
+the clear stipulations under UNCLOS that provisional measures granted by
+the ITLOS and other UNCLOS tribunals would be binding.?!4 Indeed, when
+Australia and New Zealand commenced the Southern Bluefin Tuna cases against
+Japan in 1999, in which they requested provisional measures,?!> the IC] was one
+of three possible fora for the dispute; the applicant states eventually chose to use
+the UNCLOS dispute settlement mechanisms.?!¢ This choice might have been
+partially motivated by the knowledge that if their request for provisional measures
+were successful, any provisional measures prescribed under UNCLOS would have
+binding effect; if the applicants chose to litigate before the ICJ, some uncertainty
+would attend this question. In reaching its decision in LaGrand, the ICJ was cer-
+tainly not unaware of this issue; in its Counter-Memorial, the United States had
+argued that the ICJ’s provisional measures were not binding, and compared the
+fact that provisional measures were ‘prescribed’ under UNCLOS, whereas they
+
+209 JC] Statute, above n 1, art 41(1). 210 Thid, art 41(2).
+
+211 Above n 56; see Jorg Kammerhofer, “The Binding Nature of Provisional Measures of the
+International Court of Justice: The “Settlement” of the Issue in the LaGrand Case’ (2003) 16 Leiden
+Journal of International Law 67; Martin Mennecke and Christian Tams, ‘LaGrand Case (Germany v
+United States of America)’ (2002) 51 ICLQ 449; Xiodang Yang, “Thou Shalt Not Violate Provisional
+
+Measures’ (2001) 60 CL/ 441. 212 Above n 56, 1093.
+213 Tbid; see also Rosenne, Provisional Measures, above n 11, 34—40.
+214 UNCLOS, above n 1, art 290. 215 Above n 28.
+
+216 See especially Cesare Romano, “The Southern Bluefin Tuna Dispute: Hints of a World to
+Come... Like It or Not’ (2001) Ocean Development & International Law 313.
+148 A Common Law of International Adjudication
+
+were merely ‘indicated’ under the ICJ Statute.2!7 Accordingly, the possibility can-
+not be dismissed that the ICJ’s holding in LaGrand was encouraged by the fear
+that its case load might be lessened where cases might otherwise be referred to the
+ITLOS owing to the persistent uncertainty over the binding nature of its provi-
+sional measures.
+
+There are, however, limitations to the impact of inter-institutional competition
+on the emergence of the common law of international adjudication. There is no
+objective or empirical evidence to substantiate the suggestion that it has had any
+influence on the decisions of international courts. Further, even if this consideration
+does play a role, the scope of its operation is limited to situations where international
+courts have overlapping jurisdictions, such as, primarily, the ICJ, the I[TLOS, and
+other UNCLOS tribunals. This consideration arguably does not play a part as
+between many other international courts, due to their different jurisdictions.
+
+The emergence of a common approach to the binding nature of provisional
+measures can also be found in the jurisprudence of other international courts. In
+Mamatkulov and Abdurasulovic v Turkey, for instance, a Chamber of the ECHR
+overturned previous authority and held that interim measures indicated by it had
+legal effect.218 In its judgment, the Chamber referred to the principle of effective-
+ness in treaty interpretation, the evolutive approach, and also article 31(3)(c) of
+the VCLT\2!9 In particular, with respect to article 31(3)(c) of the VCLT, the
+ECHR held that the European HR Convention was to be interpreted ‘so far as
+possible consistently with the other principles of international law’.2?° It noted
+that other international courts had recently ‘stressed the importance and purpose of
+interim measures and pointed out that compliance with such measures was neces-
+sary to ensure the effectiveness of decisions on the merits’,22! and made consider-
+able reference to the practice of the ICJ, the IACHR, and other international
+human rights bodies.22 The ECHR concluded that states parties to which
+interim measures had been indicated had to ‘comply with those measures and
+refrain from any act or omission that will undermine the authority and effective-
+ness of the final judgment’.2?3 In 2005, this decision was upheld by the ECHR’s
+Grand Chamber, which likewise, by reference to the principle of effectiveness in
+treaty interpretation, an evolutive approach, and article 31(3)(c) of the VCLT,2?4
+
+217 LaGrand, Counter-Memorial of the United States, para 144 (27 March 2000), available at
+<http://www.icj-cij.org> (last visited 25 November 2006).
+
+218 Mamatkulov and Abdurasulovic v Turkey, above n 66; compare Cruz Varas v Sweden, above
+n 141; Conka v Belgium, above n 141; Bernhardt, above n 48, 100-3.
+
+219 Mamatkulov, ibid, paras 92—3 (referring to the principle of effectiveness), para 94 (applying an
+evolutive approach to treaty interpretation), paras 98—103 (referring to general principles of inter-
+national law and article 31(3)(c) of the VCLT), and para 105 (referring to all three).
+
+220 Tbid, para 99. 221 Ibid, para 101. 222 Tbid, paras 39-51, 92-111.
+
+223 Ibid, para 110.
+
+224 Mamatkulov and Askarov v Turkey (ECHR, Judgment of 4 February 2005), paras 100-2, 121,
+123 (principle of effectiveness), para 121 (evolutive approach), paras 110-11, 123-4 (general prin-
+ciples of international law, and article 31(3)(c) of the VCLT), available at <http://www.echr.coe.int>
+(last visited 30 November 2006).
+Power to Grant Provisional Measures 149
+
+made extensive reference to the practice of other international courts on the
+granting of provisional measures.??>
+
+The IACHR has also observed that compliance with provisional measures
+is mandatory, and necessary to ensure the effectiveness of its decisions on the
+merits.?26 In two orders granting provisional measures, it has also noted that states
+parties to the American Convention were required to ‘comply in good faith (pacta
+sunt servanda) with all of the provisions of the Convention, including those
+relative to the operation of the two supervisory organs of the Inter-American
+system .227 Other international human rights bodies have also ruled that their pro-
+visional measures are binding, even those whose final reports are not binding, but
+merely recommendatory. These include the UN Human Rights Committee?28 and
+the Committee Against Torture.?29
+
+It should be remembered, however, that the general rule that international
+courts have the power to grant binding provisional measures does not apply if it is
+inconsistent with a particular court’s constitutive instrument. This is arguably the
+case, for instance, with regard to the ICSID Convention, which provides in article
+47 that ICSID tribunals merely have the power to ‘recommend’ provisional meas-
+ures.?30 Yet ICSID tribunals have still treated provisional measures as having some
+legal relevance. First, tribunals have taken non-compliance with recommended
+provisional measures into account in awards on the merits;?3! and, second, the
+ICSID tribunal in Maffezini dramatically held that provisional measures granted
+under the ICSID Convention did, in fact, have binding effect:
+
+While there is a semantic difference between the word ‘recommend’ as used in Rule 39 and
+the word ‘order’ as used elsewhere in the rules to describe the Tribunal’s ability to require a
+party to take a certain action, the difference is more apparent than real.... The Tribunal
+does not believe that the parties to the Convention meant to create a substantial difference
+in the effect of these two words. The Tribunal’s authority to rule on provisional measures is
+no less binding than that of a final award.?3?
+
+225 Ibid, paras 40-53, 99-129.
+
+226 For example, Constitutional Court (Peru), above n 140, 5—6; Hilaire, Constantine, Benjamin v
+Trinidad and Tobago (IACHR, Judgment of 21 June 2002), Ser C (No 94), paras 196-200; Chunimd
+(Guatemala) (IACHR Order of 15 July 1991), 6; see also Buergenthal, ‘Interim Measures’, above
+n 36, 84-8; Pasqualucci, Practice and Procedure, above n 61, 316-18.
+
+227 James etal v Trinidad and Tobago, above n 138, 5.
+
+228 Piandiong v The Philippines, Communication No 869/1999 (15 June 1999), UN Doc
+CCPR/C/70/D/869/1999 paras 5.1-5.4 (UN Human Rights Committee, 2000).
+
+229 TPS v Canada, Communication No 99/1997 (19 September 1997), UN Doc
+CAT/C/24/D/99/1997 para 15.6 (UN Committee against Torture, 2000); Cecilia Rosana Niufiez
+Chipana (Venezuela), Communication No 110/1998, UN Doc CAT/C/21/D/110/1998 para 8 (UN
+Committee against Torture, 1998).
+
+230 [CSID Convention, above n 1, art 47; Schreuer, above n 35, 757-8.
+
+231 Schreuer, ibid, 761-2; Friedland, above n 23, 337; Lalive, above n 133, 137; ICSID
+Arbitration Rules, above n 35, Rule 39, Note B; AG/P v Congo, above n 24, 317-18 (1979); MINE v
+Guinea, 4 1CSID Rep 61, 77 (1988).
+
+232 Maffezini v Spain (Provisional Measures), 5 ICSID Rep 393, 394 (1999).
+150 A Common Law of International Adjudication
+
+It is suggested that this decision is incorrect. Regardless of the application of the
+principle of effectiveness or the adoption of an evolutive approach to treaty inter-
+pretation, the term ‘recommend’ should be properly understood as denoting a
+decision which is exhortatory rather than mandatory. Nevertheless, this decision
+has since been approved by two ICSID tribunals: first, the tribunal in Victor Pey
+Casado, which made extensive reference to the reasoning of the IC] in LaGrand on
+this issue,233 and second, the ICSID tribunal in Tokios Tokeles; this tribunal con-
+firmed, as a ‘well-established principle laid down by the jurisprudence of ICSID tri-
+bunals’, that provisional measures ‘recommended’ under the ICSID Convention
+are binding.?34 These decisions thus represent a dramatic example of how com-
+mon features in the practice of international courts with respect to a procedural
+issue can do more than merely fill a gap or influence the interpretation of an
+ambiguous provision. Rather, a common practice with respect to a question of
+procedure can even prevail over a clearly expressed provision in a constitutive
+instrument, such as that in article 47 of the [CSID Convention.
+
+D. Power to Grant Provisional Measures
+Ultra Petita or Proprio Motu
+
+The scope of the power to grant provisional measures is another aspect of the exam-
+ination of common features in the exercise of the power. International courts gen-
+erally consider themselves empowered to grant provisional measures ultra petita, or
+measures other than those which are requested, and have included such provisions
+in their rules of procedure.23> Even if an international court does not have such a
+provision in its rules of procedure, it is suggested that all international courts have
+an inherent power to grant provisional measures u/tra petita.?3° There are two justi-
+fications for this. Firstly, while the xe ultra petita rule restricts international courts
+to considering issues put forward by the parties in dispute, it does not restrict the
+manner in which international courts resolve those issues in dispute. An inter-
+national court has ‘the freedom to select the ground upon which it will base its
+judgment’.?37 Secondly, international courts are deemed to know the law (jura
+novit curia) and are not limited to the arguments put forward by the parties.?38
+
+233 Victor Pey Casado, above n 134, 578.
+
+234 Tokios Tokeles v Ukraine, above n 102, (Procedural Order No 1 of 1 July 2003), para 4;
+(Procedural Order No 3 of 18 January 2005), paras 6-7, fn 12. See, however, Biwater Gauff, above
+n 24, where the ICSID Tribunal did not discuss the binding nature of its provisional measures, but
+expressed them as being ‘recommended’: (Procedural Order No 1 of 31 March 2006), paras 88, 98,
+and (Procedural Order No 3 of 29 September 2006), para 163, all available at <http://ita.law.
+uvic.ca> (last visited 25 November 2006).
+
+235 IC] Rules, above n 1, art 75(2); ITLOS Rules, art 89(5); ECHR Rules, above n 2, Rule 39(1);
+IACHR Rules, above n 1, art 25(1); see also ICSID Arbitration Rules, above n 35, Rule 39(3).
+
+236 Victor Pey Casado, above n 134, 576.
+
+237 Convention Governing the Guardianship of Infants [1958] IC] Rep 55, 62.
+
+238 Cheng, above n 46, 299-301.
+Power to Grant Provisional Measures 151
+
+Finally, there is substantial practice of international courts granting provisional
+measures other than those requested. Parties often present their requests in very
+detailed terms, and international courts often only grant interim relief in part.?5°
+A separate question is whether international courts can grant provisional meas-
+ures of their own motion, without there being any request at all (proprio motu). As
+with the power to grant provisional measures ultra petita, the rules of procedure of
+many international courts expressly confer this power.24° As the exercise of this
+power is connected with the function of the international court in safeguarding its
+jurisdiction or ensuring that any judgment which it gives on the merits would be
+effective, it is suggested that all international courts can exercise this power proprio
+motu, unless to do so would be inconsistent with their constitutive instruments.
+
+Conclusion
+
+This chapter has reviewed the practice of international courts concerning the
+granting of provisional measures. It has suggested that international courts possess
+this power as an express power or one which can be implied from the text of the
+constitutive instrument, or as an inherent power, in the absence of agreement to
+the contrary. Importantly, international courts have made extensive reference to
+the jurisprudence of other international tribunals in exercising their powers over
+provisional measures. This has led to substantial common features in the granting
+of such measures; this even relates to issues which appear to be regulated by the
+express terms of constitutive instruments, such as the question concerning the
+binding nature of provisional measures under the ICSID Convention. The next
+chapter turns to a consideration of the level of commonality in the exercise by
+international courts of two post-adjudicatory powers; the power to interpret and
+the power to revise judgments.
+
+239 Rosenne, Provisional Measures, above n 11, 175-7; Sztucki, above n 26, 158-60; see, e.g.,
+MOX Plant (Procedural Order No 3), above n 159, 1195.
+
+240 TC] Rules, above n 1, art 75(1); ECHR Rules, above n 2, Rule 39(1); IACHR Rules, above n 1,
+art 25(1); IACommHR Rules, above n 4, art 25(1); see also ICSID Arbitration Rules, above n 35,
+Rule 39(3).
